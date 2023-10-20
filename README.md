@@ -1,6 +1,6 @@
-# flush_finder
+# find_flush
 
-a uc software tool to find the best toilet near you
+A new Flutter project.
 
 ## Getting Started
 

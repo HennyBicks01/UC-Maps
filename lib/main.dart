@@ -1,7 +1,12 @@
 import 'package:flutter/material.dart';
-import 'package:google_maps_flutter/google_maps_flutter.dart';
-import 'package:location/location.dart';
-import 'dart:async';
+import 'package:flutter_map/flutter_map.dart';
+import 'package:latlong2/latlong.dart';
+import 'package:url_launcher/url_launcher.dart';
+import 'package:geolocator/geolocator.dart';
+import 'dart:typed_data';
+import 'dart:convert';
+import 'dart:html' as html;
+
 
 
 void main() {
@@ -14,226 +19,312 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Location Map',
+      title: 'Flutter Demo',
       theme: ThemeData(
-        primarySwatch: Colors.blue,
+        colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
+        useMaterial3: true,
       ),
-      home: const MyHomePage(title: 'Google Maps Integration'),
+      home: const MyHomePage(title: 'Flutter Demo Home Page'),
     );
   }
 }
 
 class MyHomePage extends StatefulWidget {
-  const MyHomePage({Key? key, required this.title}) : super(key: key);
+  const MyHomePage({super.key, required this.title});
   final String title;
-
   @override
   State<MyHomePage> createState() => _MyHomePageState();
 }
 
 class _MyHomePageState extends State<MyHomePage> {
-  LatLng? _currentPosition;
-  final Location location = Location();
-  StreamSubscription<LocationData>? locationSubscription;
+  String? closestBuilding;
+  LatLng? closestBuildingLatLng;
+  LatLng? closestLatLng;
+  final MapController mapController = MapController();
+  bool isLogging = false;
+  List<LatLng> loggingPoints = [];
+  String? buildingName;
+
+  void launchUrl(Uri url) async {
+    final String urlString = url.toString();
+    if (await canLaunch(urlString)) {
+      await launch(urlString);
+    } else {
+      throw 'Could not launch $urlString';
+    }
+  }
 
   @override
   void initState() {
     super.initState();
-    _getCurrentLocation();
-    _startLocationListener();
+    _requestLocationPermission();
   }
 
-  _getCurrentLocation() async {
-    bool serviceEnabled;
-    PermissionStatus permissionGranted;
-
-    serviceEnabled = await location.serviceEnabled();
-    if (!serviceEnabled) {
-      serviceEnabled = await location.requestService();
-      if (!serviceEnabled) {
-        return;
+  Future<bool> _requestLocationPermission() async {
+    LocationPermission permission = await Geolocator.checkPermission();
+    if (permission == LocationPermission.denied) {
+      permission = await Geolocator.requestPermission();
+      if (permission == LocationPermission.denied) {
+        return false;
       }
     }
-
-    permissionGranted = await location.hasPermission();
-    if (permissionGranted == PermissionStatus.denied) {
-      permissionGranted = await location.requestPermission();
-      if (permissionGranted != PermissionStatus.granted) {
-        return;
-      }
+    if (permission == LocationPermission.deniedForever) {
+      return false;
     }
+    return true;
+  }
 
-    final locData = await location.getLocation();
+  Future<void> startLogging() async {
+    String? name = await showDialog<String>(
+      context: context,
+      builder: (BuildContext context) {
+        TextEditingController controller = TextEditingController();
+        return AlertDialog(
+          title: const Text("Enter Building Name"),
+          content: TextField(
+            controller: controller,
+            decoration: const InputDecoration(hintText: "Building Name"),
+          ),
+          actions: <Widget>[
+            TextButton(
+              child: const Text("OK"),
+              onPressed: () {
+                Navigator.of(context).pop(controller.text);
+              },
+            ),
+          ],
+        );
+      },
+    );
     setState(() {
-      _currentPosition = LatLng(locData.latitude!, locData.longitude!);
+      isLogging = true;
+      buildingName = name;
     });
   }
 
-  _startLocationListener() {
-    locationSubscription =
-        location.onLocationChanged.listen((LocationData currentLocation) {
-          setState(() {
-            _currentPosition =
-                LatLng(currentLocation.latitude!, currentLocation.longitude!);
-          });
-        });
+  void showLoggingModal(BuildContext context) {
+    showModalBottomSheet(
+      context: context,
+      builder: (BuildContext context) {
+        return Container(
+          padding: const EdgeInsets.all(16.0),
+          child: Column(
+            children: [
+              Expanded(
+                child: ListView.builder(
+                  itemCount: loggingPoints.length,
+                  itemBuilder: (BuildContext context, int index) {
+                    return ListTile(
+                      title: Text(
+                          "Point ${index + 1}: (${loggingPoints[index].latitude}, ${loggingPoints[index].longitude})"),
+                    );
+                  },
+                ),
+              ),
+            ],
+          ),
+        );
+      },
+    );
   }
 
-  @override
-  void dispose() {
-    if (locationSubscription != null) {
-      locationSubscription!.cancel();
+  void stopLogging() async {
+    if (buildingName != null) {
+      String data = "Building: $buildingName\n";
+      for (LatLng point in loggingPoints) {
+        data += "${point.latitude},${point.longitude}\n";
+      }
+
+      // Convert the data string to Uint8List
+      final bytes = Uint8List.fromList(utf8.encode(data));
+
+      // Create a blob from the Uint8List
+      final blob = html.Blob([bytes]);
+
+      // Generate a URL for the blob
+      final url = html.Url.createObjectUrlFromBlob(blob);
+
+      // Create a link (a) element, and set its href to the blob URL
+      final anchor = html.AnchorElement(href: url)
+        ..target = '_blank'
+        ..download = '$buildingName.txt';
+
+      // Add the anchor to the DOM
+      html.document.body!.append(anchor);
+
+      // Simulate a click on the link to initiate the download
+      anchor.click();
+
+      // Remove the anchor from the DOM
+      anchor.remove();
+
+      // Clean up: revoke the object URL after use to free resources
+      html.Url.revokeObjectUrl(url);
+
+      setState(() {
+        isLogging = false;
+        loggingPoints.clear();
+      });
     }
-    super.dispose();
+  }
+
+  double zoom = 17.0;  // Initial zoom level
+
+  void zoomIn() {
+    setState(() {
+      zoom += 1;
+      mapController.move(mapController.center, zoom);
+    });
+  }
+
+  void zoomOut() {
+    setState(() {
+      zoom -= 1;
+      mapController.move(mapController.center, zoom);
+    });
   }
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: _currentPosition == null
-          ? const Center(child: CircularProgressIndicator())
-          : Stack(
+      body: Stack(
         children: [
-          GoogleMap(
-            initialCameraPosition: CameraPosition(
-              target: _currentPosition!,
-              zoom: 14.0,
+          FlutterMap(
+            mapController: mapController,
+            options: MapOptions(
+              initialCenter: const LatLng(39.1317, -84.5167),
+              initialZoom: zoom,
+                onTap: (tapDetails, LatLng latlng) {
+                  if (isLogging) {
+                    setState(() {
+                      loggingPoints.add(latlng);
+                    });
+                  }
+                  print("const Latlng:(${latlng.latitude}, ${latlng.longitude})");
+                }
+
             ),
-            markers: {
-              Marker(
-                markerId: const MarkerId("current_position"),
-                position: _currentPosition!,
+            children: [
+              TileLayer(
+                urlTemplate: 'https://tile.openstreetmap.org/{z}/{x}/{y}.png',
+                userAgentPackageName: 'com.example.app',
               ),
-            },
+              RichAttributionWidget(
+                attributions: [
+                  TextSourceAttribution(
+                    'OpenStreetMap contributors',
+                    onTap: () => launchUrl(Uri.parse('https://openstreetmap.org/copyright')),
+                  ),
+                ],
+              ),
+              PolygonLayer(
+                polygons: [
+                  Polygon(
+                    points: loggingPoints,
+                    color: Colors.red.withOpacity(0.3),
+                    borderColor: Colors.red,
+                    isFilled: true,
+                    borderStrokeWidth: 2.0,
+                  ),
+                ],
+              ),
+            ],
           ),
-          Container(
-            color: Colors.red.withOpacity(0.7), // More opaque
-          ),
-          Center(
+          Positioned(
+            bottom: 10,
+            left: 10,
             child: Column(
-              mainAxisAlignment: MainAxisAlignment.center,
               children: [
-                Container(
-                  width: MediaQuery
-                      .of(context)
-                      .size
-                      .width * 0.7,
-                  child: ElevatedButton(
-                    onPressed: () {},
-                    child: Text(
-                        'Button 1', style: TextStyle(color: Colors.black)),
+                ElevatedButton(
+                  onPressed: zoomIn,
+                  style: ElevatedButton.styleFrom(
+                    primary: Colors.red,  // Background color
+                    onPrimary: Colors.white,  // Text color
                   ),
+                  child: const Text("+"),
                 ),
-                SizedBox(height: 10),
-                Container(
-                  width: MediaQuery
-                      .of(context)
-                      .size
-                      .width * 0.7,
-                  child: ElevatedButton(
-                    onPressed: () {},
-                    child: Text(
-                        'Button 2', style: TextStyle(color: Colors.black)),
+                const SizedBox(height: 10),
+                ElevatedButton(
+                  onPressed: zoomOut,
+                  style: ElevatedButton.styleFrom(
+                    primary: Colors.black,  // Background color
+                    onPrimary: Colors.white,  // Text color
                   ),
-                ),
-                SizedBox(height: 10),
-                Container(
-                  width: MediaQuery
-                      .of(context)
-                      .size
-                      .width * 0.7,
-                  child: ElevatedButton(
-                    onPressed: () {},
-                    child: Text(
-                        'Button 3', style: TextStyle(color: Colors.black)),
-                  ),
-                ),
-                SizedBox(height: 10),
-                Container(
-                  width: MediaQuery
-                      .of(context)
-                      .size
-                      .width * 0.7,
-                  child: ElevatedButton(
-                    onPressed: () {},
-                    child: Text(
-                        'Button 4', style: TextStyle(color: Colors.black)),
-                  ),
-                ),
-                SizedBox(height: 10),
-                Container(
-                  width: MediaQuery
-                      .of(context)
-                      .size
-                      .width * 0.7,
-                  child: ElevatedButton(
-                    onPressed: () {},
-                    child: Text(
-                        'Button 5', style: TextStyle(color: Colors.black)),
-                  ),
+                  child: const Text("-"),
                 ),
               ],
             ),
           ),
+
           Positioned(
-            top: MediaQuery.of(context).padding.top + 1,
-            left: 10,
-            child: Builder(
-              builder: (BuildContext context) {
-                return IconButton(
-                  icon: Icon(Icons.menu, color: Colors.black),
-                  onPressed: () {
-                    Scaffold.of(context).openDrawer();
-                  },
-                );
-              },
-            ),
-          ),
-          Positioned(
-            top: MediaQuery.of(context).padding.top,
-            right: 10,
-            child: IconButton(
-              icon: Icon(Icons.settings, color: Colors.black),
-              onPressed: () {
-                // Handle settings button tap here
-              },
+            bottom: 50,  // Adjust as needed
+            right: 30,   // Adjust as needed
+            top: 50,     // Adjust as needed
+            width: MediaQuery.of(context).size.width * 0.25, // 25% of screen width
+            child: Container(
+              padding: const EdgeInsets.all(8.0),
+              decoration: BoxDecoration(
+                color: Colors.white,
+                borderRadius: BorderRadius.circular(15.0),
+                boxShadow: const [
+                  BoxShadow(
+                    color: Colors.black38,
+                    blurRadius: 10.0,
+                    spreadRadius: 1.0,
+                    offset: Offset(0, 2),
+                  ),
+                ],
+              ),
+              child: Column(
+                children: [
+                  if (buildingName != null) Text(
+                    "Building: $buildingName",
+                    style: const TextStyle(fontWeight: FontWeight.bold, fontSize: 18),
+                  ),
+                  const SizedBox(height: 10),
+                  Row(
+                    mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+                    children: [
+                      ElevatedButton(
+                        style: ElevatedButton.styleFrom(
+                          foregroundColor: Colors.black, backgroundColor: Colors.red, // Text color
+                        ),
+                        onPressed: isLogging ? null : startLogging,
+                        child: const Text("Start Logging"),
+                      ),
+                      ElevatedButton(
+                        style: ElevatedButton.styleFrom(
+                          foregroundColor: Colors.black, backgroundColor: Colors.red, // Text color
+                        ),
+                        onPressed: isLogging ? stopLogging : null,
+                        child: const Text("Stop Logging"),
+                      ),
+                    ],
+                  ),
+                  Expanded(
+                    child: ListView.builder(
+                      itemCount: loggingPoints.length,
+                      itemBuilder: (BuildContext context, int index) {
+                        return ListTile(
+                          title: Text(
+                              "Point ${index + 1}: (${loggingPoints[index].latitude}, ${loggingPoints[index].longitude})"),
+                        );
+                      },
+                    ),
+                  ),
+                ],
+              ),
             ),
           ),
         ],
-
-
-
-      ),
-      drawer: Drawer(
-        child: Container(
-          width: MediaQuery.of(context).size.width * 0.6, // Set the drawer to open only 60% of screen width
-          child: ListView(
-            padding: EdgeInsets.zero,
-            children: <Widget>[
-              Container(
-                height: 150.0, // Set a specific height for the header
-                color: Colors.red,
-                alignment: Alignment.center,
-                child: Text('Menu Header', style: TextStyle(color: Colors.white)),
-              ),
-              ListTile(
-                title: Text('Item 1'),
-                onTap: () {
-                  Navigator.pop(context);
-                },
-              ),
-              ListTile(
-                title: Text('Item 2'),
-                onTap: () {
-                  Navigator.pop(context);
-                },
-              ),
-              // ... Add more list items here ...
-            ],
-          ),
-        ),
       ),
     );
   }
 }
+
+
+
+
+
+
 
