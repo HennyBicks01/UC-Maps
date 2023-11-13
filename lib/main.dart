@@ -2,8 +2,9 @@ import 'package:flutter/material.dart';
 import 'package:flutter_map/flutter_map.dart';
 import 'package:latlong2/latlong.dart';
 import 'package:geolocator/geolocator.dart';
-import 'polygon.dart'; // Adjust the path according to your project structure
-
+import 'polygon.dart';
+import 'blueprint.dart';
+import 'package:flutter_pdfview/flutter_pdfview.dart';
 
 void main() {
   runApp(const MyApp());
@@ -69,27 +70,13 @@ class _MyHomePageState extends State<MyHomePage> {
             options: MapOptions(
               center: const LatLng(39.1317, -84.5167), // Example coordinates
               zoom: zoom,
-              onTap: (tapPosition, point) {
-                for (var polyData in getPolygons()) {
-                  if (isPointInPolygon(point, polyData.polygon.points)) {
-                    showDialog(
-                      context: context,
-                      builder: (BuildContext context) {
-                        return AlertDialog(
-                          title: const Text('Building Info'),
-                          content: Text('You tapped on ${polyData.name}'),
-                          actions: <Widget>[
-                            TextButton(
-                              child: const Text('Close'),
-                              onPressed: () {
-                                Navigator.of(context).pop();
-                              },
-                            ),
-                          ],
-                        );
-                      },
-                    );
-                    break; // Break the loop once a matching polygon is found
+                onTap: (tapPosition, point) {
+                  for (var polyData in getPolygons()) {
+                    if (isPointInPolygon(point, polyData.polygon.points)) {
+                      Navigator.of(context).push(MaterialPageRoute(
+                        builder: (context) => Blueprint(buildingName: polyData.name),
+                      ));
+                      break;
                   }
                 }
               },
