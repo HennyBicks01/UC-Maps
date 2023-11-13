@@ -4,7 +4,6 @@ import 'package:latlong2/latlong.dart';
 import 'package:geolocator/geolocator.dart';
 import 'polygon.dart';
 import 'blueprint.dart';
-import 'package:flutter_pdfview/flutter_pdfview.dart';
 
 void main() {
   runApp(const MyApp());
