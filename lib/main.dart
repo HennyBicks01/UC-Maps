@@ -2,6 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter_map/flutter_map.dart';
 import 'package:latlong2/latlong.dart';
 import 'package:geolocator/geolocator.dart';
+import 'polygon.dart'; // Adjust the path according to your project structure
+
 
 void main() {
   runApp(const MyApp());
@@ -45,6 +47,18 @@ class _MyHomePageState extends State<MyHomePage> {
     // ... Geolocation code (same as before)
   }
 
+  bool isPointInPolygon(LatLng point, List<LatLng> polygon) {
+    int i, j = polygon.length - 1; // Initialize j here
+    bool isInside = false;
+    for (i = 0; i < polygon.length; j = i++) {
+      if (((polygon[i].latitude > point.latitude) != (polygon[j].latitude > point.latitude)) &&
+          (point.longitude < (polygon[j].longitude - polygon[i].longitude) * (point.latitude - polygon[i].latitude) / (polygon[j].latitude - polygon[i].latitude) + polygon[i].longitude)) {
+        isInside = !isInside;
+      }
+    }
+    return isInside;
+  }
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -53,13 +67,40 @@ class _MyHomePageState extends State<MyHomePage> {
           FlutterMap(
             mapController: mapController,
             options: MapOptions(
-              center: const LatLng(39.1317, -84.5167), // University of Cincinnati coordinates
+              center: const LatLng(39.1317, -84.5167), // Example coordinates
               zoom: zoom,
+              onTap: (tapPosition, point) {
+                for (var polyData in getPolygons()) {
+                  if (isPointInPolygon(point, polyData.polygon.points)) {
+                    showDialog(
+                      context: context,
+                      builder: (BuildContext context) {
+                        return AlertDialog(
+                          title: const Text('Building Info'),
+                          content: Text('You tapped on ${polyData.name}'),
+                          actions: <Widget>[
+                            TextButton(
+                              child: const Text('Close'),
+                              onPressed: () {
+                                Navigator.of(context).pop();
+                              },
+                            ),
+                          ],
+                        );
+                      },
+                    );
+                    break; // Break the loop once a matching polygon is found
+                  }
+                }
+              },
             ),
             children: [
               TileLayer(
                 urlTemplate: 'https://tile.openstreetmap.org/{z}/{x}/{y}.png',
                 userAgentPackageName: 'com.example.app',
+              ),
+              PolygonLayer(
+                polygons: getPolygons().map((polyData) => polyData.polygon).toList(),
               ),
             ],
           ),
