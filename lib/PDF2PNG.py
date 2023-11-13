@@ -1,7 +1,7 @@
 from pdf2image import convert_from_path
 import os
 
-def convert_pdf_to_png(pdf_path):
+def convert_pdf_to_png(pdf_path, dpi = 500):
     # Convert PDF to a list of images
     images = convert_from_path(pdf_path)
 
