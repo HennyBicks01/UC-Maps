@@ -26,7 +26,6 @@ dev_dependencies:
 
 flutter:
   assets:
-    - Blueprints
-    - Geofencing
+    - Blueprints/Swift Hall/
 
   uses-material-design: true
