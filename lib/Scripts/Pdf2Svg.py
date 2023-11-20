@@ -1,6 +1,7 @@
 import fitz  # PyMuPDF
 import os
 import xml.etree.ElementTree as ET
+from io import StringIO  # Import StringIO
 
 def convert_pdf_to_svg(pdf_path, enhance_lines=False):
     doc = fitz.open(pdf_path)
@@ -20,32 +21,41 @@ def convert_pdf_to_svg(pdf_path, enhance_lines=False):
     # Removing the original PDF file
     os.remove(pdf_path)
 def enhance_svg_lines(svg_content):
-    # Increase stroke width in the SVG content
     try:
-        root = ET.fromstring(svg_content)
-        # Assuming paths are defined with the 'path' tag
-        for path in root.findall('.//{http://www.w3.org/2000/svg}path'):
+        # Parse the SVG and remove namespaces
+        it = ET.iterparse(StringIO(svg_content))
+        for _, el in it:
+            if '}' in el.tag:
+                el.tag = el.tag.split('}', 1)[1]  # Remove the namespace
+        root = it.root
+
+        # Set a new stroke-width
+        for path in root.findall('.//path'):
             style = path.get('style', '')
-            if 'stroke-width' in style:
-                # Increase existing stroke width
-                styles = style.split(';')
-                new_styles = []
-                for s in styles:
-                    if 'stroke-width' in s:
-                        key, value = s.split(':')
-                        new_width = float(value) * 1.25  # Double the stroke width
-                        new_styles.append(f'{key}:{new_width}')
-                    else:
-                        new_styles.append(s)
-                path.set('style', ';'.join(new_styles))
-            else:
-                # Add a stroke width if none exists
-                path.set('style', style + ';stroke-width:1.25')
+            new_style = update_style_attribute(style, 'stroke-width', '0.6')  # Adjust stroke width here
+            path.set('style', new_style)
+
         return ET.tostring(root, encoding='unicode')
     except Exception as e:
         print(f"Error enhancing SVG lines: {e}")
         return svg_content
 
+def update_style_attribute(style, attribute, new_value):
+    style_parts = style.split(';')
+    new_style_parts = []
+    attribute_found = False
+
+    for part in style_parts:
+        if part.startswith(attribute):
+            new_style_parts.append(f'{attribute}: {new_value}')
+            attribute_found = True
+        else:
+            new_style_parts.append(part)
+
+    if not attribute_found:
+        new_style_parts.append(f'{attribute}: {new_value}')
+
+    return ';'.join(new_style_parts)
 def convert_directory_pdfs_to_svgs(directory, enhance_lines=False):
     for root, dirs, files in os.walk(directory):
         for file in files:

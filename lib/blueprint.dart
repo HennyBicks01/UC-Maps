@@ -9,45 +9,38 @@ class Blueprint extends StatelessWidget {
 
   List<String> getSvgFilePaths() {
     switch(buildingName) {
-      case '2540CLIF':
+      case '60 West Charleton':
         return [
-          'Blueprints/2540CLIF/2540CLIF-01.svg',
-          'Blueprints/2540CLIF/2540CLIF-02.svg',
-          'Blueprints/2540CLIF/2540CLIF-03.svg',
-          'Blueprints/2540CLIF/2540CLIF-04.svg',
-        ];
-      case '60WCHARL':
-        return [
-          'Blueprints/60WCHARL/60WCHARL-01.svg',
-          'Blueprints/60WCHARL/60WCHARL-02.svg',
-          'Blueprints/60WCHARL/60WCHARL-B.svg',
+          'Blueprints/60 West Charleton/60WCHARL-01.svg',
+          'Blueprints/60 West Charleton/60WCHARL-02.svg',
+          'Blueprints/60 West Charleton/60WCHARL-B.svg',
         ];
       case 'ARMORY':
         return [
           'Blueprints/ARMORY/ARMORY-01.svg',
           'Blueprints/ARMORY/ARMORY-02.svg',
         ];
-      case 'ARTSCI':
+      case 'ARONOFF':
         return [
-          'Blueprints/ARTSCI/ARTSCI-00.svg',
-          'Blueprints/ARTSCI/ARTSCI-01.svg',
-          'Blueprints/ARTSCI/ARTSCI-02.svg',
-          'Blueprints/ARTSCI/ARTSCI-03.svg',
+          'Blueprints/ARONOFF/ARONOFF-03.svg',
+          'Blueprints/ARONOFF/ARONOFF-04.svg',
+          'Blueprints/ARONOFF/ARONOFF-05.svg',
+          'Blueprints/ARONOFF/ARONOFF-06.svg',
         ];
-      case 'BLEGEN':
+      case 'Blegen Library':
         return [
-          'Blueprints/BLEGEN/BLEGEN-02.svg',
-          'Blueprints/BLEGEN/BLEGEN-03.svg',
-          'Blueprints/BLEGEN/BLEGEN-04.svg',
-          'Blueprints/BLEGEN/BLEGEN-06.svg',
-          'Blueprints/BLEGEN/BLEGEN-08.svg',
+          'Blueprints/Blegen Library/BLEGEN-02.svg',
+          'Blueprints/Blegen Library/BLEGEN-03.svg',
+          'Blueprints/Blegen Library/BLEGEN-04.svg',
+          'Blueprints/Blegen Library/BLEGEN-06.svg',
+          'Blueprints/Blegen Library/BLEGEN-08.svg',
         ];
-      case 'BRAUNSTN':
+      case 'Braunstein Hall':
         return [
-          'Blueprints/BRAUNSTN/BRAUNSTN-01.svg',
-          'Blueprints/BRAUNSTN/BRAUNSTN-02.svg',
-          'Blueprints/BRAUNSTN/BRAUNSTN-03.svg',
-          'Blueprints/BRAUNSTN/BRAUNSTN-04.svg',
+          'Blueprints/Braunstein Hall/BRAUNSTN-01.svg',
+          'Blueprints/Braunstein Hall/BRAUNSTN-02.svg',
+          'Blueprints/Braunstein Hall/BRAUNSTN-03.svg',
+          'Blueprints/Braunstein Hall/BRAUNSTN-04.svg',
         ];
       case 'CALHONGR':
         return [
@@ -66,37 +59,37 @@ class Blueprint extends StatelessWidget {
           'Blueprints/CLIFTCT/CLIFTCT-04.svg',
           'Blueprints/CLIFTCT/CLIFTCT-05.svg',
         ];
-      case 'COLLAW':
+      case 'College of Law':
         return [
-          'Blueprints/COLLAW/COLLAW-01.svg',
-          'Blueprints/COLLAW/COLLAW-02.svg',
-          'Blueprints/COLLAW/COLLAW-03.svg',
-          'Blueprints/COLLAW/COLLAW-04.svg',
-          'Blueprints/COLLAW/COLLAW-05.svg',
-          'Blueprints/COLLAW/COLLAW-06.svg',
-          'Blueprints/COLLAW/COLLAW-B.svg',
+          'Blueprints/College of Law/COLLAW-01.svg',
+          'Blueprints/College of Law/COLLAW-02.svg',
+          'Blueprints/College of Law/COLLAW-03.svg',
+          'Blueprints/College of Law/COLLAW-04.svg',
+          'Blueprints/College of Law/COLLAW-05.svg',
+          'Blueprints/College of Law/COLLAW-06.svg',
+          'Blueprints/College of Law/COLLAW-B.svg',
         ];
       case 'COMMONSN-S':
         return [
         ];
-      case 'CROSLEY':
+      case 'Crosley Tower':
         return [
-          'Blueprints/CROSLEY/CROSLEY-01.svg',
-          'Blueprints/CROSLEY/CROSLEY-02.svg',
-          'Blueprints/CROSLEY/CROSLEY-03.svg',
-          'Blueprints/CROSLEY/CROSLEY-04.svg',
-          'Blueprints/CROSLEY/CROSLEY-05.svg',
-          'Blueprints/CROSLEY/CROSLEY-06.svg',
-          'Blueprints/CROSLEY/CROSLEY-07.svg',
-          'Blueprints/CROSLEY/CROSLEY-08.svg',
-          'Blueprints/CROSLEY/CROSLEY-09.svg',
-          'Blueprints/CROSLEY/CROSLEY-10.svg',
-          'Blueprints/CROSLEY/CROSLEY-11.svg',
-          'Blueprints/CROSLEY/CROSLEY-12.svg',
-          'Blueprints/CROSLEY/CROSLEY-13.svg',
-          'Blueprints/CROSLEY/CROSLEY-14.svg',
-          'Blueprints/CROSLEY/CROSLEY-15.svg',
-          'Blueprints/CROSLEY/CROSLEY-16.svg',
+          'Blueprints/Crosley Tower/CROSLEY-01.svg',
+          'Blueprints/Crosley Tower/CROSLEY-02.svg',
+          'Blueprints/Crosley Tower/CROSLEY-03.svg',
+          'Blueprints/Crosley Tower/CROSLEY-04.svg',
+          'Blueprints/Crosley Tower/CROSLEY-05.svg',
+          'Blueprints/Crosley Tower/CROSLEY-06.svg',
+          'Blueprints/Crosley Tower/CROSLEY-07.svg',
+          'Blueprints/Crosley Tower/CROSLEY-08.svg',
+          'Blueprints/Crosley Tower/CROSLEY-09.svg',
+          'Blueprints/Crosley Tower/CROSLEY-10.svg',
+          'Blueprints/Crosley Tower/CROSLEY-11.svg',
+          'Blueprints/Crosley Tower/CROSLEY-12.svg',
+          'Blueprints/Crosley Tower/CROSLEY-13.svg',
+          'Blueprints/Crosley Tower/CROSLEY-14.svg',
+          'Blueprints/Crosley Tower/CROSLEY-15.svg',
+          'Blueprints/Crosley Tower/CROSLEY-16.svg',
         ];
       case 'DAAP':
         return [
@@ -110,15 +103,15 @@ class Blueprint extends StatelessWidget {
           'Blueprints/DIETERLE/DIETERLE-02.svg',
           'Blueprints/DIETERLE/DIETERLE-03.svg',
         ];
-      case 'EDWARDS':
+      case 'Edwards Center':
         return [
-          'Blueprints/EDWARDS/EDWARDS-01.svg',
-          'Blueprints/EDWARDS/EDWARDS-02.svg',
-          'Blueprints/EDWARDS/EDWARDS-03.svg',
-          'Blueprints/EDWARDS/EDWARDS-04.svg',
-          'Blueprints/EDWARDS/EDWARDS-05.svg',
-          'Blueprints/EDWARDS/EDWARDS-06.svg',
-          'Blueprints/EDWARDS/EDWARDS-07.svg',
+          'Blueprints/Edwards Center/EDWARDS-01.svg',
+          'Blueprints/Edwards Center/EDWARDS-02.svg',
+          'Blueprints/Edwards Center/EDWARDS-03.svg',
+          'Blueprints/Edwards Center/EDWARDS-04.svg',
+          'Blueprints/Edwards Center/EDWARDS-05.svg',
+          'Blueprints/Edwards Center/EDWARDS-06.svg',
+          'Blueprints/Edwards Center/EDWARDS-07.svg',
         ];
       case 'FRENCH-W_':
         return [
@@ -129,14 +122,14 @@ class Blueprint extends StatelessWidget {
           'Blueprints/FRENCH-W_/FRENCH-W-05.svg',
           'Blueprints/FRENCH-W_/FRENCH-W-06.svg',
         ];
-      case 'GEOPHYS':
+      case 'Geology Physics Building':
         return [
-          'Blueprints/GEOPHYS/GEOPHYS-01.svg',
-          'Blueprints/GEOPHYS/GEOPHYS-02.svg',
-          'Blueprints/GEOPHYS/GEOPHYS-03.svg',
-          'Blueprints/GEOPHYS/GEOPHYS-04.svg',
-          'Blueprints/GEOPHYS/GEOPHYS-05.svg',
-          'Blueprints/GEOPHYS/GEOPHYS-06.svg',
+          'Blueprints/Geology Physics Building/GEOPHYS-01.svg',
+          'Blueprints/Geology Physics Building/GEOPHYS-02.svg',
+          'Blueprints/Geology Physics Building/GEOPHYS-03.svg',
+          'Blueprints/Geology Physics Building/GEOPHYS-04.svg',
+          'Blueprints/Geology Physics Building/GEOPHYS-05.svg',
+          'Blueprints/Geology Physics Building/GEOPHYS-06.svg',
         ];
       case 'LANGSAM':
         return [
@@ -144,13 +137,13 @@ class Blueprint extends StatelessWidget {
           'Blueprints/LANGSAM/LANGSAM-05.svg',
           'Blueprints/LANGSAM/LANGSAM-06.svg',
         ];
-      case 'LINDHALL':
+      case 'Lindner Hall':
         return [
-          'Blueprints/LINDHALL/LINDHALL-00.svg',
-          'Blueprints/LINDHALL/LINDHALL-01.svg',
-          'Blueprints/LINDHALL/LINDHALL-02.svg',
-          'Blueprints/LINDHALL/LINDHALL-03.svg',
-          'Blueprints/LINDHALL/LINDHALL-04.svg',
+          'Blueprints/Lindner Hall/LINDHALL-00.svg',
+          'Blueprints/Lindner Hall/LINDHALL-01.svg',
+          'Blueprints/Lindner Hall/LINDHALL-02.svg',
+          'Blueprints/Lindner Hall/LINDHALL-03.svg',
+          'Blueprints/Lindner Hall/LINDHALL-04.svg',
         ];
       case 'LNDNRCTR':
         return [
@@ -163,18 +156,25 @@ class Blueprint extends StatelessWidget {
           'Blueprints/LNDNRCTR/LNDNRCTR-07.svg',
           'Blueprints/LNDNRCTR/LNDNRCTR-08.svg',
         ];
-      case 'MANTEI':
+      case 'Mantei Center':
         return [
-          'Blueprints/MANTEI/MANTEI-03.svg',
-          'Blueprints/MANTEI/MANTEI-04.svg',
-          'Blueprints/MANTEI/MANTEI-05.svg',
-          'Blueprints/MANTEI/MANTEI-06.svg',
-          'Blueprints/MANTEI/MANTEI-07.svg',
-          'Blueprints/MANTEI/MANTEI-08.svg',
+          'Blueprints/Mantei Center/MANTEI-03.svg',
+          'Blueprints/Mantei Center/MANTEI-04.svg',
+          'Blueprints/Mantei Center/MANTEI-05.svg',
+          'Blueprints/Mantei Center/MANTEI-06.svg',
+          'Blueprints/Mantei Center/MANTEI-07.svg',
+          'Blueprints/Mantei Center/MANTEI-08.svg',
         ];
-      case 'MARKETPT':
+      case 'Marketpointe':
         return [
-          'Blueprints/MARKETPT/MARKETPT-01.svg',
+          'Blueprints/Marketpointe/MARKETPT-01.svg',
+        ];
+      case 'McMicken Hall':
+        return [
+          'Blueprints/McMicken Hall/ARTSCI-00.svg',
+          'Blueprints/McMicken Hall/ARTSCI-01.svg',
+          'Blueprints/McMicken Hall/ARTSCI-02.svg',
+          'Blueprints/McMicken Hall/ARTSCI-03.svg',
         ];
       case 'MSPENCER':
         return [
@@ -207,13 +207,13 @@ class Blueprint extends StatelessWidget {
           'Blueprints/RHODES/RHODES-08.svg',
           'Blueprints/RHODES/RHODES-09.svg',
         ];
-      case 'RIEVSCHL':
+      case 'Rieveschl Hall':
         return [
-          'Blueprints/RIEVSCHL/RIEVSCHL-04.svg',
-          'Blueprints/RIEVSCHL/RIEVSCHL-05.svg',
-          'Blueprints/RIEVSCHL/RIEVSCHL-06.svg',
-          'Blueprints/RIEVSCHL/RIEVSCHL-07.svg',
-          'Blueprints/RIEVSCHL/RIEVSCHL-08.svg',
+          'Blueprints/Rieveschl Hall/RIEVSCHL-04.svg',
+          'Blueprints/Rieveschl Hall/RIEVSCHL-05.svg',
+          'Blueprints/Rieveschl Hall/RIEVSCHL-06.svg',
+          'Blueprints/Rieveschl Hall/RIEVSCHL-07.svg',
+          'Blueprints/Rieveschl Hall/RIEVSCHL-08.svg',
         ];
       case 'SHOE':
         return [
@@ -235,6 +235,13 @@ class Blueprint extends StatelessWidget {
           'Blueprints/Swift Hall/SWIFT-06.svg',
           'Blueprints/Swift Hall/SWIFT-07.svg',
           'Blueprints/Swift Hall/SWIFT-08.svg',
+        ];
+      case 'Taft Hall':
+        return [
+          'Blueprints/Taft Hall/2540CLIF-01.svg',
+          'Blueprints/Taft Hall/2540CLIF-02.svg',
+          'Blueprints/Taft Hall/2540CLIF-03.svg',
+          'Blueprints/Taft Hall/2540CLIF-04.svg',
         ];
       case 'TEACHERS':
         return [
@@ -261,15 +268,22 @@ class Blueprint extends StatelessWidget {
           'Blueprints/UNIVPAV/UNIVPAV-05.svg',
           'Blueprints/UNIVPAV/UNIVPAV-06.svg',
         ];
-      case 'VANWORMR':
+      case 'Van Wormer Hall':
         return [
-          'Blueprints/VANWORMR/VANWORMR-01.svg',
-          'Blueprints/VANWORMR/VANWORMR-02.svg',
-          'Blueprints/VANWORMR/VANWORMR-03.svg',
+          'Blueprints/Van Wormer Hall/VANWORMR-01.svg',
+          'Blueprints/Van Wormer Hall/VANWORMR-02.svg',
+          'Blueprints/Van Wormer Hall/VANWORMR-03.svg',
         ];
       case 'VVB':
         return [
           'Blueprints/VVB/VVB-02.svg',
+        ];
+      case 'WOLFSON':
+        return [
+          'Blueprints/WOLFSON/WOLFSON-03.svg',
+          'Blueprints/WOLFSON/WOLFSON-04.svg',
+          'Blueprints/WOLFSON/WOLFSON-05.svg',
+          'Blueprints/WOLFSON/WOLFSON-06.svg',
         ];
       case 'ZIMMER':
         return [

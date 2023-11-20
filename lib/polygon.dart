@@ -65,7 +65,7 @@ List<PolygonData> getPolygons() {
       )
   ),
     PolygonData(
-      name: 'A&S Hall',
+      name: 'McMicken Hall',
       polygon: Polygon(
           points: const [
         LatLng(39.13161624547657,-84.51928029042207),
@@ -124,7 +124,7 @@ List<PolygonData> getPolygons() {
       )
   ),
     PolygonData(
-      name: 'Belgen Library',
+      name: 'Blegen Library',
       polygon: Polygon(
           points: const [
         LatLng(39.12983847518737,-84.51947394321415),
@@ -187,7 +187,7 @@ List<PolygonData> getPolygons() {
       )
   ),
     PolygonData(
-      name: 'Carl H. Linder Hall (Business)',
+      name: 'Lindner Hall',
       polygon: Polygon(
           points: const [
         LatLng(39.13346867709499,-84.51439972459072),
