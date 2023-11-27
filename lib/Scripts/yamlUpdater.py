@@ -8,7 +8,7 @@ def list_folders_in_directory(directory):
 def update_pubspec_yaml(pubspec_path, blueprint_directory):
     """Update the pubspec.yaml file with folders from the Blueprints directory."""
     folders = list_folders_in_directory(blueprint_directory)
-    asset_paths = ["  - Blueprints/{}/\n".format(folder) for folder in folders]
+    asset_paths = ["  - assets/Blueprints/{}/\n".format(folder) for folder in folders]
 
     with open(pubspec_path, 'r+') as file:
         content = file.readlines()
@@ -30,6 +30,6 @@ def update_pubspec_yaml(pubspec_path, blueprint_directory):
 
 # Path to the pubspec.yaml file and Blueprints directory
 pubspec_path = 'pubspec.yaml'
-blueprint_directory = 'Blueprints'
+blueprint_directory = 'assets/Blueprints'
 
 update_pubspec_yaml(pubspec_path, blueprint_directory)

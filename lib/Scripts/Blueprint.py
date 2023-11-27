@@ -25,7 +25,7 @@ class Blueprint extends StatelessWidget {
             svg_files = list_svg_files_in_directory(building_path)
             dart_code += f"      case '{building}':\n        return [\n"
             for svg in svg_files:
-                dart_code += f"          'Blueprints/{building}/{svg}',\n"
+                dart_code += f"          'assets/Blueprints/{building}/{svg}',\n"
             dart_code += "        ];\n"
 
     dart_code += """
@@ -34,37 +34,63 @@ class Blueprint extends StatelessWidget {
     }
   }
 
-  @override
-  Widget build(BuildContext context) {
-    List<String> svgFiles = getSvgFilePaths();
+@override
+Widget build(BuildContext context) {
+  List<String> svgFiles = getSvgFilePaths();
+  double cardHeight = MediaQuery.of(context).size.height / 5;
 
-    return Scaffold(
-      appBar: AppBar(title: Text(buildingName)),
-      body: GridView.builder(
-        padding: EdgeInsets.all(10),
-        gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
-          crossAxisCount: 2,
-          crossAxisSpacing: 10,
-          mainAxisSpacing: 10,
-        ),
-        itemCount: svgFiles.length,
-        itemBuilder: (context, index) {
-          return Card(
-            child: Center(
-              child: SvgPicture.asset(svgFiles[index], // Use SvgPicture widget
-                semanticsLabel: 'SVG Image'), 
+  return Scaffold(
+    appBar: AppBar(title: Text(buildingName)),
+    body: ListView.builder(
+      padding: EdgeInsets.all(10),
+      itemCount: svgFiles.length,
+      itemBuilder: (context, index) {
+        String floorNumber = 'Unknown';
+        if (svgFiles[index].contains('-')) {
+          List<String> parts = svgFiles[index].split('-');
+          if (parts.length > 1) {
+            floorNumber = parts[1].split('.')[0];  // Assuming the format is 'TUC-01.svg'
+          }
+        }
+
+        return Card(
+          child: SizedBox(
+            height: cardHeight,
+            child: Stack(
+              children: [
+                ClipRect(  // Clip the SVG to fit the card
+                  child: Align(
+                    alignment: Alignment.center,
+                    heightFactor: 0.5,  // Adjust this factor to control vertical cropping
+                    child: SvgPicture.asset(svgFiles[index],
+                      semanticsLabel: 'A floor plan',
+                      fit: BoxFit.fitWidth),
+                  ),
+                ),
+                Positioned(
+                  left: 10,
+                  bottom: 10,
+                  child: Text(
+                    '$floorNumber',
+                    style: TextStyle(
+                      color: Colors.black54,
+                    ),
+                  ),
+                ),
+              ],
             ),
-          );
-        },
-      ),
-    );
-  }
+          ),
+        );
+      },
+    ),
+  );
+}
 }
 """
     return dart_code
 
 def main():
-    buildings_directory = 'Blueprints'  # Replace with your buildings directory path
+    buildings_directory = 'assets/Blueprints'  # Replace with your buildings directory path
     dart_code = generate_blueprint_dart_code(buildings_directory)
 
     with open('lib/blueprint.dart', 'w') as file:

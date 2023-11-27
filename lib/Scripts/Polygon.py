@@ -7,6 +7,10 @@ def process_file(file_path):
     building_name = lines[0].strip().split(':')[1].strip()
     coordinates = [line.strip() for line in lines[1:]]
 
+    # Set a specific shade of red
+    red_shade = 'Color.fromRGBO(224, 1, 34, 1)'  # Your specific red color
+    darker_red_shade = 'Color.fromRGBO(184, 1, 28, 1)'  # A darker shade for the outline
+
     polygon_data = ',\n'.join([f'        LatLng({coord})' for coord in coordinates])
     polygon_layer = f'''PolygonData(
       name: '{building_name}',
@@ -14,12 +18,13 @@ def process_file(file_path):
           points: const [
 {polygon_data}
           ],
-          color: Colors.red.withOpacity(0.7),
+          color: const {red_shade},
+          borderColor: const {darker_red_shade},
+          borderStrokeWidth: 2.0,
           isFilled: true,
       )
   )'''
     return polygon_layer
-
 def main(directory):
     polygon_layers = []
 
@@ -45,4 +50,4 @@ def main(directory):
         outfile.write(dart_content)
 
 if __name__ == "__main__":
-    main("Geofencing")  # Replace "Geofencing" with your directory path
+    main("assets/Geofencing")  # Replace "Geofencing" with your directory path

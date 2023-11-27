@@ -17,6 +17,7 @@ dependencies:
   path_provider: ^2.1.1
   cupertino_icons: ^1.0.2
   flutter_svg: ^2.0.9
+  image: ^4.1.3
 
 dev_dependencies:
   flutter_test:
@@ -26,43 +27,6 @@ dev_dependencies:
 
 flutter:
   assets:
-  - Blueprints/60 West Charleton/
-  - Blueprints/ARMORY/
-  - Blueprints/ARONOFF/
-  - Blueprints/Blegen Library/
-  - Blueprints/Braunstein Hall/
-  - Blueprints/CALHONGR/
-  - Blueprints/CCM/
-  - Blueprints/CLIFTCT/
-  - Blueprints/College of Law/
-  - Blueprints/COMMONSN-S/
-  - Blueprints/Crosley Tower/
-  - Blueprints/DAAP/
-  - Blueprints/Dieterle Vocal Arts Center/
-  - Blueprints/Edwards Center/
-  - Blueprints/Fifth Third Arena/
-  - Blueprints/French Hall/
-  - Blueprints/Geology Physics Building/
-  - Blueprints/LANGSAM/
-  - Blueprints/Lindner Hall/
-  - Blueprints/LNDNRCTR/
-  - Blueprints/Mantei Center/
-  - Blueprints/Marketpointe/
-  - Blueprints/McMicken Hall/
-  - Blueprints/MSPENCER/
-  - Blueprints/NIPPERT/
-  - Blueprints/RECCENTR/
-  - Blueprints/Rhodes Hall/
-  - Blueprints/Rieveschl Hall/
-  - Blueprints/STEGER/
-  - Blueprints/Swift Hall/
-  - Blueprints/Taft Hall/
-  - Blueprints/TEACHERS/
-  - Blueprints/TUC/
-  - Blueprints/UNIVPAV/
-  - Blueprints/Van Wormer Hall/
-  - Blueprints/VVB/
-  - Blueprints/WOLFSON/
-  - Blueprints/ZIMMER/
+  - assets/Blueprints/TUC/
 
   uses-material-design: true
