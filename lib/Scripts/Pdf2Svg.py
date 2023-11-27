@@ -19,7 +19,6 @@ def convert_pdf_to_svg(pdf_path, enhance_lines=False):
 
     doc.close()
     # Removing the original PDF file
-    os.remove(pdf_path)
 def enhance_svg_lines(svg_content):
     try:
         # Parse the SVG and remove namespaces
@@ -65,5 +64,5 @@ def convert_directory_pdfs_to_svgs(directory, enhance_lines=False):
                 print(f"Converted {file} to SVG and removed the original PDF.")
 
 if __name__ == "__main__":
-    pdf_directory = 'Blueprints'  # Replace with your PDF directory
+    pdf_directory = 'assets/Blueprints'  # Replace with your PDF directory
     convert_directory_pdfs_to_svgs(pdf_directory, enhance_lines=True)

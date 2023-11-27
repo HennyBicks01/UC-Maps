@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Map Demo',
+      title: 'Flush Finder',
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
@@ -36,6 +36,7 @@ class MyHomePage extends StatefulWidget {
 class _MyHomePageState extends State<MyHomePage> {
   final MapController mapController = MapController();
   double zoom = 17.0; // Initial zoom level
+
 
   @override
   void initState() {
@@ -58,6 +59,39 @@ class _MyHomePageState extends State<MyHomePage> {
     }
     return isInside;
   }
+
+  LatLng calculateCentroid(List<LatLng> points) {
+    double latitudeSum = 0.0;
+    double longitudeSum = 0.0;
+    for (var point in points) {
+      latitudeSum += point.latitude;
+      longitudeSum += point.longitude;
+    }
+    return LatLng(latitudeSum / points.length, longitudeSum / points.length);
+  }
+
+  List<Marker> createMarkersForPolygons(List<PolygonData> polygons) {
+    return polygons.map((polygonData) {
+      LatLng centroid = calculateCentroid(polygonData.polygon.points);
+      return Marker(
+        width: 100.0,
+        height: 35.0,
+        point: centroid,
+        child: Container(
+          alignment: Alignment.center,
+          child: Text(
+            polygonData.name,
+            style: const TextStyle(
+              color: Colors.black,
+              fontSize: 0,
+            ),
+          ),
+        ),
+      );
+    }).toList();
+  }
+
+
 
   @override
   Widget build(BuildContext context) {
@@ -82,14 +116,27 @@ class _MyHomePageState extends State<MyHomePage> {
             ),
             children: [
               TileLayer(
-                urlTemplate: 'https://tile.openstreetmap.org/{z}/{x}/{y}.png',
+                urlTemplate : 'http://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png',
+                subdomains  : ['a','b','c','d','e'],// Enable retina mode based on device density
                 userAgentPackageName: 'com.example.app',
+              ),
+              Positioned.fill(
+                child: Opacity(
+                  opacity: 0.15,
+                  child: Container(
+                    color: const Color.fromRGBO(230 ,241 , 255, 1), // Blue
+                  ),
+                ),
               ),
               PolygonLayer(
                 polygons: getPolygons().map((polyData) => polyData.polygon).toList(),
               ),
+              MarkerLayer(
+                markers: createMarkersForPolygons(getPolygons()),
+              ),
             ],
           ),
+
           Positioned(
             top: MediaQuery.of(context).padding.top + 10,
             left: 10,
@@ -116,7 +163,7 @@ class _MyHomePageState extends State<MyHomePage> {
                     borderRadius: BorderRadius.circular(30), // Same borderRadius as Material
                     borderSide: BorderSide.none,
                   ),
-                  contentPadding: EdgeInsets.symmetric(vertical: 10, horizontal: 20),
+                  contentPadding: const EdgeInsets.symmetric(vertical: 10, horizontal: 20),
                 ),
                 onSubmitted: (value) {
                   // Handle search
