@@ -27,6 +27,7 @@ dev_dependencies:
 
 flutter:
   assets:
-  - assets/Blueprints/TUC/
+    - assets/BlueprintMaps/TEACHERS/
+    - assets/Blueprints/TEACHERS/
 
   uses-material-design: true

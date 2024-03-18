@@ -36,16 +36,39 @@ class MyHomePage extends StatefulWidget {
 class _MyHomePageState extends State<MyHomePage> {
   final MapController mapController = MapController();
   double zoom = 17.0; // Initial zoom level
+  TextEditingController searchController = TextEditingController();
+  List<PolygonData> filteredPolygons = getPolygons(); // Initially display all buildings
 
 
   @override
   void initState() {
     super.initState();
     _determinePosition();
+    searchController.addListener(_filterBuildings);
+  }
+
+  @override
+  void dispose() {
+    searchController.dispose();
+    super.dispose();
   }
 
   Future<void> _determinePosition() async {
     // ... Geolocation code (same as before)
+  }
+
+  void _filterBuildings() {
+    final query = searchController.text.toLowerCase();
+    if (query.isEmpty) {
+      setState(() {
+        filteredPolygons = getPolygons();
+      });
+    } else {
+      setState(() {
+        filteredPolygons = getPolygons().where((polygonData) =>
+            polygonData.name.toLowerCase().contains(query)).toList();
+      });
+    }
   }
 
   bool isPointInPolygon(LatLng point, List<LatLng> polygon) {
@@ -70,6 +93,33 @@ class _MyHomePageState extends State<MyHomePage> {
     return LatLng(latitudeSum / points.length, longitudeSum / points.length);
   }
 
+  List<Polygon> createPolygonsForMap() {
+    List<Polygon> updatedPolygons = [];
+
+    for (var polygonData in getPolygons()) {
+      // Check if the polygon's name is present in the list of filtered polygon names
+      bool isFiltered = filteredPolygons.any((p) => p.name == polygonData.name);
+
+      // Determine the color based on whether the polygon is filtered
+      Color fillColor = isFiltered ? polygonData.polygon.color : Colors.grey.withOpacity(0.5);
+      Color borderColor = isFiltered ? polygonData.polygon.borderColor : Colors.grey;
+
+      // Create a new Polygon instance with the updated color
+      Polygon updatedPolygon = Polygon(
+        points: polygonData.polygon.points,
+        color: fillColor,
+        borderColor: borderColor,
+        borderStrokeWidth: polygonData.polygon.borderStrokeWidth,
+        isFilled: polygonData.polygon.isFilled,
+      );
+
+      updatedPolygons.add(updatedPolygon);
+    }
+
+    return updatedPolygons;
+  }
+
+
   List<Marker> createMarkersForPolygons(List<PolygonData> polygons) {
     return polygons.map((polygonData) {
       LatLng centroid = calculateCentroid(polygonData.polygon.points);
@@ -82,8 +132,8 @@ class _MyHomePageState extends State<MyHomePage> {
           child: Text(
             polygonData.name,
             style: const TextStyle(
-              color: Colors.black,
-              fontSize: 0,
+              color: Colors.white60,
+              fontSize: 14,
             ),
           ),
         ),
@@ -91,6 +141,16 @@ class _MyHomePageState extends State<MyHomePage> {
     }).toList();
   }
 
+  void _selectPolygon(PolygonData polygonData) {
+    // Example action: Navigate to a detail page for the polygon
+    Navigator.of(context).push(MaterialPageRoute(
+      builder: (context) => Blueprint(buildingName: polygonData.name),
+    ));
+
+    // Optionally, center the map on the polygon's centroid
+    LatLng centroid = calculateCentroid(polygonData.polygon.points);
+    mapController.move(centroid, zoom);
+  }
 
 
   @override
@@ -101,8 +161,8 @@ class _MyHomePageState extends State<MyHomePage> {
           FlutterMap(
             mapController: mapController,
             options: MapOptions(
-              center: const LatLng(39.1317, -84.5167), // Example coordinates
-              zoom: zoom,
+              initialCenter: const LatLng(39.1317, -84.5167), // Example coordinates
+              initialZoom: zoom,
                 onTap: (tapPosition, point) {
                   for (var polyData in getPolygons()) {
                     if (isPointInPolygon(point, polyData.polygon.points)) {
@@ -116,23 +176,24 @@ class _MyHomePageState extends State<MyHomePage> {
             ),
             children: [
               TileLayer(
-                urlTemplate : 'http://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png',
-                subdomains  : ['a','b','c','d','e'],// Enable retina mode based on device density
+                urlTemplate : 'http://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}.png',
+                subdomains : const ['a','b','c','d','e'],// Enable retina mode based on device density
                 userAgentPackageName: 'com.example.app',
               ),
-              Positioned.fill(
-                child: Opacity(
-                  opacity: 0.15,
-                  child: Container(
-                    color: const Color.fromRGBO(230 ,241 , 255, 1), // Blue
-                  ),
+              Opacity(
+                opacity: 0.15,
+                child: Container(
+                  color: const Color.fromRGBO(230, 241, 255, 1), // Blue overlay
+                  width: double.infinity,  // Ensure it covers the entire screen width
+                  height: double.infinity, // Ensure it covers the entire screen height
                 ),
               ),
               PolygonLayer(
-                polygons: getPolygons().map((polyData) => polyData.polygon).toList(),
+                polygons: createPolygonsForMap(),
               ),
               MarkerLayer(
-                markers: createMarkersForPolygons(getPolygons()),
+                // getPolygons()
+                markers: createMarkersForPolygons(filteredPolygons),
               ),
             ],
           ),
@@ -141,7 +202,7 @@ class _MyHomePageState extends State<MyHomePage> {
             top: MediaQuery.of(context).padding.top + 10,
             left: 10,
             child: IconButton(
-              icon: const Icon(Icons.settings, color: Color(0xFF2D2D2D)),
+              icon: const Icon(Icons.settings, color: Color(0xFFa7a5aa)),
               onPressed: () {
                 // Handle settings action
               },
@@ -155,18 +216,27 @@ class _MyHomePageState extends State<MyHomePage> {
               borderRadius: BorderRadius.circular(30), // Set borderRadius here
               elevation: 2, // Optional: adds a slight shadow
               child: TextField(
+                style: TextStyle(color: Colors.grey[400]),  // Light gray text color for input
+                controller: searchController,
                 decoration: InputDecoration(
                   hintText: 'Search...',
+                  hintStyle: TextStyle(color: Colors.grey[400]), // Light gray hint text
                   filled: true,
-                  fillColor: Colors.white,
+                  fillColor: const Color(0xFF424549),
                   border: OutlineInputBorder(
-                    borderRadius: BorderRadius.circular(30), // Same borderRadius as Material
+                    borderRadius: BorderRadius.circular(30),
                     borderSide: BorderSide.none,
                   ),
                   contentPadding: const EdgeInsets.symmetric(vertical: 10, horizontal: 20),
                 ),
                 onSubmitted: (value) {
-                  // Handle search
+                  // Check if there's exactly one polygon in the filtered list
+                  if (filteredPolygons.length == 1) {
+                    // Perform the action associated with selecting the polygon
+                    // For example, navigating to a new page with the polygon's details
+                    PolygonData selectedPolygon = filteredPolygons.first;
+                    _selectPolygon(selectedPolygon);
+                  }
                 },
               ),
             ),
@@ -177,7 +247,7 @@ class _MyHomePageState extends State<MyHomePage> {
             top: MediaQuery.of(context).padding.top + 10,
             right: 10,
             child: IconButton(
-              icon: const Icon(Icons.menu, color: Color(0xFF2D2D2D)),
+              icon: const Icon(Icons.menu, color: Color(0xFFa7a5aa)),
               onPressed: () {
                 // Handle menu action
               },

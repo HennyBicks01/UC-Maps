@@ -1,44 +1,75 @@
+import 'dart:convert';
 import 'package:flutter/material.dart';
-import 'package:flutter_svg/flutter_svg.dart';
+import 'package:flutter/services.dart' show rootBundle;
 
 class FullScreenImagePage extends StatelessWidget {
   final String imagePath;
 
   const FullScreenImagePage({Key? key, required this.imagePath}) : super(key: key);
 
-  // Updated method to extract building and floor number
-  Map<String, String> extractInfo(String path) {
-    RegExp regExp = RegExp(r'Blueprints/([^/]+)/[^-]+-([0-9A-Za-z]+)\.svg$');
-    var matches = regExp.firstMatch(path);
-    return {
-      'building': matches?.group(1) ?? 'Unknown',
-      'floor': matches?.group(2) ?? 'Unknown'
-    };
+  Future<List<Widget>> _loadInteractiveAreas(String jsonPath) async {
+    final String jsonString = await rootBundle.loadString(jsonPath);
+    final List<dynamic> jsonData = json.decode(jsonString);
+    List<Widget> widgets = [];
+
+    for (var area in jsonData) {
+      widgets.add(
+        Positioned(
+          left: area['x'].toDouble(),
+          top: area['y'].toDouble(),
+          child: GestureDetector(
+            onTap: () {
+              // Handle the tap, maybe show a dialog or navigate
+              print('Tapped ${area['type']}');
+            },
+            child: Container(
+              width: area['width'].toDouble(),
+              height: area['height'].toDouble(),
+              decoration: BoxDecoration(
+                color: Colors.redAccent, // Make this transparent or adjust based on 'type'
+                border: Border.all(color: Colors.red), // Optional, for visual debugging
+              ),
+            ),
+          ),
+        ),
+      );
+    }
+
+    return widgets;
   }
 
   @override
   Widget build(BuildContext context) {
-    var info = extractInfo(imagePath);
-
-    // Create a TransformationController
-    final TransformationController _controller = TransformationController();
-    // Set an initial zoom and position
-    _controller.value = Matrix4.identity()..scale(2.0); // Adjust scale value for initial zoom level
+    // Convert imagePath to jsonPath by replacing folder and extension
+    final String jsonPath = imagePath
+        .replaceFirst('Blueprints', 'BlueprintMaps')
+        .replaceFirst(RegExp(r'\.png$'), '.json');
 
     return Scaffold(
       appBar: AppBar(
-        title: Text('${info['building']} - Floor ${info['floor']}'),
+        title: Text('Floor Plan'),
       ),
-      body: Center(
-        child: InteractiveViewer(
-          transformationController: _controller,
-          minScale: 0.1,
-          maxScale: 5.0,
-          child: SvgPicture.asset(
-            imagePath,
-            fit: BoxFit.contain,
-          ),
-        ),
+      body: FutureBuilder<List<Widget>>(
+        future: _loadInteractiveAreas(jsonPath),
+        builder: (context, snapshot) {
+          if (snapshot.hasData) {
+            return Stack(
+              children: [
+                Positioned.fill(
+                  child: Image.asset(
+                    imagePath,
+                    fit: BoxFit.contain,
+                  ),
+                ),
+                ...snapshot.data!,
+              ],
+            );
+          } else if (snapshot.hasError) {
+            return Center(child: Text('Error loading interactive areas'));
+          } else {
+            return Center(child: CircularProgressIndicator());
+          }
+        },
       ),
     );
   }
