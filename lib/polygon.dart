@@ -374,7 +374,7 @@ List<PolygonData> getPolygons() {
       )
   ),
     PolygonData(
-      name: 'Carl H. Linder Hall (Business)',
+      name: 'Linder Hall',
       polygon: Polygon(
           points: const [
         LatLng(39.13346867709499,-84.51439972459072),
@@ -416,7 +416,7 @@ List<PolygonData> getPolygons() {
       )
   ),
     PolygonData(
-      name: 'Corbett Center for Performing Arts',
+      name: 'Corbett Center',
       polygon: Polygon(
           points: const [
         LatLng(39.12929251718894,-84.5189247901941),
@@ -521,7 +521,7 @@ List<PolygonData> getPolygons() {
       )
   ),
     PolygonData(
-      name: 'DAAP Alms Building',
+      name: 'Alms Building',
       polygon: Polygon(
           points: const [
         LatLng(39.13401760263462,-84.51965956699071),
@@ -538,7 +538,7 @@ List<PolygonData> getPolygons() {
       )
   ),
     PolygonData(
-      name: 'DAAP Main Building',
+      name: 'DAAP',
       polygon: Polygon(
           points: const [
         LatLng(39.133869079431214,-84.51947363828738),
@@ -607,7 +607,7 @@ List<PolygonData> getPolygons() {
       )
   ),
     PolygonData(
-      name: 'DAAP Wolfsen Center',
+      name: 'Wolfsen Center',
       polygon: Polygon(
           points: const [
         LatLng(39.13398970563489,-84.51840455532266),
@@ -987,7 +987,7 @@ List<PolygonData> getPolygons() {
       )
   ),
     PolygonData(
-      name: 'Margo Schott Stadium (Baseball)',
+      name: 'Margo Schott Stadium',
       polygon: Polygon(
           points: const [
         LatLng(39.12976431905219,-84.51414455651462),
@@ -1257,7 +1257,7 @@ List<PolygonData> getPolygons() {
       )
   ),
     PolygonData(
-      name: 'North Commons Edge',
+      name: 'North Commons',
       polygon: Polygon(
           points: const [
         LatLng(39.13171950487098,-84.5125409279921),
@@ -1448,7 +1448,7 @@ List<PolygonData> getPolygons() {
       )
   ),
     PolygonData(
-      name: 'Sidall Hall',
+      name: 'Sidall',
       polygon: Polygon(
           points: const [
         LatLng(39.12919430617035,-84.51777496962517),
@@ -1479,7 +1479,7 @@ List<PolygonData> getPolygons() {
       )
   ),
     PolygonData(
-      name: 'South Commons Edge',
+      name: 'South Commons',
       polygon: Polygon(
           points: const [
         LatLng(39.131451580115204,-84.51244566530414),
@@ -1494,7 +1494,7 @@ List<PolygonData> getPolygons() {
       )
   ),
     PolygonData(
-      name: 'Steger Student Life Center',
+      name: 'Steger',
       polygon: Polygon(
           points: const [
         LatLng(39.132224736012745,-84.51747180163488),
@@ -1830,7 +1830,7 @@ List<PolygonData> getPolygons() {
       )
   ),
     PolygonData(
-      name: 'Wood Side Section 1',
+      name: '',
       polygon: Polygon(
           points: const [
         LatLng(39.135050019810784,-84.51593500839768),
@@ -1845,7 +1845,7 @@ List<PolygonData> getPolygons() {
       )
   ),
     PolygonData(
-      name: 'Wood Side Section 2',
+      name: 'Wood Side',
       polygon: Polygon(
           points: const [
         LatLng(39.135017752195765,-84.51542817041167),

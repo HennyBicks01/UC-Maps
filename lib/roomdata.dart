@@ -1,6 +1,6 @@
 class PolygonRoomData {
   final List<List<int>> polygon;
-  Map<String, String> roomInfo; // Now mutable, so it can be updated
+  late final Map<String, String> roomInfo; // Now mutable, so it can be updated
 
   PolygonRoomData({required this.polygon, required this.roomInfo});
 

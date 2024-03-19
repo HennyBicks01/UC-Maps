@@ -1,9 +1,11 @@
+import 'dart:math';
+
 import 'package:flutter/material.dart';
 import 'package:flutter_map/flutter_map.dart';
 import 'package:latlong2/latlong.dart';
 import 'package:geolocator/geolocator.dart';
-import 'polygon.dart';
-import 'blueprint.dart';
+import 'polygon.dart'; // Ensure this is implemented
+import 'blueprint.dart'; // Ensure this is implemented
 
 void main() {
   runApp(const MyApp());
@@ -35,10 +37,10 @@ class MyHomePage extends StatefulWidget {
 
 class _MyHomePageState extends State<MyHomePage> {
   final MapController mapController = MapController();
-  double zoom = 17.0; // Initial zoom level
+  double zoom = 17.0;
   TextEditingController searchController = TextEditingController();
-  List<PolygonData> filteredPolygons = getPolygons(); // Initially display all buildings
-
+  List<PolygonData> filteredPolygons = getPolygons();
+  List<Marker> markers = []; // Added for user location marker
 
   @override
   void initState() {
@@ -54,7 +56,39 @@ class _MyHomePageState extends State<MyHomePage> {
   }
 
   Future<void> _determinePosition() async {
-    // ... Geolocation code (same as before)
+    bool serviceEnabled;
+    LocationPermission permission;
+
+    serviceEnabled = await Geolocator.isLocationServiceEnabled();
+    if (!serviceEnabled) {
+      return Future.error('Location services are disabled.');
+    }
+
+    permission = await Geolocator.checkPermission();
+    if (permission == LocationPermission.denied) {
+      permission = await Geolocator.requestPermission();
+      if (permission == LocationPermission.denied) {
+        return Future.error('Location permissions are denied');
+      }
+    }
+
+    if (permission == LocationPermission.deniedForever) {
+      return Future.error('Location permissions are permanently denied');
+    }
+
+    Position position = await Geolocator.getCurrentPosition();
+    LatLng userLocation = LatLng(position.latitude, position.longitude);
+    setState(() {
+      markers.add(
+        Marker(
+          width: 80.0,  // Specify the marker's width
+          height: 80.0, // Specify the marker's height
+          point: userLocation, // Specify the marker's geographic location
+          child: const Icon(Icons.location_pin, color: Colors.red, size: 40), // Directly use the Widget
+        ),
+      );
+    });
+
   }
 
   void _filterBuildings() {
@@ -119,27 +153,89 @@ class _MyHomePageState extends State<MyHomePage> {
     return updatedPolygons;
   }
 
+  double calculateDistance(LatLng point1, LatLng point2) {
+    var dLat = _degreesToRadians(point2.latitude - point1.latitude);
+    var dLon = _degreesToRadians(point2.longitude - point1.longitude);
+    var a = sin(dLat/2) * sin(dLat/2) +
+        cos(_degreesToRadians(point1.latitude)) * cos(_degreesToRadians(point2.latitude)) *
+            sin(dLon/2) * sin(dLon/2);
+    var c = 2 * atan2(sqrt(a), sqrt(1-a));
+    var distance = 6371000 * c; // Earth radius in meters
+    return distance;
+  }
 
-  List<Marker> createMarkersForPolygons(List<PolygonData> polygons) {
-    return polygons.map((polygonData) {
+  double _degreesToRadians(degrees) {
+    return degrees * pi / 180;
+  }
+
+  double calculateMinDistanceBasedOnZoom(double zoom) {
+    // Example logic: adjust these numbers based on your needs
+    if (zoom >= 18) return 20;
+    if (zoom >= 17.5) return 40;
+    if (zoom >= 17) return 70;
+    if (zoom >= 16.5) return 80;
+    if (zoom >= 16) return 150;
+    if (zoom >= 15.5) return 300;
+    if (zoom >= 15) return 600;
+    if (zoom >= 14.5) return 1200;
+    return 100000; // Default distance for lower zoom levels
+  }
+
+  double calculatePolygonArea(List<LatLng> points) {
+    double area = 0.0;
+    if (points.length < 3) return 0.0; // Not a polygon
+
+    int j = points.length - 1;
+    for (int i = 0; i < points.length; i++) {
+      area += (points[j].longitude + points[i].longitude) * (points[j].latitude - points[i].latitude);
+      j = i;  // j is previous vertex to i
+    }
+    return area.abs() / 2;
+  }
+
+
+  List<Marker> createMarkersForPolygons(List<PolygonData> polygons, double zoom) {
+    if(zoom <= 15){
+      return [];
+    }
+
+    double minDistance = calculateMinDistanceBasedOnZoom(zoom);
+    // Sort polygons by area, largest to smallest
+    polygons.sort((a, b) => calculatePolygonArea(b.polygon.points).compareTo(calculatePolygonArea(a.polygon.points)));
+    List<LatLng> visibleCentroids = [];
+    List<Marker> markers = [];
+
+    for (var polygonData in polygons) {
       LatLng centroid = calculateCentroid(polygonData.polygon.points);
-      return Marker(
-        width: 100.0,
-        height: 35.0,
-        point: centroid,
-        child: Container(
-          alignment: Alignment.center,
-          child: Text(
-            polygonData.name,
-            style: const TextStyle(
-              color: Colors.white60,
-              fontSize: 14,
+      bool isVisible = visibleCentroids.every((pt) => calculateDistance(pt, centroid) >= minDistance);
+
+      if (isVisible) {
+        visibleCentroids.add(centroid);
+        markers.add(
+          Marker(
+            point: centroid,
+            width: 110, // Placeholder width, adjust as necessary
+            child: Container(
+              padding: EdgeInsets.all(5),
+              child: Text(
+                polygonData.name,
+                style: TextStyle(
+                  color: Colors.grey[350], // White text color
+                  //fontWeight: FontWeight.bold, // Makes the text bold
+                  fontStyle: FontStyle.italic, // Makes the text italicized
+                ),
+                textAlign: TextAlign.center,
+                overflow: TextOverflow.visible,
+              ),
             ),
           ),
-        ),
-      );
-    }).toList();
+        );
+      }
+    }
+    return markers;
   }
+
+
 
   void _selectPolygon(PolygonData polygonData) {
     // Example action: Navigate to a detail page for the polygon
@@ -152,6 +248,43 @@ class _MyHomePageState extends State<MyHomePage> {
     mapController.move(centroid, zoom);
   }
 
+  Future<void> _centerMapOnUserIfClose() async {
+    const initialCenter = LatLng(39.1317, -84.5167);
+    const double distanceLimit = 1609.34; // 1 mile in meters
+
+    Position position = await Geolocator.getCurrentPosition();
+    double distance = Geolocator.distanceBetween(
+      initialCenter.latitude,
+      initialCenter.longitude,
+      position.latitude,
+      position.longitude,
+    );
+
+    if (distance <= distanceLimit) {
+      // Assuming mapController.move is correctly implemented for moving the map
+      mapController.move(LatLng(position.latitude, position.longitude), 19.0);
+    } else {
+      // Showing a snack bar if the user is not close enough
+      ScaffoldMessenger.of(context).showSnackBar(
+        const SnackBar(
+          content: Text(
+            "You are not close enough to UC for directions.",
+            style: TextStyle(color: Colors.white), // White text color
+          ),
+          backgroundColor: Colors.red, // Red background color
+          behavior: SnackBarBehavior.fixed, // Makes the snack bar floating
+          shape: RoundedRectangleBorder(
+            borderRadius: BorderRadius.only(
+              topLeft: Radius.circular(8), // Top left corner radius
+              topRight: Radius.circular(8), // Top right corner radius
+            ),
+          ),
+          duration: Duration(seconds: 2),
+        ),
+      );
+    }
+  }
+
 
   @override
   Widget build(BuildContext context) {
@@ -161,6 +294,17 @@ class _MyHomePageState extends State<MyHomePage> {
           FlutterMap(
             mapController: mapController,
             options: MapOptions(
+              onPositionChanged: (position, hasGesture) {
+                if (hasGesture && zoom != position.zoom) {
+                  print("Zoom level changed to: ${position.zoom}");
+                  setState(() {
+                    zoom = position.zoom!;
+                    markers = createMarkersForPolygons(filteredPolygons, zoom);
+                    // Debugging: Print out number of visible markers
+                    print("Number of visible markers: ${markers.length}");
+                  });
+                }
+              },
               initialCenter: const LatLng(39.1317, -84.5167), // Example coordinates
               initialZoom: zoom,
                 onTap: (tapPosition, point) {
@@ -180,6 +324,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 subdomains : const ['a','b','c','d','e'],// Enable retina mode based on device density
                 userAgentPackageName: 'com.example.app',
               ),
+              MarkerLayer(markers: markers),
               Opacity(
                 opacity: 0.15,
                 child: Container(
@@ -193,7 +338,7 @@ class _MyHomePageState extends State<MyHomePage> {
               ),
               MarkerLayer(
                 // getPolygons()
-                markers: createMarkersForPolygons(filteredPolygons),
+                markers: createMarkersForPolygons(filteredPolygons, zoom),
               ),
             ],
           ),
@@ -253,6 +398,32 @@ class _MyHomePageState extends State<MyHomePage> {
               },
             ),
           ),
+
+          Positioned(
+            left: 20,
+            bottom: 20,
+            child: TextButton(
+              style: TextButton.styleFrom(
+                foregroundColor: Colors.transparent, // Makes the splash effect invisible
+              ),
+              onPressed: _centerMapOnUserIfClose,
+              child: const Text(
+                '◎', // Your text-based icon
+                style: TextStyle(
+                  color: Colors.red, // Text color
+                  fontSize: 30, // Icon size, adjust as needed
+                  shadows: [
+                    Shadow(
+                      offset: Offset(3.0, 3.0), // Shadow position
+                      blurRadius: 5.0, // Shadow blur radius
+                      color: Color.fromARGB(255, 0, 0, 0), // Shadow color
+                    ),
+                  ],
+                ),
+              ),
+            ),
+          )
+
         ],
       ),
     );

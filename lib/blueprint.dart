@@ -1,8 +1,8 @@
 import 'dart:async';
 import 'dart:convert';
+import 'dart:ui';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart' show rootBundle;
-import 'dart:html' as html;
 import 'roomdata.dart';
 
 // Constants for base paths
@@ -18,63 +18,103 @@ class Blueprint extends StatefulWidget {
   BlueprintState createState() => BlueprintState();
 }
 
-class BlueprintState extends State<Blueprint> with WidgetsBindingObserver{
+class BlueprintState extends State<Blueprint> with WidgetsBindingObserver {
   ValueNotifier<Set<int>> clickedPolygons = ValueNotifier({});
   List<PolygonRoomData> polygons = [];
-  int? selectedPolygonIndex;
   double scaleFactor = 1.0;
-
-
+  OverlayEntry? _overlayEntry;
+  final FocusNode _searchFocusNode = FocusNode();
+  final TextEditingController _searchController = TextEditingController();
 
 
   @override
   void initState() {
     super.initState();
-    WidgetsBinding.instance.addObserver(this); // Add the observer
+    WidgetsBinding.instance.addObserver(this);
+    _setupSearchFocusNodeListener(); // Initialize the focus node listener
+
+    // Add post frame callback tasks
     WidgetsBinding.instance.addPostFrameCallback((_) async {
-      await updateScaleFactor(); // Your existing logic
-      loadPolygonData('assets/BlueprintMaps/TEACHERS/TEACHERS-03.json', 1.0, 1.0);
-      // Assuming you have a method to load initial data or perform initial setup
+      await updateScaleFactor();
+      // Load initial JSON data or handle as necessary
+    });
+
+    // Add listener to search controller
+    _searchController.addListener(_onSearchChanged);
+  }
+
+  void _onSearchChanged() {
+    if (_searchController.text.isEmpty) return;
+    String searchQuery = _searchController.text.toLowerCase();
+
+    // Filter polygons whose room code or description contains the search query
+    Set<int> filteredPolygons = {};
+    if (searchQuery.isNotEmpty) {
+      for (int i = 0; i < polygons.length; i++) {
+        String roomCode = polygons[i].roomInfo['Room Code']?.toLowerCase() ?? '';
+        String description = polygons[i].roomInfo['Description']?.toLowerCase() ?? '';
+
+        if (roomCode.contains(searchQuery) || description.contains(searchQuery)) {
+          filteredPolygons.add(i);
+        }
+      }
+    }
+
+    setState(() {
+      clickedPolygons.value = filteredPolygons;
     });
   }
 
   @override
   void dispose() {
-    WidgetsBinding.instance.removeObserver(this); // Remove the observer
+    WidgetsBinding.instance.removeObserver(this);
+    _searchFocusNode.dispose();
+    _searchController.removeListener(_onSearchChanged); // Remove listener on dispose
+    _searchController.dispose();
     super.dispose();
   }
 
   @override
   void didChangeMetrics() {
     super.didChangeMetrics();
-    // This method is called when the window size changes
-    print('Window size changed');
-    // Optionally, update your scaleFactor or perform other adjustments here
     _handleScreenSizeChange();
   }
 
   Future<void> _handleScreenSizeChange() async {
-    // Assuming you're recalculating based on the first image in your list
     if (getImageFilePaths().isNotEmpty) {
       String imagePath = getImageFilePaths().first;
       double newScaleFactor = await calculateScaleFactor(context, imagePath);
-
       setState(() {
-        scaleFactor = newScaleFactor; // Update your state's scale factor
+        scaleFactor = newScaleFactor;
       });
-
-      print('Window size changed. New scale factor: $newScaleFactor');
-    } else {
-      print('No images available for scale factor calculation.');
     }
   }
 
+  List<String> getJsonFilePaths() {
+    Map<String, List<String>> buildingJsons = {
+      'Teachers College': [
+        'assets/BlueprintMaps/TEACHERS/TEACHERS-01.json',
+        'assets/BlueprintMaps/TEACHERS/TEACHERS-02.json',
+        'assets/BlueprintMaps/TEACHERS/TEACHERS-03.json',
+        'assets/BlueprintMaps/TEACHERS/TEACHERS-04.json',
+        'assets/BlueprintMaps/TEACHERS/TEACHERS-05.json',
+        'assets/BlueprintMaps/TEACHERS/TEACHERS-06.json',
+      ],
+      // Add more buildings here
+    };
+    return buildingJsons[widget.buildingName] ?? [];
+  }
 
   List<String> getImageFilePaths() {
     Map<String, List<String>> buildingImages = {
-      'Teachers College': ['assets/Blueprints/TEACHERS/TEACHERS-01.png', 'assets/Blueprints/TEACHERS/TEACHERS-02.png'
-      , 'assets/Blueprints/TEACHERS/TEACHERS-03.png', 'assets/Blueprints/TEACHERS/TEACHERS-04.png'
-      , 'assets/Blueprints/TEACHERS/TEACHERS-05.png', 'assets/Blueprints/TEACHERS/TEACHERS-06.png'],
+      'Teachers College': [
+        'assets/Blueprints/TEACHERS/TEACHERS-01.png',
+        'assets/Blueprints/TEACHERS/TEACHERS-02.png',
+        'assets/Blueprints/TEACHERS/TEACHERS-03.png',
+        'assets/Blueprints/TEACHERS/TEACHERS-04.png',
+        'assets/Blueprints/TEACHERS/TEACHERS-05.png',
+        'assets/Blueprints/TEACHERS/TEACHERS-06.png',
+      ],
       // Add more buildings here
     };
     return buildingImages[widget.buildingName] ?? [];
@@ -94,12 +134,9 @@ class BlueprintState extends State<Blueprint> with WidgetsBindingObserver{
     Size screenSize = MediaQuery.of(context).size;
 
     // Use either height or width depending on your layout needs
-    print('image: $imageSize screen: ${screenSize.height}');
     double scaleFactor = (screenSize.height - 55)/ imageSize.height ;
     return scaleFactor;
   }
-
-
 
   Future<void> loadPolygonData(String jsonPath, double scaleFactorWidth, double scaleFactorHeight) async {
     final jsonString = await rootBundle.loadString(jsonPath);
@@ -127,124 +164,156 @@ class BlueprintState extends State<Blueprint> with WidgetsBindingObserver{
     }
   }
 
-  Future<List<Map<String, String>>> loadRoomData(String jsonPath) async {
-    final jsonString = await rootBundle.loadString(jsonPath);
-    final jsonData = json.decode(jsonString) as List;
-    return jsonData.map<Map<String, String>>((data) => Map<String, String>.from(data)).toList();
-  }
-
-  void triggerDownload(String jsonString, String filename) {
-    // Encode your JSON string
-    final bytes = utf8.encode(jsonString);
-    final blob = html.Blob([bytes], 'application/json');
-    final url = html.Url.createObjectUrlFromBlob(blob);
-    html.AnchorElement(href: url)
-      ..setAttribute("download", filename)
-      ..click();
-    html.Url.revokeObjectUrl(url);
-  }
-
-
   void _showRoomDataOrInputDialog(BuildContext context, int polygonIndex, List<PolygonRoomData> currentPolygons) {
-    // Ensure the index is valid to prevent "Index out of range" errors.
     if (polygonIndex < 0 || polygonIndex >= currentPolygons.length) {
-      print("Invalid polygon index: $polygonIndex");
       return; // Early return if index is invalid
     }
 
-    Map<String, String> roomInfo = currentPolygons[polygonIndex].roomInfo;
-    bool hasRoomInfo = roomInfo.isNotEmpty;
+    // Replace the set's contents with the new polygon index
+    Set<int> newClickedPolygons = {polygonIndex};
+    clickedPolygons.value = newClickedPolygons;
 
-    if (hasRoomInfo) {
-      // Display existing room information
-      showDialog(
-        context: context,
-        builder: (BuildContext context) {
-          return AlertDialog(
-            title: const Text("Room Information"),
-            content: SingleChildScrollView(
-              child: ListBody(
-                children: roomInfo.entries.map((entry) => Text("${entry.key}: ${entry.value}")).toList(),
-              ),
+    Map<String, String> roomInfo = currentPolygons[polygonIndex].roomInfo;
+    String roomCode = roomInfo['Room Code'] ?? '';
+    String departmentName = roomInfo['Department Name'] ?? 'Department not announced'; // Adjust the key as necessary
+    String description = roomInfo['Description'] ?? ''; // Adjust the key as necessary
+
+    showModalBottomSheet(
+      context: context,
+      builder: (BuildContext context) {
+        return GestureDetector(
+          behavior: HitTestBehavior.opaque,
+          onTap: () {},
+          child: Container(
+            padding: const EdgeInsets.all(20),
+            child: Column(
+              mainAxisSize: MainAxisSize.min,
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: <Widget>[
+                Text("Room: $roomCode", style: const TextStyle(fontSize: 25, fontWeight: FontWeight.bold)),
+                const Divider(),
+                Text(departmentName, style: TextStyle(fontSize: 20, fontStyle: FontStyle.italic, color: Colors.red.withOpacity(0.6))),
+                Text(description, style: const TextStyle(fontSize: 20)),
+              ],
             ),
-            actions: <Widget>[
-              TextButton(
-                child: const Text('Delete Room Data'),
-                onPressed: () {
-                  // Clear room info for the selected polygon
-                  setState(() {
-                    currentPolygons[polygonIndex].roomInfo.clear();
-                  });
-                  Navigator.of(context).pop(); // Close the dialog
-                },
-              ),
-              TextButton(
-                child: const Text('Close'),
-                onPressed: () {
-                  Navigator.of(context).pop();
-                },
-              ),
-            ],
-          );
-        },
-      );
-    } else {
-      // Prompt for new room information
-      TextEditingController roomNumberController = TextEditingController();
-      showDialog(
-        context: context,
-        builder: (BuildContext context) {
-          return AlertDialog(
-            title: const Text("Assign Room Number"),
-            content: TextField(
-              controller: roomNumberController,
-              decoration: const InputDecoration(hintText: "Enter Room Number"),
-            ),
-            actions: <Widget>[
-              TextButton(
-                child: const Text("Submit"),
-                onPressed: () {
-                  // Update room info for the selected polygon
-                  setState(() {
-                    currentPolygons[polygonIndex].roomInfo = {"Room Code": roomNumberController.text};
-                  });
-                  Navigator.of(context).pop();
-                },
-              ),
-            ],
-          );
-        },
-      );
-    }
+          ),
+        );
+      },
+      isScrollControlled: true, // This allows the modal to only be as tall as its content
+    ).then((_) {
+      // Optionally clear the selection when the modal is closed
+      clickedPolygons.value = {};
+    });
+  }
+
+  void _setupSearchFocusNodeListener() {
+    _searchFocusNode.addListener(() {
+      if (_searchFocusNode.hasFocus) {
+        _showOverlay();
+      } else {
+        // Wait for 500ms before removing the overlay.
+        Future.delayed(const Duration(milliseconds: 700), () {
+          // Check if the focus has not moved back to the search bar or the overlay
+          if (!_searchFocusNode.hasFocus) {
+            _overlayEntry?.remove();
+            _overlayEntry = null;
+          }
+        });
+      }
+    });
   }
 
 
+  void _showOverlay() {
+    _overlayEntry = _createOverlayEntry();
+    Overlay.of(context).insert(_overlayEntry!);
+  }
 
-  void _navigateAndDisplayImage(BuildContext context, String imagePath, String jsonPath) async {
+  OverlayEntry _createOverlayEntry() {
+
+    const double appBarHeight = 56.0; // Standard AppBar height. Adjust as necessary.
+    const double topOffset = appBarHeight; // Position the overlay just below the AppBar.
+    const double leftOffset = 80.0; // Start 80px in from the left edge of the screen.
+
+    return OverlayEntry(
+      builder: (context) => Positioned(
+        left: leftOffset,
+        top: topOffset,
+        child: Material(
+          color: Colors.white.withOpacity(0.6), // Set to light gray
+          child: Padding(
+            padding: const EdgeInsets.symmetric(vertical: 8.0),
+            child: SingleChildScrollView(
+              scrollDirection: Axis.horizontal,
+              child: Row(
+                mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+                children: <Widget>[
+                  _buildSearchTermChip('Restroom'),
+                  _buildSearchTermChip('Classroom'),
+                  _buildSearchTermChip('Office'),
+                  _buildSearchTermChip('Storage'),
+                  _buildSearchTermChip('Electrical'),
+                ],
+              ),
+            ),
+          ),
+        ),
+      ),
+    );
+  }
+
+  Widget _buildSearchTermChip(String term) {
+    return Padding(
+      padding: const EdgeInsets.symmetric(horizontal: 4.0),
+      child: ActionChip(
+        label: Text(term),
+        labelStyle: const TextStyle(color: Colors.black),
+        backgroundColor: Colors.white,
+        shape: const StadiumBorder(side: BorderSide(color: Colors.grey)),
+        onPressed: () => _searchTermSelected(term),
+      ),
+    );
+  }
+
+
+  void _searchTermSelected(String term) {
+    // You might need to adjust the logic based on your actual data structure.
+    Set<int> matchingPolygons = {};
+    for (int i = 0; i < polygons.length; i++) {
+      if (polygons[i].roomInfo['Description']?.contains(term) ?? false) {
+        matchingPolygons.add(i);
+      }
+    }
+    setState(() {
+      clickedPolygons.value = matchingPolygons;
+    });
+    _searchController.text = "";
+    _overlayEntry?.remove();
+    _overlayEntry = null;
+  }
+
+  void _navigateAndDisplayImage(BuildContext context, String imagePath) async {
     // Dynamically load the JSON for the selected blueprint
-    final jsonString = await rootBundle.loadString(jsonPath);
-    final jsonData = json.decode(jsonString) as List;
-    List<PolygonRoomData> loadedPolygons = jsonData.map<PolygonRoomData>((item) => PolygonRoomData.fromJson(item as Map<String, dynamic>)).toList();
-    print('$scaleFactor');
+    String fileNameWithoutExtension = imagePath.split('/').last.split('.').first;
 
     Navigator.of(context).push(
       MaterialPageRoute(
         builder: (_) => Scaffold(
           appBar: AppBar(
-            title: Text(imagePath.split('/').last), // Displaying the name of the blueprint as the title
-            actions: <Widget>[
-              IconButton(
-                icon: const Icon(Icons.download),
-                onPressed: () {
-                  // Use the dynamically loaded polygon data for the download
-                  final modifiedJsonString = json.encode(loadedPolygons.map((e) => e.toJson()).toList());
-                  // Dynamically set the filename based on the blueprint's name
-                  String filename = imagePath.split('/').last.replaceFirst('.png', '.json');
-                  triggerDownload(modifiedJsonString, filename);
-                },
-                tooltip: 'Download Modified Data',
+            backgroundColor: const Color(0xFF424549),
+            iconTheme: const IconThemeData(color: Colors.white),
+            title: TextField(
+              focusNode: _searchFocusNode,
+              controller: _searchController,
+              decoration: InputDecoration(
+                hintText: fileNameWithoutExtension,
+                hintStyle: TextStyle(color: Colors.white.withOpacity(0.7), fontStyle: FontStyle.italic),
+                border: InputBorder.none,
+                prefixIcon: Icon(Icons.search, color: Colors.white.withOpacity(0.7)),
               ),
-            ],
+              style: const TextStyle(color: Colors.white),
+            ),
+            actions: const <Widget>[],
           ),
           body: InteractiveViewer(
             child: Builder(
@@ -255,8 +324,8 @@ class BlueprintState extends State<Blueprint> with WidgetsBindingObserver{
                     final Offset localPosition = box.globalToLocal(details.globalPosition);
                     int polygonIndex = -1; // Initialize with an invalid index
 
-                    for (int i = 0; i < loadedPolygons.length; i++) {
-                      if (isPointInPolygon(localPosition, loadedPolygons[i].polygon.map((e) => Offset(e[0].toDouble() * scaleFactor, e[1].toDouble() * scaleFactor)).toList())) {
+                    for (int i = 0; i < polygons.length; i++) {
+                      if (isPointInPolygon(localPosition, polygons[i].polygon.map((e) => Offset(e[0].toDouble() * scaleFactor, e[1].toDouble() * scaleFactor)).toList())) {
                         polygonIndex = i; // Found a valid index
                         break;
                       }
@@ -272,11 +341,9 @@ class BlueprintState extends State<Blueprint> with WidgetsBindingObserver{
                       clickedPolygons.value = newSet; // This automatically notifies listeners
 
                       // Optionally, add a delay before showing dialog to allow the user to see the update
-                      Future.delayed(Duration(milliseconds: 200), () {
-                        _showRoomDataOrInputDialog(context, polygonIndex, loadedPolygons); // Ensure this method can handle dynamic polygons data
+                      Future.delayed(const Duration(milliseconds: 200), () {
+                        _showRoomDataOrInputDialog(context, polygonIndex, polygons); // Use polygons here
                       });
-                    } else {
-                      print("No valid polygon found at tap location. Clicked position: $localPosition");
                     }
                   },
                   child: Stack(
@@ -290,9 +357,9 @@ class BlueprintState extends State<Blueprint> with WidgetsBindingObserver{
                           return CustomPaint(
                             size: Size.infinite,
                             painter: InteractivePolygonPainter(
-                              loadedPolygons.map((e) => e.polygon.map((p) => Offset(p[0] * scaleFactor, p[1] * scaleFactor)).toList()).toList(),
+                              polygons.map((e) => e.polygon.map((p) => Offset(p[0] * scaleFactor, p[1] * scaleFactor)).toList()).toList(),
                               value,
-                              loadedPolygons,
+                              polygons,
                               scaleFactor,
                             ),
                           );
@@ -310,48 +377,110 @@ class BlueprintState extends State<Blueprint> with WidgetsBindingObserver{
   }
 
 
+  // Example of dynamically loading JSON data based on the selected image/path
+  void loadPolygonDataForSelectedImage(String imagePath) {
+    String jsonPath = imagePath
+        .replaceFirst('Blueprints', 'BlueprintMaps')
+        .replaceFirst(RegExp(r'\.png$'), '.json');
+
+    loadPolygonData(jsonPath, scaleFactor, scaleFactor);
+  }
+  // double cardHeight = MediaQuery.of(context).size.height / 5;
+
+
   @override
   Widget build(BuildContext context) {
     List<String> imageFiles = getImageFilePaths();
-    double cardHeight = MediaQuery.of(context).size.height / 5;
+    Color discordGray = const Color(0xFF424549);// Discord gray color
 
     return Scaffold(
       appBar: AppBar(
-        title: Text(widget.buildingName),
+        backgroundColor: discordGray,
+        title: Text(widget.buildingName,  style: TextStyle(fontStyle: FontStyle.italic, color: Colors.white.withOpacity(0.6))),
+        iconTheme: const IconThemeData(color: Colors.white),
       ),
-      body: ListView.builder(
-        padding: const EdgeInsets.all(10),
-        itemCount: imageFiles.length,
-        itemBuilder: (context, index) {
-          String imagePath = imageFiles[index];
-          String jsonPath = imagePath
-              .replaceFirst('Blueprints', 'BlueprintMaps')
-              .replaceFirst(RegExp(r'\.png$'), '.json');
+      body: Container(
+        color: const Color(0xFF303336), // Make background darker
+        child: GridView.builder(
+          padding: const EdgeInsets.all(10),
+          itemCount: imageFiles.length,
+          gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
+            crossAxisCount: 4,
+            crossAxisSpacing: 10,
+            mainAxisSpacing: 10,
+            childAspectRatio: (300 / 200),
+          ),
+          itemBuilder: (context, index) {
+            String imagePath = imageFiles[index];
+            String fileName = imagePath.split('/').last;
+            String floorNumber = fileName.length > 6 ? fileName.substring(fileName.length - 6, fileName.length - 4) : "N/A";
 
-          return InkWell(
-            onTap: () => navigateToViewer(context, imagePath, jsonPath),
-            child: Card(
-              child: SizedBox(
-                height: cardHeight,
-                child: Image.asset(imageFiles[index], fit: BoxFit.fitWidth),
+            return InkWell(
+              onTap: () {
+                // Clear the selected polygons by setting clickedPolygons to an empty set
+                setState(() {
+                  clickedPolygons.value = {};
+                });
+                // Navigate to the viewer
+                navigateToViewer(context, imagePath);
+              },
+              child: ClipRRect(
+                borderRadius: BorderRadius.circular(15.0), // Curved corners
+                child: Container(
+                  decoration: BoxDecoration(
+                    image: DecorationImage(
+                      image: AssetImage(imagePath),
+                      fit: BoxFit.cover,
+                      colorFilter: ColorFilter.mode(
+                        Colors.black.withOpacity(0.2), // Tint color
+                        BlendMode.darken,
+                      ),
+                    ),
+                  ),
+                  child: BackdropFilter(
+                    filter: ImageFilter.blur(sigmaX: 2, sigmaY: 2),
+                    child: Container(
+                      alignment: Alignment.bottomLeft,
+                      child: Padding(
+                        padding: const EdgeInsets.all(10.0),
+                        child: Text(
+                          "Floor - $floorNumber",
+                          style: const TextStyle(
+                            color: Colors.white,
+                            fontWeight: FontWeight.bold,
+                            fontStyle: FontStyle.italic,
+                            fontSize: 25,
+                            shadows: <Shadow>[
+                              Shadow(
+                                offset: Offset(0, 1),
+                                blurRadius: 3,
+                                color: Color.fromARGB(255, 0, 0, 0),
+                              ),
+                            ],
+                          ),
+                        ),
+                      ),
+                    ),
+                  ),
+                ),
               ),
-            ),
-          );
-        },
+            );
+          },
+        ),
       ),
     );
   }
 
 
-// This function wraps the navigation logic, including async scale factor calculation
-  void navigateToViewer(BuildContext context, String imagePath, String jsonPath) async {
+
+  void navigateToViewer(BuildContext context, String imagePath) async {
     double newScaleFactor = await calculateScaleFactor(context, imagePath);
     setState(() {
       scaleFactor = newScaleFactor;
     });
-    _navigateAndDisplayImage(context, imagePath, jsonPath);
+    loadPolygonDataForSelectedImage(imagePath); // Adjusted to dynamically load JSON data
+    _navigateAndDisplayImage(context, imagePath);
   }
-
 
 
   bool isPointInPolygon(Offset point, List<Offset> polygon) {
@@ -380,40 +509,15 @@ class InteractivePolygonPainter extends CustomPainter {
     final Paint paint = Paint()
       ..style = PaintingStyle.fill;
 
-    final TextPainter textPainter = TextPainter(
-      textAlign: TextAlign.center,
-      textDirection: TextDirection.ltr,
-    );
-
     for (int i = 0; i < polygons.length; i++) {
       final path = Path()..addPolygon(polygons[i], true);
       if (clickedPolygons.contains(i)) {
         paint.color = Colors.red.withOpacity(0.5);
       } else {
-        paint.color = polygonRoomData[i].roomInfo.isNotEmpty ? Colors.grey.withOpacity(0.5) : Colors.transparent;
+        paint.color = /* polygonRoomData[i].roomInfo.isNotEmpty ? Colors.grey.withOpacity(0.5) :*/ Colors.transparent;
       }
       canvas.drawPath(path, paint);
-
-      if (polygonRoomData[i].roomInfo.isNotEmpty) {
-        // Calculate centroid
-        final Offset centroid = _calculateCentroid(polygons[i]);
-        // Draw room code text
-        final String roomCode = polygonRoomData[i].roomInfo['Room Code'] ?? '';
-        textPainter.text = TextSpan(text: roomCode, style: const TextStyle(color: Colors.black, fontSize: 12));
-        textPainter.layout();
-        textPainter.paint(canvas, centroid - Offset(textPainter.width / 2, textPainter.height / 2));
-      }
     }
-  }
-
-  // Method to calculate the centroid of a polygon
-  Offset _calculateCentroid(List<Offset> points) {
-    double x = 0.0, y = 0.0;
-    for (var point in points) {
-      x += point.dx;
-      y += point.dy;
-    }
-    return Offset(x / points.length, y / points.length);
   }
 
   @override
