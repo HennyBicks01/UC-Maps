@@ -89,13 +89,13 @@ BEGIN
     BEGIN
         BLOCK "040904e4"
         BEGIN
-            VALUE "CompanyName", "com.flushfinder" "\0"
-            VALUE "FileDescription", "flush_finder" "\0"
+            VALUE "CompanyName", "com.example" "\0"
+            VALUE "FileDescription", "Find A Flush" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "flush_finder" "\0"
-            VALUE "LegalCopyright", "Copyright (C) 2023 com.flushfinder. All rights reserved." "\0"
-            VALUE "OriginalFilename", "flush_finder.exe" "\0"
-            VALUE "ProductName", "flush_finder" "\0"
+            VALUE "InternalName", "Find A Flush" "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2023 com.example. All rights reserved." "\0"
+            VALUE "OriginalFilename", "Find A Flush.exe" "\0"
+            VALUE "ProductName", "Find A Flush" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
