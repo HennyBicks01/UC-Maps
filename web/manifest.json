@@ -1,11 +1,11 @@
 {
-    "name": "flush_finder",
-    "short_name": "flush_finder",
+    "name": "find_flush",
+    "short_name": "find_flush",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "a uc software tool to find the best toilet near you",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
