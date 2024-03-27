@@ -1,0 +1,1094 @@
+[
+    {
+        "Floor Code": "03",
+        "Room Code": "3101",
+        "Description": "Break Room",
+        "Department Name": "A&S College of Arts and Sciences"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3102",
+        "Description": "Conference",
+        "Department Name": "A&S College of Arts and Sciences"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3103",
+        "Description": "Conference",
+        "Department Name": "A&S College of Arts and Sciences"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3104",
+        "Description": "Conference",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3105",
+        "Description": "Conference",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3106",
+        "Description": "Custodial",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3107",
+        "Description": "Electrical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3110",
+        "Description": "Data Lab",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3112",
+        "Description": "Other Lab Svc Instr",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3120",
+        "Description": "Computer Instr Lab",
+        "Department Name": "A&S Journalism"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3125",
+        "Description": "Computer Instr Lab",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3130",
+        "Description": "Data Lab Svc",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3130Z",
+        "Description": "Lab Circ Rsch",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3131",
+        "Description": "Data Lab",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3135",
+        "Description": "Data Lab",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3137",
+        "Description": "Conference",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3138",
+        "Description": "Data Lab",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3138A",
+        "Description": "Data Lab",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3139",
+        "Description": "Internal Office Circ",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3139.01",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3139.02",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3139.03",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3139.04",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3139A",
+        "Description": "Data Lab",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3140",
+        "Description": "Internal Office Circ",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3140.01",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3140.02",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3140.03",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3140.04",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3140A",
+        "Description": "Data Lab",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3141",
+        "Description": "Internal Office Circ",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3141.01",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3141.02",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3141.03",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3141.04",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3141A",
+        "Description": "Data Lab",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3142",
+        "Description": "Internal Office Circ",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3142.01",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3142.02",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3142.03",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3142.04",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3142A",
+        "Description": "Data Lab",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3143",
+        "Description": "Internal Office Circ",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3143.01",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3143.02",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3143.03",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3143.04",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3143A",
+        "Description": "Data Lab",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3144",
+        "Description": "Internal Office Circ",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3144.01",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3144.02",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3144.03",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3144.04",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3145",
+        "Description": "Workroom",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3146",
+        "Description": "Office",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3147",
+        "Description": "Reception/Waiting",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3148",
+        "Description": "Internal Office Circ",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3148.01",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3148.02",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3148.03",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3148.04",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3149",
+        "Description": "Internal Office Circ",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3149.01",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3149.02",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3149.03",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3149.04",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3150",
+        "Description": "Internal Office Circ",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3150.01",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3150.02",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3150.03",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3150.04",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3151",
+        "Description": "Data Lab Svc",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3151.01",
+        "Description": "Modular",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3151.02",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3151.03",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3151.04",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3152",
+        "Description": "Data Lab",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3153",
+        "Description": "Data Lab",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3154",
+        "Description": "Lactation Room",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3160",
+        "Description": "Restroom All Gender",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3161",
+        "Description": "Restroom Female",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3163",
+        "Description": "Restroom Male",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3164",
+        "Description": "Telecommunications Room",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3165",
+        "Description": "Mechanical",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3196",
+        "Description": "Shaft Space",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3198A",
+        "Description": "Stair",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3199E",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3201",
+        "Description": "Group Study",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3205",
+        "Description": "Conference",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3207",
+        "Description": "Custodial",
+        "Department Name": "A&S Journalism"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3210",
+        "Description": "Office",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3211",
+        "Description": "Office",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3212",
+        "Description": "Office",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3213",
+        "Description": "Office",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3214",
+        "Description": "Office",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3215",
+        "Description": "Office",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3216",
+        "Description": "Office",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3217",
+        "Description": "Workroom",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3218",
+        "Description": "Office",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3222",
+        "Description": "Telecommunications Room",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3223",
+        "Description": "Restroom Male",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3224",
+        "Description": "Restroom Female",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3230",
+        "Description": "Office",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3230A",
+        "Description": "Internal Office Circ",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3230A.01",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3230A.02",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3230A.03",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3231",
+        "Description": "Office",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3231A",
+        "Description": "Office",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3232",
+        "Description": "Office",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3233",
+        "Description": "Office",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3233A",
+        "Description": "Workroom",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3234",
+        "Description": "Office",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3234A",
+        "Description": "Internal Office Circ",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3234A.01",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3234A.02",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3235",
+        "Description": "Office",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3235A",
+        "Description": "Internal Office Circ",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3235A.01",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3235A.02",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3236",
+        "Description": "Office",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3236A",
+        "Description": "Internal Office Circ",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3236A.01",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3236A.02",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3237",
+        "Description": "Office",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3237A",
+        "Description": "Conference",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3238",
+        "Description": "Office",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3238A",
+        "Description": "Internal Office Circ",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3238A.01",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3238A.02",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3239",
+        "Description": "Office",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3239A",
+        "Description": "Office",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3240",
+        "Description": "Office",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3240A",
+        "Description": "Internal Office Circ",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3240A.01",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3240A.02",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3241",
+        "Description": "Office",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3241A",
+        "Description": "Internal Office Circ",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3241A.01",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3241A.02",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3242",
+        "Description": "Office",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3242A",
+        "Description": "Internal Office Circ",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3242A.01",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3242A.02",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3242A.03",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3250",
+        "Description": "Office",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3251",
+        "Description": "Office",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3252",
+        "Description": "Office",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3253",
+        "Description": "Office",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3254",
+        "Description": "Office",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3255",
+        "Description": "Office",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3256",
+        "Description": "Office",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3257",
+        "Description": "Conference",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3258",
+        "Description": "Office",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3259",
+        "Description": "Office",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3260",
+        "Description": "Office",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3261",
+        "Description": "Office",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3262",
+        "Description": "Office",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3263",
+        "Description": "Office",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3264",
+        "Description": "Office",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3265",
+        "Description": "Office",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3266",
+        "Description": "Office",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3267",
+        "Description": "Office",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3268",
+        "Description": "Office",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3269",
+        "Description": "Office",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3270",
+        "Description": "Office",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3271",
+        "Description": "Office",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3272",
+        "Description": "Office",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3273",
+        "Description": "Office",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3275",
+        "Description": "Office Svc - Other",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3277",
+        "Description": "Electrical",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3296",
+        "Description": "Shaft Space",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3297A",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3297B",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3297C",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3298C",
+        "Description": "Stair",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3298D",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3298E",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3299E",
+        "Description": "Internal Office Circ",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3299N",
+        "Description": "Corridor",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3299S",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3299SZ",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    }
+]

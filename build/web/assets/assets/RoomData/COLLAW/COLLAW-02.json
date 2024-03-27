@@ -1,0 +1,464 @@
+[
+    {
+        "Floor Code": "02",
+        "Room Code": "201",
+        "Description": "Internal Office Circ",
+        "Department Name": "Law College of Law"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "201.01",
+        "Description": "Modular",
+        "Department Name": "Law College of Law"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "201.02",
+        "Description": "Modular",
+        "Department Name": "Law College of Law"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "201A",
+        "Description": "Conference",
+        "Department Name": "Law College of Law"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "201B",
+        "Description": "Office",
+        "Department Name": "Law College of Law"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "201C",
+        "Description": "Office",
+        "Department Name": "Law College of Law"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "202",
+        "Description": "Break Room",
+        "Department Name": "Law College of Law"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "203",
+        "Description": "Office",
+        "Department Name": "Law College of Law"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "204",
+        "Description": "Electrical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "206",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "210",
+        "Description": "Internal Office Circ",
+        "Department Name": "Law College of Law"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "210.01",
+        "Description": "Modular",
+        "Department Name": "Law College of Law"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "210.02",
+        "Description": "Modular",
+        "Department Name": "Law College of Law"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "210A",
+        "Description": "Copy/Mail",
+        "Department Name": "Law College of Law"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "210B",
+        "Description": "Office",
+        "Department Name": "Law College of Law"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "210C",
+        "Description": "Office",
+        "Department Name": "Law College of Law"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "210D",
+        "Description": "Office",
+        "Department Name": "Law College of Law"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "210E",
+        "Description": "Conference",
+        "Department Name": "Law College of Law"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "210F",
+        "Description": "Office",
+        "Department Name": "Law College of Law"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "210G",
+        "Description": "Conference",
+        "Department Name": "Law College of Law"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "210H",
+        "Description": "Office",
+        "Department Name": "Law College of Law"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "210J",
+        "Description": "Workroom",
+        "Department Name": "Law College of Law"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "210K",
+        "Description": "Office",
+        "Department Name": "Law College of Law"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "210M",
+        "Description": "Office",
+        "Department Name": "Law College of Law"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "210N",
+        "Description": "Office",
+        "Department Name": "Law College of Law"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "210P",
+        "Description": "Office",
+        "Department Name": "Law College of Law"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "210Q",
+        "Description": "Office",
+        "Department Name": "Law College of Law"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "212",
+        "Description": "Restroom Female",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "214",
+        "Description": "Restroom Male",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "215",
+        "Description": "Copy/Mail",
+        "Department Name": "Law College of Law"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "216",
+        "Description": "Custodial",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "217",
+        "Description": "Telecommunications Room",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "218",
+        "Description": "Electrical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "221",
+        "Description": "Copy/Mail",
+        "Department Name": "Law College of Law"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "223",
+        "Description": "Conference",
+        "Department Name": "Law College of Law"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "225",
+        "Description": "Office Svc - Other",
+        "Department Name": "Law College of Law"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "225A",
+        "Description": "Office Svc - Other",
+        "Department Name": "Law College of Law"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "225B",
+        "Description": "Office Svc - Other",
+        "Department Name": "Law College of Law"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "225C",
+        "Description": "Copy/Mail",
+        "Department Name": "Law College of Law"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "225D",
+        "Description": "Office Svc - Other",
+        "Department Name": "Law College of Law"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "225E",
+        "Description": "Office Svc - Other",
+        "Department Name": "Law College of Law"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "225F",
+        "Description": "Office Svc - Other",
+        "Department Name": "Law College of Law"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "225G",
+        "Description": "Office Svc - Other",
+        "Department Name": "Law College of Law"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "225H",
+        "Description": "Office Svc - Other",
+        "Department Name": "Law College of Law"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "227",
+        "Description": "Study Room",
+        "Department Name": "Law Library"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "230",
+        "Description": "Classroom",
+        "Department Name": "Law College of Law"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "230ZA",
+        "Description": "Classroom Svc",
+        "Department Name": "Law College of Law"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "230ZB",
+        "Description": "Classroom Svc",
+        "Department Name": "Law College of Law"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "235",
+        "Description": "Classroom",
+        "Department Name": "Law College of Law"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "235ZA",
+        "Description": "Classroom Svc",
+        "Department Name": "Law College of Law"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "235ZB",
+        "Description": "Classroom Svc",
+        "Department Name": "Law College of Law"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "240",
+        "Description": "Classroom",
+        "Department Name": "Law College of Law"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "245",
+        "Description": "Classroom",
+        "Department Name": "Law College of Law"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "251",
+        "Description": "Electrical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "255",
+        "Description": "Workroom",
+        "Department Name": "Law College of Law"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "255A",
+        "Description": "Media",
+        "Department Name": "Law College of Law"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "255B",
+        "Description": "Office",
+        "Department Name": "Law College of Law"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "257",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "259",
+        "Description": "Telecommunications Room",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "260",
+        "Description": "Lounge",
+        "Department Name": "Law Library"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "270",
+        "Description": "Group Study",
+        "Department Name": "Law Library"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "271",
+        "Description": "Study Room",
+        "Department Name": "Law Library"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "273",
+        "Description": "Study Room",
+        "Department Name": "Law Library"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "275",
+        "Description": "Study Room",
+        "Department Name": "Law Library"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "276",
+        "Description": "Study Room",
+        "Department Name": "Law Library"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "277",
+        "Description": "Study Room",
+        "Department Name": "Law Library"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "297A",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "297B",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "298A",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "298C",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "298D",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "298E",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "299C",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "299E",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "299N",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "299S",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "299W",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    }
+]

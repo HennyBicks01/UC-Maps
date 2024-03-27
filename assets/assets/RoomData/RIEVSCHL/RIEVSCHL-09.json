@@ -1,0 +1,98 @@
+[
+    {
+        "Floor Code": "09",
+        "Room Code": "900",
+        "Description": "Mechanical",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "09",
+        "Room Code": "901",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "09",
+        "Room Code": "902",
+        "Description": "Greenhouse Svc",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "09",
+        "Room Code": "903",
+        "Description": "Greenhouse Svc",
+        "Department Name": "A&S Biological Sciences"
+    },
+    {
+        "Floor Code": "09",
+        "Room Code": "904",
+        "Description": "Greenhouse",
+        "Department Name": "A&S Biological Sciences"
+    },
+    {
+        "Floor Code": "09",
+        "Room Code": "905",
+        "Description": "Greenhouse",
+        "Department Name": "A&S Biological Sciences"
+    },
+    {
+        "Floor Code": "09",
+        "Room Code": "906",
+        "Description": "Greenhouse",
+        "Department Name": "A&S Biological Sciences"
+    },
+    {
+        "Floor Code": "09",
+        "Room Code": "907",
+        "Description": "Greenhouse",
+        "Department Name": "A&S Biological Sciences"
+    },
+    {
+        "Floor Code": "09",
+        "Room Code": "908",
+        "Description": "Greenhouse",
+        "Department Name": "A&S Biological Sciences"
+    },
+    {
+        "Floor Code": "09",
+        "Room Code": "908Z",
+        "Description": "Greenhouse Svc",
+        "Department Name": "A&S Biological Sciences"
+    },
+    {
+        "Floor Code": "09",
+        "Room Code": "909",
+        "Description": "Greenhouse Svc",
+        "Department Name": "A&S Biological Sciences"
+    },
+    {
+        "Floor Code": "09",
+        "Room Code": "909A",
+        "Description": "Central Storage",
+        "Department Name": "A&S Biological Sciences"
+    },
+    {
+        "Floor Code": "09",
+        "Room Code": "997B",
+        "Description": "Elevator",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "09",
+        "Room Code": "998B",
+        "Description": "Stair",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "09",
+        "Room Code": "998C",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "09",
+        "Room Code": "999",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    }
+]

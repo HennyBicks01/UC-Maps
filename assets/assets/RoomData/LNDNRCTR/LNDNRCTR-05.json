@@ -1,0 +1,362 @@
+[
+    {
+        "Floor Code": "05",
+        "Room Code": "550A",
+        "Description": "Classroom Svc",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "550B",
+        "Description": "Electrical",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "550C",
+        "Description": "Telecommunications Room",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "550ZA",
+        "Description": "Internal Office Circ",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "550ZB",
+        "Description": "Internal Office Circ",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "553",
+        "Description": "Custodial",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "555",
+        "Description": "Electrical",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "557",
+        "Description": "Restroom Male",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "559",
+        "Description": "Restroom Female",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "560",
+        "Description": "Internal Office Circ",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "560A",
+        "Description": "Study Room",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "560B",
+        "Description": "Study Room",
+        "Department Name": "Athletics Student Athlete Suppt Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "560C",
+        "Description": "Study Room",
+        "Department Name": "Athletics Student Athlete Suppt Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "560D",
+        "Description": "Study Room",
+        "Department Name": "Athletics Student Athlete Suppt Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "565",
+        "Description": "Internal Office Circ",
+        "Department Name": "Athletics Student Athlete Suppt Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "565A",
+        "Description": "Study Room",
+        "Department Name": "Athletics Student Athlete Suppt Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "565B",
+        "Description": "Office Svc - Other",
+        "Department Name": "Athletics Student Athlete Suppt Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "565C",
+        "Description": "Study Room",
+        "Department Name": "Athletics Student Athlete Suppt Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "565D",
+        "Description": "Study Room",
+        "Department Name": "Athletics Student Athlete Suppt Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "565E",
+        "Description": "Study Room",
+        "Department Name": "Athletics Student Athlete Suppt Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "565F",
+        "Description": "Study Room",
+        "Department Name": "Athletics Student Athlete Suppt Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "565G",
+        "Description": "Study Room",
+        "Department Name": "Athletics Student Athlete Suppt Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "565H",
+        "Description": "Study Room",
+        "Department Name": "Athletics Student Athlete Suppt Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "565J",
+        "Description": "Study Room",
+        "Department Name": "Athletics Student Athlete Suppt Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "565K",
+        "Description": "Study Room",
+        "Department Name": "Athletics Student Athlete Suppt Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "565L",
+        "Description": "Office",
+        "Department Name": "Athletics Student Athlete Suppt Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "565M",
+        "Description": "Study Room",
+        "Department Name": "Athletics Student Athlete Suppt Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "565N",
+        "Description": "Study Room",
+        "Department Name": "Athletics Student Athlete Suppt Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "565O",
+        "Description": "Study Room",
+        "Department Name": "Athletics Student Athlete Suppt Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "565P",
+        "Description": "Study Room",
+        "Department Name": "Athletics Student Athlete Suppt Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "565R",
+        "Description": "Study Room",
+        "Department Name": "Athletics Student Athlete Suppt Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "567",
+        "Description": "Restroom Female",
+        "Department Name": "Athletics Student Athlete Suppt Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "569",
+        "Description": "Restroom Male",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "570",
+        "Description": "Study Room",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "570.01",
+        "Description": "Modular",
+        "Department Name": "Athletics Student Athlete Suppt Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "570.02",
+        "Description": "Modular",
+        "Department Name": "Athletics Student Athlete Suppt Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "574",
+        "Description": "Computer Study Lab (Unsch)",
+        "Department Name": "Athletics Student Athlete Suppt Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "574.01",
+        "Description": "Modular",
+        "Department Name": "Athletics Student Athlete Suppt Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "574.02",
+        "Description": "Modular",
+        "Department Name": "Athletics Student Athlete Suppt Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "575",
+        "Description": "Break Room",
+        "Department Name": "Athletics Student Athlete Suppt Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "580",
+        "Description": "Reception/Waiting",
+        "Department Name": "Athletics Student Athlete Suppt Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "580.01",
+        "Description": "Modular",
+        "Department Name": "Athletics Student Athlete Suppt Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "580A",
+        "Description": "Office",
+        "Department Name": "Athletics Student Athlete Suppt Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "580B",
+        "Description": "Office Svc - Other",
+        "Department Name": "Athletics Student Athlete Suppt Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "580C",
+        "Description": "Office",
+        "Department Name": "Athletics Student Athlete Suppt Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "580D",
+        "Description": "Office",
+        "Department Name": "Athletics Student Athlete Suppt Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "580E",
+        "Description": "Office",
+        "Department Name": "Athletics Student Athlete Suppt Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "580F",
+        "Description": "Office",
+        "Department Name": "Athletics Student Athlete Suppt Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "580G",
+        "Description": "Office",
+        "Department Name": "Athletics Student Athlete Suppt Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "580H",
+        "Description": "Office",
+        "Department Name": "Athletics Student Athlete Suppt Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "596",
+        "Description": "Shaft Space",
+        "Department Name": "Athletics Student Athlete Suppt Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "597H",
+        "Description": "Service Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "597J",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "597K",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "598S",
+        "Description": "Stair",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "598T",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "598U",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "598V",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "598W",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "599",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    }
+]

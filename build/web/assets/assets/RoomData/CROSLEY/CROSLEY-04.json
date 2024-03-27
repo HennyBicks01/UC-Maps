@@ -1,0 +1,146 @@
+[
+    {
+        "Floor Code": "04",
+        "Room Code": "400",
+        "Description": "Office",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "401",
+        "Description": "Office",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "402",
+        "Description": "Office",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "403",
+        "Description": "Office",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "404",
+        "Description": "Reception/Waiting",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "404A",
+        "Description": "Office",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "404B",
+        "Description": "Office",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "405",
+        "Description": "Haz Mat",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "405A",
+        "Description": "Office",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "406",
+        "Description": "Restroom Male",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "407",
+        "Description": "Wet Lab",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "408",
+        "Description": "Other Lab Svc Rsch",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "409",
+        "Description": "Office Svc - Other",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "410",
+        "Description": "Other Lab Svc Rsch",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "411",
+        "Description": "Wet Lab",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "412",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "496",
+        "Description": "Shaft Space",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "497A",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "497B",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "497C",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "497D",
+        "Description": "Dumbwaiter",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "498A",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "498B",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "499",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    }
+]

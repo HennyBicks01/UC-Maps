@@ -1,0 +1,458 @@
+[
+    {
+        "Floor Code": "03",
+        "Room Code": "301",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "301A",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "304",
+        "Description": "Custodial",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "306",
+        "Description": "Restroom Male",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "307",
+        "Description": "Special Research Lab",
+        "Department Name": "CEAS - Characterization Center"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "307A",
+        "Description": "Special Rsch Lab Svc",
+        "Department Name": "CEAS - Characterization Center"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "307B",
+        "Description": "Darkroom Rsch",
+        "Department Name": "CEAS - Characterization Center"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "308",
+        "Description": "Office Svc - Other",
+        "Department Name": "CEAS - Characterization Center"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "309",
+        "Description": "Special Research Lab",
+        "Department Name": "CEAS - Characterization Center"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "309A",
+        "Description": "Special Rsch Lab Svc",
+        "Department Name": "CEAS - Characterization Center"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "310",
+        "Description": "Office",
+        "Department Name": "CEAS - Characterization Center"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "314",
+        "Description": "Office",
+        "Department Name": "CEAS - College of Eng & Appl Science"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "315",
+        "Description": "Special Research Lab",
+        "Department Name": "CEAS - Characterization Center"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "315A",
+        "Description": "Special Rsch Lab Svc",
+        "Department Name": "CEAS - Characterization Center"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "316",
+        "Description": "Office",
+        "Department Name": "CEAS - Characterization Center"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "318",
+        "Description": "Special Rsch Lab Svc",
+        "Department Name": "CEAS - Characterization Center"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "320",
+        "Description": "Special Research Lab",
+        "Department Name": "CEAS - Characterization Center"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "324",
+        "Description": "Prep Room Rsch",
+        "Department Name": "CEAS - Characterization Center"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "326",
+        "Description": "Special Research Lab",
+        "Department Name": "CEAS - Characterization Center"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "327",
+        "Description": "Special Research Lab",
+        "Department Name": "CEAS - Characterization Center"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "328",
+        "Description": "Special Rsch Lab Svc",
+        "Department Name": "CEAS - Characterization Center"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "332",
+        "Description": "Special Research Lab",
+        "Department Name": "CEAS - Characterization Center"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "333",
+        "Description": "Special Research Lab",
+        "Department Name": "CEAS - Characterization Center"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "334",
+        "Description": "Telecommunications Room",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "335",
+        "Description": "Special Research Lab",
+        "Department Name": "CEAS - Characterization Center"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "335A",
+        "Description": "Special Rsch Lab Svc",
+        "Department Name": "CEAS - Characterization Center"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "336",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "338",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "340",
+        "Description": "Instrument Lab",
+        "Department Name": "CEAS - Characterization Center"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "344",
+        "Description": "Instrument Lab",
+        "Department Name": "CEAS - Characterization Center"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "346",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "347",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "348",
+        "Description": "Wet Lab",
+        "Department Name": "CEAS - Characterization Center"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "350",
+        "Description": "Special Research Lab",
+        "Department Name": "CEAS - Characterization Center"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "351",
+        "Description": "Special Rsch Lab Svc",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "352",
+        "Description": "Special Rsch Lab Svc",
+        "Department Name": "CEAS - Clean Room"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "353",
+        "Description": "Special Research Lab",
+        "Department Name": "CEAS - Clean Room"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "354",
+        "Description": "Special Research Lab",
+        "Department Name": "CEAS - Clean Room"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "355",
+        "Description": "Special Research Lab",
+        "Department Name": "CEAS - Clean Room"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "358",
+        "Description": "Special Research Lab",
+        "Department Name": "CEAS - Clean Room"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "359",
+        "Description": "Special Research Lab",
+        "Department Name": "CEAS - Clean Room"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "361",
+        "Description": "Special Research Lab",
+        "Department Name": "CEAS - Clean Room"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "364",
+        "Description": "Special Research Lab",
+        "Department Name": "CEAS - Clean Room"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "366",
+        "Description": "Special Rsch Lab Svc",
+        "Department Name": "CEAS - Clean Room"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "369",
+        "Description": "Special Rsch Lab Svc",
+        "Department Name": "CEAS - Clean Room"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "370",
+        "Description": "Custodial",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "371",
+        "Description": "Wet Lab",
+        "Department Name": "CEAS - Clean Room"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "372",
+        "Description": "Special Rsch Lab Svc",
+        "Department Name": "CEAS - Clean Room"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "374",
+        "Description": "Special Research Lab",
+        "Department Name": "CEAS - Clean Room"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "375",
+        "Description": "Central Storage",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "376",
+        "Description": "Containment Facility",
+        "Department Name": "CEAS - College of Eng & Appl Science"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "377",
+        "Description": "Central Storage",
+        "Department Name": "CEAS - College of Eng & Appl Science"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "378",
+        "Description": "Custodial",
+        "Department Name": "CEAS - College of Eng & Appl Science"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "380",
+        "Description": "Custodial",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "381",
+        "Description": "Office Svc - Other",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "382",
+        "Description": "Office",
+        "Department Name": "CEAS - Clean Room"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "383",
+        "Description": "Office",
+        "Department Name": "CEAS - College of Eng & Appl Science"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "385",
+        "Description": "Office",
+        "Department Name": "CEAS - College of Eng & Appl Science"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "386",
+        "Description": "Office",
+        "Department Name": "CEAS - Facilities"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "387",
+        "Description": "Office",
+        "Department Name": "CEAS - College of Eng & Appl Science"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "388",
+        "Description": "Office",
+        "Department Name": "CEAS - College of Eng & Appl Science"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "390",
+        "Description": "Office",
+        "Department Name": "CEAS - College of Eng & Appl Science"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "391",
+        "Description": "Office",
+        "Department Name": "CEAS - College of Eng & Appl Science"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "392",
+        "Description": "Restroom Female",
+        "Department Name": "CEAS - College of Eng & Appl Science"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "393",
+        "Description": "Custodial",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "397A",
+        "Description": "Elevator",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "397B",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "397C",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "397D",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "398A",
+        "Description": "Stair",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "398C",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "398D",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "398F",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "398G",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "398H",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "399",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    }
+]

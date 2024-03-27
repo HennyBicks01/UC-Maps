@@ -1,0 +1,362 @@
+[
+    {
+        "Floor Code": "09",
+        "Room Code": "900",
+        "Description": "Office",
+        "Department Name": "CEAS - Engineering & Computing Education"
+    },
+    {
+        "Floor Code": "09",
+        "Room Code": "900A",
+        "Description": "Office",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "09",
+        "Room Code": "901",
+        "Description": "Wet Lab Svc",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "09",
+        "Room Code": "901A",
+        "Description": "Wet Lab",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "09",
+        "Room Code": "901AA",
+        "Description": "Special Research Lab",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "09",
+        "Room Code": "901B",
+        "Description": "Mechanical",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "09",
+        "Room Code": "902",
+        "Description": "Under Construction",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "09",
+        "Room Code": "902A",
+        "Description": "Under Construction",
+        "Department Name": "West Campus Construction"
+    },
+    {
+        "Floor Code": "09",
+        "Room Code": "904",
+        "Description": "Under Construction",
+        "Department Name": "West Campus Construction"
+    },
+    {
+        "Floor Code": "09",
+        "Room Code": "905",
+        "Description": "Lab Circ Rsch",
+        "Department Name": "West Campus Construction"
+    },
+    {
+        "Floor Code": "09",
+        "Room Code": "905A",
+        "Description": "Office",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "09",
+        "Room Code": "905B",
+        "Description": "Wet Lab",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "09",
+        "Room Code": "905BA",
+        "Description": "Wet Lab Svc",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "09",
+        "Room Code": "905C",
+        "Description": "Special Research Lab",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "09",
+        "Room Code": "905D",
+        "Description": "Instrument Lab",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "09",
+        "Room Code": "905DA",
+        "Description": "Instrument Lab",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "09",
+        "Room Code": "905E",
+        "Description": "Wet Lab",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "09",
+        "Room Code": "905EA",
+        "Description": "Wet Lab Svc",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "09",
+        "Room Code": "905EAA",
+        "Description": "Wet Lab Svc",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "09",
+        "Room Code": "905EB",
+        "Description": "Special Research Lab",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "09",
+        "Room Code": "908",
+        "Description": "Electrical",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "09",
+        "Room Code": "916",
+        "Description": "Special Rsch Lab Svc",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "09",
+        "Room Code": "917",
+        "Description": "Office",
+        "Department Name": "CEAS - Clean Room"
+    },
+    {
+        "Floor Code": "09",
+        "Room Code": "917A",
+        "Description": "Wet Lab",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "09",
+        "Room Code": "918",
+        "Description": "Special Rsch Lab Svc",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "09",
+        "Room Code": "918A",
+        "Description": "Conference",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "09",
+        "Room Code": "918B",
+        "Description": "Special Research Lab",
+        "Department Name": "CEAS - Clean Room"
+    },
+    {
+        "Floor Code": "09",
+        "Room Code": "918C",
+        "Description": "Wet Lab",
+        "Department Name": "CEAS - Clean Room"
+    },
+    {
+        "Floor Code": "09",
+        "Room Code": "918D",
+        "Description": "Office",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "09",
+        "Room Code": "918DA",
+        "Description": "Special Rsch Lab Svc",
+        "Department Name": "CEAS - Clean Room"
+    },
+    {
+        "Floor Code": "09",
+        "Room Code": "919",
+        "Description": "Special Research Lab",
+        "Department Name": "CEAS - Clean Room"
+    },
+    {
+        "Floor Code": "09",
+        "Room Code": "921",
+        "Description": "Office",
+        "Department Name": "CEAS - Clean Room"
+    },
+    {
+        "Floor Code": "09",
+        "Room Code": "923",
+        "Description": "Instrument Lab",
+        "Department Name": "CEAS - UC Sim Center"
+    },
+    {
+        "Floor Code": "09",
+        "Room Code": "931",
+        "Description": "Wet Lab",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "09",
+        "Room Code": "933",
+        "Description": "Office",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "09",
+        "Room Code": "933A",
+        "Description": "Wet Lab",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "09",
+        "Room Code": "933AA",
+        "Description": "Wet Lab Svc",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "09",
+        "Room Code": "934",
+        "Description": "Special Rsch Lab Svc",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "09",
+        "Room Code": "934A",
+        "Description": "Office",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "09",
+        "Room Code": "934B",
+        "Description": "Special Rsch Lab Svc",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "09",
+        "Room Code": "934C",
+        "Description": "Office",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "09",
+        "Room Code": "934D",
+        "Description": "Office",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "09",
+        "Room Code": "935",
+        "Description": "Instrument Lab",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "09",
+        "Room Code": "936",
+        "Description": "Office",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "09",
+        "Room Code": "937",
+        "Description": "Office",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "09",
+        "Room Code": "937A",
+        "Description": "Instrument Lab",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "09",
+        "Room Code": "937B",
+        "Description": "Special Rsch Lab Svc",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "09",
+        "Room Code": "938",
+        "Description": "Instrument Lab",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "09",
+        "Room Code": "938A",
+        "Description": "Special Research Lab",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "09",
+        "Room Code": "939",
+        "Description": "Restroom Male",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "09",
+        "Room Code": "939A",
+        "Description": "Custodial",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "09",
+        "Room Code": "941",
+        "Description": "Telecommunications Room",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "09",
+        "Room Code": "943",
+        "Description": "Restroom Female",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "09",
+        "Room Code": "946",
+        "Description": "Shaft Space",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "09",
+        "Room Code": "947B",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "09",
+        "Room Code": "947C",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "09",
+        "Room Code": "948B",
+        "Description": "Stair",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "09",
+        "Room Code": "948C",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "09",
+        "Room Code": "948D",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "09",
+        "Room Code": "949",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    }
+]

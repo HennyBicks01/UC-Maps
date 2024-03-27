@@ -1,0 +1,260 @@
+[
+    {
+        "Floor Code": "01",
+        "Room Code": "100A",
+        "Description": "Inactive",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "100B",
+        "Description": "Inactive",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "102",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "104",
+        "Description": "Inactive",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "105",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "106",
+        "Description": "Restroom Female",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "107",
+        "Description": "Custodial",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "108",
+        "Description": "Restroom Male",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "109",
+        "Description": "Inactive",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "110",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "110A",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "111",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "111A",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "112",
+        "Description": "Inactive",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "113",
+        "Description": "Inactive",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "114",
+        "Description": "Inactive",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "115",
+        "Description": "Inactive",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "116",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "117",
+        "Description": "Inactive",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "117A",
+        "Description": "Inactive",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "117B",
+        "Description": "Inactive",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "117C",
+        "Description": "Inactive",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "117D",
+        "Description": "Inactive",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "117E",
+        "Description": "Inactive",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "117F",
+        "Description": "Inactive",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "118",
+        "Description": "Inactive",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "119",
+        "Description": "Inactive",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "126",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "196",
+        "Description": "Shaft Space",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "197A",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "197B",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "197C",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "198A",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "198B",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "198C",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "198F",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "198G",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "199",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "199A",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "199B",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "199N",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "199NW",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "199SW",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    }
+]

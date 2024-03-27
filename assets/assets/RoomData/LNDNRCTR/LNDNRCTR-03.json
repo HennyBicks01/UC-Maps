@@ -1,0 +1,764 @@
+[
+    {
+        "Floor Code": "03",
+        "Room Code": "333",
+        "Description": "Waiting Room",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "333A",
+        "Description": "Private Restroom",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "333B",
+        "Description": "Office",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "333C",
+        "Description": "Office",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "333D",
+        "Description": "Office",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "333E",
+        "Description": "Office",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "333F",
+        "Description": "Office",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "333G",
+        "Description": "Office",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "333Z",
+        "Description": "Internal Office Circ",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "334",
+        "Description": "Internal Office Circ",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "334.01",
+        "Description": "Modular",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "334.02",
+        "Description": "Modular",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "334.03",
+        "Description": "Modular",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "334.04",
+        "Description": "Modular",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "334.05",
+        "Description": "Modular",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "334A",
+        "Description": "Office",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "334B",
+        "Description": "File/Supply",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "334C",
+        "Description": "Office",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "334D",
+        "Description": "Copy/Mail",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "334E",
+        "Description": "Office",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "334G",
+        "Description": "Private Restroom",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "334H",
+        "Description": "Office",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "334J",
+        "Description": "Office",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "335",
+        "Description": "Waiting Room",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "335A",
+        "Description": "Treatment/Exam Svc",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "335AA",
+        "Description": "Treatment/Exam Svc",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "335B",
+        "Description": "Private Restroom",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "335C",
+        "Description": "Office Svc - Other",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "335D",
+        "Description": "Waiting Room",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "335D.01",
+        "Description": "Modular",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "335DA",
+        "Description": "Office",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "335DB",
+        "Description": "Private Restroom",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "335DC",
+        "Description": "Treatment/Exam",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "335DD",
+        "Description": "Treatment/Exam",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "335DE",
+        "Description": "Treatment/Exam Svc",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "335E",
+        "Description": "Treatment/Exam",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "335G",
+        "Description": "Office",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "335H",
+        "Description": "Treatment/Exam Svc",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "335HA",
+        "Description": "Office Svc - Other",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "335HB",
+        "Description": "Office Svc - Other",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "336",
+        "Description": "Conference",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "338",
+        "Description": "Office",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "338A",
+        "Description": "Office Svc - Other",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "339A",
+        "Description": "Treatment/Exam",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "339B",
+        "Description": "Treatment/Exam",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "339C",
+        "Description": "Office",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "340A",
+        "Description": "Private Restroom",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "340B",
+        "Description": "Private Restroom",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "341A",
+        "Description": "Treatment/Exam",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "341B",
+        "Description": "Treatment/Exam",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "341C",
+        "Description": "Treatment/Exam",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "341D",
+        "Description": "Treatment/Exam",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "341E",
+        "Description": "Office",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "341F",
+        "Description": "Office",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "342",
+        "Description": "Office Svc - Other",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "342A",
+        "Description": "Office",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "343A",
+        "Description": "Treatment/Exam",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "343B",
+        "Description": "Treatment/Exam",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "343C",
+        "Description": "Treatment/Exam",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "343D",
+        "Description": "Treatment/Exam",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "343E",
+        "Description": "Office",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "343F",
+        "Description": "Office",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "344",
+        "Description": "Treatment/Exam",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "345A",
+        "Description": "Treatment/Exam",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "345B",
+        "Description": "Treatment/Exam",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "345C",
+        "Description": "Treatment/Exam",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "345D",
+        "Description": "Office",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "345DA",
+        "Description": "File/Supply",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "346",
+        "Description": "Treatment/Exam",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "347",
+        "Description": "Private Restroom",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "348",
+        "Description": "File/Supply",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "349",
+        "Description": "Private Restroom",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "350",
+        "Description": "Treatment/Exam",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "351A",
+        "Description": "Custodial",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "351B",
+        "Description": "File/Supply",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "351C",
+        "Description": "Treatment/Exam",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "351D",
+        "Description": "File/Supply",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "351E",
+        "Description": "Treatment/Exam Svc",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "352",
+        "Description": "File/Supply",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "354",
+        "Description": "File/Supply",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "357",
+        "Description": "Waiting Room",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "358A",
+        "Description": "Treatment/Exam",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "358B",
+        "Description": "Private Restroom",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "358C",
+        "Description": "Diagnostic Lab",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "359",
+        "Description": "Treatment/Exam Svc",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "359A",
+        "Description": "Treatment/Exam",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "359AA",
+        "Description": "Office",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "359B",
+        "Description": "Treatment/Exam Svc",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "360",
+        "Description": "Internal Office Circ",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "362",
+        "Description": "Copy/Mail",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "363",
+        "Description": "Lounge",
+        "Department Name": "Athletics Business Office"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "364",
+        "Description": "Electrical",
+        "Department Name": "COM University Health Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "365",
+        "Description": "Loading",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "365A",
+        "Description": "Office Svc - Other",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "365V",
+        "Description": "Loading",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "366",
+        "Description": "Telecommunications Room",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "368",
+        "Description": "Shaft Space",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "370",
+        "Description": "Mechanical",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "370A",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "370B",
+        "Description": "Electrical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "370C",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "370D",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "370E",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "370G",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "374",
+        "Description": "Office",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "376",
+        "Description": "Office",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "377",
+        "Description": "Office Svc - Other",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "377.01",
+        "Description": "Modular",
+        "Department Name": "Athletics Operations"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "377.02",
+        "Description": "Modular",
+        "Department Name": "Athletics Operations"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "377.03",
+        "Description": "Modular",
+        "Department Name": "Athletics Operations"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "377.04",
+        "Description": "Modular",
+        "Department Name": "Athletics Operations"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "377A",
+        "Description": "File/Supply",
+        "Department Name": "Athletics Operations"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "377B",
+        "Description": "Private Restroom",
+        "Department Name": "Athletics Operations"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "377C",
+        "Description": "Break Room",
+        "Department Name": "Athletics Operations"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "378",
+        "Description": "Mechanical",
+        "Department Name": "Athletics Operations"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "380",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "396",
+        "Description": "Shaft Space",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "397H",
+        "Description": "Service Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "397J",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "397K",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "397M",
+        "Description": "Service Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "398S",
+        "Description": "Stair",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "398V",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "398X",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "398Y",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "399",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "399X",
+        "Description": "Exterior Circulation",
+        "Department Name": "Hallways"
+    }
+]

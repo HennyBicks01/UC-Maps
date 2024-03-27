@@ -1,0 +1,146 @@
+[
+    {
+        "Floor Code": "03",
+        "Room Code": "3345",
+        "Description": "Restroom Male",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3400B",
+        "Description": "Classroom Svc",
+        "Department Name": "DAAP Design Architecture Art & Planning"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3405",
+        "Description": "Classroom Svc",
+        "Department Name": "DAAP Design Architecture Art & Planning"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3410",
+        "Description": "Classroom",
+        "Department Name": "DAAP Design Architecture Art & Planning"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3410A",
+        "Description": "Classroom Svc",
+        "Department Name": "DAAP Design Architecture Art & Planning"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3420",
+        "Description": "Classroom",
+        "Department Name": "DAAP Design Architecture Art & Planning"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3425",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3430",
+        "Description": "Classroom",
+        "Department Name": "DAAP Design Architecture Art & Planning"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3430A",
+        "Description": "Classroom Svc",
+        "Department Name": "DAAP Design Architecture Art & Planning"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3431",
+        "Description": "Office",
+        "Department Name": "DAAP School of Design"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3435",
+        "Description": "Office",
+        "Department Name": "DAAP School of Design"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3440",
+        "Description": "Classroom",
+        "Department Name": "DAAP Design Architecture Art & Planning"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3441",
+        "Description": "Office",
+        "Department Name": "DAAP School of Design"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3445",
+        "Description": "Office",
+        "Department Name": "DAAP School of Design"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3497A",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3497B",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3497C",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3498A",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3498B",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3498C",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3498D",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3498E",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3499",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "3499A",
+        "Description": "Classroom Svc",
+        "Department Name": "DAAP Design Architecture Art & Planning"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "Floor Code": "02M",
+        "Room Code": "2M03",
+        "Description": "Mechanical",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02M",
+        "Room Code": "2M07",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "02M",
+        "Room Code": "2M10",
+        "Description": "Classroom Svc",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "02M",
+        "Room Code": "2M36",
+        "Description": "Media Svc",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "02M",
+        "Room Code": "2M98A",
+        "Description": "Stair",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "02M",
+        "Room Code": "2M98B",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02M",
+        "Room Code": "2M98E",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02M",
+        "Room Code": "2M99",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    }
+]

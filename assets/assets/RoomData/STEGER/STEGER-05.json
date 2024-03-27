@@ -1,0 +1,350 @@
+[
+    {
+        "Floor Code": "05",
+        "Room Code": "530",
+        "Description": "Mechanical",
+        "Department Name": "A&F Main Street - TUC"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "530A",
+        "Description": "Mechanical",
+        "Department Name": "A&F Main Street - TUC"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "530B",
+        "Description": "Telecommunications Room",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "530C",
+        "Description": "Mechanical",
+        "Department Name": "A&F Main Street - TUC"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "530D",
+        "Description": "Electrical",
+        "Department Name": "A&F Main Street - TUC"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "530E",
+        "Description": "Mechanical",
+        "Department Name": "A&F Main Street - TUC"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "530Z",
+        "Description": "Mechanical",
+        "Department Name": "A&F Main Street - TUC"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "532",
+        "Description": "Custodial",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "535",
+        "Description": "Workroom",
+        "Department Name": "SA Ethnic Programs and Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "535A",
+        "Description": "Restroom All Gender",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "535B",
+        "Description": "Office Svc - Other",
+        "Department Name": "SA Ethnic Programs and Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "535C",
+        "Description": "Office",
+        "Department Name": "SA Ethnic Programs and Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "535CA",
+        "Description": "Office",
+        "Department Name": "SA Ethnic Programs and Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "535E",
+        "Description": "Office Svc - Other",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "539",
+        "Description": "Office Svc - Other",
+        "Department Name": "Outside Agency"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "543",
+        "Description": "Dining",
+        "Department Name": "SA Ethnic Programs and Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "543A",
+        "Description": "Dining Svc",
+        "Department Name": "Outside Agency"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "543B",
+        "Description": "Restroom All Gender",
+        "Department Name": "Outside Agency"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "543C",
+        "Description": "Restroom All Gender",
+        "Department Name": "Outside Agency"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "545",
+        "Description": "Dining",
+        "Department Name": "Outside Agency"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "545A",
+        "Description": "Electrical",
+        "Department Name": "Outside Agency"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "545B",
+        "Description": "Dining Svc",
+        "Department Name": "A&F Main Street - TUC"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "547",
+        "Description": "Telecommunications Room",
+        "Department Name": "Outside Agency"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "549",
+        "Description": "Restroom Female",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "551",
+        "Description": "Restroom Male",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "553",
+        "Description": "Restroom All Gender",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "555",
+        "Description": "Reception/Waiting",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "555.01",
+        "Description": "Modular",
+        "Department Name": "SA Student Conduct & Community Standards"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "555.02",
+        "Description": "Modular",
+        "Department Name": "SA Student Conduct & Community Standards"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "555.03",
+        "Description": "Modular",
+        "Department Name": "SA Student Conduct & Community Standards"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "555A",
+        "Description": "Office",
+        "Department Name": "SA Student Conduct & Community Standards"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "555B",
+        "Description": "Office",
+        "Department Name": "SA Student Conduct & Community Standards"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "555C",
+        "Description": "Conference",
+        "Department Name": "SA Student Conduct & Community Standards"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "559",
+        "Description": "Conference",
+        "Department Name": "SA Student Conduct & Community Standards"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "565",
+        "Description": "Reception/Waiting",
+        "Department Name": "SA VP Student Affairs"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "565.01",
+        "Description": "Modular",
+        "Department Name": "SA LGBTQ Center"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "565.02",
+        "Description": "Modular",
+        "Department Name": "SA LGBTQ Center"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "565.03",
+        "Description": "Modular",
+        "Department Name": "SA LGBTQ Center"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "565A",
+        "Description": "Office",
+        "Department Name": "SA LGBTQ Center"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "565B",
+        "Description": "Office",
+        "Department Name": "SA LGBTQ Center"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "571",
+        "Description": "Reception/Waiting",
+        "Department Name": "SA LGBTQ Center"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "571.01",
+        "Description": "Modular",
+        "Department Name": "SA UC Womens Center"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "571.02",
+        "Description": "Modular",
+        "Department Name": "SA UC Womens Center"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "571.03",
+        "Description": "Modular",
+        "Department Name": "SA UC Womens Center"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "571.04",
+        "Description": "Modular",
+        "Department Name": "SA UC Womens Center"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "571A",
+        "Description": "Office",
+        "Department Name": "SA UC Womens Center"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "571B",
+        "Description": "Office",
+        "Department Name": "SA UC Womens Center"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "580",
+        "Description": "Recreation",
+        "Department Name": "SA UC Womens Center"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "596",
+        "Description": "Shaft Space",
+        "Department Name": "SA Wellness"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "597B",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "597C",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "598E",
+        "Description": "Stair",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "598F",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "598G",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "598H",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "598I",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "599",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "599X",
+        "Description": "Exterior Circulation",
+        "Department Name": "Hallways"
+    }
+]

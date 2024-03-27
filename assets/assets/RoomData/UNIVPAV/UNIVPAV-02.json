@@ -1,0 +1,416 @@
+[
+    {
+        "Floor Code": "02",
+        "Room Code": "200",
+        "Description": "Internal Office Circ",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "200A",
+        "Description": "Office",
+        "Department Name": "EM Advising & Academic Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "200B",
+        "Description": "Office",
+        "Department Name": "EM Advising & Academic Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "200C",
+        "Description": "Office",
+        "Department Name": "EM Advising & Academic Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "200D",
+        "Description": "Office",
+        "Department Name": "EM Advising & Academic Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "200E",
+        "Description": "Office",
+        "Department Name": "EM Advising & Academic Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "204",
+        "Description": "Telecommunications Room",
+        "Department Name": "EM Advising & Academic Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "205",
+        "Description": "Restroom Female",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "207",
+        "Description": "Restroom Male",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "210",
+        "Description": "Office Svc - Other",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "210.01",
+        "Description": "Modular",
+        "Department Name": "EM Advising & Academic Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "210.02",
+        "Description": "Modular",
+        "Department Name": "EM Advising & Academic Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "210.03",
+        "Description": "Modular",
+        "Department Name": "EM Advising & Academic Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "210.04",
+        "Description": "Modular",
+        "Department Name": "EM Advising & Academic Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "210.05",
+        "Description": "Modular",
+        "Department Name": "EM Advising & Academic Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "210A",
+        "Description": "Office",
+        "Department Name": "EM Advising & Academic Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "210B",
+        "Description": "Office",
+        "Department Name": "EM Advising & Academic Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "210C",
+        "Description": "Office",
+        "Department Name": "EM Advising & Academic Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "210D",
+        "Description": "Office",
+        "Department Name": "EM Advising & Academic Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "210E",
+        "Description": "Office",
+        "Department Name": "EM Advising & Academic Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "210F",
+        "Description": "Custodial",
+        "Department Name": "EM Advising & Academic Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "210G",
+        "Description": "Office",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "210H",
+        "Description": "Office",
+        "Department Name": "EM Advising & Academic Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "210J",
+        "Description": "Office",
+        "Department Name": "EM Advising & Academic Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "220",
+        "Description": "Office Svc - Other",
+        "Department Name": "EM Advising & Academic Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "220.01",
+        "Description": "Modular",
+        "Department Name": "EM Enrollment Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "220.02",
+        "Description": "Modular",
+        "Department Name": "EM Enrollment Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "220.03",
+        "Description": "Modular",
+        "Department Name": "EM Enrollment Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "220.04",
+        "Description": "Modular",
+        "Department Name": "EM Enrollment Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "220.05",
+        "Description": "Modular",
+        "Department Name": "EM Enrollment Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "220.06",
+        "Description": "Modular",
+        "Department Name": "EM Enrollment Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "220.07",
+        "Description": "Modular",
+        "Department Name": "EM Enrollment Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "220A",
+        "Description": "Conference",
+        "Department Name": "EM Enrollment Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "220AA",
+        "Description": "Electrical",
+        "Department Name": "SA Veterans Programs & Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "221",
+        "Description": "Vending",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "222",
+        "Description": "Internal Office Circ",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "222.01",
+        "Description": "Modular",
+        "Department Name": "EM Enrollment Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "222.02",
+        "Description": "Modular",
+        "Department Name": "EM Enrollment Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "222.03",
+        "Description": "Modular",
+        "Department Name": "EM Enrollment Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "222.04",
+        "Description": "Modular",
+        "Department Name": "EM Enrollment Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "222A",
+        "Description": "Conference",
+        "Department Name": "EM Enrollment Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "222B",
+        "Description": "Office",
+        "Department Name": "EM Enrollment Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "226",
+        "Description": "Internal Office Circ",
+        "Department Name": "EM Enrollment Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "226.01",
+        "Description": "Modular",
+        "Department Name": "EM Advising & Academic Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "226.02",
+        "Description": "Modular",
+        "Department Name": "EM Advising & Academic Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "226A",
+        "Description": "Workroom",
+        "Department Name": "EM Advising & Academic Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "226B",
+        "Description": "Office",
+        "Department Name": "EM Advising & Academic Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "226C",
+        "Description": "Office",
+        "Department Name": "EM Advising & Academic Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "226E",
+        "Description": "Office Svc - Other",
+        "Department Name": "EM Advising & Academic Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "226E.01",
+        "Description": "Modular",
+        "Department Name": "EM Advising & Academic Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "226E.02",
+        "Description": "Modular",
+        "Department Name": "EM Advising & Academic Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "230",
+        "Description": "Office",
+        "Department Name": "EM Advising & Academic Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "230.01",
+        "Description": "Modular",
+        "Department Name": "SA Veterans Programs & Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "230.02",
+        "Description": "Modular",
+        "Department Name": "SA Veterans Programs & Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "230.03",
+        "Description": "Modular",
+        "Department Name": "SA Veterans Programs & Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "230.04",
+        "Description": "Modular",
+        "Department Name": "SA Veterans Programs & Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "230A",
+        "Description": "Office",
+        "Department Name": "SA Veterans Programs & Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "230B",
+        "Description": "Office",
+        "Department Name": "SA Veterans Programs & Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "230C",
+        "Description": "Office",
+        "Department Name": "SA Veterans Programs & Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "230Z",
+        "Description": "Internal Office Circ",
+        "Department Name": "SA Veterans Programs & Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "296",
+        "Description": "Shaft Space",
+        "Department Name": "SA Veterans Programs & Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "297A",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "297B",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "297C",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "298A",
+        "Description": "Stair",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "298B",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "298C",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "298D",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "299C",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    }
+]

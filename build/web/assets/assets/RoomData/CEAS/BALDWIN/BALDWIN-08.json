@@ -1,0 +1,140 @@
+[
+    {
+        "Floor Code": "08",
+        "Room Code": "850",
+        "Description": "Open Stack, Study & Reading",
+        "Department Name": "UCL CEAS Library (Engineering & App Sci)"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "850A",
+        "Description": "Open Stack, Study & Reading",
+        "Department Name": "UCL CEAS Library (Engineering & App Sci)"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "850B",
+        "Description": "Study Room",
+        "Department Name": "UCL CEAS Library (Engineering & App Sci)"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "850C",
+        "Description": "Electrical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "850D",
+        "Description": "Computer Study Lab (Unsch)",
+        "Department Name": "UCL CEAS Library (Engineering & App Sci)"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "850E",
+        "Description": "Study Room",
+        "Department Name": "UCL CEAS Library (Engineering & App Sci)"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "850F",
+        "Description": "Office",
+        "Department Name": "UCL CEAS Library (Engineering & App Sci)"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "850G",
+        "Description": "Office",
+        "Department Name": "UCL CEAS Library (Engineering & App Sci)"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "850J",
+        "Description": "Study Room",
+        "Department Name": "UCL CEAS Library (Engineering & App Sci)"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "850JA",
+        "Description": "Library Svc",
+        "Department Name": "UCL CEAS Library (Engineering & App Sci)"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "850JB",
+        "Description": "Library Svc",
+        "Department Name": "UCL CEAS Library (Engineering & App Sci)"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "850K",
+        "Description": "Library Svc",
+        "Department Name": "UCL CEAS Library (Engineering & App Sci)"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "850L",
+        "Description": "Office",
+        "Department Name": "UCL CEAS Library (Engineering & App Sci)"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "850M",
+        "Description": "Office Svc - Other",
+        "Department Name": "UCL CEAS Library (Engineering & App Sci)"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "860",
+        "Description": "Computer Study Lab (Unsch)",
+        "Department Name": "CEAS - College Computing"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "860A",
+        "Description": "Processing",
+        "Department Name": "UCL CEAS Library (Engineering & App Sci)"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "860B",
+        "Description": "Other Study Lab (Unsch)",
+        "Department Name": "CEAS - Engineering & Computing Education"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "860D",
+        "Description": "Classroom",
+        "Department Name": "CEAS - Engineering & Computing Education"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "860DA",
+        "Description": "Other Lab Svc Instr",
+        "Department Name": "CEAS - Engineering & Computing Education"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "860E",
+        "Description": "Classroom Svc",
+        "Department Name": "CEAS - Engineering & Computing Education"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "860Z",
+        "Description": "Internal Office Circ",
+        "Department Name": "CEAS - Engineering & Computing Education"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "896",
+        "Description": "Shaft Space",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "898D",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    }
+]

@@ -1,0 +1,206 @@
+[
+    {
+        "Floor Code": "03",
+        "Room Code": "300",
+        "Description": "Classroom",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "301",
+        "Description": "Classroom",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "302",
+        "Description": "Classroom Svc",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "302A",
+        "Description": "Electrical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "303",
+        "Description": "Classroom Svc",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "303A",
+        "Description": "Telecommunications Room",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "309",
+        "Description": "Classroom",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "312",
+        "Description": "Classroom",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "315",
+        "Description": "Classroom Svc",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "316",
+        "Description": "Classroom",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "324",
+        "Description": "Classroom",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "325",
+        "Description": "Classroom",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "326",
+        "Description": "Classroom",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "330",
+        "Description": "Restroom Male",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "332",
+        "Description": "Restroom Female",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "334",
+        "Description": "Custodial",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "336",
+        "Description": "Electrical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "338",
+        "Description": "Telecommunications Room",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "339",
+        "Description": "Other Study Lab (Unsch)",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "340",
+        "Description": "Other Instr Lab",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "342",
+        "Description": "Other Instr Lab",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "345",
+        "Description": "Other Lab Svc Instr",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "346",
+        "Description": "Other Study Lab (Unsch)",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "348",
+        "Description": "Other Study Lab (Unsch)",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "350",
+        "Description": "Other Instr Lab",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "351",
+        "Description": "Instrument Instr Lab",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "396",
+        "Description": "Shaft Space",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "397A",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "398A",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "398B",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "398C",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "398D",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "399",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "399A",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    }
+]

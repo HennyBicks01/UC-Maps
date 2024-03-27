@@ -1,0 +1,116 @@
+[
+    {
+        "Floor Code": "05",
+        "Room Code": "5301",
+        "Description": "Assembly Svc",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5301A",
+        "Description": "Assembly Svc",
+        "Department Name": "CCM College Conservatory of Music"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5302",
+        "Description": "Assembly Svc",
+        "Department Name": "CCM College Conservatory of Music"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5303",
+        "Description": "Classroom Svc",
+        "Department Name": "CCM College Conservatory of Music"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5303A",
+        "Description": "Assembly Svc",
+        "Department Name": "CCM College Conservatory of Music"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5305",
+        "Description": "Assembly Svc",
+        "Department Name": "CCM College Conservatory of Music"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5305A",
+        "Description": "Assembly Svc",
+        "Department Name": "CCM College Conservatory of Music"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5306",
+        "Description": "Assembly Svc",
+        "Department Name": "CCM College Conservatory of Music"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5330",
+        "Description": "Assembly Svc",
+        "Department Name": "CCM College Conservatory of Music"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5396",
+        "Description": "Shaft Space",
+        "Department Name": "CCM College Conservatory of Music"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5398B",
+        "Description": "Stair",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5398D",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5398E",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5398F",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5398G",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5398K",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5399",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5410",
+        "Description": "Mechanical",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5498A",
+        "Description": "Stair",
+        "Department Name": "A&F Maintenance & Operations"
+    }
+]

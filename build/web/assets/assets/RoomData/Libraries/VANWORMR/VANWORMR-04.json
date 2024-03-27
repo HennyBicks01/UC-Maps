@@ -1,0 +1,86 @@
+[
+    {
+        "Floor Code": "04",
+        "Room Code": "420",
+        "Description": "Office Svc - Other",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "420.01",
+        "Description": "Modular",
+        "Department Name": "Acad Aff Institutional Research"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "420.02",
+        "Description": "Modular",
+        "Department Name": "Acad Aff Institutional Research"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "420.03",
+        "Description": "Modular",
+        "Department Name": "Acad Aff Institutional Research"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "420.04",
+        "Description": "Modular",
+        "Department Name": "Acad Aff Institutional Research"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "420.05",
+        "Description": "Modular",
+        "Department Name": "Acad Aff Institutional Research"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "420.06",
+        "Description": "Inactive",
+        "Department Name": "Acad Aff Institutional Research"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "420.07",
+        "Description": "Modular",
+        "Department Name": "Acad Aff Institutional Research"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "420A",
+        "Description": "Office",
+        "Department Name": "Acad Aff Institutional Research"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "420B",
+        "Description": "Office",
+        "Department Name": "Acad Aff Institutional Research"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "496",
+        "Description": "Shaft Space",
+        "Department Name": "Graduate College"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "497A",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "498A",
+        "Description": "Stair",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "498B",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    }
+]

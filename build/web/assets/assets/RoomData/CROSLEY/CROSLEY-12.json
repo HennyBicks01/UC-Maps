@@ -1,0 +1,206 @@
+[
+    {
+        "Floor Code": "12",
+        "Room Code": "1200",
+        "Description": "Office",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "12",
+        "Room Code": "1201",
+        "Description": "Office",
+        "Department Name": "A&S Sociology"
+    },
+    {
+        "Floor Code": "12",
+        "Room Code": "1202",
+        "Description": "Office",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "12",
+        "Room Code": "1203",
+        "Description": "Office",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "12",
+        "Room Code": "1204",
+        "Description": "Office",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "12",
+        "Room Code": "1205",
+        "Description": "Office",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "12",
+        "Room Code": "1206",
+        "Description": "Office",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "12",
+        "Room Code": "1207",
+        "Description": "Office",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "12",
+        "Room Code": "1208",
+        "Description": "Office",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "12",
+        "Room Code": "1209",
+        "Description": "Office",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "12",
+        "Room Code": "1210A",
+        "Description": "Office",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "12",
+        "Room Code": "1210B",
+        "Description": "Office",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "12",
+        "Room Code": "1211",
+        "Description": "Break Room",
+        "Department Name": "PS Public Safety Emer/Fire Safety & Pro"
+    },
+    {
+        "Floor Code": "12",
+        "Room Code": "1212",
+        "Description": "Restroom Male",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "12",
+        "Room Code": "1213",
+        "Description": "Office",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "12",
+        "Room Code": "1213Z",
+        "Description": "Internal Office Circ",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "12",
+        "Room Code": "1214",
+        "Description": "Office",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "12",
+        "Room Code": "1215",
+        "Description": "Office",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "12",
+        "Room Code": "1216",
+        "Description": "Office",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "12",
+        "Room Code": "1217",
+        "Description": "Office",
+        "Department Name": "PS Public Safety Emer/Fire Safety & Pro"
+    },
+    {
+        "Floor Code": "12",
+        "Room Code": "1218",
+        "Description": "Office",
+        "Department Name": "PS Public Safety Emer/Fire Prevention S"
+    },
+    {
+        "Floor Code": "12",
+        "Room Code": "1219",
+        "Description": "File/Supply",
+        "Department Name": "PS Public Safety Emer/Fire Prevention S"
+    },
+    {
+        "Floor Code": "12",
+        "Room Code": "1220",
+        "Description": "Office",
+        "Department Name": "PS Public Safety Emer/Fire Prevention S"
+    },
+    {
+        "Floor Code": "12",
+        "Room Code": "1221",
+        "Description": "Office",
+        "Department Name": "PS Public Safety Emer/Fire Safety & Pro"
+    },
+    {
+        "Floor Code": "12",
+        "Room Code": "1222",
+        "Description": "Office",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "12",
+        "Room Code": "1223",
+        "Description": "Mechanical",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "12",
+        "Room Code": "1296",
+        "Description": "Shaft Space",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "12",
+        "Room Code": "1297A",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "12",
+        "Room Code": "1297B",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "12",
+        "Room Code": "1297C",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "12",
+        "Room Code": "1297D",
+        "Description": "Dumbwaiter",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "12",
+        "Room Code": "1298A",
+        "Description": "Stair",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "12",
+        "Room Code": "1298B",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "12",
+        "Room Code": "1299",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    }
+]

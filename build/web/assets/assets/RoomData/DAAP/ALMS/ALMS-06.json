@@ -1,0 +1,74 @@
+[
+    {
+        "Floor Code": "06",
+        "Room Code": "6100",
+        "Description": "Design Study Lab (Unsch)",
+        "Department Name": "DAAP School of Planning"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6102",
+        "Description": "Office",
+        "Department Name": "DAAP School of Planning"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6104",
+        "Description": "Office",
+        "Department Name": "DAAP School of Planning"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6106",
+        "Description": "Office",
+        "Department Name": "DAAP School of Planning"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6110A",
+        "Description": "Data Lab",
+        "Department Name": "DAAP School of Planning"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6110B",
+        "Description": "Classroom Svc",
+        "Department Name": "DAAP School of Planning"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6110C",
+        "Description": "Design Study Lab (Unsch)",
+        "Department Name": "DAAP School of Planning"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6110D",
+        "Description": "Design Study Lab (Unsch)",
+        "Department Name": "DAAP School of Planning"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6196",
+        "Description": "Shaft Space",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6198A",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6198B",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6199",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    }
+]

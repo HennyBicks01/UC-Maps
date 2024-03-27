@@ -1,0 +1,296 @@
+[
+    {
+        "Floor Code": "05",
+        "Room Code": "500",
+        "Description": "Mechanical",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "501",
+        "Description": "Custodial",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "502",
+        "Description": "Classroom",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "502A",
+        "Description": "Classroom Svc",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "502B",
+        "Description": "Classroom Svc",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "503",
+        "Description": "Computer Study Lab (Unsch)",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "503.01",
+        "Description": "Circulation & Reserve",
+        "Department Name": "UCL Chemistry-Biology Library"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "503A",
+        "Description": "Open Stack, Study & Reading",
+        "Department Name": "UCL Chemistry-Biology Library"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "504",
+        "Description": "Wet Instr Lab",
+        "Department Name": "UCL Chemistry-Biology Library"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "507A",
+        "Description": "Wet Instr Lab",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "507B",
+        "Description": "Instrument Lab",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "508",
+        "Description": "Office",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "508A",
+        "Description": "Lounge",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "509",
+        "Description": "Office",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "510",
+        "Description": "Office",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "511",
+        "Description": "Office",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "512",
+        "Description": "Wet Instr Lab",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "513",
+        "Description": "Electrical",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "514",
+        "Description": "Wet Lab Svc Instr",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "514A",
+        "Description": "Wet Lab Svc Instr",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "515",
+        "Description": "Office",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "518",
+        "Description": "Conference",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "519",
+        "Description": "Mechanical",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "519A",
+        "Description": "Instrument Lab",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "520",
+        "Description": "Exhibition",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "520A",
+        "Description": "Exhibition Svc",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "520B",
+        "Description": "Exhibition",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "521",
+        "Description": "Exhibition",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "521A",
+        "Description": "Exhibition Svc",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "522",
+        "Description": "Wet Instr Lab",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "524",
+        "Description": "Restroom All Gender",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "525",
+        "Description": "Restroom All Gender",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "526",
+        "Description": "Mechanical",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "527",
+        "Description": "Restroom Female",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "529",
+        "Description": "Wet Lab Svc Instr",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "529A",
+        "Description": "Office",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "531",
+        "Description": "Wet Instr Lab",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "533",
+        "Description": "Wet Instr Lab",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "537",
+        "Description": "Restroom Male",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "596",
+        "Description": "Shaft Space",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "597A",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "597B",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "597D",
+        "Description": "Dumbwaiter",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "598A",
+        "Description": "Stair",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "598B",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "598C",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "598D",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "599",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "599A",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    }
+]

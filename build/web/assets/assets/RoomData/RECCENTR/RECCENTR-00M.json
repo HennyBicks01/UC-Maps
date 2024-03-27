@@ -1,0 +1,122 @@
+[
+    {
+        "Floor Code": "00M",
+        "Room Code": "0M200",
+        "Description": "Recreation",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "00M",
+        "Room Code": "0M210",
+        "Description": "Mechanical",
+        "Department Name": "A&F Rec Center"
+    },
+    {
+        "Floor Code": "00M",
+        "Room Code": "0M297B",
+        "Description": "Elevator",
+        "Department Name": "A&F Rec Center"
+    },
+    {
+        "Floor Code": "00M",
+        "Room Code": "0M298B",
+        "Description": "Stair",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "00M",
+        "Room Code": "0M298E",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "00M",
+        "Room Code": "0M298F",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "00M",
+        "Room Code": "0M299",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "00M",
+        "Room Code": "0M300",
+        "Description": "Recreation Svc",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "00M",
+        "Room Code": "0M300A",
+        "Description": "Mechanical",
+        "Department Name": "A&F Rec Center"
+    },
+    {
+        "Floor Code": "00M",
+        "Room Code": "0M300B",
+        "Description": "Restroom Male",
+        "Department Name": "A&F Rec Center"
+    },
+    {
+        "Floor Code": "00M",
+        "Room Code": "0M300C",
+        "Description": "Restroom Female",
+        "Department Name": "A&F Rec Center"
+    },
+    {
+        "Floor Code": "00M",
+        "Room Code": "0M300D",
+        "Description": "Mechanical",
+        "Department Name": "A&F Rec Center"
+    },
+    {
+        "Floor Code": "00M",
+        "Room Code": "0M302",
+        "Description": "Residential Service",
+        "Department Name": "A&F Rec Center"
+    },
+    {
+        "Floor Code": "00M",
+        "Room Code": "0M302A",
+        "Description": "Residential Service",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "00M",
+        "Room Code": "0M302AA",
+        "Description": "Residential Service",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "00M",
+        "Room Code": "0M302AB",
+        "Description": "Residential Service",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "00M",
+        "Room Code": "0M302AC",
+        "Description": "Mechanical",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "00M",
+        "Room Code": "0M397A",
+        "Description": "Elevator",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "00M",
+        "Room Code": "0M398A",
+        "Description": "Stair",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "00M",
+        "Room Code": "0M399",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    }
+]

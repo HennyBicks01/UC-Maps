@@ -1,0 +1,524 @@
+[
+    {
+        "Floor Code": "03",
+        "Room Code": "301",
+        "Description": "Office Svc - Other",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "301A",
+        "Description": "Office",
+        "Department Name": "A&S History"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "301B",
+        "Description": "Office",
+        "Department Name": "A&S History"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "301C",
+        "Description": "Office",
+        "Department Name": "A&S History"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "302",
+        "Description": "Restroom Male",
+        "Department Name": "A&S History"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "303",
+        "Description": "Office Svc - Other",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "304",
+        "Description": "Custodial",
+        "Department Name": "A&S History"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "310",
+        "Description": "Office Svc - Other",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "310A",
+        "Description": "Office Svc - Other",
+        "Department Name": "A&S History"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "310B",
+        "Description": "Conference",
+        "Department Name": "A&S History"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "310C",
+        "Description": "Office",
+        "Department Name": "A&S History"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "310D",
+        "Description": "Office",
+        "Department Name": "A&S History"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "310E",
+        "Description": "Office",
+        "Department Name": "A&S History"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "310F",
+        "Description": "Office Svc - Other",
+        "Department Name": "A&S History"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "310G",
+        "Description": "Office Svc - Other",
+        "Department Name": "A&S History"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "310H",
+        "Description": "Office Svc - Other",
+        "Department Name": "A&S History"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "315",
+        "Description": "Study Room",
+        "Department Name": "A&S History"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "320",
+        "Description": "Office Svc - Other",
+        "Department Name": "A&S History"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "320A",
+        "Description": "Office Svc - Other",
+        "Department Name": "A&S History"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "320B",
+        "Description": "Office",
+        "Department Name": "A&S History"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "320C",
+        "Description": "Office",
+        "Department Name": "A&S History"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "320D",
+        "Description": "Office",
+        "Department Name": "A&S History"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "320E",
+        "Description": "Office",
+        "Department Name": "A&S History"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "320F",
+        "Description": "Office Svc - Other",
+        "Department Name": "A&S History"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "322",
+        "Description": "Office",
+        "Department Name": "A&S History"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "323",
+        "Description": "Classroom",
+        "Department Name": "A&S History"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "324",
+        "Description": "Classroom",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "325",
+        "Description": "Computer Study Lab (Unsch)",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "329",
+        "Description": "Custodial",
+        "Department Name": "A&S English"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "330",
+        "Description": "Restroom Female",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "331",
+        "Description": "Office",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "333",
+        "Description": "Office Svc - Other",
+        "Department Name": "A&S History"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "335",
+        "Description": "Office Svc - Other",
+        "Department Name": "A&S History"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "335A",
+        "Description": "Office",
+        "Department Name": "A&S History"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "335B",
+        "Description": "Office",
+        "Department Name": "A&S History"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "335C",
+        "Description": "Office",
+        "Department Name": "A&S History"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "340",
+        "Description": "Office Svc - Other",
+        "Department Name": "A&S History"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "340A",
+        "Description": "Office",
+        "Department Name": "A&S History"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "340B",
+        "Description": "Office",
+        "Department Name": "A&S History"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "340C",
+        "Description": "Office Svc - Other",
+        "Department Name": "A&S History"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "350",
+        "Description": "Internal Office Circ",
+        "Department Name": "A&S History"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "350A",
+        "Description": "Office",
+        "Department Name": "A&S English"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "350B",
+        "Description": "Office",
+        "Department Name": "A&S English"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "350C",
+        "Description": "Office",
+        "Department Name": "A&S English"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "350E",
+        "Description": "Office",
+        "Department Name": "A&S English"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "350F",
+        "Description": "Office",
+        "Department Name": "A&S English"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "350G",
+        "Description": "Office",
+        "Department Name": "A&S English"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "350H",
+        "Description": "Office",
+        "Department Name": "A&S English"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "350I",
+        "Description": "Office",
+        "Department Name": "A&S English"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "351",
+        "Description": "Office",
+        "Department Name": "A&S English"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "351B",
+        "Description": "Office",
+        "Department Name": "A&S English"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "353",
+        "Description": "Internal Office Circ",
+        "Department Name": "A&S English"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "353A",
+        "Description": "Office",
+        "Department Name": "A&S History"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "353B",
+        "Description": "Office",
+        "Department Name": "A&S History"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "353C",
+        "Description": "Office",
+        "Department Name": "A&S History"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "353D",
+        "Description": "Office Svc - Other",
+        "Department Name": "A&S History"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "354",
+        "Description": "Classroom",
+        "Department Name": "A&S History"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "355",
+        "Description": "Office",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "357",
+        "Description": "Conference",
+        "Department Name": "A&S History"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "358",
+        "Description": "Study Room",
+        "Department Name": "A&S History"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "360",
+        "Description": "Office",
+        "Department Name": "A&S History"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "360A",
+        "Description": "Office Svc - Other",
+        "Department Name": "A&S History"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "360B",
+        "Description": "Office",
+        "Department Name": "A&S History"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "360C",
+        "Description": "Office",
+        "Department Name": "A&S History"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "360D",
+        "Description": "Office",
+        "Department Name": "A&S History"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "360E",
+        "Description": "Copy/Mail",
+        "Department Name": "A&S History"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "360F",
+        "Description": "Office",
+        "Department Name": "A&S History"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "360G",
+        "Description": "Office Svc - Other",
+        "Department Name": "A&S History"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "367",
+        "Description": "Office",
+        "Department Name": "A&S History"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "368",
+        "Description": "Classroom",
+        "Department Name": "A&S English"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "368A",
+        "Description": "Classroom Svc",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "369",
+        "Description": "Office Svc - Other",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "369A",
+        "Description": "Office",
+        "Department Name": "A&S English"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "369B",
+        "Description": "Office",
+        "Department Name": "A&S English"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "370",
+        "Description": "Office Svc - Other",
+        "Department Name": "A&S English"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "370A",
+        "Description": "Office",
+        "Department Name": "A&S English"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "370B",
+        "Description": "Office",
+        "Department Name": "A&S History"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "370C",
+        "Description": "Office",
+        "Department Name": "A&S English"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "396",
+        "Description": "Shaft Space",
+        "Department Name": "A&S English"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "397A",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "397B",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "398A",
+        "Description": "Stair",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "398B",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "398C",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "398D",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "398G",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "399",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    }
+]

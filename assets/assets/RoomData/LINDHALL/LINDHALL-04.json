@@ -1,0 +1,638 @@
+[
+    {
+        "Floor Code": "04",
+        "Room Code": "4097B",
+        "Description": "Elevator",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4097C",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4110",
+        "Description": "Office",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4112",
+        "Description": "Office",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4114",
+        "Description": "Office",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4115",
+        "Description": "Internal Office Circ",
+        "Department Name": "UA Office for University Advancement"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4115.01",
+        "Description": "Modular",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4115.02",
+        "Description": "Modular",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4115.03",
+        "Description": "Modular",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4115.04",
+        "Description": "Modular",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4115.05",
+        "Description": "Modular",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4115.06",
+        "Description": "Modular",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4115.07",
+        "Description": "Modular",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4115.08",
+        "Description": "Modular",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4115.09",
+        "Description": "Modular",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4115.10",
+        "Description": "Modular",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4115.11",
+        "Description": "Modular",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4115.12",
+        "Description": "Modular",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4115.13",
+        "Description": "Modular",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4115.14",
+        "Description": "Modular",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4115.15",
+        "Description": "Modular",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4115.16",
+        "Description": "Modular",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4115.17",
+        "Description": "Modular",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4115.18",
+        "Description": "Modular",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4116",
+        "Description": "Office",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4118",
+        "Description": "Office",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4120",
+        "Description": "Office",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4121",
+        "Description": "File/Supply",
+        "Department Name": "LCB Business Affairs"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4122",
+        "Description": "Office",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4124",
+        "Description": "Office",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4125",
+        "Description": "Conference",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4130",
+        "Description": "Office",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4130A",
+        "Description": "Private Restroom",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4130B",
+        "Description": "Break Room",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4132",
+        "Description": "Office",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4134",
+        "Description": "Office",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4136",
+        "Description": "Office",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4137A",
+        "Description": "Restroom All Gender",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4137B",
+        "Description": "Restroom All Gender",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4137C",
+        "Description": "Electrical",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4137D",
+        "Description": "Restroom All Gender",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4137E",
+        "Description": "Custodial",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4138",
+        "Description": "Office",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4140",
+        "Description": "Office",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4142",
+        "Description": "Office",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4144",
+        "Description": "Office",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4145",
+        "Description": "Mechanical",
+        "Department Name": "LCB Business Affairs"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4146",
+        "Description": "Office",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4148",
+        "Description": "Office",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4149",
+        "Description": "Break Room",
+        "Department Name": "LCB Business Affairs"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4150",
+        "Description": "Office",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4152",
+        "Description": "Office",
+        "Department Name": "LCB Business Affairs"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4154",
+        "Description": "Office",
+        "Department Name": "LCB Business Affairs"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4156",
+        "Description": "Office",
+        "Department Name": "LCB Business Affairs"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4158",
+        "Description": "Office",
+        "Department Name": "LCB Business Affairs"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4160",
+        "Description": "Reception/Waiting",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4160.01",
+        "Description": "Modular",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4160.02",
+        "Description": "Modular",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4196",
+        "Description": "Shaft Space",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4198A",
+        "Description": "Stair",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4198B",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4199E",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4199N",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4199S",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4199W",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4210",
+        "Description": "Classroom",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4217",
+        "Description": "Electrical",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4222",
+        "Description": "Office Svc - Other",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4224",
+        "Description": "Custodial",
+        "Department Name": "LCB Business Affairs"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4225",
+        "Description": "Classroom",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4230",
+        "Description": "Classroom",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4235",
+        "Description": "Seminar",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4238",
+        "Description": "Group Study",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4240",
+        "Description": "Seminar",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4245",
+        "Description": "Conference",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4245A",
+        "Description": "Conf Svc",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4251",
+        "Description": "Break Room",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4253",
+        "Description": "Conference",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4254",
+        "Description": "Restroom Male",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4255",
+        "Description": "Conference",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4256",
+        "Description": "Restroom Female",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4296",
+        "Description": "Shaft Space",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4298A",
+        "Description": "Stair",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4299E",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4299N",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4299S",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4299W",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4302",
+        "Description": "Telecommunications Room",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4304",
+        "Description": "Group Study",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4306",
+        "Description": "Group Study",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4308",
+        "Description": "Group Study",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4310",
+        "Description": "Conference",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4321",
+        "Description": "Electrical",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4326",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4330",
+        "Description": "Conference",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4332",
+        "Description": "Restroom All Gender",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4334",
+        "Description": "Restroom All Gender",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4350",
+        "Description": "Classroom Svc",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4350A",
+        "Description": "Office",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4350B",
+        "Description": "Office",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4350C",
+        "Description": "Break Room",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4350D",
+        "Description": "Classroom Svc",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4396",
+        "Description": "Shaft Space",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4398A",
+        "Description": "Stair",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4399S",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4401",
+        "Description": "Mechanical",
+        "Department Name": "Hallways"
+    }
+]

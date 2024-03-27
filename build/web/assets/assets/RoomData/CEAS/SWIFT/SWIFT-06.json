@@ -1,0 +1,122 @@
+[
+    {
+        "Floor Code": "06",
+        "Room Code": "607",
+        "Description": "Office Svc - Other",
+        "Department Name": "SA OMBUDS Office"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "607.01",
+        "Description": "Modular",
+        "Department Name": "SA OMBUDS Office"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "607.02",
+        "Description": "Modular",
+        "Department Name": "SA OMBUDS Office"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "607A",
+        "Description": "Office",
+        "Department Name": "SA OMBUDS Office"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "607B",
+        "Description": "Office",
+        "Department Name": "SA OMBUDS Office"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "607C",
+        "Description": "Conference",
+        "Department Name": "SA OMBUDS Office"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "608",
+        "Description": "Classroom",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "611",
+        "Description": "Custodial",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "613",
+        "Description": "Restroom Female",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "615",
+        "Description": "Restroom Male",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "616",
+        "Description": "Classroom",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "617",
+        "Description": "Electrical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "618",
+        "Description": "Telecommunications Room",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "619",
+        "Description": "Classroom",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "620",
+        "Description": "Classroom",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "696",
+        "Description": "Shaft Space",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "697",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "698A",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "698B",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "699",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    }
+]

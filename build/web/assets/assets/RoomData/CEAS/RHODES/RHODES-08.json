@@ -1,0 +1,536 @@
+[
+    {
+        "Floor Code": "08",
+        "Room Code": "800",
+        "Description": "Lounge",
+        "Department Name": "CEAS - Aerospace Eng & Eng Mechanics"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "800A",
+        "Description": "Conference",
+        "Department Name": "CEAS - College of Eng & Appl Science"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "800B",
+        "Description": "Office",
+        "Department Name": "CEAS - Engineering & Computing Education"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "800BA",
+        "Description": "Office Svc - Other",
+        "Department Name": "CEAS - Engineering & Computing Education"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "800C",
+        "Description": "Electrical",
+        "Department Name": "CEAS - Engineering & Computing Education"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "800D",
+        "Description": "Lounge",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "801",
+        "Description": "Other Study Lab (Unsch)",
+        "Department Name": "CEAS - College of Eng & Appl Science"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "801A",
+        "Description": "Other Study Lab (Unsch)",
+        "Department Name": "CEAS - Engineering & Computing Education"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "801B",
+        "Description": "Other Study Lab (Unsch)",
+        "Department Name": "CEAS - Engineering & Computing Education"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "801C",
+        "Description": "Other Study Lab (Unsch)",
+        "Department Name": "CEAS - Engineering & Computing Education"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "801D",
+        "Description": "Other Study Lab (Unsch)",
+        "Department Name": "CEAS - Engineering & Computing Education"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "801E",
+        "Description": "Other Study Lab (Unsch)",
+        "Department Name": "CEAS - Engineering & Computing Education"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "801F",
+        "Description": "Office Svc - Other",
+        "Department Name": "CEAS - Engineering & Computing Education"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "801G",
+        "Description": "Other Study Lab (Unsch)",
+        "Department Name": "CEAS - Engineering & Computing Education"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "801H",
+        "Description": "Electrical",
+        "Department Name": "CEAS - Engineering & Computing Education"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "801J",
+        "Description": "Other Study Lab (Unsch)",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "801K",
+        "Description": "Other Study Lab (Unsch)",
+        "Department Name": "CEAS - Engineering & Computing Education"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "801M",
+        "Description": "Other Study Lab (Unsch)",
+        "Department Name": "CEAS - Engineering & Computing Education"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "801MA",
+        "Description": "Other Lab Svc Instr",
+        "Department Name": "CEAS - Engineering & Computing Education"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "802",
+        "Description": "Instrument Instr Lab",
+        "Department Name": "CEAS - Engineering & Computing Education"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "802A",
+        "Description": "Other Study Lab (Unsch)",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "804",
+        "Description": "Other Study Lab (Unsch)",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "804A",
+        "Description": "Office",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "804B",
+        "Description": "Office",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "806",
+        "Description": "Instrument Instr Lab",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "806A",
+        "Description": "Office",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "806B",
+        "Description": "Office",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "808",
+        "Description": "Instrument Instr Lab",
+        "Department Name": "CEAS - Engineering & Computing Education"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "808A",
+        "Description": "Instrument Lab Svc",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "808B",
+        "Description": "Office",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "809",
+        "Description": "Other Study Lab (Unsch)",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "810",
+        "Description": "Other Study Lab (Unsch)",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "810A",
+        "Description": "Office",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "811",
+        "Description": "Copy/Mail",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "811A",
+        "Description": "Electrical",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "812",
+        "Description": "Reception/Waiting",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "812A",
+        "Description": "Office",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "812B",
+        "Description": "Office",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "812C",
+        "Description": "Office",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "812D",
+        "Description": "Office",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "812E",
+        "Description": "Office Svc - Other",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "812F",
+        "Description": "Office",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "812G",
+        "Description": "Office",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "812H",
+        "Description": "Office",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "812J",
+        "Description": "Office",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "812K",
+        "Description": "Office Svc - Other",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "813",
+        "Description": "Conference",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "815",
+        "Description": "Restroom Male",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "816",
+        "Description": "Telecommunications Room",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "817",
+        "Description": "Electrical",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "818",
+        "Description": "Office",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "820",
+        "Description": "Office",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "822",
+        "Description": "Office",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "824",
+        "Description": "Office",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "826",
+        "Description": "Office",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "827",
+        "Description": "Restroom Female",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "828",
+        "Description": "Office",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "829",
+        "Description": "Office",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "830",
+        "Description": "Office",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "831",
+        "Description": "Office",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "832",
+        "Description": "Office",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "833",
+        "Description": "Office",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "834",
+        "Description": "Office",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "835",
+        "Description": "Office",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "836",
+        "Description": "Office",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "837",
+        "Description": "Office",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "838",
+        "Description": "Office",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "839",
+        "Description": "Office",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "846",
+        "Description": "Shaft Space",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "847A",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "847B",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "847C",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "848A",
+        "Description": "Stair",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "848B",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "848C",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "848D",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "849",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "875",
+        "Description": "Custodial",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "877",
+        "Description": "Restroom Female",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "879",
+        "Description": "Restroom Male",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "881",
+        "Description": "Office",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "882",
+        "Description": "Electrical",
+        "Department Name": "CEAS - Engineering & Computing Education"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "883",
+        "Description": "Telecommunications Room",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "885",
+        "Description": "Office",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "887",
+        "Description": "Office",
+        "Department Name": "CEAS - Engineering & Computing Education"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "889",
+        "Description": "Office",
+        "Department Name": "CEAS - Engineering & Computing Education"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "891",
+        "Description": "Office",
+        "Department Name": "CEAS - Engineering & Computing Education"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "895",
+        "Description": "Reception/Waiting",
+        "Department Name": "CEAS - Engineering & Computing Education"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "895A",
+        "Description": "Office",
+        "Department Name": "CEAS - Engineering & Computing Education"
+    }
+]

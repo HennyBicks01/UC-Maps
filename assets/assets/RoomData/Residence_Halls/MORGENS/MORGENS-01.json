@@ -1,0 +1,134 @@
+[
+    {
+        "Floor Code": "01",
+        "Room Code": "100",
+        "Description": "Apartment - 2 Bedroom",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "101",
+        "Description": "Efficiency w/o Balcony",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "102",
+        "Description": "Apartment-3 Plus Bedroom",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "104",
+        "Description": "Efficiency w/o Balcony",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "105",
+        "Description": "Efficiency w/o Balcony",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "106",
+        "Description": "Efficiency w/o Balcony",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "107",
+        "Description": "Efficiency w/o Balcony",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "108",
+        "Description": "Efficiency w/o Balcony",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "109",
+        "Description": "Efficiency w/o Balcony",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "110",
+        "Description": "Apartment-3 Plus Bedroom",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "112",
+        "Description": "Efficiency w/o Balcony",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "113",
+        "Description": "Apartment - 2 Bedroom",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "115",
+        "Description": "Mechanical",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "116",
+        "Description": "Mechanical",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "117",
+        "Description": "Electrical",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "118",
+        "Description": "Mechanical",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "196",
+        "Description": "Shaft Space",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "197A",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "197B",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "198A",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "198B",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "199",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    }
+]

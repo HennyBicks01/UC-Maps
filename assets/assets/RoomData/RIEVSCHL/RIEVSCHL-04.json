@@ -1,0 +1,1028 @@
+[
+    {
+        "Floor Code": "04",
+        "Room Code": "400",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "401",
+        "Description": "Custodial",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "402",
+        "Description": "Cold Room",
+        "Department Name": "A&S Biological Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "403",
+        "Description": "Central Storage",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "404",
+        "Description": "Office Svc - Other",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "404A",
+        "Description": "Office",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "404B",
+        "Description": "Office",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "404C",
+        "Description": "Office",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "404D",
+        "Description": "Office",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "405",
+        "Description": "Private Restroom",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "406",
+        "Description": "Break Room",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "407",
+        "Description": "Central Storage",
+        "Department Name": "A&S Biological Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "407A",
+        "Description": "Other Lab Svc Rsch",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "407B",
+        "Description": "Central Storage",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "407C",
+        "Description": "Office",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "407D",
+        "Description": "Office",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "407E",
+        "Description": "Gas Storage",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "407F",
+        "Description": "Central Storage",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "409",
+        "Description": "Lab Circ Rsch",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "409A",
+        "Description": "Instrument Lab",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "409B",
+        "Description": "Instrument Lab",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "409C",
+        "Description": "Instrument Lab",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "409D",
+        "Description": "Instrument Lab",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "411",
+        "Description": "Wet Instr Lab",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "411A",
+        "Description": "Wet Lab Svc Instr",
+        "Department Name": "A&S Biological Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "411B",
+        "Description": "Wet Lab Svc Instr",
+        "Department Name": "A&S Biological Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "412",
+        "Description": "Special Research Lab",
+        "Department Name": "A&S Biological Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "412A",
+        "Description": "Office",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "412B",
+        "Description": "Special Rsch Lab Svc",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "412BA",
+        "Description": "Special Research Lab",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "413",
+        "Description": "Mechanical",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "414",
+        "Description": "Computer/Telecommunication",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "418",
+        "Description": "Lab Circ Rsch",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "418A",
+        "Description": "Office",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "418B",
+        "Description": "Break Room",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "418C",
+        "Description": "Internal Office Circ",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "418C.01",
+        "Description": "Modular",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "418C.02",
+        "Description": "Modular",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "418C.03",
+        "Description": "Modular",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "418C.04",
+        "Description": "Modular",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "418C.05",
+        "Description": "Modular",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "418C.06",
+        "Description": "Modular",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "418C.07",
+        "Description": "Modular",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "418C.11",
+        "Description": "Modular",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "418C.12",
+        "Description": "Modular",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "418C.13",
+        "Description": "Modular",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "418C.14",
+        "Description": "Modular",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "418C.15",
+        "Description": "Modular",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "418C.16",
+        "Description": "Modular",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "418C.17",
+        "Description": "Modular",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "418C.18",
+        "Description": "Modular",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "418C.20",
+        "Description": "Conference",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "418D",
+        "Description": "Wet Lab Svc",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "418E",
+        "Description": "Tissue Culture",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "418F",
+        "Description": "Office Svc - Other",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "418G",
+        "Description": "Special Research Lab",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "418H",
+        "Description": "Wet Lab",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "418I",
+        "Description": "Wet Lab",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "418J",
+        "Description": "Wet Lab",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "418K",
+        "Description": "Wet Lab",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "418L",
+        "Description": "Wet Lab",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "418M",
+        "Description": "Wet Lab",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "418N",
+        "Description": "Wet Lab",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "418O",
+        "Description": "Wet Lab",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "418P",
+        "Description": "Wet Lab",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "418Q",
+        "Description": "Instrument Lab",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "418R",
+        "Description": "Tissue Culture",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "418S",
+        "Description": "Office",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "418T",
+        "Description": "Office",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "418U",
+        "Description": "Break Room",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "418W",
+        "Description": "Wet Lab",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "421",
+        "Description": "Mechanical",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "422",
+        "Description": "Lab Circ Rsch",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "422A",
+        "Description": "Wet Lab",
+        "Department Name": "A&S Biological Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "422B",
+        "Description": "Wet Lab",
+        "Department Name": "A&S Biological Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "422C",
+        "Description": "Wet Lab",
+        "Department Name": "A&S Biological Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "422D",
+        "Description": "Wet Lab",
+        "Department Name": "A&S Biological Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "422E",
+        "Description": "Wet Lab",
+        "Department Name": "A&S Biological Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "422F",
+        "Description": "Wet Lab",
+        "Department Name": "A&S Biological Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "422G",
+        "Description": "Wet Lab",
+        "Department Name": "A&S Biological Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "422H",
+        "Description": "Wet Lab",
+        "Department Name": "A&S Biological Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "422IA",
+        "Description": "Wet Lab Svc",
+        "Department Name": "A&S Biological Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "422IAA",
+        "Description": "Wet Lab Svc",
+        "Department Name": "A&S Biological Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "422IAAA",
+        "Description": "Wet Lab Svc",
+        "Department Name": "A&S Biological Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "422IB",
+        "Description": "Wet Lab Svc",
+        "Department Name": "A&S Biological Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "422IZ",
+        "Description": "Lab Circ Rsch",
+        "Department Name": "A&S Biological Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "422K",
+        "Description": "Wet Lab Svc",
+        "Department Name": "A&S Biological Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "422L",
+        "Description": "Wet Lab Svc",
+        "Department Name": "A&S Biological Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "422M",
+        "Description": "Wet Lab Svc",
+        "Department Name": "A&S Biological Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "422N",
+        "Description": "Wet Lab Svc",
+        "Department Name": "A&S Biological Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "422O",
+        "Description": "Wet Lab Svc",
+        "Department Name": "A&S Biological Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "422P",
+        "Description": "Wet Lab Svc",
+        "Department Name": "A&S Biological Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "422Q",
+        "Description": "Internal Office Circ",
+        "Department Name": "A&S Biological Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "422QA",
+        "Description": "Office",
+        "Department Name": "A&S Biological Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "422QB",
+        "Description": "Office",
+        "Department Name": "A&S Biological Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "422QC",
+        "Description": "Office",
+        "Department Name": "A&S Biological Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "422QD",
+        "Description": "Office",
+        "Department Name": "A&S Biological Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "422R",
+        "Description": "Break Room",
+        "Department Name": "A&S Biological Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "422RA",
+        "Description": "Conference",
+        "Department Name": "A&S Biological Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "422T",
+        "Description": "Internal Office Circ",
+        "Department Name": "A&S Biological Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "422T.01",
+        "Description": "Modular",
+        "Department Name": "A&S Biological Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "422T.02",
+        "Description": "Modular",
+        "Department Name": "A&S Biological Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "422T.03",
+        "Description": "Modular",
+        "Department Name": "A&S Biological Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "422T.04",
+        "Description": "Modular",
+        "Department Name": "A&S Biological Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "422T.05",
+        "Description": "Modular",
+        "Department Name": "A&S Biological Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "422T.06",
+        "Description": "Modular",
+        "Department Name": "A&S Biological Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "422T.07",
+        "Description": "Modular",
+        "Department Name": "A&S Biological Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "422T.08",
+        "Description": "Modular",
+        "Department Name": "A&S Biological Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "422T.09",
+        "Description": "Modular",
+        "Department Name": "A&S Biological Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "422U",
+        "Description": "Internal Office Circ",
+        "Department Name": "A&S Biological Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "422U.01",
+        "Description": "Modular",
+        "Department Name": "A&S Biological Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "422U.02",
+        "Description": "Modular",
+        "Department Name": "A&S Biological Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "422U.03",
+        "Description": "Modular",
+        "Department Name": "A&S Biological Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "422U.04",
+        "Description": "Modular",
+        "Department Name": "A&S Biological Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "422U.05",
+        "Description": "Modular",
+        "Department Name": "A&S Biological Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "422U.06",
+        "Description": "Modular",
+        "Department Name": "A&S Biological Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "422U.07",
+        "Description": "Modular",
+        "Department Name": "A&S Biological Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "422U.08",
+        "Description": "Modular",
+        "Department Name": "A&S Biological Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "422U.09",
+        "Description": "Modular",
+        "Department Name": "A&S Biological Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "422ZN",
+        "Description": "Lab Circ Rsch",
+        "Department Name": "A&S Biological Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "422ZS",
+        "Description": "Lab Circ Rsch",
+        "Department Name": "A&S Biological Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "424",
+        "Description": "Restroom All Gender",
+        "Department Name": "A&S Biological Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "425",
+        "Description": "Restroom All Gender",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "426",
+        "Description": "Mechanical",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "427",
+        "Description": "Restroom Female",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "429A",
+        "Description": "Special Research Lab",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "429B",
+        "Description": "Special Research Lab",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "429C",
+        "Description": "Office",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "429E",
+        "Description": "Special Rsch Lab Svc",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "429F",
+        "Description": "Office",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "429G",
+        "Description": "Special Research Lab",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "429H",
+        "Description": "Data Lab",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "429I",
+        "Description": "Conference",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "429J",
+        "Description": "Wet Lab",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "429K",
+        "Description": "Office",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "429M",
+        "Description": "Wet Lab",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "429N",
+        "Description": "Classroom Svc",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "429O",
+        "Description": "Special Rsch Lab Svc",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "429P",
+        "Description": "Office",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "429Q",
+        "Description": "Wet Lab",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "429R",
+        "Description": "Special Rsch Lab Svc",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "429S",
+        "Description": "Office",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "429T",
+        "Description": "Wet Lab",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "429U",
+        "Description": "Special Research Lab",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "429V",
+        "Description": "Special Research Lab",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "429Z",
+        "Description": "Lab Circ Rsch",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "430",
+        "Description": "Office",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "431A",
+        "Description": "Office",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "431B",
+        "Description": "Instrument Lab",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "431C",
+        "Description": "Instrument Lab",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "431D",
+        "Description": "Wet Lab",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "431E",
+        "Description": "Wet Lab",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "431F",
+        "Description": "Wet Lab",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "431G",
+        "Description": "Wet Lab",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "431H",
+        "Description": "Wet Lab",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "431Z",
+        "Description": "Lab Circ Rsch",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "433",
+        "Description": "Restroom Male",
+        "Department Name": "A&S Chemistry"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "496",
+        "Description": "Shaft Space",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "497A",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "497B",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "497D",
+        "Description": "Dumbwaiter",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "497E",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "498A",
+        "Description": "Stair",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "498B",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "498C",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "498D",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "498E",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "498F",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "498G",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "499",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "499A",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    }
+]

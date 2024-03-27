@@ -1,0 +1,566 @@
+[
+    {
+        "Floor Code": "07",
+        "Room Code": "7102",
+        "Description": "Restroom Female",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7103",
+        "Description": "Office Svc - Other",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7105",
+        "Description": "Custodial",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7106",
+        "Description": "Restroom Male",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7109",
+        "Description": "Mechanical",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7120",
+        "Description": "Classroom",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7121",
+        "Description": "Office Svc - Other",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7123",
+        "Description": "Data Lab",
+        "Department Name": "CECH Innovations & Community Partnership"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7124",
+        "Description": "Classroom",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7125",
+        "Description": "Office",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7125A",
+        "Description": "Office",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7128",
+        "Description": "Lab Circ Rsch",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7128A",
+        "Description": "Data Lab",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7128B",
+        "Description": "Data Lab",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7128C",
+        "Description": "Break Room",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7128D",
+        "Description": "Data Lab",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7128E",
+        "Description": "Data Lab",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7128F",
+        "Description": "Data Lab",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7130",
+        "Description": "Lab Circ Rsch",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7130A",
+        "Description": "Data Lab",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7130B",
+        "Description": "Data Lab",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7132",
+        "Description": "Classroom Svc",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7134",
+        "Description": "Office Svc - Other",
+        "Department Name": "CECH Facility & Research Support"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7136",
+        "Description": "Classroom",
+        "Department Name": "A&S College of Arts and Sciences"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7140",
+        "Description": "Internal Office Circ",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7140.01",
+        "Description": "Modular",
+        "Department Name": "A&S Information & Technology"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7140.03",
+        "Description": "Modular",
+        "Department Name": "A&S Information & Technology"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7140.05",
+        "Description": "Modular",
+        "Department Name": "A&S Information & Technology"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7140.06",
+        "Description": "Modular",
+        "Department Name": "A&S Information & Technology"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7140.07",
+        "Description": "Modular",
+        "Department Name": "A&S Information & Technology"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7140.08",
+        "Description": "Modular",
+        "Department Name": "A&S Information & Technology"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7140.09",
+        "Description": "Modular",
+        "Department Name": "A&S Information & Technology"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7140.10",
+        "Description": "Modular",
+        "Department Name": "A&S Information & Technology"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7140A",
+        "Description": "Office Svc - Other",
+        "Department Name": "A&S Information & Technology"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7140B",
+        "Description": "Office",
+        "Department Name": "A&S Information & Technology"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7140C",
+        "Description": "Office",
+        "Department Name": "A&S Information & Technology"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7140D",
+        "Description": "Office",
+        "Department Name": "A&S Information & Technology"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7140E",
+        "Description": "Computer/Telecommunication",
+        "Department Name": "A&S Information & Technology"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7144",
+        "Description": "Internal Office Circ",
+        "Department Name": "A&S Information & Technology"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7144A",
+        "Description": "Training",
+        "Department Name": "International"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7144B",
+        "Description": "Copy/Mail",
+        "Department Name": "International"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7144C",
+        "Description": "Office",
+        "Department Name": "International"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7144D",
+        "Description": "Office",
+        "Department Name": "International"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7144E",
+        "Description": "Office",
+        "Department Name": "International"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7144F",
+        "Description": "Office Svc - Other",
+        "Department Name": "International"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7146",
+        "Description": "Office",
+        "Department Name": "International"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7148",
+        "Description": "Internal Office Circ",
+        "Department Name": "International"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7148.01",
+        "Description": "Modular",
+        "Department Name": "International"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7148.02",
+        "Description": "Modular",
+        "Department Name": "International"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7148.03",
+        "Description": "Modular",
+        "Department Name": "International"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7148A",
+        "Description": "Conference",
+        "Department Name": "International"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7148B",
+        "Description": "Office",
+        "Department Name": "International"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7148C",
+        "Description": "Office",
+        "Department Name": "International"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7148D",
+        "Description": "Internal Office Circ",
+        "Department Name": "International"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7148D.01",
+        "Description": "Modular",
+        "Department Name": "International"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7148D.02",
+        "Description": "Modular",
+        "Department Name": "International"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7148D.03",
+        "Description": "Modular",
+        "Department Name": "International"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7148F",
+        "Description": "Office",
+        "Department Name": "International"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7148G",
+        "Description": "Office",
+        "Department Name": "International"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7148H",
+        "Description": "Conference",
+        "Department Name": "International"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7148J",
+        "Description": "Office",
+        "Department Name": "International"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7148K",
+        "Description": "Office",
+        "Department Name": "International"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7148M",
+        "Description": "Office",
+        "Department Name": "International"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7148N",
+        "Description": "Office",
+        "Department Name": "International"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7148P",
+        "Description": "Office",
+        "Department Name": "International"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7148Q",
+        "Description": "Break Room",
+        "Department Name": "International"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7148R",
+        "Description": "Office",
+        "Department Name": "International"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7148S",
+        "Description": "Office",
+        "Department Name": "International"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7148T",
+        "Description": "Office",
+        "Department Name": "International"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7148V",
+        "Description": "Office",
+        "Department Name": "International"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7148Z",
+        "Description": "Reception/Waiting",
+        "Department Name": "International"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7150",
+        "Description": "Internal Office Circ",
+        "Department Name": "International"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7150A",
+        "Description": "Office",
+        "Department Name": "International"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7150B",
+        "Description": "Office",
+        "Department Name": "International"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7150C",
+        "Description": "Office",
+        "Department Name": "International"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7150D",
+        "Description": "Office",
+        "Department Name": "International"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7150E",
+        "Description": "Office",
+        "Department Name": "International"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7150F",
+        "Description": "Office",
+        "Department Name": "International"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7150G",
+        "Description": "Office",
+        "Department Name": "International"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7150H",
+        "Description": "Office",
+        "Department Name": "International"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7150J",
+        "Description": "Office",
+        "Department Name": "International"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7150K",
+        "Description": "Office",
+        "Department Name": "International"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7150M",
+        "Description": "File/Supply",
+        "Department Name": "International"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7150N",
+        "Description": "Copy/Mail",
+        "Department Name": "International"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7196",
+        "Description": "Shaft Space",
+        "Department Name": "International"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7197A",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7197B",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7197C",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7197D",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7197E",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7198B",
+        "Description": "Stair",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7198C",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7199",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "T701",
+        "Description": "Telecommunications Room",
+        "Department Name": "Hallways"
+    }
+]

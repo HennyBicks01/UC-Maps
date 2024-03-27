@@ -1,0 +1,14 @@
+[
+    {
+        "Floor Code": "PR",
+        "Room Code": "PR01",
+        "Description": "Mechanical",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "PR",
+        "Room Code": "PR98D",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    }
+]

@@ -1,0 +1,710 @@
+[
+    {
+        "Floor Code": "08",
+        "Room Code": "801",
+        "Description": "Reception/Waiting",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "801.01",
+        "Description": "Modular",
+        "Department Name": "CEAS - College of Eng & Appl Science"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "801A",
+        "Description": "Office",
+        "Department Name": "CEAS - College of Eng & Appl Science"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "801B",
+        "Description": "Office",
+        "Department Name": "CEAS - College of Eng & Appl Science"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "801C",
+        "Description": "Conference",
+        "Department Name": "CEAS - College of Eng & Appl Science"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "801D",
+        "Description": "Break Room",
+        "Department Name": "CEAS - College of Eng & Appl Science"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "802",
+        "Description": "Office Svc - Other",
+        "Department Name": "CEAS - College of Eng & Appl Science"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "802A",
+        "Description": "Office Svc - Other",
+        "Department Name": "CEAS - College of Eng & Appl Science"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "802B",
+        "Description": "Office Svc - Other",
+        "Department Name": "CEAS - College of Eng & Appl Science"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "803",
+        "Description": "Private Restroom",
+        "Department Name": "CEAS - College of Eng & Appl Science"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "805",
+        "Description": "Office",
+        "Department Name": "CEAS - College of Eng & Appl Science"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "805A",
+        "Description": "Office",
+        "Department Name": "CEAS - College of Eng & Appl Science"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "805B",
+        "Description": "Office",
+        "Department Name": "CEAS - College of Eng & Appl Science"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "805C",
+        "Description": "Office",
+        "Department Name": "CEAS - College of Eng & Appl Science"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "805D",
+        "Description": "Office",
+        "Department Name": "CEAS - College of Eng & Appl Science"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "808",
+        "Description": "Custodial",
+        "Department Name": "CEAS - College of Eng & Appl Science"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "809",
+        "Description": "Copy/Mail",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "810",
+        "Description": "Restroom Male",
+        "Department Name": "CEAS - College of Eng & Appl Science"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "813",
+        "Description": "Data Lab",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "813A",
+        "Description": "Data Lab",
+        "Department Name": "CEAS - Aerospace Eng & Eng Mechanics"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "816",
+        "Description": "Office",
+        "Department Name": "CEAS - Aerospace Eng & Eng Mechanics"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "816A",
+        "Description": "Office",
+        "Department Name": "CEAS - College of Eng & Appl Science"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "817",
+        "Description": "Office",
+        "Department Name": "CEAS - College of Eng & Appl Science"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "817.01",
+        "Description": "Modular",
+        "Department Name": "CEAS - College of Eng & Appl Science"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "817.02",
+        "Description": "Modular",
+        "Department Name": "CEAS - College of Eng & Appl Science"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "817.03",
+        "Description": "Modular",
+        "Department Name": "CEAS - College of Eng & Appl Science"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "817.04",
+        "Description": "Modular",
+        "Department Name": "CEAS - College of Eng & Appl Science"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "817.05",
+        "Description": "Modular",
+        "Department Name": "CEAS - College of Eng & Appl Science"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "817.06",
+        "Description": "Modular",
+        "Department Name": "CEAS - College of Eng & Appl Science"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "817.07",
+        "Description": "Modular",
+        "Department Name": "CEAS - College of Eng & Appl Science"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "817.08",
+        "Description": "Modular",
+        "Department Name": "CEAS - College of Eng & Appl Science"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "817.09",
+        "Description": "Modular",
+        "Department Name": "CEAS - College of Eng & Appl Science"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "817.10",
+        "Description": "Modular",
+        "Department Name": "CEAS - College of Eng & Appl Science"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "817.11",
+        "Description": "Modular",
+        "Department Name": "CEAS - College of Eng & Appl Science"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "817.12",
+        "Description": "Modular",
+        "Department Name": "CEAS - College of Eng & Appl Science"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "817.13",
+        "Description": "Modular",
+        "Department Name": "CEAS - College of Eng & Appl Science"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "817.14",
+        "Description": "Modular",
+        "Department Name": "CEAS - College of Eng & Appl Science"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "817.15",
+        "Description": "Modular",
+        "Department Name": "CEAS - College of Eng & Appl Science"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "817.16",
+        "Description": "Modular",
+        "Department Name": "CEAS - College of Eng & Appl Science"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "817.17",
+        "Description": "Modular",
+        "Department Name": "CEAS - College of Eng & Appl Science"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "821",
+        "Description": "Special Research Lab",
+        "Department Name": "CEAS - College of Eng & Appl Science"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "824",
+        "Description": "Office",
+        "Department Name": "CEAS - Chemical & Env Eng"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "826",
+        "Description": "Office",
+        "Department Name": "CEAS - College of Eng & Appl Science"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "827",
+        "Description": "Internal Office Circ",
+        "Department Name": "CEAS - College of Eng & Appl Science"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "827.01",
+        "Description": "Modular",
+        "Department Name": "CEAS - Biomedical Eng"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "827.02",
+        "Description": "Modular",
+        "Department Name": "CEAS - Biomedical Eng"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "827.03",
+        "Description": "Modular",
+        "Department Name": "CEAS - Biomedical Eng"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "827.04",
+        "Description": "Modular",
+        "Department Name": "CEAS - Biomedical Eng"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "827.05",
+        "Description": "Modular",
+        "Department Name": "CEAS - Biomedical Eng"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "827.06",
+        "Description": "Modular",
+        "Department Name": "CEAS - Biomedical Eng"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "827.07",
+        "Description": "Modular",
+        "Department Name": "CEAS - Biomedical Eng"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "827.08",
+        "Description": "Modular",
+        "Department Name": "CEAS - Biomedical Eng"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "827.09",
+        "Description": "Modular",
+        "Department Name": "CEAS - Biomedical Eng"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "828",
+        "Description": "Office",
+        "Department Name": "CEAS - Biomedical Eng"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "829",
+        "Description": "Instrument Lab",
+        "Department Name": "CEAS - Undergraduate Affairs"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "829.01",
+        "Description": "Modular",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "829.02",
+        "Description": "Modular",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "829.03",
+        "Description": "Modular",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "829.04",
+        "Description": "Modular",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "829.05",
+        "Description": "Modular",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "829.06",
+        "Description": "Modular",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "829.07",
+        "Description": "Modular",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "829.08",
+        "Description": "Modular",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "830",
+        "Description": "Office",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "831",
+        "Description": "Telecommunications Room",
+        "Department Name": "CEAS - College of Eng & Appl Science"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "832",
+        "Description": "Office",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "833",
+        "Description": "Mechanical",
+        "Department Name": "CEAS - College of Eng & Appl Science"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "835",
+        "Description": "Office",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "836",
+        "Description": "Office",
+        "Department Name": "CEAS - College of Eng & Appl Science"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "838",
+        "Description": "Conference",
+        "Department Name": "CEAS - College of Eng & Appl Science"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "839",
+        "Description": "Wet Lab",
+        "Department Name": "CEAS - College of Eng & Appl Science"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "840",
+        "Description": "Office",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "841",
+        "Description": "Instrument Lab",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "841A",
+        "Description": "Instrument Lab",
+        "Department Name": "CEAS - Biomedical Eng"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "842",
+        "Description": "Conference",
+        "Department Name": "CEAS - Biomedical Eng"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "843",
+        "Description": "Mechanical",
+        "Department Name": "CEAS - College of Eng & Appl Science"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "845",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "846",
+        "Description": "Office",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "848",
+        "Description": "Office",
+        "Department Name": "CEAS - Marketing/Communications"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "849",
+        "Description": "Instrument Lab",
+        "Department Name": "CEAS - Biomedical Eng"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "850",
+        "Description": "Office",
+        "Department Name": "CEAS - Chemical & Env Eng"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "851",
+        "Description": "Other Lab Svc Rsch",
+        "Department Name": "CEAS - Biomedical Eng"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "852",
+        "Description": "Office",
+        "Department Name": "CEAS - Biomedical Eng"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "855",
+        "Description": "Telecommunications Room",
+        "Department Name": "CEAS - Biomedical Eng"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "857",
+        "Description": "Mechanical",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "858",
+        "Description": "Office",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "860",
+        "Description": "Office",
+        "Department Name": "CEAS - Chemical & Env Eng"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "861",
+        "Description": "Wet Lab",
+        "Department Name": "CEAS - Biomedical Eng"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "862",
+        "Description": "Office",
+        "Department Name": "CEAS - Biomedical Eng"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "865",
+        "Description": "Custodial",
+        "Department Name": "CEAS - College of Eng & Appl Science"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "866",
+        "Description": "Office",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "869",
+        "Description": "Wet Lab",
+        "Department Name": "CEAS - College of Eng & Appl Science"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "870",
+        "Description": "Office",
+        "Department Name": "CEAS - Biomedical Eng"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "871",
+        "Description": "Tissue Culture",
+        "Department Name": "CEAS - Computer Science"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "872",
+        "Description": "Office",
+        "Department Name": "CEAS - Biomedical Eng"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "875",
+        "Description": "Wet Lab",
+        "Department Name": "CEAS - College of Eng & Appl Science"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "878",
+        "Description": "Office",
+        "Department Name": "CEAS - Biomedical Eng"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "880",
+        "Description": "Office",
+        "Department Name": "CEAS - College of Eng & Appl Science"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "881",
+        "Description": "Wet Lab",
+        "Department Name": "CEAS - College of Eng & Appl Science"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "883",
+        "Description": "Wet Lab",
+        "Department Name": "CEAS - Biomedical Eng"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "884",
+        "Description": "Office",
+        "Department Name": "CEAS - Chemical & Env Eng"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "887",
+        "Description": "Wet Lab",
+        "Department Name": "CEAS - College of Eng & Appl Science"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "889",
+        "Description": "Wet Lab",
+        "Department Name": "CEAS - Chemical & Env Eng"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "890",
+        "Description": "Restroom Female",
+        "Department Name": "CEAS - Biomedical Eng"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "892",
+        "Description": "Custodial",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "893",
+        "Description": "Wet Lab",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "893.01",
+        "Description": "Wet Lab",
+        "Department Name": "CEAS - Biomedical Eng"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "893A",
+        "Description": "Office",
+        "Department Name": "CEAS - Biomedical Eng"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "893B",
+        "Description": "Instrument Lab",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "896",
+        "Description": "Shaft Space",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "897A",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "897B",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "897C",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "897E",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "898A",
+        "Description": "Stair",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "898B",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "898C",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "899",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    }
+]

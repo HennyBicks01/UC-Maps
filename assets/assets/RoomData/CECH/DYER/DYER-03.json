@@ -1,0 +1,278 @@
+[
+    {
+        "Floor Code": "03",
+        "Room Code": "349",
+        "Description": "Custodial",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "350",
+        "Description": "Classroom",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "350A",
+        "Description": "Classroom Svc",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "350B",
+        "Description": "Classroom Svc",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "350C",
+        "Description": "Classroom Svc",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "352",
+        "Description": "Conference",
+        "Department Name": "CECH Facility & Research Support"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "360",
+        "Description": "Reception/Waiting",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "360A",
+        "Description": "Office",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "360B",
+        "Description": "Office",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "360C",
+        "Description": "Office",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "360D",
+        "Description": "Office",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "360E",
+        "Description": "Office",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "360F",
+        "Description": "Office",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "360G",
+        "Description": "Office",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "360H",
+        "Description": "Office Svc - Other",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "360I",
+        "Description": "Office",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "360J",
+        "Description": "Office",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "360J.01",
+        "Description": "Modular",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "360J.02",
+        "Description": "Modular",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "360J.03",
+        "Description": "Modular",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "360J.04",
+        "Description": "Modular",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "360J.05",
+        "Description": "Modular",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "360K",
+        "Description": "Office",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "360L",
+        "Description": "File/Supply",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "360M",
+        "Description": "Conference",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "360N",
+        "Description": "Office",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "360O",
+        "Description": "Office",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "360P",
+        "Description": "Office",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "360Q",
+        "Description": "Office",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "360R",
+        "Description": "Office",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "360S",
+        "Description": "Office",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "360T",
+        "Description": "Office",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "360TA",
+        "Description": "Office",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "360U",
+        "Description": "Office",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "360UA",
+        "Description": "Office Svc - Other",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "360V",
+        "Description": "Office",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "360W",
+        "Description": "Office",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "360X",
+        "Description": "Office",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "360Y",
+        "Description": "Office",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "360ZA",
+        "Description": "Office",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "360ZB",
+        "Description": "Office Svc - Other",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "396",
+        "Description": "Shaft Space",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "397B",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "398G",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "398H",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "399",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    }
+]

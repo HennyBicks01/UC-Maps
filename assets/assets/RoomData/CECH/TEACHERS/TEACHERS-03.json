@@ -1,0 +1,398 @@
+[
+    {
+        "Floor Code": "03",
+        "Room Code": "300",
+        "Description": "Open Stack, Study & Reading",
+        "Department Name": "UCL CECH Library"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "300A",
+        "Description": "Open Stack, Study & Reading",
+        "Department Name": "UCL CECH Library"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "300B",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "300C",
+        "Description": "Library Svc",
+        "Department Name": "UCL CECH Library"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "303",
+        "Description": "Internal Office Circ",
+        "Department Name": "UCL CECH Library"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "304",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "305",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "305B",
+        "Description": "Electrical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "308",
+        "Description": "Office",
+        "Department Name": "UCL CECH Library"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "309",
+        "Description": "Open Stack, Study & Reading",
+        "Department Name": "UCL CECH Library"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "317",
+        "Description": "Telecommunications Room",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "319",
+        "Description": "Restroom Male",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "320",
+        "Description": "Computer Study Lab (Unsch)",
+        "Department Name": "UCL CECH Library"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "321",
+        "Description": "Restroom Female",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "325",
+        "Description": "Other Study Lab (Unsch)",
+        "Department Name": "UCL CECH Library"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "325A",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "328",
+        "Description": "Circulation & Reserve",
+        "Department Name": "UCL CECH Library"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "328.01",
+        "Description": "Modular",
+        "Department Name": "UCL CECH Library"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "328A",
+        "Description": "Processing",
+        "Department Name": "UCL CECH Library"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "328A.01",
+        "Description": "Modular",
+        "Department Name": "UCL CECH Library"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "328A.02",
+        "Description": "Modular",
+        "Department Name": "UCL CECH Library"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "328B",
+        "Description": "Library Svc",
+        "Department Name": "UCL CECH Library"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "328C",
+        "Description": "Break Room",
+        "Department Name": "UCL CECH Library"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "330",
+        "Description": "Office",
+        "Department Name": "UCL CECH Library"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "331",
+        "Description": "Computer Study Lab (Unsch)",
+        "Department Name": "UCL CECH Library"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "331A",
+        "Description": "Other Lab Svc Instr",
+        "Department Name": "UCL CECH Library"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "331AA",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "333",
+        "Description": "Study Room",
+        "Department Name": "UCL CECH Library"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "334",
+        "Description": "Study Room",
+        "Department Name": "UCL CECH Library"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "335",
+        "Description": "Lobby",
+        "Department Name": "CECH Educ Criminal Justice & Human Srvcs"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "335A",
+        "Description": "Dining",
+        "Department Name": "Outside Agency"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "335B",
+        "Description": "Dining Svc",
+        "Department Name": "Outside Agency"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "336",
+        "Description": "Internal Office Circ",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "336.01",
+        "Description": "Modular",
+        "Department Name": "CECH Educ Criminal Justice & Human Srvcs"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "336A",
+        "Description": "Conference",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "336AA",
+        "Description": "Conf Svc",
+        "Department Name": "CECH Educ Criminal Justice & Human Srvcs"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "336B",
+        "Description": "Office",
+        "Department Name": "CECH Educ Criminal Justice & Human Srvcs"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "336C",
+        "Description": "Internal Office Circ",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "336C.01",
+        "Description": "Modular",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "336C.02",
+        "Description": "Modular",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "336C.03",
+        "Description": "Modular",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "336C.04",
+        "Description": "Modular",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "336C.05",
+        "Description": "Modular",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "336D",
+        "Description": "Office",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "336E",
+        "Description": "Office",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "336F",
+        "Description": "Office Svc - Other",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "336G",
+        "Description": "Office",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "336I",
+        "Description": "Office",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "336J",
+        "Description": "Office",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "336K",
+        "Description": "Office",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "337",
+        "Description": "Office",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "338",
+        "Description": "Other Study Lab (Unsch)",
+        "Department Name": "Outside Agency"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "340",
+        "Description": "Other Study Lab (Unsch)",
+        "Department Name": "CECH Educ Criminal Justice & Human Srvcs"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "340A",
+        "Description": "Other Lab Svc Instr",
+        "Department Name": "CECH Educ Criminal Justice & Human Srvcs"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "341",
+        "Description": "Restroom Male",
+        "Department Name": "CECH Educ Criminal Justice & Human Srvcs"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "343",
+        "Description": "Restroom Female",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "345",
+        "Description": "Telecommunications Room",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "347",
+        "Description": "Electrical",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "396",
+        "Description": "Shaft Space",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "397D",
+        "Description": "Dumbwaiter",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "397E",
+        "Description": "Service Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "397F",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "398B",
+        "Description": "Stair",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "398E",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "399",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "399A",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    }
+]

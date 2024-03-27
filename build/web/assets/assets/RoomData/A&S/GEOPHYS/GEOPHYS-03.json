@@ -1,0 +1,530 @@
+[
+    {
+        "Floor Code": "03",
+        "Room Code": "300",
+        "Description": "Computer Study Lab (Unsch)",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "300A",
+        "Description": "Other Lab Svc Instr",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "300B",
+        "Description": "Mechanical",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "301",
+        "Description": "Other Lab Svc Rsch",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "301A",
+        "Description": "Other Lab Svc Rsch",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "301B",
+        "Description": "Office",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "302",
+        "Description": "Office Svc - Other",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "302.01",
+        "Description": "Modular",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "302.02",
+        "Description": "Modular",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "302.03",
+        "Description": "Modular",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "302.04",
+        "Description": "Modular",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "302.05",
+        "Description": "Modular",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "302.06",
+        "Description": "Modular",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "302.07",
+        "Description": "Modular",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "302.08",
+        "Description": "Modular",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "302.09",
+        "Description": "Modular",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "302.10",
+        "Description": "Modular",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "302A",
+        "Description": "Internal Office Circ",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "302A.01",
+        "Description": "Modular",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "302A.02",
+        "Description": "Modular",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "302A.03",
+        "Description": "Modular",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "302A.04",
+        "Description": "Modular",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "302A.05",
+        "Description": "Modular",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "302A.06",
+        "Description": "Modular",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "302A.07",
+        "Description": "Modular",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "302A.08",
+        "Description": "Modular",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "302A.09",
+        "Description": "Modular",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "302A.10",
+        "Description": "Modular",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "302A.11",
+        "Description": "Modular",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "302A.12",
+        "Description": "Modular",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "302A.13",
+        "Description": "Modular",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "302A.14",
+        "Description": "Modular",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "302A.15",
+        "Description": "Modular",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "302A.16",
+        "Description": "Modular",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "303",
+        "Description": "Computer Study Lab (Unsch)",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "304",
+        "Description": "Study Room",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "305",
+        "Description": "Internal Office Circ",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "305A",
+        "Description": "Office",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "305B",
+        "Description": "Office",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "305C",
+        "Description": "Office",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "305D",
+        "Description": "Office",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "305E",
+        "Description": "Office",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "305F",
+        "Description": "Office",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "305G",
+        "Description": "Office",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "305H",
+        "Description": "Office",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "305I",
+        "Description": "Office",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "305J",
+        "Description": "Office",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "305K",
+        "Description": "Office",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "306",
+        "Description": "Other Study Lab (Unsch)",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "306A",
+        "Description": "Other Lab Svc Instr",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "306B",
+        "Description": "Other Lab Svc Instr",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "307",
+        "Description": "Internal Office Circ",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "307A",
+        "Description": "Office",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "307B",
+        "Description": "Office",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "307C",
+        "Description": "Office",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "307D",
+        "Description": "Office",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "307E",
+        "Description": "Office",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "307F",
+        "Description": "Office",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "307G",
+        "Description": "Office",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "307H",
+        "Description": "Office",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "307I",
+        "Description": "Office",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "307J",
+        "Description": "Office",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "307K",
+        "Description": "Office",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "307L",
+        "Description": "Office",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "307M",
+        "Description": "Office",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "307N",
+        "Description": "Office",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "307O",
+        "Description": "Office",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "307P",
+        "Description": "Office",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "307Q",
+        "Description": "Office",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "308",
+        "Description": "Conference",
+        "Department Name": "A&S Geology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "308A",
+        "Description": "Instrument Lab",
+        "Department Name": "A&S Geology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "309",
+        "Description": "Other Study Lab (Unsch)",
+        "Department Name": "A&S Environmental Studies"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "310",
+        "Description": "Other Study Lab (Unsch)",
+        "Department Name": "A&S Geology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "311",
+        "Description": "Computer Study Lab (Unsch)",
+        "Department Name": "A&S Geology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "311A",
+        "Description": "Other Lab Svc Instr",
+        "Department Name": "A&S Geology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "312",
+        "Description": "Classroom Svc",
+        "Department Name": "A&S Geology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "312A",
+        "Description": "Mechanical",
+        "Department Name": "A&S Geology"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "313",
+        "Description": "Custodial",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "314",
+        "Description": "Custodial",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "381",
+        "Description": "Restroom Female",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "382",
+        "Description": "Restroom Male",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "396",
+        "Description": "Shaft Space",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "397A",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "397B",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "398A",
+        "Description": "Stair",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "398B",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "398C",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "399",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    }
+]

@@ -1,0 +1,512 @@
+[
+    {
+        "Floor Code": "06",
+        "Room Code": "6400",
+        "Description": "Design Study Lab (Unsch)",
+        "Department Name": "DAAP Design Architecture Art & Planning"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6400A",
+        "Description": "Other Lab Svc Instr",
+        "Department Name": "DAAP School of Design"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6401",
+        "Description": "Other Study Lab (Unsch)",
+        "Department Name": "DAAP School of Design"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6401A",
+        "Description": "Other Lab Svc Instr",
+        "Department Name": "DAAP School of Design"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6402",
+        "Description": "Office",
+        "Department Name": "DAAP School of Design"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6404",
+        "Description": "Office",
+        "Department Name": "DAAP School of Design"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6405",
+        "Description": "Other Study Lab (Unsch)",
+        "Department Name": "DAAP School of Design"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6406",
+        "Description": "Design Instr Lab",
+        "Department Name": "DAAP School of Design"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6406A",
+        "Description": "Other Lab Svc Instr",
+        "Department Name": "DAAP School of Design"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6408",
+        "Description": "Office",
+        "Department Name": "DAAP School of Design"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6410",
+        "Description": "Office",
+        "Department Name": "DAAP School of Design"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6412",
+        "Description": "Design Study Lab (Unsch)",
+        "Department Name": "DAAP School of Design"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6414",
+        "Description": "Office",
+        "Department Name": "DAAP School of Design"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6415",
+        "Description": "Reception/Waiting",
+        "Department Name": "DAAP School of Art"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6415.01",
+        "Description": "Modular",
+        "Department Name": "DAAP School of Design"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6415A",
+        "Description": "Office",
+        "Department Name": "DAAP School of Design"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6415B",
+        "Description": "Office",
+        "Department Name": "DAAP School of Design"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6415C",
+        "Description": "Office",
+        "Department Name": "DAAP School of Design"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6415D",
+        "Description": "Office",
+        "Department Name": "DAAP School of Design"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6415E",
+        "Description": "Office",
+        "Department Name": "DAAP School of Design"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6415F",
+        "Description": "Conference",
+        "Department Name": "DAAP School of Design"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6415G",
+        "Description": "Office Svc - Other",
+        "Department Name": "DAAP School of Design"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6415H",
+        "Description": "Office Svc - Other",
+        "Department Name": "DAAP School of Design"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6416",
+        "Description": "Office",
+        "Department Name": "DAAP School of Design"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6418",
+        "Description": "Restroom All Gender",
+        "Department Name": "DAAP School of Design"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6420",
+        "Description": "Restroom All Gender",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6422",
+        "Description": "Telecommunications Room",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6422A",
+        "Description": "Mechanical",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6430",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6431",
+        "Description": "Reception/Waiting",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6431A",
+        "Description": "Office",
+        "Department Name": "DAAP School of Art"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6431B",
+        "Description": "Office",
+        "Department Name": "DAAP School of Art"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6431C",
+        "Description": "Office",
+        "Department Name": "DAAP School of Art"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6431D",
+        "Description": "Office",
+        "Department Name": "DAAP School of Art"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6431E",
+        "Description": "Office",
+        "Department Name": "DAAP School of Art"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6432",
+        "Description": "Office",
+        "Department Name": "DAAP School of Art"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6433",
+        "Description": "Conference",
+        "Department Name": "DAAP School of Design"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6434",
+        "Description": "Custodial",
+        "Department Name": "DAAP School of Art"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6435",
+        "Description": "Office",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6436",
+        "Description": "Office",
+        "Department Name": "DAAP School of Design"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6437",
+        "Description": "Office",
+        "Department Name": "DAAP School of Design"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6438",
+        "Description": "Office",
+        "Department Name": "DAAP School of Art"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6439",
+        "Description": "Office",
+        "Department Name": "DAAP School of Design"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6440",
+        "Description": "Office",
+        "Department Name": "DAAP School of Art"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6450A",
+        "Description": "Design Study Lab (Unsch)",
+        "Department Name": "DAAP School of Design"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6450B",
+        "Description": "Design Study Lab (Unsch)",
+        "Department Name": "DAAP School of Design"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6450C",
+        "Description": "Design Study Lab (Unsch)",
+        "Department Name": "DAAP School of Design"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6450D",
+        "Description": "Design Study Lab (Unsch)",
+        "Department Name": "DAAP School of Design"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6450E",
+        "Description": "Design Study Lab (Unsch)",
+        "Department Name": "DAAP School of Design"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6450F",
+        "Description": "Other Lab Svc Instr",
+        "Department Name": "DAAP School of Design"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6451",
+        "Description": "Art Instr Lab",
+        "Department Name": "DAAP School of Design"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6455",
+        "Description": "Design Study Lab (Unsch)",
+        "Department Name": "DAAP School of Design"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6459",
+        "Description": "Office",
+        "Department Name": "DAAP School of Design"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6461",
+        "Description": "Design Study Lab (Unsch)",
+        "Department Name": "DAAP School of Design"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6465",
+        "Description": "Art Study Lab (Unsch)",
+        "Department Name": "DAAP School of Design"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6470",
+        "Description": "Other Study Lab (Unsch)",
+        "Department Name": "DAAP School of Design"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6470A",
+        "Description": "Mechanical",
+        "Department Name": "DAAP School of Planning"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6472",
+        "Description": "Custodial",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6474",
+        "Description": "Restroom Female",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6476",
+        "Description": "Restroom Male",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6477",
+        "Description": "Design Study Lab (Unsch)",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6478",
+        "Description": "Design Instr Lab",
+        "Department Name": "DAAP School of Arch & Interior Design"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6479",
+        "Description": "Other Study Lab (Unsch)",
+        "Department Name": "DAAP School of Planning"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6480",
+        "Description": "Open Stack, Study & Reading",
+        "Department Name": "DAAP School of Planning"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6480A",
+        "Description": "Study Room",
+        "Department Name": "UCL DAAP Library"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6480B",
+        "Description": "Study Room",
+        "Department Name": "UCL DAAP Library"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6480C",
+        "Description": "Study Room",
+        "Department Name": "UCL DAAP Library"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6481",
+        "Description": "Office",
+        "Department Name": "UCL DAAP Library"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6483",
+        "Description": "Office",
+        "Department Name": "DAAP School of Design"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6485",
+        "Description": "Office",
+        "Department Name": "DAAP School of Design"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6487",
+        "Description": "Office",
+        "Department Name": "DAAP School of Design"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6489",
+        "Description": "Office Svc - Other",
+        "Department Name": "DAAP School of Design"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6489A",
+        "Description": "Office",
+        "Department Name": "DAAP School of Art"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6489B",
+        "Description": "Office",
+        "Department Name": "DAAP School of Design"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6489C",
+        "Description": "Office",
+        "Department Name": "DAAP School of Art"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6496",
+        "Description": "Shaft Space",
+        "Department Name": "DAAP School of Art"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6497A",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6497F",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6498A",
+        "Description": "Stair",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6498B",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6498C",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6498G",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6498H",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6499",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6499A",
+        "Description": "Classroom Svc",
+        "Department Name": "Hallways"
+    }
+]

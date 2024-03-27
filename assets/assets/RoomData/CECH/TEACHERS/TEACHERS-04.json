@@ -1,0 +1,656 @@
+[
+    {
+        "Floor Code": "04",
+        "Room Code": "400",
+        "Description": "Open Stack, Study & Reading",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "400A",
+        "Description": "Office",
+        "Department Name": "UCL CECH Library"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "400B",
+        "Description": "Study Room",
+        "Department Name": "UCL CECH Library"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "400C",
+        "Description": "Lounge",
+        "Department Name": "UCL CECH Library"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "400D",
+        "Description": "Workroom",
+        "Department Name": "UCL CECH Library"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "401",
+        "Description": "Conference",
+        "Department Name": "UCL CECH Library"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "403A",
+        "Description": "Break Room",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "405",
+        "Description": "Custodial",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "407",
+        "Description": "Conference",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "410",
+        "Description": "Reception/Waiting",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "410A",
+        "Description": "Office",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "410AA",
+        "Description": "Private Restroom",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "410B",
+        "Description": "Office Svc - Other",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "410C",
+        "Description": "Office",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "410D",
+        "Description": "Office",
+        "Department Name": "CECH Innovations & Community Partnership"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "410E",
+        "Description": "Office",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "410F",
+        "Description": "Office",
+        "Department Name": "CECH Innovations & Community Partnership"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "410G",
+        "Description": "Office",
+        "Department Name": "CECH Innovations & Community Partnership"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "410H",
+        "Description": "Office",
+        "Department Name": "CECH Innovations & Community Partnership"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "410J",
+        "Description": "Copy/Mail",
+        "Department Name": "CECH Innovations & Community Partnership"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "410K",
+        "Description": "Office",
+        "Department Name": "CECH Innovations & Community Partnership"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "410M",
+        "Description": "Copy/Mail",
+        "Department Name": "CECH Innovations & Community Partnership"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "410N",
+        "Description": "Office",
+        "Department Name": "CECH Innovations & Community Partnership"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "410P",
+        "Description": "Office Svc - Other",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "410Q",
+        "Description": "Office",
+        "Department Name": "CECH Innovations & Community Partnership"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "411",
+        "Description": "Conference",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "412",
+        "Description": "Office Svc - Other",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "412.01",
+        "Description": "Modular",
+        "Department Name": "CECH Innovations & Community Partnership"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "412.02",
+        "Description": "Modular",
+        "Department Name": "CECH Innovations & Community Partnership"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "412.03",
+        "Description": "Modular",
+        "Department Name": "CECH Innovations & Community Partnership"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "412.04",
+        "Description": "Modular",
+        "Department Name": "CECH Innovations & Community Partnership"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "412.05",
+        "Description": "Modular",
+        "Department Name": "CECH Innovations & Community Partnership"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "412.06",
+        "Description": "Modular",
+        "Department Name": "CECH Innovations & Community Partnership"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "412.07",
+        "Description": "Modular",
+        "Department Name": "CECH Innovations & Community Partnership"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "412A",
+        "Description": "Break Room",
+        "Department Name": "CECH Innovations & Community Partnership"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "412B",
+        "Description": "Office",
+        "Department Name": "CECH Innovations & Community Partnership"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "412C",
+        "Description": "Office",
+        "Department Name": "CECH Innovations & Community Partnership"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "412D",
+        "Description": "Office",
+        "Department Name": "CECH Innovations & Community Partnership"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "412E",
+        "Description": "Office",
+        "Department Name": "CECH Innovations & Community Partnership"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "412F",
+        "Description": "Office",
+        "Department Name": "CECH Facility & Research Support"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "414",
+        "Description": "Office Svc - Other",
+        "Department Name": "CECH Facility & Research Support"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "415",
+        "Description": "Electrical",
+        "Department Name": "CECH Facility & Research Support"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "417",
+        "Description": "Telecommunications Room",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "419",
+        "Description": "Restroom Male",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "421",
+        "Description": "Restroom Female",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "425",
+        "Description": "Classroom",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "430",
+        "Description": "Conference",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "431",
+        "Description": "Lounge",
+        "Department Name": "CECH Facility & Research Support"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "432",
+        "Description": "Office Svc - Other",
+        "Department Name": "CECH Educ Criminal Justice & Human Srvcs"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "433",
+        "Description": "Lounge",
+        "Department Name": "CECH Educ Criminal Justice & Human Srvcs"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "433A",
+        "Description": "Conference",
+        "Department Name": "CECH Educ Criminal Justice & Human Srvcs"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "436",
+        "Description": "Internal Office Circ",
+        "Department Name": "CECH Facility & Research Support"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "436A",
+        "Description": "Internal Office Circ",
+        "Department Name": "CECH Human Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "436A.01",
+        "Description": "Modular",
+        "Department Name": "CECH Human Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "436A.02",
+        "Description": "Modular",
+        "Department Name": "CECH Human Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "436A.03",
+        "Description": "Modular",
+        "Department Name": "CECH Human Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "436A.04",
+        "Description": "Modular",
+        "Department Name": "CECH Human Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "436A.05",
+        "Description": "Modular",
+        "Department Name": "CECH Human Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "436A.06",
+        "Description": "Modular",
+        "Department Name": "CECH Human Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "436A.07",
+        "Description": "Modular",
+        "Department Name": "CECH Human Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "436A.09",
+        "Description": "Modular",
+        "Department Name": "CECH Human Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "436A.10",
+        "Description": "Modular",
+        "Department Name": "CECH Human Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "436A.11",
+        "Description": "Modular",
+        "Department Name": "CECH Human Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "436A.12",
+        "Description": "Modular",
+        "Department Name": "CECH Human Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "436A.13",
+        "Description": "Modular",
+        "Department Name": "CECH Human Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "436B",
+        "Description": "Office",
+        "Department Name": "CECH Human Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "436C",
+        "Description": "Office Svc - Other",
+        "Department Name": "CECH Human Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "436D",
+        "Description": "Office",
+        "Department Name": "CECH Human Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "436E",
+        "Description": "Office",
+        "Department Name": "CECH Human Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "436F",
+        "Description": "Office",
+        "Department Name": "CECH Human Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "436G",
+        "Description": "Office",
+        "Department Name": "CECH Human Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "436H",
+        "Description": "Office",
+        "Department Name": "CECH Human Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "436I",
+        "Description": "Office",
+        "Department Name": "CECH Human Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "436J",
+        "Description": "Office",
+        "Department Name": "CECH Human Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "436K",
+        "Description": "Office",
+        "Department Name": "CECH Human Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "436L",
+        "Description": "Office",
+        "Department Name": "CECH Human Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "436M",
+        "Description": "Office",
+        "Department Name": "CECH Human Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "436N",
+        "Description": "Office",
+        "Department Name": "CECH Human Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "436O",
+        "Description": "Office",
+        "Department Name": "CECH Human Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "436P",
+        "Description": "Internal Office Circ",
+        "Department Name": "CECH Human Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "436P.01",
+        "Description": "Modular",
+        "Department Name": "CECH Human Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "436P.02",
+        "Description": "Modular",
+        "Department Name": "CECH Human Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "436P.03",
+        "Description": "Modular",
+        "Department Name": "CECH Human Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "436P.04",
+        "Description": "Modular",
+        "Department Name": "CECH Human Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "436P.05",
+        "Description": "Modular",
+        "Department Name": "CECH Human Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "436P.06",
+        "Description": "Modular",
+        "Department Name": "CECH Human Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "436P.07",
+        "Description": "Modular",
+        "Department Name": "CECH Human Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "436P.08",
+        "Description": "Modular",
+        "Department Name": "CECH Human Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "437",
+        "Description": "Office Svc - Other",
+        "Department Name": "CECH Human Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "437.01",
+        "Description": "Modular",
+        "Department Name": "CECH Human Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "437A",
+        "Description": "Office",
+        "Department Name": "CECH Human Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "437B",
+        "Description": "Office",
+        "Department Name": "CECH Human Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "437C",
+        "Description": "Office",
+        "Department Name": "CECH Human Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "437D",
+        "Description": "Office",
+        "Department Name": "CECH Human Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "441",
+        "Description": "Restroom Male",
+        "Department Name": "CECH Human Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "443",
+        "Description": "Restroom Female",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "445",
+        "Description": "Telecommunications Room",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "447",
+        "Description": "Electrical",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "496",
+        "Description": "Shaft Space",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "496X",
+        "Description": "Shaft Space",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "497B",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "497D",
+        "Description": "Dumbwaiter",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "497E",
+        "Description": "Service Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "497F",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "498A",
+        "Description": "Stair",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "498B",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "498E",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "499",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "499A",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    }
+]

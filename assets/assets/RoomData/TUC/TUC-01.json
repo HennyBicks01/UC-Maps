@@ -1,0 +1,266 @@
+[
+    {
+        "Floor Code": "01",
+        "Room Code": "100",
+        "Description": "Recreation",
+        "Department Name": "A&F Main Street - TUC"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "100B",
+        "Description": "Dining Svc",
+        "Department Name": "A&F Main Street - TUC"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "100C",
+        "Description": "Office Svc - Other",
+        "Department Name": "A&F Main Street - TUC"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "100CA",
+        "Description": "Office Svc - Other",
+        "Department Name": "A&F Main Street - TUC"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "131",
+        "Description": "Restroom Female",
+        "Department Name": "A&F Main Street - TUC"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "133",
+        "Description": "Restroom Male",
+        "Department Name": "A&F Main Street - TUC"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "135",
+        "Description": "Office",
+        "Department Name": "A&F Main Street - TUC"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "136",
+        "Description": "Central Storage",
+        "Department Name": "A&F Main Street - TUC"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "138",
+        "Description": "Custodial",
+        "Department Name": "A&F Main Street - TUC"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "140",
+        "Description": "Electrical",
+        "Department Name": "A&F Main Street - TUC"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "160",
+        "Description": "Building Communications Room",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "161",
+        "Description": "Mechanical",
+        "Department Name": "A&F Main Street - TUC"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "162",
+        "Description": "Mechanical",
+        "Department Name": "A&F Main Street - TUC"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "164",
+        "Description": "Dining Svc",
+        "Department Name": "Outside Agency"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "164A",
+        "Description": "Locker",
+        "Department Name": "A&F Main Street - TUC"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "164B",
+        "Description": "Dining Svc",
+        "Department Name": "Outside Agency"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "164C",
+        "Description": "Dining Svc",
+        "Department Name": "Outside Agency"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "164D",
+        "Description": "Dining Svc",
+        "Department Name": "Outside Agency"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "164E",
+        "Description": "Dining Svc",
+        "Department Name": "Outside Agency"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "166",
+        "Description": "Electrical",
+        "Department Name": "A&F Main Street - TUC"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "168",
+        "Description": "Office",
+        "Department Name": "A&F Main Street - TUC"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "169",
+        "Description": "Loading",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "169A",
+        "Description": "Loading",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "173",
+        "Description": "Dining Svc",
+        "Department Name": "Outside Agency"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "173A",
+        "Description": "Dining Svc",
+        "Department Name": "Outside Agency"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "174",
+        "Description": "Office",
+        "Department Name": "Outside Agency"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "176",
+        "Description": "Office Svc - Other",
+        "Department Name": "Outside Agency"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "177",
+        "Description": "Mechanical",
+        "Department Name": "A&F Main Street - TUC"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "195",
+        "Description": "Tunnel",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "196S",
+        "Description": "Shaft Space",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "197A",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "197B",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "197E",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "198C",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "198D",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "198E",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "198H",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "198K",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "198L",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "198M",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "199N",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "199S",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "199X",
+        "Description": "Exterior Circulation",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "220B",
+        "Description": "Assembly Svc",
+        "Department Name": "A&F Main Street - TUC"
+    }
+]

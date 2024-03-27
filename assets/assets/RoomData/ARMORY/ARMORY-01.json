@@ -1,0 +1,332 @@
+[
+    {
+        "Floor Code": "01",
+        "Room Code": "100",
+        "Description": "Athletic",
+        "Department Name": "Athletics"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "100A",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "100B",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "100C",
+        "Description": "Custodial",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "100D",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "100M",
+        "Description": "Athletic Svc",
+        "Department Name": "Athletics Sports Medicine"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "101",
+        "Description": "Athletic Svc",
+        "Department Name": "Athletics Equipment Management"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "102",
+        "Description": "Athletic Locker/Shower",
+        "Department Name": "Athletics"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "103",
+        "Description": "Athletic Locker/Shower",
+        "Department Name": "Athletics"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "103A",
+        "Description": "Athletic Svc",
+        "Department Name": "Athletics"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "103B",
+        "Description": "Athletic Locker/Shower",
+        "Department Name": "Athletics"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "103C",
+        "Description": "Athletic Svc",
+        "Department Name": "Athletics"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "104",
+        "Description": "Custodial",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "105",
+        "Description": "Athletic Svc",
+        "Department Name": "Athletics Equipment Management"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "106",
+        "Description": "Athletic Locker/Shower",
+        "Department Name": "Athletics"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "106A",
+        "Description": "Athletic Svc",
+        "Department Name": "Athletics"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "106B",
+        "Description": "Athletic Locker/Shower",
+        "Department Name": "Athletics"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "106C",
+        "Description": "Athletic Svc",
+        "Department Name": "Athletics"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "107",
+        "Description": "Athletic Svc",
+        "Department Name": "Athletics"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "107A",
+        "Description": "Athletic Svc",
+        "Department Name": "Athletics"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "107B",
+        "Description": "Athletic Svc",
+        "Department Name": "Athletics"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "108",
+        "Description": "Athletic Svc",
+        "Department Name": "Athletics"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "109",
+        "Description": "Athletic Svc",
+        "Department Name": "Athletics"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "111",
+        "Description": "Athletic Svc",
+        "Department Name": "Athletics Equipment Management"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "115",
+        "Description": "Athletic Svc",
+        "Department Name": "Athletics CC/Track & Field - Men"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "116",
+        "Description": "Athletic Svc",
+        "Department Name": "Athletics Sports Medicine"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "116A",
+        "Description": "Athletic Svc",
+        "Department Name": "Athletics Sports Medicine"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "116B",
+        "Description": "Athletic Svc",
+        "Department Name": "Athletics Sports Medicine"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "117",
+        "Description": "Athletic Locker/Shower",
+        "Department Name": "Athletics"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "117A",
+        "Description": "Athletic Svc",
+        "Department Name": "Athletics"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "117B",
+        "Description": "Athletic Svc",
+        "Department Name": "Athletics"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "117C",
+        "Description": "Athletic Svc",
+        "Department Name": "Athletics"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "118",
+        "Description": "Athletic Svc",
+        "Department Name": "Athletics Business Office"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "119",
+        "Description": "Custodial",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "120",
+        "Description": "Athletic Locker/Shower",
+        "Department Name": "Athletics"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "120A",
+        "Description": "Athletic Svc",
+        "Department Name": "Athletics Operations"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "120B",
+        "Description": "Athletic Svc",
+        "Department Name": "Athletics"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "120C",
+        "Description": "Athletic Svc",
+        "Department Name": "Athletics"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "121",
+        "Description": "Restroom Female",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "122",
+        "Description": "Athletic Svc",
+        "Department Name": "Athletics"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "122A",
+        "Description": "Athletic Svc",
+        "Department Name": "Athletics"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "123",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "123A",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "123B",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "123C",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "123D",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "198A",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "198K",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "198U",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "198V",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "198W",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "198X",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "198Y",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "198Z",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "199",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    }
+]

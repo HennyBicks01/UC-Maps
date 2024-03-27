@@ -1,0 +1,326 @@
+[
+    {
+        "Floor Code": "08",
+        "Room Code": "830",
+        "Description": "Internal Office Circ",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "830.02",
+        "Description": "Modular",
+        "Department Name": "SA UC Womens Center"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "830.03",
+        "Description": "Modular",
+        "Department Name": "SA Ethnic Programs and Services"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "830.04",
+        "Description": "Modular",
+        "Department Name": "SA Ethnic Programs and Services"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "830.05",
+        "Description": "Modular",
+        "Department Name": "SA Ethnic Programs and Services"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "830.06",
+        "Description": "Modular",
+        "Department Name": "SA UC Womens Center"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "830.07",
+        "Description": "Modular",
+        "Department Name": "SA UC Womens Center"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "830A",
+        "Description": "Office",
+        "Department Name": "SA UC Womens Center"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "830B",
+        "Description": "Office Svc - Other",
+        "Department Name": "SA Ethnic Programs and Services"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "830C",
+        "Description": "Office",
+        "Department Name": "SA Ethnic Programs and Services"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "830D",
+        "Description": "Office",
+        "Department Name": "SA Ethnic Programs and Services"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "830E",
+        "Description": "Office",
+        "Department Name": "SA Ethnic Programs and Services"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "830F",
+        "Description": "Office",
+        "Department Name": "SA Ethnic Programs and Services"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "830G",
+        "Description": "Lounge",
+        "Department Name": "SA Ethnic Programs and Services"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "830H",
+        "Description": "Office",
+        "Department Name": "SA Ethnic Programs and Services"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "830I",
+        "Description": "Electrical",
+        "Department Name": "SA Ethnic Programs and Services"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "830J",
+        "Description": "Office",
+        "Department Name": "A&F Main Street - TUC"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "830K",
+        "Description": "Office",
+        "Department Name": "SA Ethnic Programs and Services"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "830L",
+        "Description": "Office",
+        "Department Name": "SA Ethnic Programs and Services"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "830M",
+        "Description": "Conference",
+        "Department Name": "SA Ethnic Programs and Services"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "830N",
+        "Description": "Office",
+        "Department Name": "SA Ethnic Programs and Services"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "830O",
+        "Description": "Office",
+        "Department Name": "SA UC Womens Center"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "830P",
+        "Description": "Office",
+        "Department Name": "SA UC Womens Center"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "830Q",
+        "Description": "Office",
+        "Department Name": "SA UC Womens Center"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "830R",
+        "Description": "Office",
+        "Department Name": "SA UC Womens Center"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "830S",
+        "Description": "Conference",
+        "Department Name": "SA UC Womens Center"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "830T",
+        "Description": "Lounge",
+        "Department Name": "SA UC Womens Center"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "830X",
+        "Description": "Office Svc - Other",
+        "Department Name": "SA UC Womens Center"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "840",
+        "Description": "Internal Office Circ",
+        "Department Name": "SA VP Student Affairs"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "840A",
+        "Description": "Office",
+        "Department Name": "SA LGBTQ Center"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "840B",
+        "Description": "Lounge",
+        "Department Name": "SA LGBTQ Center"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "840C",
+        "Description": "Office",
+        "Department Name": "SA LGBTQ Center"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "840D",
+        "Description": "Office",
+        "Department Name": "SA LGBTQ Center"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "840E",
+        "Description": "Office",
+        "Department Name": "SA LGBTQ Center"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "840F",
+        "Description": "Lounge",
+        "Department Name": "SA LGBTQ Center"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "840G",
+        "Description": "Office",
+        "Department Name": "SA LGBTQ Center"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "841",
+        "Description": "File/Supply",
+        "Department Name": "SA LGBTQ Center"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "842",
+        "Description": "Break Room",
+        "Department Name": "SA VP Student Affairs"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "843",
+        "Description": "Break Room",
+        "Department Name": "SA VP Student Affairs"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "844",
+        "Description": "Restroom Female",
+        "Department Name": "SA VP Student Affairs"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "845",
+        "Description": "Lactation Room",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "845A",
+        "Description": "Telecommunications Room",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "846",
+        "Description": "Restroom Male",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "847",
+        "Description": "Custodial",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "850",
+        "Description": "Mechanical",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "850A",
+        "Description": "Mechanical",
+        "Department Name": "A&F Main Street - TUC"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "895",
+        "Description": "Bridge",
+        "Department Name": "A&F Main Street - TUC"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "897B",
+        "Description": "Elevator",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "897D",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "898C",
+        "Description": "Stair",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "898D",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "898F",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "899N",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "899S",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    }
+]

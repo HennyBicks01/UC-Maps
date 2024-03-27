@@ -1,0 +1,38 @@
+[
+    {
+        "Floor Code": "07",
+        "Room Code": "701",
+        "Description": "Mechanical",
+        "Department Name": "BOT Board of Trustees"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "701A",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "703",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "707",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "798A",
+        "Description": "Stair",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "799",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    }
+]

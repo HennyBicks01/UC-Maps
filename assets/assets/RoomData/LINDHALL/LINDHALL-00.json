@@ -1,0 +1,404 @@
+[
+    {
+        "Floor Code": "00",
+        "Room Code": "0012A",
+        "Description": "Office Svc - Other",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0012B",
+        "Description": "Office Svc - Other",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0012C",
+        "Description": "Office Svc - Other",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0012D",
+        "Description": "Office Svc - Other",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0012E",
+        "Description": "Office Svc - Other",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0014",
+        "Description": "Restroom Male",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0016",
+        "Description": "Restroom Female",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0018",
+        "Description": "Building Communications Room",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0020",
+        "Description": "Office Svc - Other",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0023",
+        "Description": "Conference",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0025",
+        "Description": "Conference",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0027",
+        "Description": "Group Study",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0029",
+        "Description": "Group Study",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0030",
+        "Description": "Loading",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0031",
+        "Description": "Custodial",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0032",
+        "Description": "Loading",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0032A",
+        "Description": "Office",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0032B",
+        "Description": "Mechanical",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0032C",
+        "Description": "Office Svc - Other",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0032D",
+        "Description": "Electrical",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0032F",
+        "Description": "Office Svc - Other",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0032FA",
+        "Description": "Office Svc - Other",
+        "Department Name": "Outside Agency"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0032FB",
+        "Description": "Office Svc - Other",
+        "Department Name": "Outside Agency"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0035",
+        "Description": "Mechanical",
+        "Department Name": "Outside Agency"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0036",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0040",
+        "Description": "Classroom",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0050",
+        "Description": "Classroom",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0060",
+        "Description": "Classroom",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0070",
+        "Description": "Classroom",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0071",
+        "Description": "Group Study",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0073",
+        "Description": "Group Study",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0075",
+        "Description": "Group Study",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0075A",
+        "Description": "Classroom Svc",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0080",
+        "Description": "Electrical",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0081",
+        "Description": "Office Svc - Other",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0082",
+        "Description": "Office Svc - Other",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0083",
+        "Description": "Office Svc - Other",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0084A",
+        "Description": "Office Svc - Other",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0084B",
+        "Description": "Office Svc - Other",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0084C",
+        "Description": "Office Svc - Other",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0084D",
+        "Description": "Office Svc - Other",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0084E",
+        "Description": "Office Svc - Other",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0084F",
+        "Description": "Office Svc - Other",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0085",
+        "Description": "Mechanical",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0085A",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0086",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0097A",
+        "Description": "Elevator",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0097B",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0097C",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0196",
+        "Description": "Shaft Space",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0198B",
+        "Description": "Stair",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0199N",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0199S",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0296",
+        "Description": "Shaft Space",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0298A",
+        "Description": "Stair",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0396",
+        "Description": "Shaft Space",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0398A",
+        "Description": "Stair",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0398B",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0399E",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0399N",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0399S",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0399W",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0498A",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0498B",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0499N",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0499S",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0499W",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    }
+]

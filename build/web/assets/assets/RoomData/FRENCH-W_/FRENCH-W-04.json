@@ -1,0 +1,572 @@
+[
+    {
+        "Floor Code": "04",
+        "Room Code": "4096B",
+        "Description": "Shaft Space",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4096C",
+        "Description": "Shaft Space",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4096D",
+        "Description": "Shaft Space",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4096E",
+        "Description": "Shaft Space",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4102",
+        "Description": "Study Room",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4103",
+        "Description": "Office",
+        "Department Name": "A&S Mathematical Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4105",
+        "Description": "Office",
+        "Department Name": "A&S Mathematical Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4107",
+        "Description": "Office",
+        "Department Name": "A&S Mathematical Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4109",
+        "Description": "Office",
+        "Department Name": "A&S Mathematical Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4111",
+        "Description": "Office",
+        "Department Name": "A&S Mathematical Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4112",
+        "Description": "Office",
+        "Department Name": "A&S Mathematical Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4113",
+        "Description": "Copy/Mail",
+        "Department Name": "A&S Mathematical Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4114",
+        "Description": "Office",
+        "Department Name": "A&S Mathematical Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4118",
+        "Description": "Break Room",
+        "Department Name": "A&S Mathematical Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4118A",
+        "Description": "Break Room",
+        "Department Name": "A&S Mathematical Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4118B",
+        "Description": "Break Room",
+        "Department Name": "A&S Mathematical Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4118C",
+        "Description": "Break Room",
+        "Department Name": "A&S Mathematical Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4118D",
+        "Description": "Break Room",
+        "Department Name": "A&S Mathematical Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4118E",
+        "Description": "Private Restroom",
+        "Department Name": "A&S Mathematical Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4119",
+        "Description": "Conference",
+        "Department Name": "A&S Mathematical Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4121",
+        "Description": "Office",
+        "Department Name": "A&S Mathematical Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4123",
+        "Description": "Office",
+        "Department Name": "A&S Mathematical Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4125",
+        "Description": "Office",
+        "Department Name": "A&S Mathematical Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4196",
+        "Description": "Shaft Space",
+        "Department Name": "A&S Mathematical Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4199",
+        "Description": "Corridor",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4201A",
+        "Description": "Classroom Svc",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4202",
+        "Description": "Computer Study Lab (Unsch)",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4202A",
+        "Description": "Office Svc - Other",
+        "Department Name": "A&S Mathematical Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4202B",
+        "Description": "Telecommunications Room",
+        "Department Name": "A&S Mathematical Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4206",
+        "Description": "Conference",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4210",
+        "Description": "File/Supply",
+        "Department Name": "A&S Mathematical Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4211",
+        "Description": "Classroom",
+        "Department Name": "A&S Mathematical Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4212",
+        "Description": "File/Supply",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4221",
+        "Description": "Classroom",
+        "Department Name": "A&S Mathematical Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4221A",
+        "Description": "Classroom Svc",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4222",
+        "Description": "Computer Study Lab (Unsch)",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4302",
+        "Description": "Office",
+        "Department Name": "A&S Mathematical Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4304",
+        "Description": "Office",
+        "Department Name": "A&S Mathematical Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4306",
+        "Description": "Office",
+        "Department Name": "A&S Mathematical Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4307",
+        "Description": "Office",
+        "Department Name": "A&S Mathematical Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4310",
+        "Description": "Office",
+        "Department Name": "A&S Mathematical Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4314",
+        "Description": "Office",
+        "Department Name": "A&S Mathematical Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4315",
+        "Description": "Custodial",
+        "Department Name": "A&S Mathematical Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4316",
+        "Description": "Office",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4317",
+        "Description": "Restroom Female",
+        "Department Name": "A&S Mathematical Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4321",
+        "Description": "Restroom Male",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4322",
+        "Description": "Office",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4402",
+        "Description": "Office",
+        "Department Name": "A&S Mathematical Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4408",
+        "Description": "Office",
+        "Department Name": "A&S Mathematical Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4409",
+        "Description": "Office",
+        "Department Name": "A&S Mathematical Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4410",
+        "Description": "Office",
+        "Department Name": "A&S Mathematical Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4411",
+        "Description": "Office",
+        "Department Name": "A&S Mathematical Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4412",
+        "Description": "Office",
+        "Department Name": "A&S Mathematical Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4415",
+        "Description": "Office",
+        "Department Name": "A&S Mathematical Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4418",
+        "Description": "Office",
+        "Department Name": "A&S Mathematical Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4420",
+        "Description": "Office",
+        "Department Name": "A&S Mathematical Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4424",
+        "Description": "Office Svc - Other",
+        "Department Name": "A&S Mathematical Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4428",
+        "Description": "Office",
+        "Department Name": "A&S Mathematical Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4428A",
+        "Description": "Office",
+        "Department Name": "A&S Mathematical Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4428B",
+        "Description": "Office",
+        "Department Name": "A&S Mathematical Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4428C",
+        "Description": "Office",
+        "Department Name": "A&S Mathematical Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4428D",
+        "Description": "Office",
+        "Department Name": "A&S Mathematical Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4428E",
+        "Description": "Office",
+        "Department Name": "A&S Mathematical Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4428F",
+        "Description": "Office",
+        "Department Name": "A&S Mathematical Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4428G",
+        "Description": "File/Supply",
+        "Department Name": "A&S Mathematical Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4438",
+        "Description": "Mechanical",
+        "Department Name": "A&S Mathematical Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4440",
+        "Description": "Office",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4442",
+        "Description": "Restroom Female",
+        "Department Name": "A&S Mathematical Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4444",
+        "Description": "Restroom Male",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4502",
+        "Description": "Office",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4503",
+        "Description": "Custodial",
+        "Department Name": "A&S Mathematical Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4504",
+        "Description": "Office",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4506",
+        "Description": "Office",
+        "Department Name": "A&S Mathematical Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4508",
+        "Description": "Office",
+        "Department Name": "A&S Mathematical Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4510",
+        "Description": "Office",
+        "Department Name": "A&S Mathematical Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4512",
+        "Description": "Office",
+        "Department Name": "A&S Mathematical Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4513",
+        "Description": "Office",
+        "Department Name": "A&S Mathematical Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4514",
+        "Description": "Office",
+        "Department Name": "A&S Mathematical Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4516",
+        "Description": "Computer/Telecommunication Svc",
+        "Department Name": "A&S Mathematical Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4604",
+        "Description": "Office",
+        "Department Name": "A&S Mathematical Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4606",
+        "Description": "Restroom Male",
+        "Department Name": "A&S Mathematical Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4608",
+        "Description": "Restroom Female",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4610",
+        "Description": "Custodial",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4614",
+        "Description": "Conference",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4616",
+        "Description": "Conference",
+        "Department Name": "A&S Women's Studies"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4622",
+        "Description": "Classroom",
+        "Department Name": "A&S College of Arts and Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4996",
+        "Description": "Shaft Space",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4997A",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4997B",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4998A",
+        "Description": "Stair",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4998B",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4998C",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4998D",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4998E",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4999",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    }
+]

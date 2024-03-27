@@ -1,0 +1,500 @@
+[
+    {
+        "Floor Code": "P4",
+        "Room Code": "P4150",
+        "Description": "Parking",
+        "Department Name": "A&F Parking Administration"
+    },
+    {
+        "Floor Code": "P4",
+        "Room Code": "P4152",
+        "Description": "Mechanical",
+        "Department Name": "A&F Parking Administration"
+    },
+    {
+        "Floor Code": "P4",
+        "Room Code": "P4154",
+        "Description": "Retail",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "P4",
+        "Room Code": "P4154A",
+        "Description": "Private Restroom",
+        "Department Name": "Athletics Tickets & Operations"
+    },
+    {
+        "Floor Code": "P4",
+        "Room Code": "P4156",
+        "Description": "Athletic Svc",
+        "Department Name": "Athletics Tickets & Operations"
+    },
+    {
+        "Floor Code": "P4",
+        "Room Code": "P4160",
+        "Description": "Restroom Female",
+        "Department Name": "Athletics Sports Medicine"
+    },
+    {
+        "Floor Code": "P4",
+        "Room Code": "P4164",
+        "Description": "Custodial",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "P4",
+        "Room Code": "P4166",
+        "Description": "Restroom All Gender",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "P4",
+        "Room Code": "P4168",
+        "Description": "Restroom Male",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "P4",
+        "Room Code": "P4172",
+        "Description": "Retail",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "P4",
+        "Room Code": "P4172A",
+        "Description": "Retail Svc",
+        "Department Name": "Aramark"
+    },
+    {
+        "Floor Code": "P4",
+        "Room Code": "P4197F",
+        "Description": "Elevator",
+        "Department Name": "Aramark"
+    },
+    {
+        "Floor Code": "P4",
+        "Room Code": "P4197G",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "P4",
+        "Room Code": "P4198D",
+        "Description": "Stair",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "P4",
+        "Room Code": "P4198F",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "P4",
+        "Room Code": "P4199V",
+        "Description": "Parking",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "P4",
+        "Room Code": "P4221",
+        "Description": "Electrical",
+        "Department Name": "A&F Parking Administration"
+    },
+    {
+        "Floor Code": "P4",
+        "Room Code": "P4222",
+        "Description": "Telecommunications Room",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "P4",
+        "Room Code": "P4224",
+        "Description": "Building Communications Room",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "P4",
+        "Room Code": "P4230",
+        "Description": "Athletic Svc",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "P4",
+        "Room Code": "P4231",
+        "Description": "Electrical",
+        "Department Name": "Athletics CC/Track & Field - Women"
+    },
+    {
+        "Floor Code": "P4",
+        "Room Code": "P4234",
+        "Description": "Athletic Svc",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "P4",
+        "Room Code": "P4236",
+        "Description": "Athletic Svc",
+        "Department Name": "Athletics Soccer - Women"
+    },
+    {
+        "Floor Code": "P4",
+        "Room Code": "P4237",
+        "Description": "Electrical",
+        "Department Name": "Athletics Soccer - Women"
+    },
+    {
+        "Floor Code": "P4",
+        "Room Code": "P4250",
+        "Description": "Parking",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "P4",
+        "Room Code": "P4251",
+        "Description": "Restroom Male",
+        "Department Name": "A&F Parking Administration"
+    },
+    {
+        "Floor Code": "P4",
+        "Room Code": "P4251A",
+        "Description": "Locker",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "P4",
+        "Room Code": "P4252",
+        "Description": "Office",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "P4",
+        "Room Code": "P4252A",
+        "Description": "Shop Svc",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "P4",
+        "Room Code": "P4253",
+        "Description": "Restroom Female",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "P4",
+        "Room Code": "P4253A",
+        "Description": "Locker",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "P4",
+        "Room Code": "P4254",
+        "Description": "Office",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "P4",
+        "Room Code": "P4256",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "P4",
+        "Room Code": "P4257",
+        "Description": "Shop",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "P4",
+        "Room Code": "P4257A",
+        "Description": "Shop Svc",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "P4",
+        "Room Code": "P4260",
+        "Description": "Office Svc - Other",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "P4",
+        "Room Code": "P4260A",
+        "Description": "Office",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "P4",
+        "Room Code": "P4260B",
+        "Description": "Office",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "P4",
+        "Room Code": "P4260C",
+        "Description": "Office",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "P4",
+        "Room Code": "P4260D",
+        "Description": "Office",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "P4",
+        "Room Code": "P4260Z",
+        "Description": "Internal Office Circ",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "P4",
+        "Room Code": "P4262",
+        "Description": "Break Room",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "P4",
+        "Room Code": "P4263",
+        "Description": "Central Storage",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "P4",
+        "Room Code": "P4263A",
+        "Description": "Central Storage",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "P4",
+        "Room Code": "P4264",
+        "Description": "Office Svc - Other",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "P4",
+        "Room Code": "P4264A",
+        "Description": "Office",
+        "Department Name": "A&F Project Services"
+    },
+    {
+        "Floor Code": "P4",
+        "Room Code": "P4264B",
+        "Description": "Office Svc - Other",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "P4",
+        "Room Code": "P4264BA",
+        "Description": "Office",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "P4",
+        "Room Code": "P4264BB",
+        "Description": "Office",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "P4",
+        "Room Code": "P4265",
+        "Description": "Central Storage",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "P4",
+        "Room Code": "P4267",
+        "Description": "Office",
+        "Department Name": "A&F Project Services"
+    },
+    {
+        "Floor Code": "P4",
+        "Room Code": "P4270",
+        "Description": "Office Svc - Other",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "P4",
+        "Room Code": "P4270.01",
+        "Description": "Modular",
+        "Department Name": "A&F Project Services"
+    },
+    {
+        "Floor Code": "P4",
+        "Room Code": "P4270.02",
+        "Description": "Modular",
+        "Department Name": "A&F Project Services"
+    },
+    {
+        "Floor Code": "P4",
+        "Room Code": "P4270.03",
+        "Description": "Modular",
+        "Department Name": "A&F Project Services"
+    },
+    {
+        "Floor Code": "P4",
+        "Room Code": "P4270A",
+        "Description": "Office",
+        "Department Name": "A&F Project Services"
+    },
+    {
+        "Floor Code": "P4",
+        "Room Code": "P4270B",
+        "Description": "Office",
+        "Department Name": "A&F Project Services"
+    },
+    {
+        "Floor Code": "P4",
+        "Room Code": "P4270C",
+        "Description": "Office",
+        "Department Name": "A&F Project Services"
+    },
+    {
+        "Floor Code": "P4",
+        "Room Code": "P4271",
+        "Description": "Shop",
+        "Department Name": "A&F Project Services"
+    },
+    {
+        "Floor Code": "P4",
+        "Room Code": "P4271A",
+        "Description": "Office",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "P4",
+        "Room Code": "P4271B",
+        "Description": "Shop",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "P4",
+        "Room Code": "P4276",
+        "Description": "Loading",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "P4",
+        "Room Code": "P4278",
+        "Description": "Shop",
+        "Department Name": "A&F Project Services"
+    },
+    {
+        "Floor Code": "P4",
+        "Room Code": "P4278A",
+        "Description": "Office",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "P4",
+        "Room Code": "P4278B",
+        "Description": "Shop Svc",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "P4",
+        "Room Code": "P4279",
+        "Description": "Shop",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "P4",
+        "Room Code": "P4280",
+        "Description": "Shop Svc",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "P4",
+        "Room Code": "P4282",
+        "Description": "Shop Svc",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "P4",
+        "Room Code": "P4284",
+        "Description": "Shop Svc",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "P4",
+        "Room Code": "P4286",
+        "Description": "Shop Svc",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "P4",
+        "Room Code": "P4287",
+        "Description": "Shop",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "P4",
+        "Room Code": "P4288",
+        "Description": "Shop Svc",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "P4",
+        "Room Code": "P4289",
+        "Description": "Shop",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "P4",
+        "Room Code": "P4289A",
+        "Description": "Office Svc - Other",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "P4",
+        "Room Code": "P4289AA",
+        "Description": "Office",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "P4",
+        "Room Code": "P4290",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "P4",
+        "Room Code": "P4297K",
+        "Description": "Elevator",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "P4",
+        "Room Code": "P4297L",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "P4",
+        "Room Code": "P4298M",
+        "Description": "Stair",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "P4",
+        "Room Code": "P4298R",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "P4",
+        "Room Code": "P4298S",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "P4",
+        "Room Code": "P4299V",
+        "Description": "Parking",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "P4",
+        "Room Code": "P4299X",
+        "Description": "Exterior Circulation",
+        "Department Name": "A&F Parking Administration"
+    }
+]

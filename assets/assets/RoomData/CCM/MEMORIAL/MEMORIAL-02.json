@@ -1,0 +1,248 @@
+[
+    {
+        "Floor Code": "02",
+        "Room Code": "207",
+        "Description": "Office",
+        "Department Name": "CCM Performance Studies"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "213",
+        "Description": "Office",
+        "Department Name": "CCM Performance Studies"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "213A",
+        "Description": "Office",
+        "Department Name": "CCM Performance Studies"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "214",
+        "Description": "Other Lab Svc Instr",
+        "Department Name": "CCM Performance Studies"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "215",
+        "Description": "Other Lab Svc Instr",
+        "Department Name": "CCM Performance Studies"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "217",
+        "Description": "Performance Study Lab (Unsch)",
+        "Department Name": "CCM Performance Studies"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "218",
+        "Description": "Other Lab Svc Instr",
+        "Department Name": "CCM Keyboard Studies"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "219",
+        "Description": "Performance Study Lab (Unsch)",
+        "Department Name": "CCM Performance Studies"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "220",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "222",
+        "Description": "Office",
+        "Department Name": "CCM Keyboard Studies"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "223",
+        "Description": "Performance Study Lab (Unsch)",
+        "Department Name": "CCM Performance Studies"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "225",
+        "Description": "Performance Study Lab (Unsch)",
+        "Department Name": "CCM Performance Studies"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "227",
+        "Description": "Performance Study Lab (Unsch)",
+        "Department Name": "CCM Performance Studies"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "231",
+        "Description": "Restroom Female",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "232",
+        "Description": "Office",
+        "Department Name": "CCM TAPAA"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "233",
+        "Description": "Custodial",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "237",
+        "Description": "Restroom Male",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "242",
+        "Description": "Office",
+        "Department Name": "CCM Performance Studies"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "243",
+        "Description": "Office Svc - Other",
+        "Department Name": "CCM Performance Studies"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "245",
+        "Description": "Office",
+        "Department Name": "CCM Performance Studies"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "246",
+        "Description": "Office",
+        "Department Name": "CCM Performance Studies"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "250",
+        "Description": "Performance Study Lab (Unsch)",
+        "Department Name": "CCM College Conservatory of Music"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "266",
+        "Description": "Office",
+        "Department Name": "CCM Performance Studies"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "267",
+        "Description": "Performance Study Lab (Unsch)",
+        "Department Name": "CCM Performance Studies"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "268",
+        "Description": "Office",
+        "Department Name": "CCM Performance Studies"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "271",
+        "Description": "Office",
+        "Department Name": "CCM Performance Studies"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "274",
+        "Description": "Office",
+        "Department Name": "CCM Performance Studies"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "275",
+        "Description": "Other Lab Svc Instr",
+        "Department Name": "CCM Performance Studies"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "280",
+        "Description": "Performance Study Lab (Unsch)",
+        "Department Name": "CCM Composition, Musicology & Theory"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "282",
+        "Description": "Office",
+        "Department Name": "CCM Composition, Musicology & Theory"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "286",
+        "Description": "Other Lab Svc Instr",
+        "Department Name": "CCM Composition, Musicology & Theory"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "289",
+        "Description": "Performance Study Lab (Unsch)",
+        "Department Name": "CCM Composition, Musicology & Theory"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "297A",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "297B",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "297C",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "298A",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "298B",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "298C",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "298D",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "298E",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "299",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    }
+]

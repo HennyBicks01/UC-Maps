@@ -1,0 +1,218 @@
+[
+    {
+        "Floor Code": "01",
+        "Room Code": "100",
+        "Description": "Custodial",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "101",
+        "Description": "Bedroom Large Multiple Occupancy",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "102",
+        "Description": "Bedroom Large Multiple Occupancy",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "103",
+        "Description": "Bedroom Multiple Occupancy",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "104",
+        "Description": "Bedroom Large Multiple Occupancy",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "105",
+        "Description": "Bedroom Large Multiple Occupancy",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "106",
+        "Description": "Mechanical",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "107",
+        "Description": "Custodial",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "108",
+        "Description": "Bedroom Single Occupancy",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "109",
+        "Description": "Residential Service",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "110",
+        "Description": "Bedroom Large Multiple Occupancy",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "111",
+        "Description": "Bedroom Multiple Occupancy",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "112",
+        "Description": "Bedroom Large Multiple Occupancy",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "113",
+        "Description": "Bedroom Large Multiple Occupancy",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "114",
+        "Description": "Residential Lavatory",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "115",
+        "Description": "Telecommunications Room",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "115A",
+        "Description": "Kitchen",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "116",
+        "Description": "Bedroom Large Multiple Occupancy",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "117",
+        "Description": "Bedroom Large Multiple Occupancy",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "118",
+        "Description": "Bedroom Multiple Occupancy",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "119",
+        "Description": "Bedroom Large Multiple Occupancy",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "120",
+        "Description": "Bedroom Large Multiple Occupancy",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "121",
+        "Description": "Custodial",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "122",
+        "Description": "Bedroom Large Multiple Occupancy",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "123",
+        "Description": "Bedroom Large Multiple Occupancy",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "124",
+        "Description": "Bedroom Multiple Occupancy",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "125",
+        "Description": "Bedroom Large Multiple Occupancy",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "126",
+        "Description": "Bedroom Large Multiple Occupancy",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "127",
+        "Description": "Residential Lavatory",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "197A",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "197B",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "197C",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "197D",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "198A",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "198B",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "199",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    }
+]

@@ -1,0 +1,638 @@
+[
+    {
+        "Floor Code": "06",
+        "Room Code": "601",
+        "Description": "Open Stack, Study & Reading",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "601A",
+        "Description": "Mechanical",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "601B",
+        "Description": "Electrical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "601C",
+        "Description": "Telecommunications Room",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "601D",
+        "Description": "Mechanical",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "602",
+        "Description": "Study Room",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "603",
+        "Description": "Study Room",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "604",
+        "Description": "Study Room",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "605",
+        "Description": "Study Room",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "606",
+        "Description": "Study Room",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "607",
+        "Description": "Study Room",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "610",
+        "Description": "Study Room",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "611",
+        "Description": "Study Room",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "612",
+        "Description": "Study Room",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "613",
+        "Description": "Study Room",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "614",
+        "Description": "Study Room",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "615",
+        "Description": "Study Room",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "616",
+        "Description": "Study Room",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "617",
+        "Description": "Study Room",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "618",
+        "Description": "Study Room",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "619",
+        "Description": "Study Room",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "620",
+        "Description": "Study Room",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "621",
+        "Description": "Study Room",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "640",
+        "Description": "Office",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "640A",
+        "Description": "Office",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "640B",
+        "Description": "Office Svc - Other",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "640C",
+        "Description": "Office",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "640D",
+        "Description": "Office",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "640E",
+        "Description": "Office",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "640F",
+        "Description": "Office",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "640G",
+        "Description": "Office",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "640H",
+        "Description": "Office",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "640J",
+        "Description": "Office Svc - Other",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "640K",
+        "Description": "Office",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "640L",
+        "Description": "Central Storage",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "641",
+        "Description": "Office Svc - Other",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "641.01",
+        "Description": "Modular",
+        "Department Name": "UCL Business Office"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "641.02",
+        "Description": "Modular",
+        "Department Name": "UCL Business Office"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "641.03",
+        "Description": "Modular",
+        "Department Name": "UCL Business Office"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "641.04",
+        "Description": "Modular",
+        "Department Name": "UCL Business Office"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "641.05",
+        "Description": "Modular",
+        "Department Name": "UCL Business Office"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "641A",
+        "Description": "Office Svc - Other",
+        "Department Name": "UCL Business Office"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "641B",
+        "Description": "Conference",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "641C",
+        "Description": "Office",
+        "Department Name": "UCL Business Office"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "642",
+        "Description": "Break Room",
+        "Department Name": "UCL Business Office"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "643",
+        "Description": "Office Svc - Other",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "644",
+        "Description": "Restroom Female",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "645",
+        "Description": "Restroom Male",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "646",
+        "Description": "Open Stack, Study & Reading",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "646A",
+        "Description": "Office",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "646B",
+        "Description": "Conference",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "648",
+        "Description": "Mechanical",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "649",
+        "Description": "Telecommunications Room",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "650",
+        "Description": "Internal Office Circ",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "650.01",
+        "Description": "Modular",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "650B",
+        "Description": "Counseling/Testing",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "650C",
+        "Description": "Counseling/Testing",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "650D",
+        "Description": "Counseling/Testing",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "650E",
+        "Description": "Counseling/Testing",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "650F",
+        "Description": "Counseling/Testing",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "650G",
+        "Description": "Counseling/Testing",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "650H",
+        "Description": "Counseling/Testing",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "650K",
+        "Description": "Counseling/Testing",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "650L",
+        "Description": "Counseling/Testing",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "650M",
+        "Description": "Office Svc - Other",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "650N",
+        "Description": "Counseling/Testing",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "650P",
+        "Description": "Counseling/Testing",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "650Q",
+        "Description": "Counseling/Testing",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "650R",
+        "Description": "Counseling/Testing",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "651",
+        "Description": "Office Svc - Other",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "651B",
+        "Description": "Conference",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "651BA",
+        "Description": "Office",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "651C",
+        "Description": "Office",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "651CA",
+        "Description": "Office Svc - Other",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "651D",
+        "Description": "Office",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "652",
+        "Description": "Mechanical",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "655",
+        "Description": "Restroom Male",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "656",
+        "Description": "Restroom Female",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "657",
+        "Description": "Library Svc",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "657A",
+        "Description": "Electrical",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "657B",
+        "Description": "Telecommunications Room",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "657C",
+        "Description": "Office",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "659",
+        "Description": "Study Room",
+        "Department Name": "A&F Campus Services"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "660",
+        "Description": "Open Stack, Study & Reading",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "661",
+        "Description": "Study Room",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "662",
+        "Description": "Study Room",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "663",
+        "Description": "Study Room",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "664",
+        "Description": "Study Room",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "665",
+        "Description": "Study Room",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "666",
+        "Description": "Study Room",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "667",
+        "Description": "Study Room",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "668",
+        "Description": "Study Room",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "669",
+        "Description": "Study Room",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "670",
+        "Description": "Conf Svc",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "671",
+        "Description": "Conference",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "696",
+        "Description": "Shaft Space",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "697A",
+        "Description": "Service Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "697B",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "697C",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "697E",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "698B",
+        "Description": "Stair",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "698D",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "698G",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "698H",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "698J",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "699",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    }
+]

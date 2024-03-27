@@ -1,0 +1,116 @@
+[
+    {
+        "Floor Code": "02",
+        "Room Code": "200",
+        "Description": "Restroom Female",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "210",
+        "Description": "Restroom Male",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "210A",
+        "Description": "Custodial",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "214",
+        "Description": "Restroom All Gender",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "220",
+        "Description": "Retail",
+        "Department Name": "Athletics Operations"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "220A",
+        "Description": "Mechanical",
+        "Department Name": "Aramark"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "261",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "270",
+        "Description": "Athletic Svc",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "272",
+        "Description": "Athletic Svc",
+        "Department Name": "Athletics Baseball"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "272A",
+        "Description": "Athletic Svc",
+        "Department Name": "Athletics Tickets & Operations"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "280",
+        "Description": "Retail",
+        "Department Name": "Athletics Tickets & Operations"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "282",
+        "Description": "Restroom All Gender",
+        "Department Name": "Aramark"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "284",
+        "Description": "Restroom Male",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "284A",
+        "Description": "Custodial",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "288",
+        "Description": "Restroom Female",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "297",
+        "Description": "Elevator",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "298A",
+        "Description": "Stair",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "298B",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "299X",
+        "Description": "Exterior Circulation",
+        "Department Name": "Hallways"
+    }
+]

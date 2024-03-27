@@ -1,0 +1,380 @@
+[
+    {
+        "Floor Code": "02",
+        "Room Code": "2100",
+        "Description": "Dining",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2100A",
+        "Description": "Restroom Male",
+        "Department Name": "Aramark"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2100B",
+        "Description": "Restroom Female",
+        "Department Name": "Aramark"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2101",
+        "Description": "Dining Svc",
+        "Department Name": "Aramark"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2101A",
+        "Description": "Dining Svc",
+        "Department Name": "Aramark"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2101AA",
+        "Description": "Dining Svc",
+        "Department Name": "Aramark"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2101B",
+        "Description": "Dining Svc",
+        "Department Name": "Aramark"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2101BA",
+        "Description": "Dining Svc",
+        "Department Name": "Aramark"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2102",
+        "Description": "Dining Svc",
+        "Department Name": "Aramark"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2102A",
+        "Description": "Dining Svc",
+        "Department Name": "Aramark"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2102B",
+        "Description": "Dining Svc",
+        "Department Name": "Aramark"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2102BA",
+        "Description": "Dining Svc",
+        "Department Name": "Aramark"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2102BB",
+        "Description": "Dining Svc",
+        "Department Name": "Aramark"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2102BC",
+        "Description": "Dining Svc",
+        "Department Name": "Aramark"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2102C",
+        "Description": "Office",
+        "Department Name": "Aramark"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2196",
+        "Description": "Shaft Space",
+        "Department Name": "Aramark"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2197A",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2198A",
+        "Description": "Stair",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2199",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2199X",
+        "Description": "Exterior Circulation",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2200",
+        "Description": "Athletic",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2200A",
+        "Description": "Mechanical",
+        "Department Name": "A&F Rec Center"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2200B",
+        "Description": "Mechanical",
+        "Department Name": "A&F Rec Center"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2200C",
+        "Description": "Mechanical",
+        "Department Name": "A&F Rec Center"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2200D",
+        "Description": "Mechanical",
+        "Department Name": "A&F Rec Center"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2200E",
+        "Description": "Mechanical",
+        "Department Name": "A&F Rec Center"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2210",
+        "Description": "Athletic",
+        "Department Name": "A&F Rec Center"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2210A",
+        "Description": "Recreation Svc",
+        "Department Name": "A&F Rec Center"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2210B",
+        "Description": "Restroom Female",
+        "Department Name": "A&F Rec Center"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2210C",
+        "Description": "Restroom Male",
+        "Department Name": "A&F Rec Center"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2210CA",
+        "Description": "Custodial",
+        "Department Name": "A&F Rec Center"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2220",
+        "Description": "Athletic Svc",
+        "Department Name": "A&F Rec Center"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2222",
+        "Description": "Athletic",
+        "Department Name": "A&F Rec Center"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2230",
+        "Description": "Athletic",
+        "Department Name": "A&F Rec Center"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2230A",
+        "Description": "Recreation Svc",
+        "Department Name": "A&F Rec Center"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2240",
+        "Description": "Athletic",
+        "Department Name": "A&F Rec Center"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2296",
+        "Description": "Shaft Space",
+        "Department Name": "A&F Rec Center"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2297A",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2297B",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2298A",
+        "Description": "Stair",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2298B",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2298D",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2299",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2300",
+        "Description": "Athletic",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2310",
+        "Description": "Athletic",
+        "Department Name": "A&F Rec Center"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2310A",
+        "Description": "Restroom Female",
+        "Department Name": "A&F Rec Center"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2311",
+        "Description": "Telecommunications Room",
+        "Department Name": "A&F Rec Center"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2312",
+        "Description": "Electrical",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2328",
+        "Description": "Recreation",
+        "Department Name": "A&F Rec Center"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2328A",
+        "Description": "Recreation",
+        "Department Name": "A&F Rec Center"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2336",
+        "Description": "Mechanical",
+        "Department Name": "A&F Rec Center"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2338",
+        "Description": "Athletic",
+        "Department Name": "A&F Rec Center"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2342",
+        "Description": "Athletic",
+        "Department Name": "A&F Rec Center"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2346",
+        "Description": "Athletic",
+        "Department Name": "A&F Rec Center"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2350",
+        "Description": "Athletic",
+        "Department Name": "A&F Rec Center"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2355",
+        "Description": "Restroom All Gender",
+        "Department Name": "A&F Rec Center"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2360",
+        "Description": "Mechanical",
+        "Department Name": "A&F Rec Center"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2396",
+        "Description": "Shaft Space",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2397A",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2397B",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2398A",
+        "Description": "Stair",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2398B",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2399",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    }
+]
