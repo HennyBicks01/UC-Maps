@@ -1,0 +1,38 @@
+[
+    {
+        "Floor Code": "00",
+        "Room Code": "001",
+        "Description": "Parking",
+        "Department Name": "A&F Parking Administration"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "002",
+        "Description": "Electrical",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "003",
+        "Description": "Mechanical",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "097",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "098B",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "099",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    }
+]

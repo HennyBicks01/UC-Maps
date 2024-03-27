@@ -1,0 +1,38 @@
+[
+    {
+        "Floor Code": "B",
+        "Room Code": "B260",
+        "Description": "Mechanical",
+        "Department Name": "A&S Romance & Arabic Languages & Literat"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B260A",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B260B",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B296",
+        "Description": "Shaft Space",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B297A",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B298E",
+        "Description": "Stair",
+        "Department Name": "Shaft Spaces"
+    }
+]

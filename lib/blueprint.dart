@@ -1,8 +1,11 @@
 import 'dart:async';
 import 'dart:convert';
 import 'dart:ui';
+import 'dart:html';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart' show rootBundle;
+import 'json.dart';
+import 'png.dart';
 import 'roomdata.dart';
 
 // Constants for base paths
@@ -11,9 +14,7 @@ const String basePathMaps = 'assets/BlueprintMaps/';
 
 class Blueprint extends StatefulWidget {
   final String buildingName;
-
   const Blueprint({Key? key, required this.buildingName}) : super(key: key);
-
   @override
   BlueprintState createState() => BlueprintState();
 }
@@ -25,20 +26,19 @@ class BlueprintState extends State<Blueprint> with WidgetsBindingObserver {
   OverlayEntry? _overlayEntry;
   final FocusNode _searchFocusNode = FocusNode();
   final TextEditingController _searchController = TextEditingController();
-
+  ValueNotifier<List<String>> unaccountedRoomCodes = ValueNotifier<List<String>>([]);
+  List<Map<String, dynamic>> roomData = [];
 
   @override
   void initState() {
     super.initState();
     WidgetsBinding.instance.addObserver(this);
     _setupSearchFocusNodeListener(); // Initialize the focus node listener
-
     // Add post frame callback tasks
     WidgetsBinding.instance.addPostFrameCallback((_) async {
       await updateScaleFactor();
       // Load initial JSON data or handle as necessary
     });
-
     // Add listener to search controller
     _searchController.addListener(_onSearchChanged);
   }
@@ -46,14 +46,12 @@ class BlueprintState extends State<Blueprint> with WidgetsBindingObserver {
   void _onSearchChanged() {
     if (_searchController.text.isEmpty) return;
     String searchQuery = _searchController.text.toLowerCase();
-
     // Filter polygons whose room code or description contains the search query
     Set<int> filteredPolygons = {};
     if (searchQuery.isNotEmpty) {
       for (int i = 0; i < polygons.length; i++) {
         String roomCode = polygons[i].roomInfo['Room Code']?.toLowerCase() ?? '';
         String description = polygons[i].roomInfo['Description']?.toLowerCase() ?? '';
-
         if (roomCode.contains(searchQuery) || description.contains(searchQuery)) {
           filteredPolygons.add(i);
         }
@@ -91,33 +89,13 @@ class BlueprintState extends State<Blueprint> with WidgetsBindingObserver {
   }
 
   List<String> getJsonFilePaths() {
-    Map<String, List<String>> buildingJsons = {
-      'Teachers College': [
-        'assets/BlueprintMaps/TEACHERS/TEACHERS-01.json',
-        'assets/BlueprintMaps/TEACHERS/TEACHERS-02.json',
-        'assets/BlueprintMaps/TEACHERS/TEACHERS-03.json',
-        'assets/BlueprintMaps/TEACHERS/TEACHERS-04.json',
-        'assets/BlueprintMaps/TEACHERS/TEACHERS-05.json',
-        'assets/BlueprintMaps/TEACHERS/TEACHERS-06.json',
-      ],
-      // Add more buildings here
-    };
-    return buildingJsons[widget.buildingName] ?? [];
+    // Use function from json.dart
+    return getbuildingJsonPathFilePaths(widget.buildingName);
   }
 
   List<String> getImageFilePaths() {
-    Map<String, List<String>> buildingImages = {
-      'Teachers College': [
-        'assets/Blueprints/TEACHERS/TEACHERS-01.png',
-        'assets/Blueprints/TEACHERS/TEACHERS-02.png',
-        'assets/Blueprints/TEACHERS/TEACHERS-03.png',
-        'assets/Blueprints/TEACHERS/TEACHERS-04.png',
-        'assets/Blueprints/TEACHERS/TEACHERS-05.png',
-        'assets/Blueprints/TEACHERS/TEACHERS-06.png',
-      ],
-      // Add more buildings here
-    };
-    return buildingImages[widget.buildingName] ?? [];
+    // Use function from png.dart
+    return getbuildingImagePathFilePaths(widget.buildingName);
   }
 
   Future<double> calculateScaleFactor(BuildContext context, String imagePath) async {
@@ -138,6 +116,17 @@ class BlueprintState extends State<Blueprint> with WidgetsBindingObserver {
     return scaleFactor;
   }
 
+  Future<List<Map<String, dynamic>>> loadRoomData(String jsonPath) async {
+    // Replace 'BlueprintMaps' with 'RoomData' in the jsonPath
+    String adjustedJsonPath = jsonPath.replaceAll('BlueprintMaps', 'RoomData');
+
+    final jsonString = await rootBundle.loadString(adjustedJsonPath);
+    final List<dynamic> jsonData = json.decode(jsonString);
+
+    return List<Map<String, dynamic>>.from(jsonData);
+  }
+
+
   Future<void> loadPolygonData(String jsonPath, double scaleFactorWidth, double scaleFactorHeight) async {
     final jsonString = await rootBundle.loadString(jsonPath);
     final jsonData = json.decode(jsonString) as List;
@@ -153,6 +142,55 @@ class BlueprintState extends State<Blueprint> with WidgetsBindingObserver {
     });
   }
 
+  Set<String> extractRoomCodesFromPolygons(List<PolygonRoomData> polygons) {
+    Set<String> polygonRoomCodes = {};
+    for (PolygonRoomData polygon in polygons) {
+      String? roomCode = polygon.roomInfo['Room Code'];
+      if (roomCode != null) {
+        polygonRoomCodes.add(roomCode);
+        //print(roomCode);
+      } else {
+        //print("Missing 'Room Code' for a polygon"); // For debugging
+      }
+    }
+    return polygonRoomCodes;
+  }
+
+  findUnaccountedRoomCodes(List<Map<String, dynamic>> roomData, List<PolygonRoomData> polygons) {
+    Set<String> polygonRoomCodes = extractRoomCodesFromPolygons(polygons);
+
+
+    for (var room in roomData) {
+      if (!polygonRoomCodes.contains(room['Room Code'])) {
+        // Concatenate Room Code and Description, and add to the list
+        String roomCode = room['Room Code'] as String; // Assuming 'Description' is the key for room description
+        unaccountedRoomCodes.value.add(roomCode);
+      }
+    }
+
+    Set<String> newset = unaccountedRoomCodes.value.toSet();
+    Set<String> unaccountedRoomCodesSet = newset.difference(polygonRoomCodes);
+
+
+    unaccountedRoomCodes.value = unaccountedRoomCodesSet.toList();
+  }
+
+
+
+  void addRoomInfo(int polygonIndex, Map<String, dynamic> roomInfo) {
+    if (polygonIndex >= 0 && polygonIndex < polygons.length) {
+      polygons[polygonIndex].roomInfo = roomInfo; // Replace or modify room info as needed
+      setState(() {}); // Trigger a rebuild to reflect changes
+    }
+  }
+
+  void deleteRoomInfo(int polygonIndex) {
+    if (polygonIndex >= 0 && polygonIndex < polygons.length) {
+      polygons[polygonIndex].roomInfo.clear(); // Clear room info
+      setState(() {}); // Trigger a rebuild to reflect changes
+    }
+  }
+
   Future<void> updateScaleFactor() async {
     // Assuming you're working with the first image as an example
     if (getImageFilePaths().isNotEmpty) {
@@ -164,45 +202,125 @@ class BlueprintState extends State<Blueprint> with WidgetsBindingObserver {
     }
   }
 
-  void _showRoomDataOrInputDialog(BuildContext context, int polygonIndex, List<PolygonRoomData> currentPolygons) {
+  void addAlias(PolygonRoomData polygonData, String alias) {
+    List<String> aliases = polygonData.roomInfo['Aliases'] as List<String>? ?? [];
+    aliases.add(alias);
+    polygonData.roomInfo['Aliases'] = aliases; // Correctly reassign the list
+    if(unaccountedRoomCodes.value.contains(alias)){
+      unaccountedRoomCodes.value.remove(alias);
+    }
+    setState(() {}); // Update the state if necessary
+  }
+
+ void _showRoomDataOrInputDialog(BuildContext context, int polygonIndex, List<PolygonRoomData> currentPolygons, String imagePath) {
     if (polygonIndex < 0 || polygonIndex >= currentPolygons.length) {
       return; // Early return if index is invalid
     }
 
-    // Replace the set's contents with the new polygon index
-    Set<int> newClickedPolygons = {polygonIndex};
-    clickedPolygons.value = newClickedPolygons;
+    Map<String, dynamic> roomInfo = currentPolygons[polygonIndex].roomInfo;
+    bool hasRoomData = roomInfo.isNotEmpty;
+    String roomCode = roomInfo['Room Code'] ?? ''; // Default to an empty string if no room code is available
+    List<String> aliases = List<String>.from(roomInfo['Aliases'] ?? []);
+    TextEditingController inputController = TextEditingController();
+    final GlobalKey<FormState> _formKey = GlobalKey<FormState>();
 
-    Map<String, String> roomInfo = currentPolygons[polygonIndex].roomInfo;
-    String roomCode = roomInfo['Room Code'] ?? '';
-    String departmentName = roomInfo['Department Name'] ?? 'Department not announced'; // Adjust the key as necessary
-    String description = roomInfo['Description'] ?? ''; // Adjust the key as necessary
 
-    showModalBottomSheet(
+    // Handle submitting new room information
+    void handleSubmitRoomInfo() {
+      if (inputController.text.isNotEmpty && !hasRoomData) {
+        addRoomInfo(polygonIndex, {"Room Code": inputController.text});
+        Navigator.of(context).pop();
+      }
+    }
+
+    // Function to handle adding alias without closing the dialog
+    void handleAddAlias() {
+      if (inputController.text.isNotEmpty && hasRoomData) {
+        addAlias(currentPolygons[polygonIndex], inputController.text);
+        Navigator.of(context).pop(); // This closes the dialog
+
+        // Reopen the dialog with updated information
+        Future.delayed(Duration.zero, () {
+          _showRoomDataOrInputDialog(context, polygonIndex, currentPolygons, imagePath);
+        });
+      }
+    }
+
+    showGeneralDialog(
       context: context,
-      builder: (BuildContext context) {
-        return GestureDetector(
-          behavior: HitTestBehavior.opaque,
-          onTap: () {},
-          child: Container(
-            padding: const EdgeInsets.all(20),
-            child: Column(
-              mainAxisSize: MainAxisSize.min,
-              crossAxisAlignment: CrossAxisAlignment.start,
+      pageBuilder: (BuildContext buildContext, Animation<double> animation, Animation<double> secondaryAnimation) {
+        // No need for a custom transition in pageBuilder for this use case.
+        return SizedBox.shrink(); // Placeholder, actual dialog content is handled in transitionBuilder
+      },
+      barrierDismissible: true,
+      barrierLabel: MaterialLocalizations.of(context).modalBarrierDismissLabel,
+      transitionDuration: const Duration(milliseconds: 50),
+      transitionBuilder: (BuildContext context, Animation<double> animation, Animation<double> secondaryAnimation, Widget child) {
+        final curvedValue = Curves.easeInOut.transform(animation.value) - 1.0;
+        return Transform(
+          transform: Matrix4.translationValues(0, curvedValue * 200, 0),
+          child: Opacity(
+            opacity: animation.value,
+            child: Stack(
               children: <Widget>[
-                Text("Room: $roomCode", style: const TextStyle(fontSize: 25, fontWeight: FontWeight.bold)),
-                const Divider(),
-                Text(departmentName, style: TextStyle(fontSize: 20, fontStyle: FontStyle.italic, color: Colors.red.withOpacity(0.6))),
-                Text(description, style: const TextStyle(fontSize: 20)),
+                Positioned(
+                  right: 10,
+                  bottom: 10,
+                  child: AlertDialog(
+                    title: Text(hasRoomData ? "Room: $roomCode" : "New Room"),
+                    content: SingleChildScrollView(
+                      child: ListBody(
+                        children: <Widget>[
+                          Form(
+                            key: _formKey,
+                            child: TextFormField(
+                              controller: inputController,
+                              decoration: InputDecoration(hintText: hasRoomData ? "Add Alias" : "Room Code"),
+                              autofocus: true,
+                              onFieldSubmitted: (_) => hasRoomData ? handleAddAlias() : handleSubmitRoomInfo(),
+                            ),
+                          ),
+                          if (hasRoomData)
+                            Text('Aliases: ${aliases.join(', ')}', style: TextStyle(fontStyle: FontStyle.italic)),
+                        ],
+                      ),
+                    ),
+                    actions: <Widget>[
+                      if (hasRoomData) TextButton(
+                        onPressed: () {
+                          deleteRoomInfo(polygonIndex);
+                          Navigator.of(context).pop();
+                        },
+                        child: const Text("Delete Room Data"),
+                      ),
+                      if (!hasRoomData) TextButton(
+                        onPressed: () {
+                          handleSubmitRoomInfo();
+                        },
+                        child: const Text("Submit Room Info"),
+                      ),
+                      if (hasRoomData) TextButton(
+                        onPressed: () => handleAddAlias(),
+                        child: const Text("Add Alias"),
+                      ),
+                      TextButton(
+                        onPressed: () => Navigator.of(context).pop(),
+                        child: const Text("Cancel"),
+                      ),
+                    ],
+                  ),
+                ),
               ],
             ),
           ),
         );
       },
-      isScrollControlled: true, // This allows the modal to only be as tall as its content
     ).then((_) {
-      // Optionally clear the selection when the modal is closed
-      clickedPolygons.value = {};
+      // Clear the clicked polygons after the dialog is closed
+      setState(() {
+        clickedPolygons.value = {};
+        findUnaccountedRoomCodes(roomData, polygons);
+      });
     });
   }
 
@@ -222,7 +340,6 @@ class BlueprintState extends State<Blueprint> with WidgetsBindingObserver {
       }
     });
   }
-
 
   void _showOverlay() {
     _overlayEntry = _createOverlayEntry();
@@ -292,9 +409,21 @@ class BlueprintState extends State<Blueprint> with WidgetsBindingObserver {
     _overlayEntry = null;
   }
 
+  Future<void> _downloadFile(List<PolygonRoomData> jsonData, String fileName) async {
+    final String jsonString = jsonEncode(jsonData);
+    final String uri = Uri.encodeComponent(jsonString);
+    AnchorElement(href: 'data:application/json;charset=utf-8,$uri')
+      ..setAttribute("download", fileName)
+      ..click();
+  }
+
   void _navigateAndDisplayImage(BuildContext context, String imagePath) async {
     // Dynamically load the JSON for the selected blueprint
     String fileNameWithoutExtension = imagePath.split('/').last.split('.').first;
+
+    String jsonPath = imagePath.replaceAll('Blueprints', 'RoomData').replaceAll('.png', '.json');
+    List<Map<String, dynamic>> roomData = await loadRoomData(jsonPath);
+    findUnaccountedRoomCodes(roomData, polygons);
 
     Navigator.of(context).push(
       MaterialPageRoute(
@@ -313,63 +442,91 @@ class BlueprintState extends State<Blueprint> with WidgetsBindingObserver {
               ),
               style: const TextStyle(color: Colors.white),
             ),
-            actions: const <Widget>[],
+            actions: <Widget>[
+              IconButton(
+                icon: Icon(Icons.download),
+                onPressed: () => _downloadFile(polygons, fileNameWithoutExtension ),
+              ),
+            ],
           ),
-          body: InteractiveViewer(
-            child: Builder(
-              builder: (BuildContext innerContext) {
-                return GestureDetector(
-                  onTapUp: (TapUpDetails details) {
-                    RenderBox box = innerContext.findRenderObject() as RenderBox;
-                    final Offset localPosition = box.globalToLocal(details.globalPosition);
-                    int polygonIndex = -1; // Initialize with an invalid index
+          body: Row( // Use Row to layout the InteractiveViewer and the new Card side by side
+            children: [
+              Expanded( // InteractiveViewer wrapped in Expanded to take up most of the Row
+                flex: 5, // Adjust the flex ratio to give more space to the InteractiveViewer
+                child: InteractiveViewer(
+                  child: Builder(
+                    builder: (BuildContext innerContext) {
+                      return GestureDetector(
+                        onTapUp: (TapUpDetails details) {
+                          RenderBox box = innerContext.findRenderObject() as RenderBox;
+                          final Offset localPosition = box.globalToLocal(details.globalPosition);
+                          int polygonIndex = -1; // Initialize with an invalid index
 
-                    for (int i = 0; i < polygons.length; i++) {
-                      if (isPointInPolygon(localPosition, polygons[i].polygon.map((e) => Offset(e[0].toDouble() * scaleFactor, e[1].toDouble() * scaleFactor)).toList())) {
-                        polygonIndex = i; // Found a valid index
-                        break;
-                      }
-                    }
+                          for (int i = 0; i < polygons.length; i++) {
+                            if (isPointInPolygon(localPosition, polygons[i].polygon.map((e) => Offset(e[0].toDouble() * scaleFactor, e[1].toDouble() * scaleFactor)).toList())) {
+                              polygonIndex = i; // Found a valid index
+                              break;
+                            }
+                          }
 
-                    if (polygonIndex != -1) {
-                      Set<int> newSet = Set.from(clickedPolygons.value);
-                      if (newSet.contains(polygonIndex)) {
-                        newSet.remove(polygonIndex);
-                      } else {
-                        newSet.add(polygonIndex);
-                      }
-                      clickedPolygons.value = newSet; // This automatically notifies listeners
+                          if (polygonIndex != -1) {
+                            Set<int> newSet = Set.from(clickedPolygons.value);
+                            if (newSet.contains(polygonIndex)) {
+                              newSet.remove(polygonIndex);
+                            } else {
+                              newSet.add(polygonIndex);
+                            }
+                            clickedPolygons.value = newSet; // This automatically notifies listeners
 
-                      // Optionally, add a delay before showing dialog to allow the user to see the update
-                      Future.delayed(const Duration(milliseconds: 200), () {
-                        _showRoomDataOrInputDialog(context, polygonIndex, polygons); // Use polygons here
-                      });
-                    }
-                  },
-                  child: Stack(
-                    children: [
-                      Positioned.fill(
-                        child: Image.asset(imagePath, fit: BoxFit.fitHeight, alignment: Alignment.topLeft),
-                      ),
-                      ValueListenableBuilder<Set<int>>(
-                        valueListenable: clickedPolygons,
-                        builder: (context, value, child) {
-                          return CustomPaint(
-                            size: Size.infinite,
-                            painter: InteractivePolygonPainter(
-                              polygons.map((e) => e.polygon.map((p) => Offset(p[0] * scaleFactor, p[1] * scaleFactor)).toList()).toList(),
-                              value,
-                              polygons,
-                              scaleFactor,
-                            ),
-                          );
+                            // Optionally, add a delay before showing dialog to allow the user to see the update
+                            Future.delayed(const Duration(milliseconds: 200), () {
+                              _showRoomDataOrInputDialog(context, polygonIndex, polygons, imagePath); // Use polygons here
+                            });
+                          }
                         },
-                      ),
-                    ],
+                        child: Stack(
+                          children: [
+                            Positioned.fill(
+                              child: Image.asset(imagePath, fit: BoxFit.fitHeight, alignment: Alignment.topLeft),
+                            ),
+                            ValueListenableBuilder<Set<int>>(
+                              valueListenable: clickedPolygons,
+                              builder: (context, value, child) {
+                                return CustomPaint(
+                                  size: Size.infinite,
+                                  painter: InteractivePolygonPainter(
+                                    polygons.map((e) => e.polygon.map((p) => Offset(p[0] * scaleFactor, p[1] * scaleFactor)).toList()).toList(),
+                                    value,
+                                    polygons,
+                                    scaleFactor,
+                                  ),
+                                );
+                              },
+                            ),
+                          ],
+                        ),
+                      );
+                    },
                   ),
-                );
-              },
-            ),
+                ),
+              ),
+              Container(
+                width: 200,
+                child: Card(
+                  child: Padding(
+                    padding: const EdgeInsets.all(8.0),
+                    child: ValueListenableBuilder<List<String>>(
+                      valueListenable: unaccountedRoomCodes,
+                      builder: (context, value, child) {
+                        return ListView(
+                          children: value.map((code) => Text(code)).toList(),
+                        );
+                      },
+                    ),
+                  ),
+                ),
+              ),
+            ],
           ),
         ),
       ),
@@ -514,7 +671,7 @@ class InteractivePolygonPainter extends CustomPainter {
       if (clickedPolygons.contains(i)) {
         paint.color = Colors.red.withOpacity(0.5);
       } else {
-        paint.color = /* polygonRoomData[i].roomInfo.isNotEmpty ? Colors.grey.withOpacity(0.5) :*/ Colors.transparent;
+        paint.color =  polygonRoomData[i].roomInfo.isNotEmpty ? Colors.grey.withOpacity(0.5) : Colors.transparent;
       }
       canvas.drawPath(path, paint);
     }

@@ -1,0 +1,50 @@
+[
+    {
+        "Floor Code": "09",
+        "Room Code": "900",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "09",
+        "Room Code": "901",
+        "Description": "Closed Stack",
+        "Department Name": "UCL Archives & Rare Books Library"
+    },
+    {
+        "Floor Code": "09",
+        "Room Code": "996",
+        "Description": "Shaft Space",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "09",
+        "Room Code": "997A",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "09",
+        "Room Code": "998A",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "09",
+        "Room Code": "998C",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "09",
+        "Room Code": "998K",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "09",
+        "Room Code": "999",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    }
+]

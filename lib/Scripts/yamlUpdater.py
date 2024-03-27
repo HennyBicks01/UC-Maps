@@ -1,23 +1,37 @@
 import os
-import re
 
-def list_folders_in_directory(directory):
-    """List all folders in the specified directory."""
-    return [f.name for f in os.scandir(directory) if f.is_dir()]
+def find_folders_with_assets(root_directory):
+    """
+    Find folders directly containing .json or .png files within the specified root directory.
+    """
+    asset_folders = set()
 
-def update_pubspec_yaml(pubspec_path, blueprint_directory):
-    """Update the pubspec.yaml file with folders from the Blueprints directory."""
-    folders = list_folders_in_directory(blueprint_directory)
-    asset_paths = ["  - assets/Blueprints/{}/\n".format(folder) for folder in folders]
+    for root, dirs, files in os.walk(root_directory):
+        if any(file.endswith('.json') or file.endswith('.png') for file in files):
+            # Constructing a path relative to the root_directory for inclusion in pubspec.yaml
+            relative_path = os.path.relpath(root, start=root_directory)
+            asset_folders.add(relative_path.replace('\\', '/'))  # Ensuring posix-style paths
+
+    return asset_folders
+
+def update_pubspec_yaml(pubspec_path, asset_folders):
+    """
+    Update the pubspec.yaml file with the specified asset folders.
+    """
+    asset_paths = ["  - assets/{}/\n".format(folder) for folder in sorted(asset_folders)]
 
     with open(pubspec_path, 'r+') as file:
         content = file.readlines()
 
         # Finding the index where assets start
-        asset_start_index = next(i for i, line in enumerate(content) if 'assets:' in line) + 1
+        try:
+            asset_start_index = next(i for i, line in enumerate(content) if 'assets:' in line) + 1
+        except StopIteration:
+            print("No 'assets:' section found in pubspec.yaml. Please ensure it exists and try again.")
+            return
 
-        # Removing existing Blueprints entries
-        content = [line for line in content if not line.strip().startswith('- Blueprints/')]
+        # Removing existing asset entries to avoid duplicates
+        content = [line for line in content if not line.strip().startswith('- assets/')]
 
         # Inserting new asset paths
         for path in reversed(asset_paths):
@@ -28,8 +42,12 @@ def update_pubspec_yaml(pubspec_path, blueprint_directory):
         file.writelines(content)
         file.truncate()
 
-# Path to the pubspec.yaml file and Blueprints directory
+# Path to the pubspec.yaml file and assets directory
 pubspec_path = 'pubspec.yaml'
-blueprint_directory = 'assets/Blueprints'
+assets_directory = 'assets'
 
-update_pubspec_yaml(pubspec_path, blueprint_directory)
+# Finding folders within assets that contain .json or .png files
+asset_folders = find_folders_with_assets(assets_directory)
+
+# Updating the pubspec.yaml file with these asset folders
+update_pubspec_yaml(pubspec_path, asset_folders)

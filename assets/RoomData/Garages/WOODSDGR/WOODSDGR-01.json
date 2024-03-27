@@ -1,0 +1,134 @@
+[
+    {
+        "Floor Code": "01",
+        "Room Code": "100",
+        "Description": "Parking",
+        "Department Name": "A&F Parking Administration"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "101",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "102",
+        "Description": "Break Room",
+        "Department Name": "A&F Parking Maintenance West"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "102A",
+        "Description": "Office",
+        "Department Name": "A&F Parking Maintenance West"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "102AA",
+        "Description": "Office",
+        "Department Name": "A&F Parking Maintenance West"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "102B",
+        "Description": "Break Room",
+        "Department Name": "A&F Parking Maintenance West"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "103",
+        "Description": "Shop",
+        "Department Name": "A&F Parking Maintenance West"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "103A",
+        "Description": "Private Restroom",
+        "Department Name": "A&F Parking Maintenance West"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "104",
+        "Description": "Shop Svc",
+        "Department Name": "A&F Parking Maintenance West"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "111",
+        "Description": "Central Storage",
+        "Department Name": "A&F Parking Administration"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "197D",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "198A",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "198C",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "198D",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "198G",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "198K",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "198L",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "198N",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "198P",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "199",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "199V",
+        "Description": "Parking",
+        "Department Name": "A&F Parking Administration"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "199X",
+        "Description": "Exterior Circulation",
+        "Department Name": "Hallways"
+    }
+]

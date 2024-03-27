@@ -1,0 +1,416 @@
+[
+    {
+        "Floor Code": "04",
+        "Room Code": "400",
+        "Description": "Reception/Waiting",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "400A",
+        "Description": "Copy/Mail",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "400B",
+        "Description": "Office",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "400C",
+        "Description": "Office",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "400D",
+        "Description": "Workroom",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "400E",
+        "Description": "Office",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "400F",
+        "Description": "Conference",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "400G",
+        "Description": "Office",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "400H",
+        "Description": "Copy/Mail",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "400J",
+        "Description": "File/Supply",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "401",
+        "Description": "Custodial",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "402",
+        "Description": "Office",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "403",
+        "Description": "Office",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "404",
+        "Description": "Office",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "405",
+        "Description": "Office",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "406",
+        "Description": "Mechanical",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "407",
+        "Description": "Conference",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "407A",
+        "Description": "Mechanical",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "408",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "409",
+        "Description": "Office",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "410",
+        "Description": "Office",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "411",
+        "Description": "Office",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "412",
+        "Description": "Office",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "413",
+        "Description": "Office",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "414",
+        "Description": "Office",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "415",
+        "Description": "Office",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "416",
+        "Description": "Office",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "417",
+        "Description": "Office",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "418",
+        "Description": "Office",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "419",
+        "Description": "Office",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "420",
+        "Description": "Office",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "421",
+        "Description": "Office",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "422",
+        "Description": "Office",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "423",
+        "Description": "Office",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "424",
+        "Description": "Office",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "425",
+        "Description": "Office",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "426",
+        "Description": "Office",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "427",
+        "Description": "Office",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "428",
+        "Description": "Office",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "429",
+        "Description": "Office",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "430",
+        "Description": "Office",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "431",
+        "Description": "Office",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "432",
+        "Description": "Office",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "433",
+        "Description": "Office",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "434",
+        "Description": "Office",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "435",
+        "Description": "Office",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "436",
+        "Description": "Office",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "437",
+        "Description": "Office",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "438",
+        "Description": "Office",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "439",
+        "Description": "Copy/Mail",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "440",
+        "Description": "Office",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "441",
+        "Description": "Office",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "442",
+        "Description": "Office",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "443",
+        "Description": "Office",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "444",
+        "Description": "Conference",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "445",
+        "Description": "Office Svc - Other",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "446",
+        "Description": "Office",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "447",
+        "Description": "Office",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "448",
+        "Description": "Office",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "481",
+        "Description": "Restroom Male",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "482",
+        "Description": "Mechanical",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "483",
+        "Description": "Restroom All Gender",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "496",
+        "Description": "Shaft Space",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "497A",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "497B",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "498A",
+        "Description": "Stair",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "498B",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "498C",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "499",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    }
+]

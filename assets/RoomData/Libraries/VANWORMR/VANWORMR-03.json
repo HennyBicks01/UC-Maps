@@ -1,0 +1,218 @@
+[
+    {
+        "Floor Code": "03",
+        "Room Code": "300",
+        "Description": "Restroom Female",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "310",
+        "Description": "Office Svc - Other",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "310.01",
+        "Description": "Modular",
+        "Department Name": "Exec VP for Academic Affairs & Provost"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "310.02",
+        "Description": "Modular",
+        "Department Name": "Exec VP for Academic Affairs & Provost"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "310.03",
+        "Description": "Modular",
+        "Department Name": "Exec VP for Academic Affairs & Provost"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "310.04",
+        "Description": "Modular",
+        "Department Name": "Exec VP for Academic Affairs & Provost"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "310A",
+        "Description": "Office",
+        "Department Name": "Exec VP for Academic Affairs & Provost"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "310B",
+        "Description": "Internal Office Circ",
+        "Department Name": "Exec VP for Academic Affairs & Provost"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "310B.01",
+        "Description": "Modular",
+        "Department Name": "Exec VP for Academic Affairs & Provost"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "310B.02",
+        "Description": "Modular",
+        "Department Name": "Exec VP for Academic Affairs & Provost"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "314",
+        "Description": "Office Svc - Other",
+        "Department Name": "Exec VP for Academic Affairs & Provost"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "314.01",
+        "Description": "Modular",
+        "Department Name": "Exec VP for Academic Affairs & Provost"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "314A",
+        "Description": "Office",
+        "Department Name": "Exec VP for Academic Affairs & Provost"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "314B",
+        "Description": "Office",
+        "Department Name": "Exec VP for Academic Affairs & Provost"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "320",
+        "Description": "Conference",
+        "Department Name": "Exec VP for Academic Affairs & Provost"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "322",
+        "Description": "Office Svc - Other",
+        "Department Name": "Exec VP for Academic Affairs & Provost"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "323",
+        "Description": "Office Svc - Other",
+        "Department Name": "Exec VP for Academic Affairs & Provost"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "324",
+        "Description": "Break Room",
+        "Department Name": "Exec VP for Academic Affairs & Provost"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "325",
+        "Description": "Custodial",
+        "Department Name": "Exec VP for Academic Affairs & Provost"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "327",
+        "Description": "Office Svc - Other",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "330",
+        "Description": "Office",
+        "Department Name": "Exec VP for Academic Affairs & Provost"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "336",
+        "Description": "Office",
+        "Department Name": "Exec VP for Academic Affairs & Provost"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "340",
+        "Description": "Office Svc - Other",
+        "Department Name": "Exec VP for Academic Affairs & Provost"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "340.01",
+        "Description": "Inactive",
+        "Department Name": "Exec VP for Academic Affairs & Provost"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "340.02",
+        "Description": "Modular",
+        "Department Name": "Exec VP for Academic Affairs & Provost"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "340.03",
+        "Description": "Modular",
+        "Department Name": "Exec VP for Academic Affairs & Provost"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "340.04",
+        "Description": "Modular",
+        "Department Name": "Exec VP for Academic Affairs & Provost"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "340A",
+        "Description": "Office",
+        "Department Name": "Exec VP for Academic Affairs & Provost"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "340B",
+        "Description": "Office",
+        "Department Name": "Exec VP for Academic Affairs & Provost"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "350",
+        "Description": "Restroom Male",
+        "Department Name": "Exec VP for Academic Affairs & Provost"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "360",
+        "Description": "Lactation Room",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "396",
+        "Description": "Shaft Space",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "397A",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "398A",
+        "Description": "Stair",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "398B",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "399",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    }
+]

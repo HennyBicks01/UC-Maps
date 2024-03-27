@@ -1,0 +1,26 @@
+[
+    {
+        "Floor Code": "08",
+        "Room Code": "8396",
+        "Description": "Shaft Space",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "8397",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "8398A",
+        "Description": "Stair",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "8399",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    }
+]

@@ -1,0 +1,290 @@
+[
+    {
+        "Floor Code": "06",
+        "Room Code": "6102",
+        "Description": "Restroom Female",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6103",
+        "Description": "Custodial",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6105",
+        "Description": "Mechanical",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6106",
+        "Description": "Restroom Male",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6106A",
+        "Description": "Locker",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6109",
+        "Description": "Mechanical",
+        "Department Name": "West Campus Construction"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6120",
+        "Description": "Classroom",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6121",
+        "Description": "Break Room",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6123",
+        "Description": "Lounge",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6126",
+        "Description": "Classroom",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6130",
+        "Description": "Classroom",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6134",
+        "Description": "Classroom",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6137",
+        "Description": "Internal Office Circ",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6140",
+        "Description": "Lab Circ Rsch",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6140.01",
+        "Description": "Data Lab",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6140.02",
+        "Description": "Data Lab",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6140.03",
+        "Description": "Data Lab",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6140.04",
+        "Description": "Data Lab",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6140.05",
+        "Description": "Data Lab",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6140.06",
+        "Description": "Data Lab",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6140.07",
+        "Description": "Data Lab",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6140A",
+        "Description": "Data Lab",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6140B",
+        "Description": "Data Lab",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6140C",
+        "Description": "Data Lab",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6142",
+        "Description": "Classroom",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6144",
+        "Description": "Classroom",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6145",
+        "Description": "Locker",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6148",
+        "Description": "Internal Office Circ",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6148.01",
+        "Description": "Modular",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6148.02",
+        "Description": "Modular",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6148A",
+        "Description": "Data Lab",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6148B",
+        "Description": "Data Lab",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6148C",
+        "Description": "Data Lab Svc",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6148Z",
+        "Description": "Data Lab Svc",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6149",
+        "Description": "Office Svc - Other",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6150",
+        "Description": "Other Study Lab (Unsch)",
+        "Department Name": "A&F Env Health & Safety"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6152",
+        "Description": "Design Instr Lab",
+        "Department Name": "CEAS - College Computing"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6154",
+        "Description": "Computer Instr Lab",
+        "Department Name": "CEAS - Civil & Arch Eng & Const Mgmt"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6196",
+        "Description": "Shaft Space",
+        "Department Name": "CEAS - Civil & Arch Eng & Const Mgmt"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6197A",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6197B",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6197C",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6197D",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6197E",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6198B",
+        "Description": "Stair",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6198C",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "6199",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "T603",
+        "Description": "Telecommunications Room",
+        "Department Name": "Hallways"
+    }
+]

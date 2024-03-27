@@ -1,0 +1,20 @@
+[
+    {
+        "Floor Code": "07",
+        "Room Code": "700",
+        "Description": "Athletic Seating",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "750",
+        "Description": "Athletic Svc",
+        "Department Name": "Athletics Operations"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "798H",
+        "Description": "Stair",
+        "Department Name": "Athletics Operations"
+    }
+]

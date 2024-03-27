@@ -1,6 +1,9 @@
+import 'dart:async';
 import 'dart:math';
 
+import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import 'package:flutter_map/flutter_map.dart';
 import 'package:latlong2/latlong.dart';
 import 'package:geolocator/geolocator.dart';
@@ -86,6 +89,7 @@ class _MyHomePageState extends State<MyHomePage> {
           point: userLocation, // Specify the marker's geographic location
           child: const Icon(Icons.location_pin, color: Colors.red, size: 40), // Directly use the Widget
         ),
+
       );
     });
 
@@ -216,7 +220,7 @@ class _MyHomePageState extends State<MyHomePage> {
             point: centroid,
             width: 110, // Placeholder width, adjust as necessary
             child: Container(
-              padding: EdgeInsets.all(5),
+              padding: const EdgeInsets.all(5),
               child: Text(
                 polygonData.name,
                 style: TextStyle(
@@ -245,7 +249,7 @@ class _MyHomePageState extends State<MyHomePage> {
 
     // Optionally, center the map on the polygon's centroid
     LatLng centroid = calculateCentroid(polygonData.polygon.points);
-    mapController.move(centroid, zoom);
+    mapController.move(centroid, 20);
   }
 
   Future<void> _centerMapOnUserIfClose() async {
@@ -286,6 +290,12 @@ class _MyHomePageState extends State<MyHomePage> {
   }
 
 
+
+  String getBlueprintPath(String buildingName) {
+    return 'assets/Blueprints/TEACHERS/TEACHERS-06.png';
+  }
+
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -307,14 +317,29 @@ class _MyHomePageState extends State<MyHomePage> {
               },
               initialCenter: const LatLng(39.1317, -84.5167), // Example coordinates
               initialZoom: zoom,
-                onTap: (tapPosition, point) {
-                  for (var polyData in getPolygons()) {
-                    if (isPointInPolygon(point, polyData.polygon.points)) {
-                      Navigator.of(context).push(MaterialPageRoute(
-                        builder: (context) => Blueprint(buildingName: polyData.name),
-                      ));
-                      break;
+              onTap: (tapPosition, point) {
+                for (var polyData in getPolygons()) {
+                  if (isPointInPolygon(point, polyData.polygon.points)) {
+                    // Instead of adding a marker, trigger the overlay with the image manipulation widget
+                     /*showDialog(
+                      context: context,
+                      builder: (BuildContext context) {
+                        return InteractiveImageOverlay(
+                          mapController: mapController,
+                          imagePath: getBlueprintPath(polyData.name),
+                          onSave: (centroid, rotation) {
+                            // Logic to save the adjustments
+                            // This function is called with the final centroid and rotation
+                          },
+                        );
+                      },
+                    );*/
+                    Navigator.of(context).push(MaterialPageRoute(
+                      builder: (context) => Blueprint(buildingName: polyData.name),
+                    ));
+                    break;
                   }
+
                 }
               },
             ),
@@ -342,7 +367,6 @@ class _MyHomePageState extends State<MyHomePage> {
               ),
             ],
           ),
-
           Positioned(
             top: MediaQuery.of(context).padding.top + 10,
             left: 10,
@@ -423,8 +447,276 @@ class _MyHomePageState extends State<MyHomePage> {
               ),
             ),
           )
-
         ],
+      ),
+    );
+  }
+}
+
+class InteractiveImageOverlay extends StatefulWidget {
+  final String imagePath;
+  final Function(LatLng centroid, double rotation) onSave;
+  final MapController mapController;
+
+  const InteractiveImageOverlay({
+    Key? key,
+    required this.imagePath,
+    required this.onSave,
+    required this.mapController,
+  }) : super(key: key);
+
+  @override
+  _InteractiveImageOverlayState createState() => _InteractiveImageOverlayState();
+}
+
+class _InteractiveImageOverlayState extends State<InteractiveImageOverlay> {
+  double scale = 1.0;
+  double rotation = 0.0;
+  Offset position = Offset.zero;
+  Offset initialPosition = Offset.zero;
+  bool isCtrlPressed = false;
+
+  @override
+  void initState() {
+    super.initState();
+    RawKeyboard.instance.addListener(_handleKey);
+    loadImageAndCenter();
+  }
+
+  @override
+  void dispose() {
+    RawKeyboard.instance.removeListener(_handleKey);
+    super.dispose();
+  }
+
+  void _handleKey(RawKeyEvent event) {
+    setState(() {
+      isCtrlPressed = event.isControlPressed;
+    });
+  }
+
+  Future<void> loadImageAndCenter() async {
+    final ImageProvider imageProvider = AssetImage(widget.imagePath);
+    final ImageStream stream = imageProvider.resolve(ImageConfiguration.empty);
+    final Completer<Size> completer = Completer<Size>();
+    ImageStreamListener? listener;
+    listener = ImageStreamListener((ImageInfo info, bool _) {
+      final Size imageSize = Size(info.image.width.toDouble(), info.image.height.toDouble());
+      completer.complete(imageSize);
+
+      // Once we have the image size, remove the listener
+      stream.removeListener(listener!);
+    });
+    stream.addListener(listener);
+
+    final Size imageSize = await completer.future;
+    final Size screenSize = MediaQuery.of(context).size;
+
+    // Calculate the scale factor based on the height
+    final double scaleFactor = screenSize.height / imageSize.height;
+
+    // Calculate the displayed image width
+    final double displayedImageWidth = imageSize.width * scaleFactor;
+
+    // Calculate the initial horizontal offset to center the image
+    final double initialOffsetX = (screenSize.width - displayedImageWidth) / 2;
+
+    // Set the initial position state to center the image
+    setState(() {
+      position = Offset(initialOffsetX, 0); // Vertical offset is 0
+      initialPosition = Offset(initialOffsetX, 0);
+    });
+  }
+
+  void _handleScroll(PointerSignalEvent event) {
+    if (event is PointerScrollEvent) {
+      double newScale = scale + (event.scrollDelta.dy * -0.00005);
+      newScale = newScale.clamp(.01, 5.0); // Allows more zoom out
+
+      // Calculate the change in scale
+      double scaleChange = newScale - scale;
+
+      // Assuming the image is initially centered, calculate the center of the screen
+      Size screenSize = MediaQuery.of(context).size;
+      Offset screenCenter = Offset(screenSize.width / 2, screenSize.height / 2);
+
+      // Adjust the position based on the scale change to keep the image centered
+      // This adjustment is a basic approximation and might need fine-tuning
+      double adjustmentFactor = 1.0; // Adjust this factor based on your needs
+      Offset scaleAdjustment = Offset(
+        (screenCenter.dx * scaleChange) * adjustmentFactor,
+        (screenCenter.dy * scaleChange) * adjustmentFactor,
+      );
+
+      setState(() {
+        scale = newScale;
+        // Adjust the position to attempt to keep the image centered
+        position += scaleAdjustment;
+        initialPosition += scaleAdjustment;
+      });
+    }
+  }
+
+
+
+  void _onPanUpdate(DragUpdateDetails details) {
+    if (isCtrlPressed) {
+      setState(() {
+        rotation +=
+            details.delta.dx * 0.002; // Adjust rotation sensitivity as needed
+      });
+    } else {
+      setState(() {
+        position += details.delta;
+      });
+    }
+  }
+
+  Future<List<LatLng>> calculateGeographicalCorners(
+      MapController mapController, Size imageSize, Offset imagePosition, double scale, double rotationDegrees) async {
+
+    // Convert the center position to geographical coordinates
+    LatLng centerGeo = mapController.camera.center;
+    double zoom = mapController.camera.zoom;
+
+    // Calculate the pixel coordinates of the center of the map
+    var centerPoint = mapController.camera.project(centerGeo, zoom);
+
+    // Calculate the center of the image in pixel coordinates
+    var imageCenter = Point(
+      centerPoint.x + imagePosition.dx,
+      centerPoint.y + imagePosition.dy,
+    );
+
+    // Initial corner points before rotation
+    var topLeft = Point(imageCenter.x - (imageSize.width * scale) / 2, imageCenter.y - (imageSize.height * scale) / 2);
+    var topRight = Point(topLeft.x + imageSize.width * scale, topLeft.y);
+    var bottomLeft = Point(topLeft.x + imageSize.width * scale, topLeft.y + imageSize.height * scale);
+    var bottomRight = Point(topLeft.x, topLeft.y + imageSize.height * scale);
+
+    // Convert rotation from degrees to radians
+    double rotationRadians = rotationDegrees;
+
+    // Rotate each corner point around the center of the image
+    List<Point> rotatedCorners = [topLeft, topRight, bottomLeft, bottomRight].map((point) {
+      return rotatePoint(point, imageCenter, rotationRadians);
+    }).toList();
+
+    // Convert rotated corner points back to geographical coordinates
+    List<LatLng> geoCorners = rotatedCorners.map((point) {
+      return mapController.camera.unproject(Point(point.x, point.y), zoom);
+    }).toList();
+
+    return geoCorners;
+  }
+
+  // Function to rotate a point around a pivot
+  Point rotatePoint(Point point, Point pivot, double angle) {
+    double cosTheta = cos(angle);
+    double sinTheta = sin(angle);
+
+    var translatedX = point.x - pivot.x;
+    var translatedY = point.y - pivot.y;
+
+    var rotatedX = translatedX * cosTheta - translatedY * sinTheta;
+    var rotatedY = translatedX * sinTheta + translatedY * cosTheta;
+
+    return Point(rotatedX + pivot.x, rotatedY + pivot.y);
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    // Getting the screen size for initial positioning
+    final Size screenSize = MediaQuery.of(context).size;
+
+    // Initial translation to center the image based on current scale and screen size
+    final double initialTranslateX = (screenSize.width * (1 - scale)) / 2;
+    final double initialTranslateY = (screenSize.height * (1 - scale)) / 2;
+
+    return Scaffold(
+      backgroundColor: Colors.transparent,
+      body: Listener(
+        onPointerSignal: _handleScroll,
+        child: GestureDetector(
+          onPanUpdate: _onPanUpdate,
+          child: Stack(
+            children: [
+              Transform(
+                alignment: Alignment.center, // Ensure the rotation pivot is the center
+                transform: Matrix4.identity()
+                  ..translate(initialTranslateX + position.dx, initialTranslateY + position.dy) // Apply translation
+                  ..scale(scale) // Then apply scale
+                  ..rotateZ(rotation), // Finally apply rotation
+                child: Image.asset(widget.imagePath, fit: BoxFit.fitHeight),
+              ),
+
+              Positioned(
+                right: 20,
+                bottom: 20,
+                child: FloatingActionButton(
+                  onPressed: () async {
+                    // Create an ImageProvider from the asset.
+                    final ImageProvider imageProvider = AssetImage(widget.imagePath);
+
+                    // Get the image stream from the provider.
+                    final ImageStream stream = imageProvider.resolve(ImageConfiguration.empty);
+
+                    // Listen to the stream of image data.
+                    final Completer<Size> completer = Completer<Size>();
+                    ImageStreamListener? listener;
+                    listener = ImageStreamListener((ImageInfo info, bool _) {
+                      // When the image is loaded, get its size.
+                      final Size imageSize = Size(info.image.width.toDouble(), info.image.height.toDouble());
+
+                      // Complete the completer with the image size.
+                      completer.complete(imageSize);
+
+                      // Remove the listener once we got the dimensions.
+                      stream.removeListener(listener!);
+                    });
+
+                    // Add the listener to the stream.
+                    stream.addListener(listener);
+
+                    // Wait for the image size.
+                    final Size imageSize = await completer.future;
+
+                    // Determine the displayed image size based on the screen's height
+                    final Size screenSize = MediaQuery.of(context).size;
+                    final double displayedImageHeight = screenSize.height * scale; // Assuming the image is scaled based on the screen height
+                    final double universalScaleFactor = displayedImageHeight / imageSize.height;
+
+
+                    Offset adjustedpos = position - initialPosition;
+                    print(position);
+                    print(initialPosition);
+                    print(adjustedpos);
+
+                    List<LatLng> corners = await calculateGeographicalCorners(
+                      widget.mapController,
+                      imageSize, // Original image size
+                      adjustedpos,
+                      universalScaleFactor, // Use the universal scale factor that adjusts for displayed image size
+                      rotation,
+                    );
+
+                    print("Corners: [" + corners.map((corner) => "LatLng(${corner.latitude}, ${corner.longitude})").join(', ') + "]");
+
+                    // Calculate centroid of corners for onSave.
+                    LatLng centroid = LatLng(
+                      (corners[0].latitude + corners[2].latitude) / 2,
+                      (corners[0].longitude + corners[2].longitude) / 2,
+                    );
+
+                    // Call the onSave callback with calculated values.
+                    widget.onSave(centroid, rotation);
+                  },
+                  child: Icon(Icons.check),
+                ),
+              ),
+            ],
+          ),
+        ),
       ),
     );
   }

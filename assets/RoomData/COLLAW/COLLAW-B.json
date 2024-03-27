@@ -1,0 +1,188 @@
+[
+    {
+        "Floor Code": "B",
+        "Room Code": "B01",
+        "Description": "Internal Office Circ",
+        "Department Name": "Law Library"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B01.01",
+        "Description": "Modular",
+        "Department Name": "Law Library"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B01.02",
+        "Description": "Modular",
+        "Department Name": "Law Library"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B05",
+        "Description": "Open Stack, Study & Reading",
+        "Department Name": "Law Library"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B05A",
+        "Description": "Copy/Mail",
+        "Department Name": "Law Library"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B05B",
+        "Description": "Closed Stack",
+        "Department Name": "Law Library"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B05C",
+        "Description": "Closed Stack",
+        "Department Name": "Law Library"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B10",
+        "Description": "Open Stack, Study & Reading",
+        "Department Name": "Law Library"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B10A",
+        "Description": "Office Svc - Other",
+        "Department Name": "Law College of Law"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B10B",
+        "Description": "Restroom All Gender",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B20",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B20A",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B20B",
+        "Description": "Electrical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B20C",
+        "Description": "Loading",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B20D",
+        "Description": "Office",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B20E",
+        "Description": "Custodial",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B20F",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B20Z",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B25",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B50",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B50A",
+        "Description": "Electrical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B50AA",
+        "Description": "Electrical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B95",
+        "Description": "Tunnel",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B97A",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B97B",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B98C",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B98E",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B99",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B99N",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B99S",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B99Z",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    }
+]

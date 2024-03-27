@@ -1,0 +1,398 @@
+[
+    {
+        "Floor Code": "05",
+        "Room Code": "500",
+        "Description": "Athletic Seating",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "501",
+        "Description": "Electrical",
+        "Department Name": "Athletics Operations"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "502",
+        "Description": "Telecommunications Room",
+        "Department Name": "Athletics Operations"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "504",
+        "Description": "Athletic Svc",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "505",
+        "Description": "Custodial",
+        "Department Name": "Athletics Operations"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "507",
+        "Description": "Restroom Female",
+        "Department Name": "Athletics Operations"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "509",
+        "Description": "Restroom Male",
+        "Department Name": "Athletics Operations"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "510",
+        "Description": "Corridor",
+        "Department Name": "Athletics Operations"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "512",
+        "Description": "Athletic Svc",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "513",
+        "Description": "Dining Svc",
+        "Department Name": "Athletics Operations"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "514",
+        "Description": "Restroom All Gender",
+        "Department Name": "Aramark"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "516",
+        "Description": "Dining Svc",
+        "Department Name": "Athletics Operations"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "519",
+        "Description": "Dining Svc",
+        "Department Name": "Aramark"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "521",
+        "Description": "Restroom Male",
+        "Department Name": "Aramark"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "523",
+        "Description": "Restroom Female",
+        "Department Name": "Athletics Operations"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "525",
+        "Description": "Athletic Svc",
+        "Department Name": "Athletics Operations"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "527",
+        "Description": "Custodial",
+        "Department Name": "Athletics Operations"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "538",
+        "Description": "Mechanical",
+        "Department Name": "Athletics Operations"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "539",
+        "Description": "Custodial",
+        "Department Name": "Athletics Operations"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "540",
+        "Description": "Corridor",
+        "Department Name": "Athletics Operations"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "541",
+        "Description": "Electrical",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "542",
+        "Description": "Telecommunications Room",
+        "Department Name": "Athletics Operations"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "551",
+        "Description": "Retail",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "553",
+        "Description": "Dining Svc",
+        "Department Name": "Athletics Operations"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "553A",
+        "Description": "Dining Svc",
+        "Department Name": "Aramark"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "555",
+        "Description": "Restroom Female",
+        "Department Name": "Aramark"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "557",
+        "Description": "Restroom Male",
+        "Department Name": "Athletics Operations"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "560",
+        "Description": "Corridor",
+        "Department Name": "Athletics Operations"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "560A",
+        "Description": "Dining Svc",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "560AA",
+        "Description": "Dining Svc",
+        "Department Name": "Aramark"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "560C",
+        "Description": "Dining Svc",
+        "Department Name": "Aramark"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "582",
+        "Description": "Restroom Male",
+        "Department Name": "Aramark"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "584",
+        "Description": "Custodial",
+        "Department Name": "Athletics Operations"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "586",
+        "Description": "Restroom Female",
+        "Department Name": "Athletics Operations"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "588",
+        "Description": "Restroom All Gender",
+        "Department Name": "Athletics Operations"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "590",
+        "Description": "Corridor",
+        "Department Name": "Athletics Operations"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "590A",
+        "Description": "Dining Svc",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "590B",
+        "Description": "Dining Svc",
+        "Department Name": "Aramark"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "590C",
+        "Description": "Restroom Female",
+        "Department Name": "Athletics UCATS"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "590D",
+        "Description": "Restroom Male",
+        "Department Name": "Athletics Operations"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "591",
+        "Description": "Dining Svc",
+        "Department Name": "Athletics Operations"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "596",
+        "Description": "Shaft Space",
+        "Department Name": "Aramark"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "597B",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "597C",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "597D",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "597E",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "597F",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "598AA",
+        "Description": "Stair",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "598AB",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "598AC",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "598AE",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "598AF",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "598AG",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "598F",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "598G",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "598H",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "598I",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "598J",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "598K",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "598L",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "598M",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "598N",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "598O",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "598P",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "598Q",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "598R",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    }
+]

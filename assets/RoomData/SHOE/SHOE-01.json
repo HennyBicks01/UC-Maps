@@ -1,0 +1,176 @@
+[
+    {
+        "Floor Code": "01",
+        "Room Code": "100",
+        "Description": "Mechanical",
+        "Department Name": "Athletics Operations"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "101",
+        "Description": "Mechanical",
+        "Department Name": "Athletics Operations"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "102",
+        "Description": "Central Storage",
+        "Department Name": "Athletics Operations"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "102A",
+        "Description": "Central Storage",
+        "Department Name": "Athletics Operations"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "103",
+        "Description": "Athletic",
+        "Department Name": "Athletics Strength & Conditioning"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "104",
+        "Description": "Athletic Svc",
+        "Department Name": "Athletics Strength & Conditioning"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "105",
+        "Description": "Mechanical",
+        "Department Name": "Athletics Operations"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "105A",
+        "Description": "Electrical",
+        "Department Name": "Athletics Operations"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "106",
+        "Description": "Break Room",
+        "Department Name": "Athletics Operations"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "107",
+        "Description": "Mechanical",
+        "Department Name": "Athletics Operations"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "109",
+        "Description": "Restroom All Gender",
+        "Department Name": "Athletics Operations"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "110",
+        "Description": "Athletic",
+        "Department Name": "Athletics Golf - Women"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "112",
+        "Description": "Athletic",
+        "Department Name": "Athletics Strength & Conditioning"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "112A",
+        "Description": "Athletic Svc",
+        "Department Name": "Athletics Strength & Conditioning"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "112AA",
+        "Description": "Athletic Svc",
+        "Department Name": "Athletics Strength & Conditioning"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "120",
+        "Description": "Athletic",
+        "Department Name": "Athletics Strength & Conditioning"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "120A",
+        "Description": "Custodial",
+        "Department Name": "Athletics Operations"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "120B",
+        "Description": "Office",
+        "Department Name": "Athletics Strength & Conditioning"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "120C",
+        "Description": "Office",
+        "Department Name": "Athletics Strength & Conditioning"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "120D",
+        "Description": "Office",
+        "Department Name": "Athletics Strength & Conditioning"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "120DA",
+        "Description": "Office",
+        "Department Name": "Athletics Strength & Conditioning"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "120DB",
+        "Description": "Electrical",
+        "Department Name": "Athletics Operations"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "120E",
+        "Description": "Office",
+        "Department Name": "Athletics Strength & Conditioning"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "197A",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "198A",
+        "Description": "Athletic Svc",
+        "Department Name": "Athletics Operations"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "198B",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "198C",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "198D",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "199",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    }
+]

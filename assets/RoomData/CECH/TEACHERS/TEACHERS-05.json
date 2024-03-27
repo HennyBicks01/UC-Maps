@@ -1,0 +1,584 @@
+[
+    {
+        "Floor Code": "05",
+        "Room Code": "501",
+        "Description": "Conference",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "502",
+        "Description": "Other Instr Lab",
+        "Department Name": "CECH Education"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "504",
+        "Description": "Computer Instr Lab",
+        "Department Name": "CECH Facility & Research Support"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "505",
+        "Description": "Office Svc - Other",
+        "Department Name": "CECH Facility & Research Support"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "505.01",
+        "Description": "Modular",
+        "Department Name": "CECH Education"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "505.02",
+        "Description": "Modular",
+        "Department Name": "CECH Education"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "505.03",
+        "Description": "Modular",
+        "Department Name": "CECH Education"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "505.05",
+        "Description": "Modular",
+        "Department Name": "CECH Education"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "505.06",
+        "Description": "Modular",
+        "Department Name": "CECH Education"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "505.07",
+        "Description": "Modular",
+        "Department Name": "CECH Education"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "505.08",
+        "Description": "Modular",
+        "Department Name": "CECH Education"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "505.09",
+        "Description": "Modular",
+        "Department Name": "CECH Education"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "505A",
+        "Description": "Office",
+        "Department Name": "CECH Education"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "511",
+        "Description": "Internal Office Circ",
+        "Department Name": "CECH Education"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "511.01",
+        "Description": "Modular",
+        "Department Name": "CECH Curriculum & Instruction"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "511.02",
+        "Description": "Modular",
+        "Department Name": "CECH Education"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "511.04",
+        "Description": "Modular",
+        "Department Name": "CECH Curriculum & Instruction"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "511.06",
+        "Description": "Modular",
+        "Department Name": "CECH Curriculum & Instruction"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "511.07",
+        "Description": "Modular",
+        "Department Name": "CECH Curriculum & Instruction"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "511.08",
+        "Description": "Modular",
+        "Department Name": "CECH Curriculum & Instruction"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "511.09",
+        "Description": "Modular",
+        "Department Name": "CECH Curriculum & Instruction"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "511.11",
+        "Description": "Modular",
+        "Department Name": "CECH Curriculum & Instruction"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "511.12",
+        "Description": "Modular",
+        "Department Name": "CECH Curriculum & Instruction"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "511.14",
+        "Description": "Modular",
+        "Department Name": "CECH Curriculum & Instruction"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "511.15",
+        "Description": "Modular",
+        "Department Name": "CECH Curriculum & Instruction"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "511.16",
+        "Description": "Modular",
+        "Department Name": "CECH Curriculum & Instruction"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "511.17",
+        "Description": "Modular",
+        "Department Name": "CECH Curriculum & Instruction"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "511.19",
+        "Description": "Modular",
+        "Department Name": "CECH Curriculum & Instruction"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "511.21",
+        "Description": "Modular",
+        "Department Name": "CECH Curriculum & Instruction"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "511A",
+        "Description": "Office",
+        "Department Name": "CECH Curriculum & Instruction"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "511B",
+        "Description": "Break Room",
+        "Department Name": "CECH Curriculum & Instruction"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "511C",
+        "Description": "Office",
+        "Department Name": "CECH Curriculum & Instruction"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "511D",
+        "Description": "Office",
+        "Department Name": "CECH Curriculum & Instruction"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "511E",
+        "Description": "Office",
+        "Department Name": "CECH Curriculum & Instruction"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "511F",
+        "Description": "Office",
+        "Department Name": "CECH Curriculum & Instruction"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "511G",
+        "Description": "Office",
+        "Department Name": "CECH Curriculum & Instruction"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "511H",
+        "Description": "Office",
+        "Department Name": "CECH Curriculum & Instruction"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "511J",
+        "Description": "Office Svc - Other",
+        "Department Name": "CECH Curriculum & Instruction"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "515",
+        "Description": "Electrical",
+        "Department Name": "CECH Curriculum & Instruction"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "517",
+        "Description": "Telecommunications Room",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "519",
+        "Description": "Restroom Male",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "521",
+        "Description": "Restroom Female",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "525",
+        "Description": "Active Learning Classroom",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "525A",
+        "Description": "Other Lab Svc Instr",
+        "Department Name": "CECH Facility & Research Support"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "528",
+        "Description": "Computer Instr Lab",
+        "Department Name": "CECH Facility & Research Support"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "530",
+        "Description": "Other Instr Lab",
+        "Department Name": "CECH Educ Criminal Justice & Human Srvcs"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "531",
+        "Description": "Conference",
+        "Department Name": "CECH Facility & Research Support"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "533",
+        "Description": "Classroom",
+        "Department Name": "CECH Facility & Research Support"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "535",
+        "Description": "Conference",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "536",
+        "Description": "Internal Office Circ",
+        "Department Name": "CECH Educ Criminal Justice & Human Srvcs"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "536.01",
+        "Description": "Modular",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "536.02",
+        "Description": "Modular",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "536.03",
+        "Description": "Modular",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "536.04",
+        "Description": "Modular",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "536.05",
+        "Description": "Modular",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "536.06",
+        "Description": "Modular",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "536.07",
+        "Description": "Modular",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "536.08",
+        "Description": "Modular",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "536.09",
+        "Description": "Modular",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "536.10",
+        "Description": "Modular",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "536.11",
+        "Description": "Modular",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "536.12",
+        "Description": "Modular",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "536.13",
+        "Description": "Modular",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "536.14",
+        "Description": "Modular",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "536.15",
+        "Description": "Modular",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "536.16",
+        "Description": "Modular",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "536A",
+        "Description": "Copy/Mail",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "536B",
+        "Description": "Office",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "536C",
+        "Description": "Office",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "536D",
+        "Description": "Office",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "537",
+        "Description": "Classroom",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "538",
+        "Description": "Lactation Room",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "540",
+        "Description": "Classroom",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "541",
+        "Description": "Restroom Male",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "543",
+        "Description": "Restroom Female",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "545",
+        "Description": "Telecommunications Room",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "547",
+        "Description": "Electrical",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "548",
+        "Description": "Internal Office Circ",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "548.01",
+        "Description": "Modular",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "548.02",
+        "Description": "Modular",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "548.03",
+        "Description": "Modular",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "548.04",
+        "Description": "Modular",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "548A",
+        "Description": "Office Svc - Other",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "548B",
+        "Description": "Office",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "548C",
+        "Description": "Office",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "548D",
+        "Description": "Office",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "548E",
+        "Description": "Office",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "548F",
+        "Description": "File/Supply",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "596",
+        "Description": "Shaft Space",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "596X",
+        "Description": "Shaft Space",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "597D",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "597E",
+        "Description": "Service Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "597F",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "598A",
+        "Description": "Stair",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "598E",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "599",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "599A",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    }
+]

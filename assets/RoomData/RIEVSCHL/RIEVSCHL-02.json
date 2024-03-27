@@ -1,0 +1,14 @@
+[
+    {
+        "Floor Code": "02",
+        "Room Code": "201",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "298G",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    }
+]

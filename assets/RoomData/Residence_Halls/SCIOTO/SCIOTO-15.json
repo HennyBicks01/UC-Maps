@@ -1,0 +1,26 @@
+[
+    {
+        "Floor Code": "15",
+        "Room Code": "1501",
+        "Description": "Mechanical",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "15",
+        "Room Code": "1503",
+        "Description": "Mechanical",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "15",
+        "Room Code": "1596",
+        "Description": "Shaft Space",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "15",
+        "Room Code": "1598C",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    }
+]

@@ -1,0 +1,140 @@
+[
+    {
+        "Floor Code": "00",
+        "Room Code": "005",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "010A",
+        "Description": "File/Supply",
+        "Department Name": "Office of the President"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "010C",
+        "Description": "File/Supply",
+        "Department Name": "A&F Business Affairs Office"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "010D",
+        "Description": "Office",
+        "Department Name": "MC Marketing & Communications Leadership"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "010E",
+        "Description": "Central Storage",
+        "Department Name": "EM Enrollment Management"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "010F",
+        "Description": "File/Supply",
+        "Department Name": "SA VP Student Affairs"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "010G",
+        "Description": "Central Storage",
+        "Department Name": "EM Enrollment Management"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "010H",
+        "Description": "File/Supply",
+        "Department Name": "OGC Office of General Counsel"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "010J",
+        "Description": "File/Supply",
+        "Department Name": "SA VP Student Affairs"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "010K",
+        "Description": "File/Supply",
+        "Department Name": "A&F Loans & Collections"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "010L",
+        "Description": "File/Supply",
+        "Department Name": "A&F Bursar Compliance"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "010M",
+        "Description": "File/Supply",
+        "Department Name": "A&F Bursar Operations"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "020",
+        "Description": "Central Storage",
+        "Department Name": "BOT Board of Trustees"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "024",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "026",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "028",
+        "Description": "Custodial",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "030",
+        "Description": "Mechanical",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "030A",
+        "Description": "Electrical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "030C",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "095",
+        "Description": "Tunnel",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "097C",
+        "Description": "Elevator",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "098B",
+        "Description": "Stair",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "099",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    }
+]

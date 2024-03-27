@@ -12,7 +12,7 @@ class PolygonData {
 List<PolygonData> getPolygons() {
   return [
     PolygonData(
-      name: '60 West Charleton',
+      name: '60 West Charleston',
       polygon: Polygon(
           points: const [
         LatLng(39.13091274630673,-84.51293171894017),
@@ -142,7 +142,7 @@ List<PolygonData> getPolygons() {
       )
   ),
     PolygonData(
-      name: 'Belgen Library',
+      name: 'Blegen Library',
       polygon: Polygon(
           points: const [
         LatLng(39.12983847518737,-84.51947394321415),
@@ -299,7 +299,7 @@ List<PolygonData> getPolygons() {
       )
   ),
     PolygonData(
-      name: 'Campus Greene/ LAW Building',
+      name: 'College of Law Building',
       polygon: Polygon(
           points: const [
         LatLng(39.134451585812755,-84.51399756982859),
@@ -374,7 +374,7 @@ List<PolygonData> getPolygons() {
       )
   ),
     PolygonData(
-      name: 'Linder Hall',
+      name: 'Lindner Hall',
       polygon: Polygon(
           points: const [
         LatLng(39.13346867709499,-84.51439972459072),
@@ -688,7 +688,7 @@ List<PolygonData> getPolygons() {
       )
   ),
     PolygonData(
-      name: 'Dieterle Vocal Arts Center',
+      name: 'Dieterle Center',
       polygon: Polygon(
           points: const [
         LatLng(39.13046821163584,-84.51697517316988),
@@ -1494,7 +1494,7 @@ List<PolygonData> getPolygons() {
       )
   ),
     PolygonData(
-      name: 'Steger',
+      name: 'Steger Hall',
       polygon: Polygon(
           points: const [
         LatLng(39.132224736012745,-84.51747180163488),
@@ -1607,7 +1607,7 @@ List<PolygonData> getPolygons() {
       )
   ),
     PolygonData(
-      name: 'Teachers College',
+      name: 'Teachers Hall',
       polygon: Polygon(
           points: const [
         LatLng(39.13029422920451,-84.51975096681323),
@@ -1845,7 +1845,7 @@ List<PolygonData> getPolygons() {
       )
   ),
     PolygonData(
-      name: 'Wood Side',
+      name: 'WoodSide Garage',
       polygon: Polygon(
           points: const [
         LatLng(39.135017752195765,-84.51542817041167),

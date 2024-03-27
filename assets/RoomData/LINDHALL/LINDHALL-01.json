@@ -1,0 +1,1070 @@
+[
+    {
+        "Floor Code": "01",
+        "Room Code": "1097A",
+        "Description": "Elevator",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1097B",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1097C",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1100",
+        "Description": "Corridor",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1110",
+        "Description": "Collaboration",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1112",
+        "Description": "Office Svc - Other",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1112A",
+        "Description": "Restroom All Gender",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1112B",
+        "Description": "Restroom All Gender",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1112C",
+        "Description": "Restroom All Gender",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1112D",
+        "Description": "Office Svc - Other",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1115",
+        "Description": "Conference",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1120",
+        "Description": "Other Study Lab (Unsch)",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1130",
+        "Description": "Lactation Room",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1132",
+        "Description": "Custodial",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1140",
+        "Description": "Seminar",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1140A",
+        "Description": "Telecommunications Room",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1140B",
+        "Description": "Electrical",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1150",
+        "Description": "Collaboration",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1196",
+        "Description": "Shaft Space",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1198A",
+        "Description": "Stair",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1198B",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1199N",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1199S",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1199W",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1210",
+        "Description": "Classroom",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1215",
+        "Description": "Classroom",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1220",
+        "Description": "Conference",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1222",
+        "Description": "Electrical",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1225",
+        "Description": "Conference",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1226",
+        "Description": "Telecommunications Room",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1227",
+        "Description": "Corridor",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1230A",
+        "Description": "Dining",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1230C",
+        "Description": "Dining",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1232",
+        "Description": "Dining Svc",
+        "Department Name": "Outside Agency"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1232A",
+        "Description": "Dining Svc",
+        "Department Name": "Outside Agency"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1242",
+        "Description": "Restroom Male",
+        "Department Name": "Outside Agency"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1244",
+        "Description": "Restroom Female",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1296",
+        "Description": "Shaft Space",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1298A",
+        "Description": "Stair",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1299E",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1299S",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1301",
+        "Description": "Telecommunications Room",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1304",
+        "Description": "Conference",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1308",
+        "Description": "Conference",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1312",
+        "Description": "Conference",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1315",
+        "Description": "Conference",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1318",
+        "Description": "Office",
+        "Department Name": "LCB Career Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1319",
+        "Description": "Reception/Waiting",
+        "Department Name": "LCB Graduate Programs"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1319.01",
+        "Description": "Modular",
+        "Department Name": "LCB Graduate Programs"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1319.02",
+        "Description": "Modular",
+        "Department Name": "LCB Graduate Programs"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1320",
+        "Description": "Office",
+        "Department Name": "LCB Graduate Programs"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1321",
+        "Description": "Copy/Mail",
+        "Department Name": "LCB Graduate Programs"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1322",
+        "Description": "Office",
+        "Department Name": "LCB Graduate Programs"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1324",
+        "Description": "Office",
+        "Department Name": "LCB Graduate Programs"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1326",
+        "Description": "Office",
+        "Department Name": "LCB Graduate Programs"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1328",
+        "Description": "Office",
+        "Department Name": "LCB Graduate Programs"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1330",
+        "Description": "Office",
+        "Department Name": "LCB Graduate Programs"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1331",
+        "Description": "Internal Office Circ",
+        "Department Name": "LCB Graduate Programs"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1331.01",
+        "Description": "Modular",
+        "Department Name": "LCB Graduate Programs"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1331.02",
+        "Description": "Modular",
+        "Department Name": "LCB Graduate Programs"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1331.03",
+        "Description": "Modular",
+        "Department Name": "LCB Graduate Programs"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1331.04",
+        "Description": "Modular",
+        "Department Name": "LCB Graduate Programs"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1331.05",
+        "Description": "Modular",
+        "Department Name": "LCB Graduate Programs"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1331.06",
+        "Description": "Modular",
+        "Department Name": "LCB Graduate Programs"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1331.07",
+        "Description": "Modular",
+        "Department Name": "LCB Graduate Programs"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1331.08",
+        "Description": "Modular",
+        "Department Name": "LCB Graduate Programs"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1332",
+        "Description": "Office",
+        "Department Name": "LCB Graduate Programs"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1334",
+        "Description": "Office",
+        "Department Name": "LCB Graduate Programs"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1336",
+        "Description": "Office",
+        "Department Name": "LCB Undergraduate Programs"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1337",
+        "Description": "Office",
+        "Department Name": "LCB Undergraduate Programs"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1338",
+        "Description": "Office",
+        "Department Name": "LCB Graduate Programs"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1339",
+        "Description": "Office",
+        "Department Name": "LCB Undergraduate Programs"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1340",
+        "Description": "Office",
+        "Department Name": "LCB Graduate Programs"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1341",
+        "Description": "Office",
+        "Department Name": "LCB Global Programs"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1342",
+        "Description": "Office",
+        "Department Name": "LCB Graduate Programs"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1343",
+        "Description": "Office",
+        "Department Name": "LCB Global Programs"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1344",
+        "Description": "Office",
+        "Department Name": "LCB Graduate Programs"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1345",
+        "Description": "Office",
+        "Department Name": "LCB Undergraduate Programs"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1346",
+        "Description": "Office",
+        "Department Name": "LCB Undergraduate Programs"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1347",
+        "Description": "Workroom",
+        "Department Name": "LCB Undergraduate Programs"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1348",
+        "Description": "Office",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1349",
+        "Description": "Office",
+        "Department Name": "LCB Undergraduate Programs"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1350",
+        "Description": "Office",
+        "Department Name": "LCB Undergraduate Programs"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1351",
+        "Description": "Office",
+        "Department Name": "LCB Undergraduate Programs"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1352",
+        "Description": "Office",
+        "Department Name": "LCB Undergraduate Programs"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1353",
+        "Description": "Office",
+        "Department Name": "LCB Undergraduate Programs"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1354",
+        "Description": "Office",
+        "Department Name": "LCB Undergraduate Programs"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1355",
+        "Description": "Internal Office Circ",
+        "Department Name": "LCB Undergraduate Programs"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1355.01",
+        "Description": "Modular",
+        "Department Name": "LCB Undergraduate Programs"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1355.02",
+        "Description": "Modular",
+        "Department Name": "LCB Undergraduate Programs"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1355.03",
+        "Description": "Modular",
+        "Department Name": "LCB Undergraduate Programs"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1355.04",
+        "Description": "Modular",
+        "Department Name": "LCB Undergraduate Programs"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1355.05",
+        "Description": "Modular",
+        "Department Name": "LCB Undergraduate Programs"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1355.06",
+        "Description": "Modular",
+        "Department Name": "LCB Undergraduate Programs"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1355.07",
+        "Description": "Modular",
+        "Department Name": "LCB Undergraduate Programs"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1356",
+        "Description": "Office",
+        "Department Name": "LCB Undergraduate Programs"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1358",
+        "Description": "Office",
+        "Department Name": "LCB Undergraduate Programs"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1359",
+        "Description": "Restroom All Gender",
+        "Department Name": "LCB Undergraduate Programs"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1360",
+        "Description": "Restroom All Gender",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1361",
+        "Description": "Restroom All Gender",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1362",
+        "Description": "Restroom All Gender",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1364",
+        "Description": "Office",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1365",
+        "Description": "Electrical",
+        "Department Name": "LCB Undergraduate Programs"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1366",
+        "Description": "Office",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1368",
+        "Description": "Office",
+        "Department Name": "LCB Undergraduate Programs"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1370",
+        "Description": "Office",
+        "Department Name": "LCB Undergraduate Programs"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1372",
+        "Description": "Office",
+        "Department Name": "LCB Undergraduate Programs"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1374",
+        "Description": "Office",
+        "Department Name": "LCB Undergraduate Programs"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1375",
+        "Description": "Reception/Waiting",
+        "Department Name": "LCB Undergraduate Programs"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1375.01",
+        "Description": "Modular",
+        "Department Name": "LCB Undergraduate Programs"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1375.02",
+        "Description": "Modular",
+        "Department Name": "LCB Undergraduate Programs"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1380",
+        "Description": "Conference",
+        "Department Name": "LCB Undergraduate Programs"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1382",
+        "Description": "Classroom Svc",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1384",
+        "Description": "Collaboration",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1385",
+        "Description": "Lounge",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1396",
+        "Description": "Shaft Space",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1398A",
+        "Description": "Stair",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1399E",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1399N",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1399W",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1410",
+        "Description": "Auditorium",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1420",
+        "Description": "Internal Office Circ",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1420.01",
+        "Description": "Modular",
+        "Department Name": "LCB Career Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1420A",
+        "Description": "Conference",
+        "Department Name": "LCB Career Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1420B",
+        "Description": "Conference",
+        "Department Name": "LCB Career Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1420C",
+        "Description": "Conference",
+        "Department Name": "LCB Career Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1420D",
+        "Description": "Conference",
+        "Department Name": "LCB Career Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1420E",
+        "Description": "Conference",
+        "Department Name": "LCB Career Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1420F",
+        "Description": "Conference",
+        "Department Name": "LCB Career Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1420G",
+        "Description": "Conference",
+        "Department Name": "LCB Career Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1420H",
+        "Description": "Conference",
+        "Department Name": "LCB Career Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1420J",
+        "Description": "Conference",
+        "Department Name": "LCB Career Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1424",
+        "Description": "Internal Office Circ",
+        "Department Name": "LCB Career Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1424.01",
+        "Description": "Modular",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1424.02",
+        "Description": "Modular",
+        "Department Name": "LCB Career Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1424.03",
+        "Description": "Modular",
+        "Department Name": "LCB Career Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1424.04",
+        "Description": "Modular",
+        "Department Name": "LCB Career Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1424.05",
+        "Description": "Modular",
+        "Department Name": "LCB Career Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1424.06",
+        "Description": "Modular",
+        "Department Name": "LCB Career Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1424.07",
+        "Description": "Modular",
+        "Department Name": "LCB Career Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1424.08",
+        "Description": "Modular",
+        "Department Name": "LCB Career Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1424.09",
+        "Description": "Modular",
+        "Department Name": "LCB Career Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1424.10",
+        "Description": "Modular",
+        "Department Name": "LCB Career Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1425",
+        "Description": "Break Room",
+        "Department Name": "LCB Career Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1427",
+        "Description": "Restroom All Gender",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1429",
+        "Description": "Restroom All Gender",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1430",
+        "Description": "Office",
+        "Department Name": "LCB Career Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1432",
+        "Description": "Office",
+        "Department Name": "LCB Graduate Programs"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1433",
+        "Description": "Custodial",
+        "Department Name": "LCB Inclusive Excellence"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1434",
+        "Description": "Office",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1436",
+        "Description": "Office",
+        "Department Name": "LCB Inclusive Excellence"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1438",
+        "Description": "Conference",
+        "Department Name": "LCB Inclusive Excellence"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1440",
+        "Description": "Office",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1442",
+        "Description": "Office",
+        "Department Name": "LCB Career Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1444",
+        "Description": "Office",
+        "Department Name": "LCB Career Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1446",
+        "Description": "Office",
+        "Department Name": "LCB Career Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1448",
+        "Description": "Office",
+        "Department Name": "LCB Career Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1449",
+        "Description": "Electrical",
+        "Department Name": "LCB Career Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1450",
+        "Description": "Office",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1450.01",
+        "Description": "Modular",
+        "Department Name": "LCB Career Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1450.02",
+        "Description": "Modular",
+        "Department Name": "LCB Career Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1451",
+        "Description": "Restroom All Gender",
+        "Department Name": "LCB Career Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1452",
+        "Description": "Office",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1453",
+        "Description": "Office Svc - Other",
+        "Department Name": "LCB Career Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1454",
+        "Description": "Office",
+        "Department Name": "LCB Undergraduate Programs"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1455",
+        "Description": "File/Supply",
+        "Department Name": "LCB Career Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1456",
+        "Description": "Office",
+        "Department Name": "LCB Career Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1458",
+        "Description": "Office",
+        "Department Name": "LCB Career Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1460",
+        "Description": "Office",
+        "Department Name": "LCB Career Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1462",
+        "Description": "Office",
+        "Department Name": "LCB Career Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1464",
+        "Description": "Office",
+        "Department Name": "LCB Career Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1496",
+        "Description": "Shaft Space",
+        "Department Name": "LCB Career Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1498A",
+        "Description": "Stair",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1498B",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1499E",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1499N",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1499S",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1499W",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    }
+]

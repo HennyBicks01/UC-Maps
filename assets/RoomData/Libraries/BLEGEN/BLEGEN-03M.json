@@ -1,0 +1,38 @@
+[
+    {
+        "Floor Code": "03M",
+        "Room Code": "3M00",
+        "Description": "Closed Stack",
+        "Department Name": "UCL Classics Library"
+    },
+    {
+        "Floor Code": "03M",
+        "Room Code": "3M96",
+        "Description": "Shaft Space",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "03M",
+        "Room Code": "3M97A",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "03M",
+        "Room Code": "3M98A",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "03M",
+        "Room Code": "3M98D",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "03M",
+        "Room Code": "3M98E",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    }
+]

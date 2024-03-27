@@ -1,0 +1,368 @@
+[
+    {
+        "Floor Code": "06",
+        "Room Code": "650",
+        "Description": "Mechanical",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "650A",
+        "Description": "Electrical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "650B",
+        "Description": "Electrical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "650C",
+        "Description": "Telecommunications Room",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "653",
+        "Description": "Electrical",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "655",
+        "Description": "Custodial",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "657",
+        "Description": "Office",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "657A",
+        "Description": "Computer/Telecommunication",
+        "Department Name": "Athletics IT & Video Operations"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "660",
+        "Description": "Office Svc - Other",
+        "Department Name": "Athletics IT & Video Operations"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "660A",
+        "Description": "Office",
+        "Department Name": "Athletics Golf - Men"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "660B",
+        "Description": "Office",
+        "Department Name": "Athletics Golf - Men"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "661",
+        "Description": "Office Svc - Other",
+        "Department Name": "Athletics Golf - Women"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "661A",
+        "Description": "Office",
+        "Department Name": "Athletics CC/Track & Field - Men"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "661B",
+        "Description": "Office",
+        "Department Name": "Athletics CC/Track & Field - Women"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "661C",
+        "Description": "Office",
+        "Department Name": "Athletics Golf - Women"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "661D",
+        "Description": "Office",
+        "Department Name": "Athletics CC/Track & Field - Men"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "662",
+        "Description": "Office Svc - Other",
+        "Department Name": "Athletics CC/Track & Field - Men"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "662.01",
+        "Description": "Modular",
+        "Department Name": "Athletics Swimming & Diving - Men & Wome"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "662A",
+        "Description": "Office",
+        "Department Name": "Athletics Swimming & Diving - Men & Wome"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "662B",
+        "Description": "Office",
+        "Department Name": "Athletics Swimming & Diving - Men & Wome"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "664",
+        "Description": "Office Svc - Other",
+        "Department Name": "Athletics Swimming & Diving - Men & Wome"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "664.01",
+        "Description": "Lounge",
+        "Department Name": "Athletics Volleyball - Women"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "664.02",
+        "Description": "Modular",
+        "Department Name": "Athletics Volleyball - Women"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "664A",
+        "Description": "Office",
+        "Department Name": "Athletics Volleyball - Women"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "665",
+        "Description": "Conference",
+        "Department Name": "Athletics Volleyball - Women"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "667",
+        "Description": "Restroom Female",
+        "Department Name": "Athletics Basketball - Men"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "668",
+        "Description": "Copy/Mail",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "669",
+        "Description": "Restroom Male",
+        "Department Name": "Athletics Basketball - Women"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "670",
+        "Description": "Office Svc - Other",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "670.01",
+        "Description": "Modular",
+        "Department Name": "Athletics Basketball - Women"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "670.02",
+        "Description": "Modular",
+        "Department Name": "Athletics Basketball - Women"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "670A",
+        "Description": "Office",
+        "Department Name": "Athletics Basketball - Women"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "670B",
+        "Description": "Office",
+        "Department Name": "Athletics Basketball - Women"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "670C",
+        "Description": "Office",
+        "Department Name": "Athletics Basketball - Women"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "670D",
+        "Description": "Office",
+        "Department Name": "Athletics Basketball - Women"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "670E",
+        "Description": "Reception/Waiting",
+        "Department Name": "Athletics Basketball - Women"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "670F",
+        "Description": "Media",
+        "Department Name": "Athletics Basketball - Women"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "670Z",
+        "Description": "Office Svc - Other",
+        "Department Name": "Athletics Basketball - Women"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "675",
+        "Description": "Break Room",
+        "Department Name": "Athletics Basketball - Women"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "680",
+        "Description": "Office Svc - Other",
+        "Department Name": "Athletics Basketball - Men"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "680.01",
+        "Description": "Modular",
+        "Department Name": "Athletics Basketball - Men"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "680A",
+        "Description": "Office Svc - Other",
+        "Department Name": "Athletics Basketball - Men"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "680B",
+        "Description": "Media",
+        "Department Name": "Athletics Basketball - Men"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "680C",
+        "Description": "Conference",
+        "Department Name": "Athletics Basketball - Men"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "680D",
+        "Description": "Office",
+        "Department Name": "Athletics Basketball - Men"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "680E",
+        "Description": "Office",
+        "Department Name": "Athletics Basketball - Men"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "680F",
+        "Description": "Office",
+        "Department Name": "Athletics Basketball - Men"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "680G",
+        "Description": "Office",
+        "Department Name": "Athletics Basketball - Men"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "680H",
+        "Description": "Office",
+        "Department Name": "Athletics Basketball - Men"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "680Z",
+        "Description": "Reception/Waiting",
+        "Department Name": "Athletics Basketball - Men"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "684",
+        "Description": "Office",
+        "Department Name": "Athletics Basketball - Men"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "684.01",
+        "Description": "Modular",
+        "Department Name": "Athletics Basketball - Men"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "696",
+        "Description": "Shaft Space",
+        "Department Name": "Athletics Basketball - Men"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "697H",
+        "Description": "Service Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "697J",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "697K",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "698T",
+        "Description": "Stair",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "698U",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "698V",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "698W",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "699",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    }
+]

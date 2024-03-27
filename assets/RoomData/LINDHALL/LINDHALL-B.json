@@ -1,0 +1,56 @@
+[
+    {
+        "Floor Code": "B",
+        "Room Code": "B005",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B010",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B015",
+        "Description": "Electrical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B097C",
+        "Description": "Elevator",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B196",
+        "Description": "Shaft Space",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B198B",
+        "Description": "Stair",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B296",
+        "Description": "Shaft Space",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B298B",
+        "Description": "Stair",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B398B",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    }
+]

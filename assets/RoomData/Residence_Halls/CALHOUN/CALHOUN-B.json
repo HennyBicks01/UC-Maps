@@ -1,0 +1,248 @@
+[
+    {
+        "Floor Code": "B",
+        "Room Code": "B01",
+        "Description": "Central Storage",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B02",
+        "Description": "Office",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B02A",
+        "Description": "Office",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B03",
+        "Description": "Custodial",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B05",
+        "Description": "Restroom All Gender",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B06",
+        "Description": "Mechanical",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B07",
+        "Description": "Computer/Telecommunication Svc",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B07A",
+        "Description": "Computer/Telecommunication Svc",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B07B",
+        "Description": "Building Communications Room",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B08",
+        "Description": "Central Storage",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B10",
+        "Description": "Break Room",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B11",
+        "Description": "Residential Service",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B13",
+        "Description": "Central Storage",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B14",
+        "Description": "Residential Service",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B15",
+        "Description": "Break Room",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B16",
+        "Description": "Restroom All Gender",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B17",
+        "Description": "Central Storage",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B18",
+        "Description": "Restroom All Gender",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B25",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B27",
+        "Description": "Mechanical",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B29",
+        "Description": "Mechanical",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B29A",
+        "Description": "Shop",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B29AB",
+        "Description": "Central Storage",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B33",
+        "Description": "Residential Service",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B35",
+        "Description": "Residential Service",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B36",
+        "Description": "Electrical",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B37",
+        "Description": "Electrical",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B38",
+        "Description": "Electrical",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B96",
+        "Description": "Shaft Space",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B97A",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B97B",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B97C",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B97D",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B97E",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B98A",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B98B",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B98C",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B99E",
+        "Description": "Corridor",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B99N",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B99S",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B99W",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "Floor Code": "01M",
+        "Room Code": "1096",
+        "Description": "Shaft Space",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "01M",
+        "Room Code": "1099",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01M",
+        "Room Code": "1120",
+        "Description": "Central Storage",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "01M",
+        "Room Code": "1120A",
+        "Description": "Shop",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "01M",
+        "Room Code": "1122",
+        "Description": "Shop",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "01M",
+        "Room Code": "1124",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "01M",
+        "Room Code": "1197A",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "01M",
+        "Room Code": "1198A",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01M",
+        "Room Code": "1297A",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "01M",
+        "Room Code": "1298A",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01M",
+        "Room Code": "1M060",
+        "Description": "Parking",
+        "Department Name": "A&F Parking Administration"
+    },
+    {
+        "Floor Code": "01M",
+        "Room Code": "1M099V",
+        "Description": "Parking",
+        "Department Name": "A&F Parking Administration"
+    }
+]

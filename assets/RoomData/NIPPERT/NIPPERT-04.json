@@ -1,0 +1,356 @@
+[
+    {
+        "Floor Code": "04",
+        "Room Code": "445",
+        "Description": "Lounge",
+        "Department Name": "A&F University Conferencing"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "446",
+        "Description": "Restroom Female",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "447",
+        "Description": "Restroom Male",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "448",
+        "Description": "Dining Svc",
+        "Department Name": "A&F University Conferencing"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "448A",
+        "Description": "Electrical",
+        "Department Name": "A&F University Conferencing"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "448B",
+        "Description": "Dining Svc",
+        "Department Name": "A&F University Conferencing"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "449",
+        "Description": "Lounge",
+        "Department Name": "A&F University Conferencing"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "449A",
+        "Description": "Telecommunications Room",
+        "Department Name": "A&F University Conferencing"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "450",
+        "Description": "Restroom Male",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "450A",
+        "Description": "Custodial",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "451",
+        "Description": "Restroom Female",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "451A",
+        "Description": "Restroom All Gender",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "455",
+        "Description": "Electrical",
+        "Department Name": "A&F University Conferencing"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "456",
+        "Description": "Telecommunications Room",
+        "Department Name": "A&F University Conferencing"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "475",
+        "Description": "Lounge",
+        "Department Name": "A&F University Conferencing"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "496",
+        "Description": "Shaft Space",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "497F",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "497H",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "497I",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "497J",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "498N",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "498Q",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "498T",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "498U",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "499J",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "S401",
+        "Description": "Athletic Seating",
+        "Department Name": "A&F University Conferencing"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "S401A",
+        "Description": "Athletic Svc",
+        "Department Name": "A&F University Conferencing"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "S402",
+        "Description": "Athletic Seating",
+        "Department Name": "A&F University Conferencing"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "S402A",
+        "Description": "Athletic Svc",
+        "Department Name": "A&F University Conferencing"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "S403",
+        "Description": "Athletic Seating",
+        "Department Name": "A&F University Conferencing"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "S403B",
+        "Description": "Private Restroom",
+        "Department Name": "A&F University Conferencing"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "S403C",
+        "Description": "Athletic Svc",
+        "Department Name": "A&F University Conferencing"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "S404",
+        "Description": "Athletic Seating",
+        "Department Name": "A&F University Conferencing"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "S404A",
+        "Description": "Athletic Svc",
+        "Department Name": "A&F University Conferencing"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "S404B",
+        "Description": "Private Restroom",
+        "Department Name": "A&F University Conferencing"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "S405",
+        "Description": "Athletic Seating",
+        "Department Name": "A&F University Conferencing"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "S405A",
+        "Description": "Athletic Svc",
+        "Department Name": "A&F University Conferencing"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "S406",
+        "Description": "Athletic Seating",
+        "Department Name": "A&F University Conferencing"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "S406A",
+        "Description": "Athletic Svc",
+        "Department Name": "A&F University Conferencing"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "S407",
+        "Description": "Athletic Seating",
+        "Department Name": "A&F University Conferencing"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "S407A",
+        "Description": "Athletic Svc",
+        "Department Name": "A&F University Conferencing"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "S408",
+        "Description": "Athletic Seating",
+        "Department Name": "A&F University Conferencing"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "S408A",
+        "Description": "Athletic Svc",
+        "Department Name": "A&F University Conferencing"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "S409",
+        "Description": "Athletic Seating",
+        "Department Name": "A&F University Conferencing"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "S409A",
+        "Description": "Athletic Svc",
+        "Department Name": "A&F University Conferencing"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "S410",
+        "Description": "Athletic Seating",
+        "Department Name": "A&F University Conferencing"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "S410A",
+        "Description": "Athletic Svc",
+        "Department Name": "A&F University Conferencing"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "S411",
+        "Description": "Athletic Seating",
+        "Department Name": "A&F University Conferencing"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "S411A",
+        "Description": "Athletic Svc",
+        "Department Name": "A&F University Conferencing"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "S412",
+        "Description": "Athletic Seating",
+        "Department Name": "A&F University Conferencing"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "S412A",
+        "Description": "Athletic Svc",
+        "Department Name": "A&F University Conferencing"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "S413",
+        "Description": "Athletic Seating",
+        "Department Name": "A&F University Conferencing"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "S413A",
+        "Description": "Athletic Svc",
+        "Department Name": "A&F University Conferencing"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "S414A",
+        "Description": "Restroom Female",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "S414AA",
+        "Description": "Restroom Female",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "S414B",
+        "Description": "Restroom Male",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "S414BA",
+        "Description": "Restroom Male",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "S415",
+        "Description": "Athletic Seating",
+        "Department Name": "A&F University Conferencing"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "S415A",
+        "Description": "Athletic Svc",
+        "Department Name": "A&F University Conferencing"
+    }
+]

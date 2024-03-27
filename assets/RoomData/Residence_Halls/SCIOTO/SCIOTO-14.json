@@ -1,0 +1,62 @@
+[
+    {
+        "Floor Code": "14",
+        "Room Code": "1401",
+        "Description": "Apartment - Penthouse",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "14",
+        "Room Code": "1402",
+        "Description": "Apartment - Penthouse",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "14",
+        "Room Code": "1496",
+        "Description": "Shaft Space",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "14",
+        "Room Code": "1497A",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "14",
+        "Room Code": "1497B",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "14",
+        "Room Code": "1498A",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "14",
+        "Room Code": "1498B",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "14",
+        "Room Code": "1498C",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "14",
+        "Room Code": "1498D",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "14",
+        "Room Code": "1499",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    }
+]

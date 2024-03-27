@@ -1,0 +1,584 @@
+[
+    {
+        "Floor Code": "05",
+        "Room Code": "530",
+        "Description": "Internal Office Circ",
+        "Department Name": "CEAS - Civil & Arch Eng & Const Mgmt"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "530.01",
+        "Description": "Modular",
+        "Department Name": "CEAS - Civil & Arch Eng & Const Mgmt"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "530.03",
+        "Description": "Modular",
+        "Department Name": "CEAS - Civil & Arch Eng & Const Mgmt"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "530.04",
+        "Description": "Modular",
+        "Department Name": "CEAS - Civil & Arch Eng & Const Mgmt"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "530.05",
+        "Description": "Modular",
+        "Department Name": "CEAS - Civil & Arch Eng & Const Mgmt"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "530.06",
+        "Description": "Modular",
+        "Department Name": "CEAS - Civil & Arch Eng & Const Mgmt"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "530.07",
+        "Description": "Modular",
+        "Department Name": "CEAS - Civil & Arch Eng & Const Mgmt"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "530.08",
+        "Description": "Modular",
+        "Department Name": "CEAS - Civil & Arch Eng & Const Mgmt"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "530.09",
+        "Description": "Modular",
+        "Department Name": "CEAS - Civil & Arch Eng & Const Mgmt"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "530.10",
+        "Description": "Modular",
+        "Department Name": "CEAS - Civil & Arch Eng & Const Mgmt"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "530A",
+        "Description": "Other Lab Svc Instr",
+        "Department Name": "CEAS - Civil & Arch Eng & Const Mgmt"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "530B",
+        "Description": "Instrument Lab Svc",
+        "Department Name": "CEAS - Civil & Arch Eng & Const Mgmt"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "532",
+        "Description": "Electrical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "533",
+        "Description": "Lounge",
+        "Department Name": "CEAS - College of Eng & Appl Science"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "534",
+        "Description": "Office",
+        "Department Name": "CEAS - Chemical & Env Eng"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "535",
+        "Description": "Office",
+        "Department Name": "CEAS - Graduate Studies"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "537",
+        "Description": "Classroom",
+        "Department Name": "CEAS - College of Eng & Appl Science"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "538",
+        "Description": "Office",
+        "Department Name": "CEAS - Civil & Arch Eng & Const Mgmt"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "540",
+        "Description": "Office",
+        "Department Name": "CEAS - Civil & Arch Eng & Const Mgmt"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "541",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "542",
+        "Description": "Office",
+        "Department Name": "CEAS - Civil & Arch Eng & Const Mgmt"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "543",
+        "Description": "Shop",
+        "Department Name": "CEAS - Chemical & Env Eng"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "543A",
+        "Description": "Shop",
+        "Department Name": "CEAS - Chemical & Env Eng"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "543AA",
+        "Description": "Shop Svc",
+        "Department Name": "CEAS - Chemical & Env Eng"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "544",
+        "Description": "Classroom",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "545",
+        "Description": "Office",
+        "Department Name": "CEAS - Mech Eng and Materials Eng"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "545A",
+        "Description": "Shop",
+        "Department Name": "CEAS - Mech Eng and Materials Eng"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "547",
+        "Description": "Data Lab",
+        "Department Name": "CEAS - Mech Eng and Materials Eng"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "548",
+        "Description": "Computer Instr Lab",
+        "Department Name": "CEAS - College of Eng & Appl Science"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "550",
+        "Description": "Computer Instr Lab",
+        "Department Name": "CEAS - College of Eng & Appl Science"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "551",
+        "Description": "Conference",
+        "Department Name": "CEAS - Mech Eng and Materials Eng"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "551A",
+        "Description": "Shop",
+        "Department Name": "CEAS - Mech Eng and Materials Eng"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "551A.01",
+        "Description": "Modular",
+        "Department Name": "CEAS - Mech Eng and Materials Eng"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "551A.02",
+        "Description": "Modular",
+        "Department Name": "CEAS - Mech Eng and Materials Eng"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "551A.03",
+        "Description": "Modular",
+        "Department Name": "CEAS - Mech Eng and Materials Eng"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "551A.04",
+        "Description": "Modular",
+        "Department Name": "CEAS - Mech Eng and Materials Eng"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "551A.05",
+        "Description": "Modular",
+        "Department Name": "CEAS - Mech Eng and Materials Eng"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "551A.06",
+        "Description": "Modular",
+        "Department Name": "CEAS - Mech Eng and Materials Eng"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "551A.07",
+        "Description": "Modular",
+        "Department Name": "CEAS - Mech Eng and Materials Eng"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "551A.08",
+        "Description": "Modular",
+        "Department Name": "CEAS - Mech Eng and Materials Eng"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "553",
+        "Description": "Wet Lab",
+        "Department Name": "CEAS - Mech Eng and Materials Eng"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "553.01",
+        "Description": "Modular",
+        "Department Name": "CEAS - Mech Eng and Materials Eng"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "553.02",
+        "Description": "Modular",
+        "Department Name": "CEAS - Mech Eng and Materials Eng"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "553A",
+        "Description": "Internal Office Circ",
+        "Department Name": "CEAS - Mech Eng and Materials Eng"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "553A.01",
+        "Description": "Modular",
+        "Department Name": "CEAS - Mech Eng and Materials Eng"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "553A.02",
+        "Description": "Modular",
+        "Department Name": "CEAS - Mech Eng and Materials Eng"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "553A.03",
+        "Description": "Modular",
+        "Department Name": "CEAS - Mech Eng and Materials Eng"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "553A.04",
+        "Description": "Modular",
+        "Department Name": "CEAS - Mech Eng and Materials Eng"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "553A.05",
+        "Description": "Modular",
+        "Department Name": "CEAS - Mech Eng and Materials Eng"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "553A.06",
+        "Description": "Modular",
+        "Department Name": "CEAS - Mech Eng and Materials Eng"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "553A.07",
+        "Description": "Modular",
+        "Department Name": "CEAS - Mech Eng and Materials Eng"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "553A.08",
+        "Description": "Modular",
+        "Department Name": "CEAS - Mech Eng and Materials Eng"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "553A.09",
+        "Description": "Modular",
+        "Department Name": "CEAS - Mech Eng and Materials Eng"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "553A.10",
+        "Description": "Modular",
+        "Department Name": "CEAS - Mech Eng and Materials Eng"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "553A.11",
+        "Description": "Modular",
+        "Department Name": "CEAS - Mech Eng and Materials Eng"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "553A.12",
+        "Description": "Modular",
+        "Department Name": "CEAS - Mech Eng and Materials Eng"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "553A.13",
+        "Description": "Modular",
+        "Department Name": "CEAS - Mech Eng and Materials Eng"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "553A.14",
+        "Description": "Modular",
+        "Department Name": "CEAS - Mech Eng and Materials Eng"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "555",
+        "Description": "Instrument Lab",
+        "Department Name": "CEAS - Mech Eng and Materials Eng"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "555.01",
+        "Description": "Modular",
+        "Department Name": "CEAS - Mech Eng and Materials Eng"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "555.02",
+        "Description": "Modular",
+        "Department Name": "CEAS - Mech Eng and Materials Eng"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "555.03",
+        "Description": "Modular",
+        "Department Name": "CEAS - Mech Eng and Materials Eng"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "557",
+        "Description": "Office",
+        "Department Name": "CEAS - Mech Eng and Materials Eng"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "558",
+        "Description": "Instrument Lab",
+        "Department Name": "CEAS - Mech Eng and Materials Eng"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "558A",
+        "Description": "Instrument Lab",
+        "Department Name": "CEAS - Mech Eng and Materials Eng"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "561",
+        "Description": "Data Lab Svc",
+        "Department Name": "CEAS - Mech Eng and Materials Eng"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "563",
+        "Description": "Data Lab",
+        "Department Name": "CEAS - Mech Eng and Materials Eng"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "563A",
+        "Description": "Data Lab",
+        "Department Name": "CEAS - Mech Eng and Materials Eng"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "563A.01",
+        "Description": "Modular",
+        "Department Name": "CEAS - Mech Eng and Materials Eng"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "563A.02",
+        "Description": "Modular",
+        "Department Name": "CEAS - Mech Eng and Materials Eng"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "563A.03",
+        "Description": "Modular",
+        "Department Name": "CEAS - Mech Eng and Materials Eng"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "563A.04",
+        "Description": "Modular",
+        "Department Name": "CEAS - Mech Eng and Materials Eng"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "563AA",
+        "Description": "Data Lab",
+        "Department Name": "CEAS - Mech Eng and Materials Eng"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "563AA.01",
+        "Description": "Modular",
+        "Department Name": "CEAS - Mech Eng and Materials Eng"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "563AA.02",
+        "Description": "Modular",
+        "Department Name": "CEAS - Mech Eng and Materials Eng"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "563AA.03",
+        "Description": "Modular",
+        "Department Name": "CEAS - Mech Eng and Materials Eng"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "563AA.04",
+        "Description": "Modular",
+        "Department Name": "CEAS - Mech Eng and Materials Eng"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "563AA.05",
+        "Description": "Modular",
+        "Department Name": "CEAS - Mech Eng and Materials Eng"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "563AA.06",
+        "Description": "Modular",
+        "Department Name": "CEAS - Mech Eng and Materials Eng"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "563AA.07",
+        "Description": "Modular",
+        "Department Name": "CEAS - Mech Eng and Materials Eng"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "563AA.08",
+        "Description": "Modular",
+        "Department Name": "CEAS - Mech Eng and Materials Eng"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "565A",
+        "Description": "Data Lab",
+        "Department Name": "CEAS - Mech Eng and Materials Eng"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "565AA",
+        "Description": "Data Lab",
+        "Department Name": "CEAS - Mech Eng and Materials Eng"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "565AA.01",
+        "Description": "Modular",
+        "Department Name": "CEAS - Mech Eng and Materials Eng"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "565AA.02",
+        "Description": "Modular",
+        "Department Name": "CEAS - Mech Eng and Materials Eng"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "565AA.03",
+        "Description": "Modular",
+        "Department Name": "CEAS - Mech Eng and Materials Eng"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "565AA.04",
+        "Description": "Modular",
+        "Department Name": "CEAS - Mech Eng and Materials Eng"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "565AA.05",
+        "Description": "Modular",
+        "Department Name": "CEAS - Mech Eng and Materials Eng"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "565AA.06",
+        "Description": "Modular",
+        "Department Name": "CEAS - Mech Eng and Materials Eng"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "565AA.07",
+        "Description": "Modular",
+        "Department Name": "CEAS - Mech Eng and Materials Eng"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "565AA.08",
+        "Description": "Modular",
+        "Department Name": "CEAS - Mech Eng and Materials Eng"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "565B",
+        "Description": "Instrument Lab",
+        "Department Name": "CEAS - Mech Eng and Materials Eng"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "567",
+        "Description": "Conference",
+        "Department Name": "CEAS - Mech Eng and Materials Eng"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "567A",
+        "Description": "Conference",
+        "Department Name": "CEAS - Mech Eng and Materials Eng"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "567B",
+        "Description": "Conference",
+        "Department Name": "CEAS - Mech Eng and Materials Eng"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "596",
+        "Description": "Shaft Space",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "599",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    }
+]

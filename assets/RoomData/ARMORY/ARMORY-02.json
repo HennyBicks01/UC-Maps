@@ -1,0 +1,344 @@
+[
+    {
+        "Floor Code": "02",
+        "Room Code": "214",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "214B",
+        "Description": "Electrical",
+        "Department Name": "A&F Campus Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "217",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "218",
+        "Description": "Office Svc - Other",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "219",
+        "Description": "Internal Office Circ",
+        "Department Name": "UA Office for University Advancement"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "219A",
+        "Description": "Workroom",
+        "Department Name": "UA Office for University Advancement"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "219AA",
+        "Description": "Custodial",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "219B",
+        "Description": "Break Room",
+        "Department Name": "UA Office for University Advancement"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "219C",
+        "Description": "Restroom Female",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "219D",
+        "Description": "Restroom Male",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "220",
+        "Description": "Office Svc - Other",
+        "Department Name": "UA Office for University Advancement"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "220A",
+        "Description": "Office",
+        "Department Name": "UA Office for University Advancement"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "221",
+        "Description": "Custodial",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "222",
+        "Description": "Electrical",
+        "Department Name": "A&F Campus Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "224",
+        "Description": "Office Svc - Other",
+        "Department Name": "UA Office for University Advancement"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "224A",
+        "Description": "Office Svc - Other",
+        "Department Name": "UA Office for University Advancement"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "224AA",
+        "Description": "Telecommunications Room",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "224AB",
+        "Description": "Office Svc - Other",
+        "Department Name": "UA Office for University Advancement"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "224B",
+        "Description": "Office Svc - Other",
+        "Department Name": "UA Office for University Advancement"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "224C",
+        "Description": "Office Svc - Other",
+        "Department Name": "UA Office for University Advancement"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "224D",
+        "Description": "Conference",
+        "Department Name": "UA Office for University Advancement"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "224Z",
+        "Description": "Atrium",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "225",
+        "Description": "Dining Svc",
+        "Department Name": "Athletics Operations"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "225A",
+        "Description": "Dining Svc",
+        "Department Name": "Aramark"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "227",
+        "Description": "Central Storage",
+        "Department Name": "Aramark"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "227A",
+        "Description": "Central Storage",
+        "Department Name": "Athletics UCATS"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "228",
+        "Description": "Central Storage",
+        "Department Name": "Athletics Tickets & Operations"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "229",
+        "Description": "Mechanical",
+        "Department Name": "Athletics Cheerleading"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "230",
+        "Description": "Retail",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "231",
+        "Description": "Mechanical",
+        "Department Name": "Aramark"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "232",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "233",
+        "Description": "Restroom Male",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "234",
+        "Description": "Mechanical",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "235",
+        "Description": "Retail",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "236",
+        "Description": "Office Svc - Other",
+        "Department Name": "Aramark"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "237",
+        "Description": "Office Svc - Other",
+        "Department Name": "Athletics"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "238",
+        "Description": "Office Svc - Other",
+        "Department Name": "Athletics UCATS"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "296",
+        "Description": "Shaft Space",
+        "Department Name": "Athletics Cheerleading"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "298A",
+        "Description": "Stair",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "298B",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "298C",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "298D",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "298E",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "298F",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "298G",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "298J",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "298K",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "298V",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "298W",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "299",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "319",
+        "Description": "Office Svc - Other",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "319A",
+        "Description": "Office Svc - Other",
+        "Department Name": "Athletics Cheerleading"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "319B",
+        "Description": "Private Restroom",
+        "Department Name": "Athletics Cheerleading"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "322",
+        "Description": "Restroom Male",
+        "Department Name": "Athletics Cheerleading"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "328",
+        "Description": "Office",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "328A",
+        "Description": "Office Svc - Other",
+        "Department Name": "Athletics Dance Team"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "328B",
+        "Description": "Athletic Svc",
+        "Department Name": "Athletics Dance Team"
+    }
+]
