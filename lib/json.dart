@@ -1,5 +1,5 @@
 Map<String, List<String>> buildingJsonPaths = {
-  '2540CLIF': [
+  'Taft Hall': [
     'BlueprintMaps/2540CLIF/2540CLIF-01.json',
     'BlueprintMaps/2540CLIF/2540CLIF-02.json',
     'BlueprintMaps/2540CLIF/2540CLIF-03.json',
@@ -456,7 +456,7 @@ Map<String, List<String>> buildingJsonPaths = {
     'BlueprintMaps/UNIVPAV/UNIVPAV-05.json',
     'BlueprintMaps/UNIVPAV/UNIVPAV-06.json',
   ],
-  'VVB': [
+  'Margo Schott Stadium': [
     'BlueprintMaps/VVB/VVB-01.json',
     'BlueprintMaps/VVB/VVB-02.json',
   ],

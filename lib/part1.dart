@@ -6,7 +6,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart' show rootBundle;
 import 'json.dart';
 import 'png.dart';
-import 'roomdata.dart';
 
 // Constants for base paths
 const String basePathImages = 'assets/Blueprints/';
@@ -428,6 +427,7 @@ class BlueprintState extends State<Blueprint> with WidgetsBindingObserver {
     Navigator.of(context).push(
       MaterialPageRoute(
         builder: (_) => Scaffold(
+          backgroundColor: const Color(0xFF424549),
           appBar: AppBar(
             backgroundColor: const Color(0xFF424549),
             iconTheme: const IconThemeData(color: Colors.white),
@@ -680,5 +680,30 @@ class InteractivePolygonPainter extends CustomPainter {
   @override
   bool shouldRepaint(covariant InteractivePolygonPainter oldDelegate) {
     return oldDelegate.scaleFactor != scaleFactor || oldDelegate.clickedPolygons != clickedPolygons;
+  }
+}
+
+class PolygonRoomData {
+  final List<List<int>> polygon;
+  Map<String, dynamic> roomInfo;  // Changed to Map<String, dynamic>
+
+  PolygonRoomData({required this.polygon, required this.roomInfo});
+
+  factory PolygonRoomData.fromJson(Map<String, dynamic> json) {
+    // Assuming json['roomInfo'] can correctly be interpreted as Map<String, dynamic>
+    // This will work as long as the json map only contains basic JSON types (numbers, strings, booleans, null, lists, and maps).
+    var roomInfoDynamic = Map<String, dynamic>.from(json['roomInfo'] as Map);
+
+    return PolygonRoomData(
+      polygon: List<List<int>>.from(json['polygon'].map((e) => List<int>.from(e as List))),
+      roomInfo: roomInfoDynamic,
+    );
+  }
+
+  Map<String, dynamic> toJson() {
+    return {
+      'polygon': polygon,
+      'roomInfo': roomInfo,
+    };
   }
 }

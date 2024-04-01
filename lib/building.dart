@@ -78,6 +78,16 @@ List<PolygonData> getPolygons() {
           isFilled: true,
       )
   ),
+   PolygonData(
+        name: 'Armory ',
+        polygon: Polygon(
+          points: const
+          [LatLng(39.13028347987355, -84.51899399895265), LatLng(39.130240754693126, -84.51848599648164), LatLng(39.12999382669899, -84.5185205096763), LatLng(39.1300365520292, -84.51902851214732)],
+          borderColor: const Color.fromRGBO(184, 1, 28, .40),
+          borderStrokeWidth: 2.0,
+          isFilled: true,
+        )
+    ),
     PolygonData(
       name: 'A&S Hall',
       polygon: Polygon(
@@ -265,7 +275,7 @@ List<PolygonData> getPolygons() {
       )
   ),
     PolygonData(
-      name: 'Campus Green',
+      name: 'College of Law Building',
       polygon: Polygon(
           points: const [
         LatLng(39.13520514122305,-84.51338284360502),
@@ -894,7 +904,7 @@ List<PolygonData> getPolygons() {
       )
   ),
     PolygonData(
-      name: 'Linder Athletics',
+      name: 'Lindner Athletics',
       polygon: Polygon(
           points: const [
         LatLng(39.13073370740338,-84.51508192857408),

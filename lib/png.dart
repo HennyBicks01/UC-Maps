@@ -1,5 +1,5 @@
 Map<String, List<String>> buildingImagePaths = {
-  '2540CLIF': [
+  'Taft Hall': [
     'Blueprints/2540CLIF/2540CLIF-01.png',
     'Blueprints/2540CLIF/2540CLIF-02.png',
     'Blueprints/2540CLIF/2540CLIF-03.png',
@@ -456,7 +456,7 @@ Map<String, List<String>> buildingImagePaths = {
     'Blueprints/UNIVPAV/UNIVPAV-05.png',
     'Blueprints/UNIVPAV/UNIVPAV-06.png',
   ],
-  'VVB': [
+  'Margo Schott Stadium': [
     'Blueprints/VVB/VVB-01.png',
     'Blueprints/VVB/VVB-02.png',
   ],

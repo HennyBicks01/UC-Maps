@@ -93,7 +93,7 @@ def main():
     buildings_directory = 'assets/Blueprints'  # Replace with your buildings directory path
     dart_code = generate_blueprint_dart_code(buildings_directory)
 
-    with open('lib/blueprint.dart', 'w') as file:
+    with open('lib/part1.dart', 'w') as file:
         file.write(dart_code)
     print("Blueprint Dart file generated successfully.")
 

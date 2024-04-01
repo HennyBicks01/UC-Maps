@@ -1,14 +1,16 @@
 import 'dart:async';
+import 'dart:convert';
 import 'dart:math';
 
-import 'package:flutter/gestures.dart';
+import 'package:find_flush/part2.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_map/flutter_map.dart';
 import 'package:latlong2/latlong.dart';
 import 'package:geolocator/geolocator.dart';
-import 'polygon.dart'; // Ensure this is implemented
-import 'blueprint.dart'; // Ensure this is implemented
+import 'building.dart';
+import 'geo.dart';
+import 'part1.dart';
 
 void main() {
   runApp(const MyApp());
@@ -44,6 +46,9 @@ class _MyHomePageState extends State<MyHomePage> {
   TextEditingController searchController = TextEditingController();
   List<PolygonData> filteredPolygons = getPolygons();
   List<Marker> markers = []; // Added for user location marker
+  String? selectedBuildingName;
+  List<String>? selectedBuildingJsonPaths;
+
 
   @override
   void initState() {
@@ -139,7 +144,7 @@ class _MyHomePageState extends State<MyHomePage> {
       bool isFiltered = filteredPolygons.any((p) => p.name == polygonData.name);
 
       // Determine the color based on whether the polygon is filtered
-      Color fillColor = isFiltered ? polygonData.polygon.color : Colors.grey.withOpacity(0.5);
+      Color fillColor = isFiltered ? polygonData.polygon.color : Colors.grey.withOpacity(0.05);
       Color borderColor = isFiltered ? polygonData.polygon.borderColor : Colors.grey;
 
       // Create a new Polygon instance with the updated color
@@ -289,15 +294,58 @@ class _MyHomePageState extends State<MyHomePage> {
     }
   }
 
+  Future<List<PolygonData>> loadRoomDataFromJson(List<String> assetPaths) async {
+    if (assetPaths.isEmpty) {
+      return []; // Return an empty list if no paths are provided
+    }
+
+    // For now, use only the first path in the list
+    final String jsonStr = await rootBundle.loadString(assetPaths.first);
+    final List<dynamic> jsonData = json.decode(jsonStr);
+
+    List<PolygonData> rooms = jsonData.map<PolygonData>((item) {
+      List<LatLng> points = (item['polygon'] as List).map<LatLng>((point) {
+        // Ensure latitude and longitude are treated as doubles
+        double lat = (point[0] is int) ? (point[0] as int).toDouble() : point[0];
+        double lng = (point[1] is int) ? (point[1] as int).toDouble() : point[1];
+        return LatLng(lat, lng);
+      }).toList();
+
+      // The rest of your RoomData construction logic
+      return PolygonData(
+        name: "", //item['roomInfo']['Description'].toString(),
+        polygon: Polygon(
+          points: points,
+          color: const Color.fromRGBO(224, 1, 34, .3), // Example colors, adjust as needed
+          borderColor: const Color.fromRGBO(184, 1, 28, .3), // Example colors, adjust as needed
+          borderStrokeWidth: 2.0,
+          isFilled: true,
+        ),
+      );
+    }).toList();
 
 
-  String getBlueprintPath(String buildingName) {
-    return 'assets/Blueprints/TEACHERS/TEACHERS-06.png';
+    return rooms;
   }
 
+  List<int> extractFloorNumbers(List<String> filePaths) {
+    final floorNumbers = filePaths.map((path) {
+      // This regex assumes the floor number always precedes '.json' and is preceded by a '-'
+      final match = RegExp(r'-([0-9]+)\.json$').firstMatch(path);
+      // If a match is found, parse the floor number; otherwise, return 0
+      return match != null ? int.parse(match.group(1)!) : 0;
+    }).toList();
+
+    // Sort the floor numbers and return them
+    floorNumbers.sort();
+    return floorNumbers;
+  }
 
   @override
   Widget build(BuildContext context) {
+    List<int> floorNumbers = selectedBuildingJsonPaths != null ? extractFloorNumbers(selectedBuildingJsonPaths!) : [];
+
+
     return Scaffold(
       body: Stack(
         children: [
@@ -317,29 +365,50 @@ class _MyHomePageState extends State<MyHomePage> {
               },
               initialCenter: const LatLng(39.1317, -84.5167), // Example coordinates
               initialZoom: zoom,
-              onTap: (tapPosition, point) {
+              onTap: (tapPosition, point) async {
                 for (var polyData in getPolygons()) {
                   if (isPointInPolygon(point, polyData.polygon.points)) {
-                    // Instead of adding a marker, trigger the overlay with the image manipulation widget
-                     /*showDialog(
-                      context: context,
-                      builder: (BuildContext context) {
-                        return InteractiveImageOverlay(
-                          mapController: mapController,
-                          imagePath: getBlueprintPath(polyData.name),
-                          onSave: (centroid, rotation) {
-                            // Logic to save the adjustments
-                            // This function is called with the final centroid and rotation
-                          },
-                        );
-                      },
-                    );*/
-                    Navigator.of(context).push(MaterialPageRoute(
-                      builder: (context) => Blueprint(buildingName: polyData.name),
-                    ));
-                    break;
+                    String buildingName = polyData.name;
+                    var operationMode = 2;
+                    if (operationMode == 1) {
+                      // PART 1 ***************************************
+                      Navigator.of(context).push(MaterialPageRoute(
+                        builder: (context) => Blueprint(buildingName: buildingName),
+                      ));
+                    } else if (operationMode == 2) {
+                      // PART 2 *************************************
+                      showDialog(
+                        context: context,
+                        builder: (BuildContext context) {
+                          return Dialog(
+                            backgroundColor: Colors.transparent,
+                            elevation: 0,
+                            child: Opacity(
+                              opacity: 0.5,
+                              child: InteractiveImageOverlay(
+                                mapController: mapController,
+                                buildingName: buildingName,
+                                onSave: (centroid, rotation) {
+                                  // Logic here
+                                },
+                              ),
+                            ),
+                          );
+                        },
+                      );
+                    } else if (operationMode == 3) {
+                      // PART 3 ************************************
+                      List<String> jsonPaths = getbuildingGeoPathFilePaths(buildingName);
+                      setState(() {
+                        selectedBuildingName = buildingName;
+                        selectedBuildingJsonPaths = jsonPaths;
+                        loadRoomDataFromJson([jsonPaths.first]).then((loadedRooms) {
+                          filteredPolygons = loadedRooms;
+                        });
+                      });
+                    }
+                    break; // Exit the loop once the correct polygon is found and handled
                   }
-
                 }
               },
             ),
@@ -359,14 +428,37 @@ class _MyHomePageState extends State<MyHomePage> {
                 ),
               ),
               PolygonLayer(
-                polygons: createPolygonsForMap(),
+                polygons: createPolygonsForMap() + filteredPolygons.map((roomData) => roomData.polygon).toList(),
               ),
               MarkerLayer(
-                // getPolygons()
+                 //getPolygons(),
                 markers: createMarkersForPolygons(filteredPolygons, zoom),
               ),
             ],
           ),
+          if (selectedBuildingJsonPaths != null) // Only render buttons if a building is selected
+            Positioned(
+              top: MediaQuery.of(context).padding.top + 80, // Start lower than the search bar
+              right: 10,
+              child: Column(
+                children: floorNumbers.map((floor) => Container(
+                  margin: const EdgeInsets.only(bottom: 15), // Space out the buttons
+                  child: ElevatedButton(
+                    onPressed: () async {
+                      List<PolygonData> loadedRooms = await loadRoomDataFromJson([selectedBuildingJsonPaths![floor - 1]]);
+                      setState(() {
+                        filteredPolygons = loadedRooms;
+                      });
+                    },
+                    style: ElevatedButton.styleFrom(
+                      foregroundColor: Colors.grey[400],
+                      backgroundColor: Color(0xFF424549)// Text color
+                    ),
+                    child: Text('$floor'),
+                  ),
+                )).toList(),
+              ),
+            ),
           Positioned(
             top: MediaQuery.of(context).padding.top + 10,
             left: 10,
@@ -453,271 +545,3 @@ class _MyHomePageState extends State<MyHomePage> {
   }
 }
 
-class InteractiveImageOverlay extends StatefulWidget {
-  final String imagePath;
-  final Function(LatLng centroid, double rotation) onSave;
-  final MapController mapController;
-
-  const InteractiveImageOverlay({
-    Key? key,
-    required this.imagePath,
-    required this.onSave,
-    required this.mapController,
-  }) : super(key: key);
-
-  @override
-  _InteractiveImageOverlayState createState() => _InteractiveImageOverlayState();
-}
-
-class _InteractiveImageOverlayState extends State<InteractiveImageOverlay> {
-  double scale = 1.0;
-  double rotation = 0.0;
-  Offset position = Offset.zero;
-  Offset initialPosition = Offset.zero;
-  bool isCtrlPressed = false;
-
-  @override
-  void initState() {
-    super.initState();
-    RawKeyboard.instance.addListener(_handleKey);
-    loadImageAndCenter();
-  }
-
-  @override
-  void dispose() {
-    RawKeyboard.instance.removeListener(_handleKey);
-    super.dispose();
-  }
-
-  void _handleKey(RawKeyEvent event) {
-    setState(() {
-      isCtrlPressed = event.isControlPressed;
-    });
-  }
-
-  Future<void> loadImageAndCenter() async {
-    final ImageProvider imageProvider = AssetImage(widget.imagePath);
-    final ImageStream stream = imageProvider.resolve(ImageConfiguration.empty);
-    final Completer<Size> completer = Completer<Size>();
-    ImageStreamListener? listener;
-    listener = ImageStreamListener((ImageInfo info, bool _) {
-      final Size imageSize = Size(info.image.width.toDouble(), info.image.height.toDouble());
-      completer.complete(imageSize);
-
-      // Once we have the image size, remove the listener
-      stream.removeListener(listener!);
-    });
-    stream.addListener(listener);
-
-    final Size imageSize = await completer.future;
-    final Size screenSize = MediaQuery.of(context).size;
-
-    // Calculate the scale factor based on the height
-    final double scaleFactor = screenSize.height / imageSize.height;
-
-    // Calculate the displayed image width
-    final double displayedImageWidth = imageSize.width * scaleFactor;
-
-    // Calculate the initial horizontal offset to center the image
-    final double initialOffsetX = (screenSize.width - displayedImageWidth) / 2;
-
-    // Set the initial position state to center the image
-    setState(() {
-      position = Offset(initialOffsetX, 0); // Vertical offset is 0
-      initialPosition = Offset(initialOffsetX, 0);
-    });
-  }
-
-  void _handleScroll(PointerSignalEvent event) {
-    if (event is PointerScrollEvent) {
-      double newScale = scale + (event.scrollDelta.dy * -0.00005);
-      newScale = newScale.clamp(.01, 5.0); // Allows more zoom out
-
-      // Calculate the change in scale
-      double scaleChange = newScale - scale;
-
-      // Assuming the image is initially centered, calculate the center of the screen
-      Size screenSize = MediaQuery.of(context).size;
-      Offset screenCenter = Offset(screenSize.width / 2, screenSize.height / 2);
-
-      // Adjust the position based on the scale change to keep the image centered
-      // This adjustment is a basic approximation and might need fine-tuning
-      double adjustmentFactor = 1.0; // Adjust this factor based on your needs
-      Offset scaleAdjustment = Offset(
-        (screenCenter.dx * scaleChange) * adjustmentFactor,
-        (screenCenter.dy * scaleChange) * adjustmentFactor,
-      );
-
-      setState(() {
-        scale = newScale;
-        // Adjust the position to attempt to keep the image centered
-        position += scaleAdjustment;
-        initialPosition += scaleAdjustment;
-      });
-    }
-  }
-
-
-
-  void _onPanUpdate(DragUpdateDetails details) {
-    if (isCtrlPressed) {
-      setState(() {
-        rotation +=
-            details.delta.dx * 0.002; // Adjust rotation sensitivity as needed
-      });
-    } else {
-      setState(() {
-        position += details.delta;
-      });
-    }
-  }
-
-  Future<List<LatLng>> calculateGeographicalCorners(
-      MapController mapController, Size imageSize, Offset imagePosition, double scale, double rotationDegrees) async {
-
-    // Convert the center position to geographical coordinates
-    LatLng centerGeo = mapController.camera.center;
-    double zoom = mapController.camera.zoom;
-
-    // Calculate the pixel coordinates of the center of the map
-    var centerPoint = mapController.camera.project(centerGeo, zoom);
-
-    // Calculate the center of the image in pixel coordinates
-    var imageCenter = Point(
-      centerPoint.x + imagePosition.dx,
-      centerPoint.y + imagePosition.dy,
-    );
-
-    // Initial corner points before rotation
-    var topLeft = Point(imageCenter.x - (imageSize.width * scale) / 2, imageCenter.y - (imageSize.height * scale) / 2);
-    var topRight = Point(topLeft.x + imageSize.width * scale, topLeft.y);
-    var bottomLeft = Point(topLeft.x + imageSize.width * scale, topLeft.y + imageSize.height * scale);
-    var bottomRight = Point(topLeft.x, topLeft.y + imageSize.height * scale);
-
-    // Convert rotation from degrees to radians
-    double rotationRadians = rotationDegrees;
-
-    // Rotate each corner point around the center of the image
-    List<Point> rotatedCorners = [topLeft, topRight, bottomLeft, bottomRight].map((point) {
-      return rotatePoint(point, imageCenter, rotationRadians);
-    }).toList();
-
-    // Convert rotated corner points back to geographical coordinates
-    List<LatLng> geoCorners = rotatedCorners.map((point) {
-      return mapController.camera.unproject(Point(point.x, point.y), zoom);
-    }).toList();
-
-    return geoCorners;
-  }
-
-  // Function to rotate a point around a pivot
-  Point rotatePoint(Point point, Point pivot, double angle) {
-    double cosTheta = cos(angle);
-    double sinTheta = sin(angle);
-
-    var translatedX = point.x - pivot.x;
-    var translatedY = point.y - pivot.y;
-
-    var rotatedX = translatedX * cosTheta - translatedY * sinTheta;
-    var rotatedY = translatedX * sinTheta + translatedY * cosTheta;
-
-    return Point(rotatedX + pivot.x, rotatedY + pivot.y);
-  }
-
-  @override
-  Widget build(BuildContext context) {
-    // Getting the screen size for initial positioning
-    final Size screenSize = MediaQuery.of(context).size;
-
-    // Initial translation to center the image based on current scale and screen size
-    final double initialTranslateX = (screenSize.width * (1 - scale)) / 2;
-    final double initialTranslateY = (screenSize.height * (1 - scale)) / 2;
-
-    return Scaffold(
-      backgroundColor: Colors.transparent,
-      body: Listener(
-        onPointerSignal: _handleScroll,
-        child: GestureDetector(
-          onPanUpdate: _onPanUpdate,
-          child: Stack(
-            children: [
-              Transform(
-                alignment: Alignment.center, // Ensure the rotation pivot is the center
-                transform: Matrix4.identity()
-                  ..translate(initialTranslateX + position.dx, initialTranslateY + position.dy) // Apply translation
-                  ..scale(scale) // Then apply scale
-                  ..rotateZ(rotation), // Finally apply rotation
-                child: Image.asset(widget.imagePath, fit: BoxFit.fitHeight),
-              ),
-
-              Positioned(
-                right: 20,
-                bottom: 20,
-                child: FloatingActionButton(
-                  onPressed: () async {
-                    // Create an ImageProvider from the asset.
-                    final ImageProvider imageProvider = AssetImage(widget.imagePath);
-
-                    // Get the image stream from the provider.
-                    final ImageStream stream = imageProvider.resolve(ImageConfiguration.empty);
-
-                    // Listen to the stream of image data.
-                    final Completer<Size> completer = Completer<Size>();
-                    ImageStreamListener? listener;
-                    listener = ImageStreamListener((ImageInfo info, bool _) {
-                      // When the image is loaded, get its size.
-                      final Size imageSize = Size(info.image.width.toDouble(), info.image.height.toDouble());
-
-                      // Complete the completer with the image size.
-                      completer.complete(imageSize);
-
-                      // Remove the listener once we got the dimensions.
-                      stream.removeListener(listener!);
-                    });
-
-                    // Add the listener to the stream.
-                    stream.addListener(listener);
-
-                    // Wait for the image size.
-                    final Size imageSize = await completer.future;
-
-                    // Determine the displayed image size based on the screen's height
-                    final Size screenSize = MediaQuery.of(context).size;
-                    final double displayedImageHeight = screenSize.height * scale; // Assuming the image is scaled based on the screen height
-                    final double universalScaleFactor = displayedImageHeight / imageSize.height;
-
-
-                    Offset adjustedpos = position - initialPosition;
-                    print(position);
-                    print(initialPosition);
-                    print(adjustedpos);
-
-                    List<LatLng> corners = await calculateGeographicalCorners(
-                      widget.mapController,
-                      imageSize, // Original image size
-                      adjustedpos,
-                      universalScaleFactor, // Use the universal scale factor that adjusts for displayed image size
-                      rotation,
-                    );
-
-                    print("Corners: [" + corners.map((corner) => "LatLng(${corner.latitude}, ${corner.longitude})").join(', ') + "]");
-
-                    // Calculate centroid of corners for onSave.
-                    LatLng centroid = LatLng(
-                      (corners[0].latitude + corners[2].latitude) / 2,
-                      (corners[0].longitude + corners[2].longitude) / 2,
-                    );
-
-                    // Call the onSave callback with calculated values.
-                    widget.onSave(centroid, rotation);
-                  },
-                  child: Icon(Icons.check),
-                ),
-              ),
-            ],
-          ),
-        ),
-      ),
-    );
-  }
-}

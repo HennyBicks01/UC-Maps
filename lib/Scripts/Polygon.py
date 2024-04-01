@@ -46,7 +46,7 @@ def main(directory):
                     "\n  ];\n}")
 
     os.makedirs('lib', exist_ok=True)
-    with open('lib/polygon.dart', 'w') as outfile:
+    with open('lib/building.dart', 'w') as outfile:
         outfile.write(dart_content)
 
 if __name__ == "__main__":
