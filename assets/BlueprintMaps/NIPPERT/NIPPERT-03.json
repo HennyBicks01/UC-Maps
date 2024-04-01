@@ -21321,7 +21321,12 @@
                 1131
             ]
         ],
-        "roomInfo": {}
+        "roomInfo": {
+            "Floor Code": "03",
+            "Room Code": "398S",
+            "Description": "Stair",
+            "Department Name": "Hallways"
+        }
     },
     {
         "polygon": [
@@ -27835,7 +27840,12 @@
                 2768
             ]
         ],
-        "roomInfo": {}
+        "roomInfo": {
+            "Floor Code": "03",
+            "Room Code": "S333",
+            "Description": "Athletic Seating",
+            "Department Name": "A&F University Conferencing"
+        }
     },
     {
         "polygon": [
@@ -28824,7 +28834,12 @@
                 3056
             ]
         ],
-        "roomInfo": {}
+        "roomInfo": {
+            "Floor Code": "03",
+            "Room Code": "S332",
+            "Description": "Athletic Seating",
+            "Department Name": "A&F University Conferencing"
+        }
     },
     {
         "polygon": [
@@ -47238,7 +47253,12 @@
                 2467
             ]
         ],
-        "roomInfo": {}
+        "roomInfo": {
+            "Floor Code": "03",
+            "Room Code": "S334",
+            "Description": "Athletic Seating",
+            "Department Name": "A&F University Conferencing"
+        }
     },
     {
         "polygon": [
@@ -66396,12 +66416,7 @@
                 3015
             ]
         ],
-        "roomInfo": {
-            "Floor Code": "03",
-            "Room Code": "350",
-            "Description": "Restroom Male",
-            "Department Name": "A&F Building Services"
-        }
+        "roomInfo": {}
     },
     {
         "polygon": [
@@ -88152,7 +88167,12 @@
                 228
             ]
         ],
-        "roomInfo": {}
+        "roomInfo": {
+            "Floor Code": "03",
+            "Room Code": "S336",
+            "Description": "Athletic Seating",
+            "Department Name": "A&F University Conferencing"
+        }
     },
     {
         "polygon": [

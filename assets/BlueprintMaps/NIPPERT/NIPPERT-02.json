@@ -61074,12 +61074,7 @@
                 4412
             ]
         ],
-        "roomInfo": {
-            "Floor Code": "02",
-            "Room Code": "281",
-            "Description": "Athletic Svc",
-            "Department Name": "A&F University Conferencing"
-        }
+        "roomInfo": {}
     },
     {
         "polygon": [
@@ -81666,12 +81661,7 @@
                 3512
             ]
         ],
-        "roomInfo": {
-            "Floor Code": "02",
-            "Room Code": "280",
-            "Description": "Restroom Male",
-            "Department Name": "A&F Building Services"
-        }
+        "roomInfo": {}
     },
     {
         "polygon": [
@@ -87452,12 +87442,7 @@
                 5320
             ]
         ],
-        "roomInfo": {
-            "Floor Code": "02",
-            "Room Code": "288",
-            "Description": "Restroom Male",
-            "Department Name": "A&F Building Services"
-        }
+        "roomInfo": {}
     },
     {
         "polygon": [
@@ -122257,12 +122242,7 @@
                 5251
             ]
         ],
-        "roomInfo": {
-            "Floor Code": "02",
-            "Room Code": "247",
-            "Description": "Mechanical",
-            "Department Name": "A&F University Conferencing"
-        }
+        "roomInfo": {}
     },
     {
         "polygon": [
@@ -122787,7 +122767,12 @@
                 377
             ]
         ],
-        "roomInfo": {}
+        "roomInfo": {
+            "Floor Code": "02",
+            "Room Code": "279",
+            "Description": "Retail",
+            "Department Name": "A&F University Conferencing"
+        }
     },
     {
         "polygon": [
@@ -127487,12 +127472,7 @@
                 3057
             ]
         ],
-        "roomInfo": {
-            "Floor Code": "02",
-            "Room Code": "279",
-            "Description": "Retail",
-            "Department Name": "A&F University Conferencing"
-        }
+        "roomInfo": {}
     },
     {
         "polygon": [
@@ -132810,12 +132790,7 @@
                 2923
             ]
         ],
-        "roomInfo": {
-            "Floor Code": "02",
-            "Room Code": "255",
-            "Description": "Mechanical",
-            "Department Name": "A&F University Conferencing"
-        }
+        "roomInfo": {}
     },
     {
         "polygon": [

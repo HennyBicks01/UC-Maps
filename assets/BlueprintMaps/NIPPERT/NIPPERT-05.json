@@ -30794,12 +30794,7 @@
                 4496
             ]
         ],
-        "roomInfo": {
-            "Floor Code": "05",
-            "Room Code": "549A",
-            "Description": "Athletic Svc",
-            "Department Name": "A&F University Conferencing"
-        }
+        "roomInfo": {}
     },
     {
         "polygon": [
@@ -31204,7 +31199,7 @@
         ],
         "roomInfo": {
             "Floor Code": "05",
-            "Room Code": "566",
+            "Room Code": "563",
             "Description": "Athletic Svc",
             "Department Name": "A&F University Conferencing"
         }
@@ -31424,12 +31419,7 @@
                 3067
             ]
         ],
-        "roomInfo": {
-            "Floor Code": "05",
-            "Room Code": "563",
-            "Description": "Athletic Svc",
-            "Department Name": "A&F University Conferencing"
-        }
+        "roomInfo": {}
     },
     {
         "polygon": [
@@ -34997,12 +34987,7 @@
                 3175
             ]
         ],
-        "roomInfo": {
-            "Floor Code": "05",
-            "Room Code": "562",
-            "Description": "Athletic Svc",
-            "Department Name": "A&F University Conferencing"
-        }
+        "roomInfo": {}
     },
     {
         "polygon": [
@@ -36259,12 +36244,7 @@
                 4824
             ]
         ],
-        "roomInfo": {
-            "Floor Code": "05",
-            "Room Code": "545F",
-            "Description": "Athletic Seating",
-            "Department Name": "A&F University Conferencing"
-        }
+        "roomInfo": {}
     },
     {
         "polygon": [
@@ -36621,12 +36601,7 @@
                 1768
             ]
         ],
-        "roomInfo": {
-            "Floor Code": "05",
-            "Room Code": "554",
-            "Description": "Dining",
-            "Department Name": "A&F University Conferencing"
-        }
+        "roomInfo": {}
     },
     {
         "polygon": [
@@ -39135,12 +39110,7 @@
                 4692
             ]
         ],
-        "roomInfo": {
-            "Floor Code": "05",
-            "Room Code": "547",
-            "Description": "Restroom Female",
-            "Department Name": "A&F Building Services"
-        }
+        "roomInfo": {}
     },
     {
         "polygon": [
@@ -40162,12 +40132,7 @@
                 3285
             ]
         ],
-        "roomInfo": {
-            "Floor Code": "05",
-            "Room Code": "561",
-            "Description": "Athletic Svc",
-            "Department Name": "A&F University Conferencing"
-        }
+        "roomInfo": {}
     },
     {
         "polygon": [
@@ -44051,12 +44016,7 @@
                 2067
             ]
         ],
-        "roomInfo": {
-            "Floor Code": "05",
-            "Room Code": "553",
-            "Description": "Restroom Female",
-            "Department Name": "A&F Building Services"
-        }
+        "roomInfo": {}
     },
     {
         "polygon": [
@@ -44211,8 +44171,8 @@
         ],
         "roomInfo": {
             "Floor Code": "05",
-            "Room Code": "568",
-            "Description": "Athletic Svc",
+            "Room Code": "565",
+            "Description": "Athletic Seating",
             "Department Name": "A&F University Conferencing"
         }
     },
@@ -48581,12 +48541,7 @@
                 4105
             ]
         ],
-        "roomInfo": {
-            "Floor Code": "05",
-            "Room Code": "549G",
-            "Description": "Athletic Svc",
-            "Department Name": "A&F University Conferencing"
-        }
+        "roomInfo": {}
     },
     {
         "polygon": [
@@ -49049,7 +49004,7 @@
         ],
         "roomInfo": {
             "Floor Code": "05",
-            "Room Code": "560",
+            "Room Code": "549G",
             "Description": "Athletic Svc",
             "Department Name": "A&F University Conferencing"
         }
@@ -49231,7 +49186,7 @@
         ],
         "roomInfo": {
             "Floor Code": "05",
-            "Room Code": "567",
+            "Room Code": "564",
             "Description": "Athletic Seating",
             "Department Name": "A&F University Conferencing"
         }
@@ -49389,8 +49344,8 @@
         ],
         "roomInfo": {
             "Floor Code": "05",
-            "Room Code": "565",
-            "Description": "Athletic Seating",
+            "Room Code": "562",
+            "Description": "Athletic Svc",
             "Department Name": "A&F University Conferencing"
         }
     },
@@ -49559,7 +49514,7 @@
         ],
         "roomInfo": {
             "Floor Code": "05",
-            "Room Code": "569",
+            "Room Code": "566",
             "Description": "Athletic Svc",
             "Department Name": "A&F University Conferencing"
         }
@@ -49885,8 +49840,8 @@
         ],
         "roomInfo": {
             "Floor Code": "05",
-            "Room Code": "S509",
-            "Description": "Athletic Seating",
+            "Room Code": "569",
+            "Description": "Athletic Svc",
             "Department Name": "A&F University Conferencing"
         }
     },
@@ -51944,8 +51899,8 @@
         ],
         "roomInfo": {
             "Floor Code": "05",
-            "Room Code": "564",
-            "Description": "Athletic Seating",
+            "Room Code": "560",
+            "Description": "Athletic Svc",
             "Department Name": "A&F University Conferencing"
         }
     },
@@ -60154,12 +60109,7 @@
                 4494
             ]
         ],
-        "roomInfo": {
-            "Floor Code": "05",
-            "Room Code": "549C",
-            "Description": "Athletic Svc",
-            "Department Name": "A&F University Conferencing"
-        }
+        "roomInfo": {}
     },
     {
         "polygon": [
@@ -66583,12 +66533,7 @@
                 3649
             ]
         ],
-        "roomInfo": {
-            "Floor Code": "05",
-            "Room Code": "550",
-            "Description": "Athletic Svc",
-            "Department Name": "A&F University Conferencing"
-        }
+        "roomInfo": {}
     },
     {
         "polygon": [
@@ -71737,12 +71682,7 @@
                 3482
             ]
         ],
-        "roomInfo": {
-            "Floor Code": "05",
-            "Room Code": "550A",
-            "Description": "Athletic Svc",
-            "Department Name": "A&F University Conferencing"
-        }
+        "roomInfo": {}
     },
     {
         "polygon": [
@@ -74119,12 +74059,7 @@
                 4136
             ]
         ],
-        "roomInfo": {
-            "Floor Code": "05",
-            "Room Code": "549D",
-            "Description": "Athletic Svc",
-            "Department Name": "A&F University Conferencing"
-        }
+        "roomInfo": {}
     },
     {
         "polygon": [
@@ -74847,8 +74782,8 @@
         ],
         "roomInfo": {
             "Floor Code": "05",
-            "Room Code": "S510A",
-            "Description": "Athletic Svc",
+            "Room Code": "S509",
+            "Description": "Athletic Seating",
             "Department Name": "A&F University Conferencing"
         }
     },
@@ -77139,12 +77074,7 @@
                 5106
             ]
         ],
-        "roomInfo": {
-            "Floor Code": "05",
-            "Room Code": "545D",
-            "Description": "Dining Svc",
-            "Department Name": "A&F University Conferencing"
-        }
+        "roomInfo": {}
     },
     {
         "polygon": [

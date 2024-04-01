@@ -16675,7 +16675,12 @@
                 3600
             ]
         ],
-        "roomInfo": {}
+        "roomInfo": {
+            "Floor Code": "03M",
+            "Room Code": "3M48",
+            "Description": "Dining Svc",
+            "Department Name": "A&F University Conferencing"
+        }
     },
     {
         "polygon": [
@@ -32034,7 +32039,12 @@
                 446
             ]
         ],
-        "roomInfo": {}
+        "roomInfo": {
+            "Floor Code": "03M",
+            "Room Code": "S3M09",
+            "Description": "Athletic Seating",
+            "Department Name": "A&F University Conferencing"
+        }
     },
     {
         "polygon": [
@@ -32143,7 +32153,12 @@
                 2346
             ]
         ],
-        "roomInfo": {}
+        "roomInfo": {
+            "Floor Code": "03M",
+            "Room Code": "S3M04",
+            "Description": "Athletic Seating",
+            "Department Name": "A&F University Conferencing"
+        }
     },
     {
         "polygon": [
@@ -32478,7 +32493,12 @@
                 1854
             ]
         ],
-        "roomInfo": {}
+        "roomInfo": {
+            "Floor Code": "03M",
+            "Room Code": "S3M05",
+            "Description": "Athletic Seating",
+            "Department Name": "A&F University Conferencing"
+        }
     },
     {
         "polygon": [
@@ -37468,12 +37488,7 @@
                 3063
             ]
         ],
-        "roomInfo": {
-            "Floor Code": "03M",
-            "Room Code": "3M51",
-            "Description": "Restroom Male",
-            "Department Name": "A&F Building Services"
-        }
+        "roomInfo": {}
     },
     {
         "polygon": [
@@ -43424,7 +43439,12 @@
                 2745
             ]
         ],
-        "roomInfo": {}
+        "roomInfo": {
+            "Floor Code": "03M",
+            "Room Code": "3M48A",
+            "Description": "Electrical",
+            "Department Name": "A&F University Conferencing"
+        }
     },
     {
         "polygon": [
@@ -55602,12 +55622,7 @@
                 4037
             ]
         ],
-        "roomInfo": {
-            "Floor Code": "03M",
-            "Room Code": "3M48",
-            "Description": "Dining Svc",
-            "Department Name": "A&F University Conferencing"
-        }
+        "roomInfo": {}
     },
     {
         "polygon": [
@@ -59185,12 +59200,7 @@
                 50
             ]
         ],
-        "roomInfo": {
-            "Floor Code": "03M",
-            "Room Code": "3M98S",
-            "Description": "Stair",
-            "Department Name": "Hallways"
-        }
+        "roomInfo": {}
     },
     {
         "polygon": [

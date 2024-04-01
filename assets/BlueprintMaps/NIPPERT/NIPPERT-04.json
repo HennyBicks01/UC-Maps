@@ -10317,12 +10317,7 @@
                 494
             ]
         ],
-        "roomInfo": {
-            "Floor Code": "04",
-            "Room Code": "S414AA",
-            "Description": "Restroom Female",
-            "Department Name": "A&F Building Services"
-        }
+        "roomInfo": {}
     },
     {
         "polygon": [
@@ -26877,12 +26872,7 @@
                 1640
             ]
         ],
-        "roomInfo": {
-            "Floor Code": "04",
-            "Room Code": "455",
-            "Description": "Electrical",
-            "Department Name": "A&F University Conferencing"
-        }
+        "roomInfo": {}
     },
     {
         "polygon": [
@@ -31079,12 +31069,7 @@
                 1584
             ]
         ],
-        "roomInfo": {
-            "Floor Code": "04",
-            "Room Code": "456",
-            "Description": "Telecommunications Room",
-            "Department Name": "A&F University Conferencing"
-        }
+        "roomInfo": {}
     },
     {
         "polygon": [
@@ -41952,12 +41937,7 @@
                 4403
             ]
         ],
-        "roomInfo": {
-            "Floor Code": "04",
-            "Room Code": "449A",
-            "Description": "Telecommunications Room",
-            "Department Name": "A&F University Conferencing"
-        }
+        "roomInfo": {}
     },
     {
         "polygon": [
@@ -51377,12 +51357,7 @@
                 672
             ]
         ],
-        "roomInfo": {
-            "Floor Code": "04",
-            "Room Code": "S414A",
-            "Description": "Restroom Female",
-            "Department Name": "A&F Building Services"
-        }
+        "roomInfo": {}
     },
     {
         "polygon": [
@@ -53048,12 +53023,7 @@
                 2254
             ]
         ],
-        "roomInfo": {
-            "Floor Code": "04",
-            "Room Code": "S407",
-            "Description": "Athletic Seating",
-            "Department Name": "A&F University Conferencing"
-        }
+        "roomInfo": {}
     },
     {
         "polygon": [
@@ -54014,12 +53984,7 @@
                 2746
             ]
         ],
-        "roomInfo": {
-            "Floor Code": "04",
-            "Room Code": "S405",
-            "Description": "Athletic Seating",
-            "Department Name": "A&F University Conferencing"
-        }
+        "roomInfo": {}
     },
     {
         "polygon": [
@@ -55112,12 +55077,7 @@
                 1590
             ]
         ],
-        "roomInfo": {
-            "Floor Code": "04",
-            "Room Code": "S410A",
-            "Description": "Athletic Svc",
-            "Department Name": "A&F University Conferencing"
-        }
+        "roomInfo": {}
     },
     {
         "polygon": [
@@ -63130,12 +63090,7 @@
                 3957
             ]
         ],
-        "roomInfo": {
-            "Floor Code": "04",
-            "Room Code": "S401",
-            "Description": "Athletic Seating",
-            "Department Name": "A&F University Conferencing"
-        }
+        "roomInfo": {}
     },
     {
         "polygon": [
@@ -65972,12 +65927,7 @@
                 3350
             ]
         ],
-        "roomInfo": {
-            "Floor Code": "04",
-            "Room Code": "S403",
-            "Description": "Athletic Seating",
-            "Department Name": "A&F University Conferencing"
-        }
+        "roomInfo": {}
     },
     {
         "polygon": [
