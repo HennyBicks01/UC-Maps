@@ -240,7 +240,7 @@ Map<String, List<String>> buildingImagePaths = {
     'Blueprints/Garages/UNIAVEGR/UNIAVEGR-04.png',
   ],
   'Varsity Village Garage': [
-    'Blueprints/MRICENTR/MRICENTR-01.png'
+    'Blueprints/MRICENTR/MRICENTR-01.png',
     'Blueprints/Garages/VARVILGR/VARVILGR-P1.png',
   ],
   'WoodSide Garage': [

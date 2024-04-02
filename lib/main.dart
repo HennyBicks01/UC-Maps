@@ -1,8 +1,9 @@
 import 'dart:async';
 import 'dart:convert';
+import 'dart:html';
 import 'dart:math';
 
-import 'package:find_flush/part2.dart';
+import 'package:find_flush/png.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_map/flutter_map.dart';
@@ -11,6 +12,7 @@ import 'package:geolocator/geolocator.dart';
 import 'building.dart';
 import 'geo.dart';
 import 'part1.dart';
+import 'part2.dart';
 
 void main() {
   runApp(const MyApp());
@@ -48,6 +50,20 @@ class _MyHomePageState extends State<MyHomePage> {
   List<Marker> markers = []; // Added for user location marker
   String? selectedBuildingName;
   List<String>? selectedBuildingJsonPaths;
+  String? selectedImagePath;
+  late Size selectedImageSize;
+  List<LatLng> cornerPositions = [];
+  int currentIndex = 0;
+  List<String> imagePaths = [];
+  Set<int> processedImagesIndices = {};
+  List<LatLng> currentImageCorners = [];
+  List<Point> currentScreenCorners = [];
+  ImageProvider imageProvider = AssetImage('');
+  Map<String, List<LatLng>> imageCorners = {};
+  String imageName = "";
+
+
+
 
 
   @override
@@ -328,6 +344,27 @@ class _MyHomePageState extends State<MyHomePage> {
     return rooms;
   }
 
+  // Approximate distance between two points in meters
+  double distance(LatLng start, LatLng end) {
+    var earthRadius = 6371000; // meters
+    var dLat = (end.latitude - start.latitude) * pi / 180.0;
+    var dLon = (end.longitude - start.longitude) * pi / 180.0;
+
+    var a = sin(dLat/2) * sin(dLat/2) +
+        cos(start.latitude * pi / 180.0) * cos(end.latitude * pi / 180.0) *
+            sin(dLon/2) * sin(dLon/2);
+    var c = 2 * atan2(sqrt(a), sqrt(1-a));
+    var d = earthRadius * c;
+
+    return d; // Distance in meters
+  }
+
+  String extractFolderName(String path) {
+    var parts = path.split('/'); // Split the path into parts
+    // Assuming the second last part is the folder name
+    return parts.length > 1 ? parts[parts.length - 2] : "";
+  }
+
   List<int> extractFloorNumbers(List<String> filePaths) {
     final floorNumbers = filePaths.map((path) {
       // This regex assumes the floor number always precedes '.json' and is preceded by a '-'
@@ -341,10 +378,161 @@ class _MyHomePageState extends State<MyHomePage> {
     return floorNumbers;
   }
 
+  void saveAndDownloadCorners() {
+    if (imagePaths.isNotEmpty) {
+      String folderName = extractFolderName(imagePaths[currentIndex]);
+      Map<String, dynamic> jsonStructure = {
+        "floors": [],
+      };
+      imageCorners.forEach((key, value) {
+        jsonStructure[key] = value.map((e) => [e.latitude, e.longitude]).toList();
+      });
+      String jsonString = jsonEncode(jsonStructure);
+      triggerDownload(jsonString, "$folderName.json");
+    }
+  }
+
+  void triggerDownload(String data, String fileName) {
+    final text = data;
+    final bytes = utf8.encode(text);
+    final blob = Blob([bytes], 'application/json');
+    final url = Url.createObjectUrlFromBlob(blob);
+    AnchorElement(href: url)
+      ..setAttribute("download", fileName)
+      ..click();
+    Url.revokeObjectUrl(url);
+  }
+
+
+  Future<void> _selectImageForOverlay(String imagePath) async {
+    imageProvider = AssetImage(imagePath);
+    final ImageStream stream = imageProvider.resolve(ImageConfiguration.empty);
+    final Completer<Size> completer = Completer<Size>();
+    ImageStreamListener? listener;
+    listener = ImageStreamListener((ImageInfo info, bool _) {
+      final Size imageSize = Size(info.image.width.toDouble(), info.image.height.toDouble());
+      completer.complete(imageSize);
+      stream.removeListener(listener!);
+    });
+    stream.addListener(listener);
+    final Size imageSize = await completer.future;
+
+    setState(() {
+      selectedImagePath = imagePath;
+      // Assuming you've defined `selectedImageSize` in your state to store the image size
+      selectedImageSize = imageSize;
+    });
+
+    // Optionally, call a function to update overlay or print coordinates here
+    getCornerMarkerPositions(); // This function now needs to be adapted to accept `imageSize` as a parameter
+  }
+
+  void getCornerMarkerPositions() {
+    final rotationDegrees = mapController.camera.rotation;
+    final LatLng centerGeo = mapController.camera.center; // Geographic center
+    final zoom = mapController.camera.zoom;
+
+    // Convert LatLng to screen coordinates at the given zoom level
+    Point centerScreen = mapController.camera.project(centerGeo, zoom);
+
+    double overlaySizeInPixels = 900; // Overlay size in pixels directly, assuming 900px as a base size
+    double aspectRatio = selectedImageSize.width / selectedImageSize.height;
+    double overlayWidthPixels, overlayHeightPixels;
+
+    if (aspectRatio >= 1) {
+      overlayWidthPixels = overlaySizeInPixels;
+      overlayHeightPixels = overlaySizeInPixels / aspectRatio;
+    } else {
+      overlayHeightPixels = overlaySizeInPixels;
+      overlayWidthPixels = overlaySizeInPixels * aspectRatio;
+    }
+
+    // Calculate corner points in screen space
+    Point topLeftScreen = Point(centerScreen.x - overlayWidthPixels / 2, centerScreen.y - overlayHeightPixels / 2);
+    Point topRightScreen = Point(centerScreen.x + overlayWidthPixels / 2, centerScreen.y - overlayHeightPixels / 2);
+    Point bottomLeftScreen = Point(centerScreen.x - overlayWidthPixels / 2, centerScreen.y + overlayHeightPixels / 2);
+    Point bottomRightScreen = Point(centerScreen.x + overlayWidthPixels / 2, centerScreen.y + overlayHeightPixels / 2);
+
+    List<Point> unrotatedCornersScreen = [topLeftScreen, topRightScreen, bottomRightScreen, bottomLeftScreen];
+
+    // Rotate screen points around the center by rotationDegrees
+    currentScreenCorners = unrotatedCornersScreen.map((cornerScreen) =>
+        rotatePoint2D(centerScreen, cornerScreen, 360-rotationDegrees)).toList();
+
+
+    // Convert back to geographic coordinates
+    currentImageCorners = currentScreenCorners.map((cornerScreen) =>
+        mapController.camera.unproject(cornerScreen, zoom)).toList(); // Assuming unproject does the inverse of project
+
+    // Use rotatedCornersGeo for further processing or output
+    var Latlnprint = currentImageCorners.map((latLng) => 'LatLng(${latLng.latitude}, ${latLng.longitude})').join(', ');
+    print('[$Latlnprint],');
+  }
+
+
+  // Rotates a Point around another Point (the pivot) by a specified number of degrees.
+  Point<double> rotatePoint2D(Point<num> pivot, Point<num> point, double rotationDegrees) {
+    double rotationRadians = rotationDegrees * pi / 180;
+    double cosTheta = cos(rotationRadians);
+    double sinTheta = sin(rotationRadians);
+
+    // Translate point back to origin (pivot becomes the origin):
+    num x = point.x - pivot.x;
+    num y = point.y - pivot.y;
+
+    // Rotate point
+    double newX = x * cosTheta - y * sinTheta;
+    double newY = x * sinTheta + y * cosTheta;
+
+    // Translate point back:
+    double finalX = newX + pivot.x;
+    double finalY = newY + pivot.y;
+
+    return Point<double>(finalX, finalY);
+  }
+
+  void setImageAsProcessed() {
+    setState(() {
+      if (imagePaths.isNotEmpty) {
+        processedImagesIndices.add(currentIndex);
+        String imagePath = imagePaths[currentIndex];
+        String imageName = imagePath.split('/').last.split('.')[0]; // More precise split for extension
+        imageCorners[imageName] = List<LatLng>.from(currentImageCorners); // Ensure a copy is made if necessary
+
+        // Debugging output
+        print('Processing image: $imageName with corners: $currentImageCorners');
+
+        skipFloor();
+      }
+    });
+
+    // Check if all floors have been processed after state update
+    if (processedImagesIndices.length >= imagePaths.length) {
+      print('All images processed. Saving corners...');
+      saveAndDownloadCorners();
+    }
+  }
+
+
+  void skipFloor() {
+    setState(() {
+      int nextIndex = currentIndex + 1;
+      while (processedImagesIndices.contains(nextIndex) && nextIndex < imagePaths.length) {
+        nextIndex++;
+      }
+      // Loop back to the start if we've reached the end
+      currentIndex = nextIndex < imagePaths.length ? nextIndex : 0;
+      // Debugging output
+      print('Skipping to floor: ${currentIndex + 1}, image path: ${imagePaths[currentIndex]}');
+      // Prepare for processing the next image
+      _selectImageForOverlay(imagePaths[currentIndex]);
+    });
+  }
+
+
   @override
   Widget build(BuildContext context) {
     List<int> floorNumbers = selectedBuildingJsonPaths != null ? extractFloorNumbers(selectedBuildingJsonPaths!) : [];
-
 
     return Scaffold(
       body: Stack(
@@ -352,14 +540,15 @@ class _MyHomePageState extends State<MyHomePage> {
           FlutterMap(
             mapController: mapController,
             options: MapOptions(
+              scrollWheelVelocity: .00025,
               onPositionChanged: (position, hasGesture) {
                 if (hasGesture && zoom != position.zoom) {
-                  print("Zoom level changed to: ${position.zoom}");
+                  //print("Zoom level changed to: ${position.zoom}");
                   setState(() {
                     zoom = position.zoom!;
                     markers = createMarkersForPolygons(filteredPolygons, zoom);
                     // Debugging: Print out number of visible markers
-                    print("Number of visible markers: ${markers.length}");
+                    //print("Number of visible markers: ${markers.length}");
                   });
                 }
               },
@@ -369,7 +558,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 for (var polyData in getPolygons()) {
                   if (isPointInPolygon(point, polyData.polygon.points)) {
                     String buildingName = polyData.name;
-                    var operationMode = 2;
+                    var operationMode = 1;
                     if (operationMode == 1) {
                       // PART 1 ***************************************
                       Navigator.of(context).push(MaterialPageRoute(
@@ -377,25 +566,11 @@ class _MyHomePageState extends State<MyHomePage> {
                       ));
                     } else if (operationMode == 2) {
                       // PART 2 *************************************
-                      showDialog(
-                        context: context,
-                        builder: (BuildContext context) {
-                          return Dialog(
-                            backgroundColor: Colors.transparent,
-                            elevation: 0,
-                            child: Opacity(
-                              opacity: 0.5,
-                              child: InteractiveImageOverlay(
-                                mapController: mapController,
-                                buildingName: buildingName,
-                                onSave: (centroid, rotation) {
-                                  // Logic here
-                                },
-                              ),
-                            ),
-                          );
-                        },
-                      );
+                      imagePaths = getbuildingImagePathFilePaths(buildingName);
+                      selectedBuildingName = buildingName;
+                      if (imagePaths.isNotEmpty) {
+                        _selectImageForOverlay(imagePaths[currentIndex]);
+                      }
                     } else if (operationMode == 3) {
                       // PART 3 ************************************
                       List<String> jsonPaths = getbuildingGeoPathFilePaths(buildingName);
@@ -432,10 +607,58 @@ class _MyHomePageState extends State<MyHomePage> {
               ),
               MarkerLayer(
                  //getPolygons(),
-                markers: createMarkersForPolygons(filteredPolygons, zoom),
+                markers: [
+                  ...createMarkersForPolygons(filteredPolygons, zoom),
+                ]
               ),
             ],
           ),
+          TranslucentPointer(
+            translucent: true,
+            child: Stack(
+              children: [
+                if (selectedImagePath != null)
+                  Center(
+                    child: Opacity(
+                      opacity: 0.6,
+                      child: Image.asset(
+                        selectedImagePath!,
+                        width: 900.0, // Adjust as needed
+                        height: 900.0, // Adjust as needed
+                      ),
+                    ),
+                  ),
+              ],
+            ),
+          ),
+
+              Stack(children:[
+                // Positioned widget to place the FloatingActionButton in the bottom right corner
+                if (selectedImagePath != null)
+                  Positioned(
+                    right: 16.0, // Adjust the padding as needed
+                    bottom: 16.0, // Adjust the padding as needed
+                    child: FloatingActionButton(
+                      onPressed: () => {
+                        getCornerMarkerPositions(),
+                        setImageAsProcessed(),
+                      },
+                      child: const Icon(Icons.check),
+                      backgroundColor: Colors.green[700],
+                    ),
+                  ),
+                if (selectedImagePath != null)
+                  Positioned(
+                    right: 16.0,
+                    bottom: 80.0, // Adjust the position so it doesn't overlap with the other button
+                    child: FloatingActionButton(
+                      onPressed: () => skipFloor(),
+                      child: const Icon(Icons.skip_next),
+                      backgroundColor: Colors.blue[700], // Different color for distinction
+                    ),
+                  ),
+              ]),
+
           if (selectedBuildingJsonPaths != null) // Only render buttons if a building is selected
             Positioned(
               top: MediaQuery.of(context).padding.top + 80, // Start lower than the search bar
@@ -452,7 +675,7 @@ class _MyHomePageState extends State<MyHomePage> {
                     },
                     style: ElevatedButton.styleFrom(
                       foregroundColor: Colors.grey[400],
-                      backgroundColor: Color(0xFF424549)// Text color
+                      backgroundColor: const Color(0xFF424549)// Text color
                     ),
                     child: Text('$floor'),
                   ),
@@ -543,5 +766,52 @@ class _MyHomePageState extends State<MyHomePage> {
       ),
     );
   }
+
 }
+
+class MapOverlayWidget extends StatelessWidget {
+  final MapController mapController;
+  final List<LatLng> points; // Points you want to draw or show on the map
+  final Widget Function(LatLng point) itemBuilder; // Builder for items you want to show
+
+  const MapOverlayWidget({
+    Key? key,
+    required this.mapController,
+    required this.points,
+    required this.itemBuilder,
+  }) : super(key: key);
+
+  @override
+  Widget build(BuildContext context) {
+    return Positioned.fill(
+      child: LayoutBuilder(
+        builder: (context, constraints) {
+          return Stack(
+            children: points.map((point) {
+              var pos = mapController.camera.project(point);
+              var scaledPos = Point(pos.x * mapController.camera.zoom, pos.y * mapController.camera.zoom);
+              var bounds = mapController.camera.getPixelWorldBounds(mapController.camera.zoom);
+              if (bounds == null) {
+                return Container(); // Or some fallback widget
+              }
+              var topLeft = bounds.topLeft;
+              var finalPos = Point(scaledPos.x - topLeft.x, scaledPos.y - topLeft.y);
+              return Positioned(
+                left: finalPos.x.toDouble(),
+                top: finalPos.y.toDouble(),
+                child: itemBuilder(point),
+              );
+            }).toList(),
+          );
+        },
+      ),
+    );
+  }
+}
+
+
+
+
+
+
 
