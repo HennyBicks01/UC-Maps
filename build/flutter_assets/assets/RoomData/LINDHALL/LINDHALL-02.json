@@ -1,0 +1,1526 @@
+[
+    {
+        "Floor Code": "02",
+        "Room Code": "2097A",
+        "Description": "Elevator",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2097B",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2097C",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2110",
+        "Description": "Computer Instr Lab",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2114",
+        "Description": "Telecommunications Room",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2120",
+        "Description": "Classroom",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2125",
+        "Description": "Classroom",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2128",
+        "Description": "Electrical",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2130",
+        "Description": "Seminar",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2135",
+        "Description": "Workroom",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2196",
+        "Description": "Shaft Space",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2198A",
+        "Description": "Stair",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2198B",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2199N",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2199S",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2199W",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2215",
+        "Description": "Conference",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2217",
+        "Description": "Electrical",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2220",
+        "Description": "Internal Office Circ",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2220A",
+        "Description": "Workroom",
+        "Department Name": "LCB Instructional Design"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2220A.01",
+        "Description": "Modular",
+        "Department Name": "LCB Information Technology"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2220A.02",
+        "Description": "Modular",
+        "Department Name": "LCB Information Technology"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2220A.03",
+        "Description": "Modular",
+        "Department Name": "LCB Information Technology"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2220A.04",
+        "Description": "Modular",
+        "Department Name": "LCB Information Technology"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2220A.05",
+        "Description": "Modular",
+        "Department Name": "LCB Information Technology"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2220B",
+        "Description": "Internal Office Circ",
+        "Department Name": "LCB Information Technology"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2220B.01",
+        "Description": "Modular",
+        "Department Name": "LCB Information Technology"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2220B.02",
+        "Description": "Modular",
+        "Department Name": "LCB Information Technology"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2220B.03",
+        "Description": "Modular",
+        "Department Name": "LCB Information Technology"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2220B.04",
+        "Description": "Modular",
+        "Department Name": "LCB Information Technology"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2220BA",
+        "Description": "Office",
+        "Department Name": "LCB Information Technology"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2220C",
+        "Description": "Office",
+        "Department Name": "LCB Lindner Marketing & Communications"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2220D",
+        "Description": "Office",
+        "Department Name": "LCB Information Technology"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2220E",
+        "Description": "Office",
+        "Department Name": "LCB Lindner Marketing & Communications"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2220F",
+        "Description": "Office",
+        "Department Name": "LCB Lindner Marketing & Communications"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2220G",
+        "Description": "Office",
+        "Department Name": "LCB Information Technology"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2220H",
+        "Description": "Office",
+        "Department Name": "LCB Information Technology"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2220J",
+        "Description": "Media",
+        "Department Name": "LCB Lindner Marketing & Communications"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2220K",
+        "Description": "Office",
+        "Department Name": "LCB Lindner Marketing & Communications"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2220M",
+        "Description": "Office",
+        "Department Name": "LCB Information Technology"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2220P",
+        "Description": "Office",
+        "Department Name": "LCB Information Technology"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2230",
+        "Description": "Computer Study Lab (Unsch)",
+        "Department Name": "LCB Information Technology"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2240",
+        "Description": "Classroom",
+        "Department Name": "LCB Information Technology"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2245",
+        "Description": "Classroom",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2250",
+        "Description": "Classroom",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2254",
+        "Description": "Restroom Male",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2256",
+        "Description": "Restroom Female",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2296",
+        "Description": "Shaft Space",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2298A",
+        "Description": "Stair",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2299E",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2299N",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2299S",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2299W",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2302",
+        "Description": "Office",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2304",
+        "Description": "Office",
+        "Department Name": "PS Public Safety Chief of Police"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2305",
+        "Description": "Conference",
+        "Department Name": "LCB Marketing"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2306",
+        "Description": "Office",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2307",
+        "Description": "Conference",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2308",
+        "Description": "Office",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2309",
+        "Description": "Conference",
+        "Department Name": "LCB Instructional Design"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2310",
+        "Description": "Office",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2311",
+        "Description": "Conference",
+        "Department Name": "LCB Instructional Design"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2312",
+        "Description": "Office",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2314",
+        "Description": "Office",
+        "Department Name": "LCB Finance"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2315",
+        "Description": "Internal Office Circ",
+        "Department Name": "LCB Finance"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2315.01",
+        "Description": "Modular",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2315.02",
+        "Description": "Modular",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2315.03",
+        "Description": "Modular",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2315.04",
+        "Description": "Modular",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2315.05",
+        "Description": "Modular",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2315.06",
+        "Description": "Modular",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2316",
+        "Description": "Office",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2318",
+        "Description": "Office",
+        "Department Name": "LCB Finance"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2320",
+        "Description": "Office",
+        "Department Name": "LCB Accounting"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2322",
+        "Description": "Office",
+        "Department Name": "LCB Accounting"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2324",
+        "Description": "Office",
+        "Department Name": "LCB Economics"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2326",
+        "Description": "Office",
+        "Department Name": "LCB Economics"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2328",
+        "Description": "Internal Office Circ",
+        "Department Name": "LCB Accounting"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2328.01",
+        "Description": "Modular",
+        "Department Name": "LCB Finance"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2328.02",
+        "Description": "Modular",
+        "Department Name": "LCB Finance"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2328.03",
+        "Description": "Modular",
+        "Department Name": "LCB Finance"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2328.04",
+        "Description": "Modular",
+        "Department Name": "LCB Finance"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2328.05",
+        "Description": "Modular",
+        "Department Name": "LCB Finance"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2328.06",
+        "Description": "Modular",
+        "Department Name": "LCB Finance"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2329",
+        "Description": "Internal Office Circ",
+        "Department Name": "LCB Finance"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2329.01",
+        "Description": "Modular",
+        "Department Name": "LCB Marketing"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2329.02",
+        "Description": "Modular",
+        "Department Name": "LCB Marketing"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2329.03",
+        "Description": "Modular",
+        "Department Name": "LCB Marketing"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2329.04",
+        "Description": "Modular",
+        "Department Name": "LCB Marketing"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2329.05",
+        "Description": "Modular",
+        "Department Name": "LCB Marketing"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2329.06",
+        "Description": "Modular",
+        "Department Name": "LCB Marketing"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2329.08",
+        "Description": "Modular",
+        "Department Name": "LCB Marketing"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2329.09",
+        "Description": "Modular",
+        "Department Name": "LCB Marketing"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2329.10",
+        "Description": "Modular",
+        "Department Name": "LCB Marketing"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2329.11",
+        "Description": "Modular",
+        "Department Name": "LCB Marketing"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2329.12",
+        "Description": "Modular",
+        "Department Name": "LCB Marketing"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2329.13",
+        "Description": "Modular",
+        "Department Name": "LCB Marketing"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2329.14",
+        "Description": "Modular",
+        "Department Name": "LCB Marketing"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2329.15",
+        "Description": "Modular",
+        "Department Name": "LCB Marketing"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2329.16",
+        "Description": "Modular",
+        "Department Name": "LCB Marketing"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2329.17",
+        "Description": "Modular",
+        "Department Name": "LCB Marketing"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2329.18",
+        "Description": "Modular",
+        "Department Name": "LCB Marketing"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2331",
+        "Description": "Office",
+        "Department Name": "LCB Marketing"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2332",
+        "Description": "Office",
+        "Department Name": "LCB Finance"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2333",
+        "Description": "Office",
+        "Department Name": "LCB Finance"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2334",
+        "Description": "Office",
+        "Department Name": "LCB Finance"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2335",
+        "Description": "Office",
+        "Department Name": "LCB Finance"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2336",
+        "Description": "Office",
+        "Department Name": "LCB Finance"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2337",
+        "Description": "Office",
+        "Department Name": "LCB Finance"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2338",
+        "Description": "Office",
+        "Department Name": "LCB Finance"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2339",
+        "Description": "Data Lab",
+        "Department Name": "LCB Finance"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2340",
+        "Description": "Office",
+        "Department Name": "LCB Finance"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2341",
+        "Description": "Office",
+        "Department Name": "LCB Finance"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2342",
+        "Description": "Office",
+        "Department Name": "LCB Finance"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2343",
+        "Description": "Copy/Mail",
+        "Department Name": "LCB Finance"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2344",
+        "Description": "Office",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2345",
+        "Description": "Office",
+        "Department Name": "LCB Finance"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2346",
+        "Description": "Office",
+        "Department Name": "LCB Marketing"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2347",
+        "Description": "Office",
+        "Department Name": "LCB Finance"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2348",
+        "Description": "Office",
+        "Department Name": "LCB Marketing"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2349",
+        "Description": "Office",
+        "Department Name": "LCB Finance"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2350",
+        "Description": "Office",
+        "Department Name": "LCB Marketing"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2351",
+        "Description": "Office",
+        "Department Name": "LCB Finance"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2352",
+        "Description": "Office",
+        "Department Name": "LCB Marketing"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2353",
+        "Description": "Office",
+        "Department Name": "LCB Finance"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2354",
+        "Description": "Restroom All Gender",
+        "Department Name": "LCB Marketing"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2355",
+        "Description": "Office",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2356",
+        "Description": "Restroom All Gender",
+        "Department Name": "LCB Marketing"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2358",
+        "Description": "Office",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2360",
+        "Description": "Office",
+        "Department Name": "LCB Finance"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2362",
+        "Description": "Office",
+        "Department Name": "LCB Finance"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2363",
+        "Description": "Restroom All Gender",
+        "Department Name": "LCB Finance"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2364",
+        "Description": "Office",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2365",
+        "Description": "Restroom All Gender",
+        "Department Name": "LCB Marketing"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2366",
+        "Description": "Office",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2367",
+        "Description": "Electrical",
+        "Department Name": "LCB Marketing"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2368",
+        "Description": "Office",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2370",
+        "Description": "Office",
+        "Department Name": "LCB Marketing"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2372",
+        "Description": "Office",
+        "Department Name": "LCB Marketing"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2374",
+        "Description": "Office",
+        "Department Name": "LCB Marketing"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2375",
+        "Description": "Conference",
+        "Department Name": "LCB Marketing"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2376",
+        "Description": "Office",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2378",
+        "Description": "Office",
+        "Department Name": "LCB Marketing"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2380",
+        "Description": "Office",
+        "Department Name": "LCB Marketing"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2381",
+        "Description": "Internal Office Circ",
+        "Department Name": "LCB Marketing"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2381.01",
+        "Description": "Modular",
+        "Department Name": "LCB Marketing"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2381.02",
+        "Description": "Modular",
+        "Department Name": "LCB Marketing"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2382",
+        "Description": "File/Supply",
+        "Department Name": "LCB Marketing"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2384",
+        "Description": "Office",
+        "Department Name": "LCB Marketing"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2386",
+        "Description": "Office",
+        "Department Name": "LCB Marketing"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2388",
+        "Description": "Office",
+        "Department Name": "LCB Marketing"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2390",
+        "Description": "Office",
+        "Department Name": "LCB Marketing"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2391",
+        "Description": "Office",
+        "Department Name": "LCB Marketing"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2392",
+        "Description": "Office",
+        "Department Name": "LCB Marketing"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2393",
+        "Description": "Telecommunications Room",
+        "Department Name": "LCB Marketing"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2396",
+        "Description": "Shaft Space",
+        "Department Name": "LCB Marketing"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2398A",
+        "Description": "Stair",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2398B",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2399E",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2399N",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2399S",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2399W",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2402",
+        "Description": "Conference",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2404",
+        "Description": "Office",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2405",
+        "Description": "Conference",
+        "Department Name": "LCB Accounting"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2406",
+        "Description": "Office",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2407",
+        "Description": "Conference",
+        "Department Name": "LCB Accounting"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2408",
+        "Description": "Office",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2409",
+        "Description": "Conference",
+        "Department Name": "LCB Accounting"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2410",
+        "Description": "Office",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2411",
+        "Description": "Conference",
+        "Department Name": "LCB Accounting"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2412",
+        "Description": "Office",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2414",
+        "Description": "Office",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2415",
+        "Description": "Internal Office Circ",
+        "Department Name": "LCB Accounting"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2415.01",
+        "Description": "Modular",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2415.02",
+        "Description": "Modular",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2415.03",
+        "Description": "Modular",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2415.04",
+        "Description": "Modular",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2415.05",
+        "Description": "Modular",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2415.06",
+        "Description": "Modular",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2416",
+        "Description": "Office",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2418",
+        "Description": "Office",
+        "Department Name": "LCB Accounting"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2420",
+        "Description": "Instrument Lab",
+        "Department Name": "LCB Accounting"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2421",
+        "Description": "Break Room",
+        "Department Name": "LCB Economics"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2423",
+        "Description": "Restroom All Gender",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2424",
+        "Description": "Office",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2425",
+        "Description": "Restroom All Gender",
+        "Department Name": "LCB Economics"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2426",
+        "Description": "Office",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2427",
+        "Description": "Custodial",
+        "Department Name": "LCB Economics"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2428",
+        "Description": "Office",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2430",
+        "Description": "Office",
+        "Department Name": "LCB Economics"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2432",
+        "Description": "Office",
+        "Department Name": "LCB Economics"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2434",
+        "Description": "Office",
+        "Department Name": "LCB Economics"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2436",
+        "Description": "Office",
+        "Department Name": "LCB Economics"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2438",
+        "Description": "Office",
+        "Department Name": "LCB Economics"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2440",
+        "Description": "Office",
+        "Department Name": "LCB Economics"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2442",
+        "Description": "Office",
+        "Department Name": "LCB Economics"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2443",
+        "Description": "Electrical",
+        "Department Name": "LCB Economics"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2444",
+        "Description": "Office",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2445",
+        "Description": "Restroom All Gender",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2446",
+        "Description": "Office",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2448",
+        "Description": "Office",
+        "Department Name": "LCB Economics"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2449",
+        "Description": "Office",
+        "Department Name": "LCB Economics"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2450",
+        "Description": "Office",
+        "Department Name": "LCB Economics"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2451",
+        "Description": "Office",
+        "Department Name": "LCB Accounting"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2452",
+        "Description": "Office",
+        "Department Name": "LCB Economics"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2453",
+        "Description": "Office",
+        "Department Name": "LCB Accounting"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2455",
+        "Description": "Internal Office Circ",
+        "Department Name": "LCB Economics"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2455.01",
+        "Description": "Modular",
+        "Department Name": "LCB Economics"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2455.02",
+        "Description": "Modular",
+        "Department Name": "LCB Economics"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2455.03",
+        "Description": "Modular",
+        "Department Name": "LCB Economics"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2455.04",
+        "Description": "Modular",
+        "Department Name": "LCB Economics"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2455.05",
+        "Description": "Modular",
+        "Department Name": "LCB Economics"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2455.06",
+        "Description": "Modular",
+        "Department Name": "LCB Economics"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2455.07",
+        "Description": "Modular",
+        "Department Name": "LCB Economics"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2455.08",
+        "Description": "Modular",
+        "Department Name": "LCB Accounting"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2455.09",
+        "Description": "Modular",
+        "Department Name": "LCB Accounting"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2455.10",
+        "Description": "Modular",
+        "Department Name": "LCB Accounting"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2455.11",
+        "Description": "Modular",
+        "Department Name": "LCB Accounting"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2455.12",
+        "Description": "Modular",
+        "Department Name": "LCB Accounting"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2456",
+        "Description": "Internal Office Circ",
+        "Department Name": "LCB Accounting"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2456.01",
+        "Description": "Modular",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2456.02",
+        "Description": "Modular",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2456.03",
+        "Description": "Modular",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2456.04",
+        "Description": "Modular",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2456.05",
+        "Description": "Modular",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2456.06",
+        "Description": "Modular",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2456.07",
+        "Description": "Modular",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2456.08",
+        "Description": "Modular",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2456.09",
+        "Description": "Modular",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2456.11",
+        "Description": "Modular",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2456.12",
+        "Description": "Modular",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2458",
+        "Description": "Office",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2459",
+        "Description": "Office",
+        "Department Name": "LCB Accounting"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2460",
+        "Description": "Office",
+        "Department Name": "LCB Accounting"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2461",
+        "Description": "Office",
+        "Department Name": "LCB Accounting"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2462",
+        "Description": "Office",
+        "Department Name": "LCB Economics"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2463",
+        "Description": "Copy/Mail",
+        "Department Name": "LCB Accounting"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2464",
+        "Description": "Office",
+        "Department Name": "LCB Accounting"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2466",
+        "Description": "Office",
+        "Department Name": "LCB Accounting"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2468",
+        "Description": "Office",
+        "Department Name": "LCB Accounting"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2470",
+        "Description": "Internal Office Circ",
+        "Department Name": "LCB Accounting"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2470.01",
+        "Description": "Modular",
+        "Department Name": "LCB Accounting"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2470.02",
+        "Description": "Modular",
+        "Department Name": "LCB Accounting"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2470.03",
+        "Description": "Modular",
+        "Department Name": "LCB Accounting"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2470.04",
+        "Description": "Modular",
+        "Department Name": "LCB Accounting"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2480",
+        "Description": "Lounge",
+        "Department Name": "LCB Accounting"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2496",
+        "Description": "Shaft Space",
+        "Department Name": "LCB Lindner College of Business"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2498B",
+        "Description": "Stair",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2498C",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2499E",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2499N",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2499S",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2499W",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    }
+]

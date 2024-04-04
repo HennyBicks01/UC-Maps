@@ -1,0 +1,188 @@
+[
+    {
+        "Floor Code": "P3",
+        "Room Code": "P3100",
+        "Description": "Performance Study Lab (Unsch)",
+        "Department Name": "A&F Parking Administration"
+    },
+    {
+        "Floor Code": "P3",
+        "Room Code": "P3100A",
+        "Description": "Other Lab Svc Instr",
+        "Department Name": "SA UC Bearcat Band"
+    },
+    {
+        "Floor Code": "P3",
+        "Room Code": "P3101",
+        "Description": "Office Svc - Other",
+        "Department Name": "SA UC Bearcat Band"
+    },
+    {
+        "Floor Code": "P3",
+        "Room Code": "P3101Z",
+        "Description": "Office Svc - Other",
+        "Department Name": "Acad Aff Air Force ROTC"
+    },
+    {
+        "Floor Code": "P3",
+        "Room Code": "P3101ZA",
+        "Description": "Office Svc - Other",
+        "Department Name": "Acad Aff Air Force ROTC"
+    },
+    {
+        "Floor Code": "P3",
+        "Room Code": "P3103",
+        "Description": "Office Svc - Other",
+        "Department Name": "Acad Aff Air Force ROTC"
+    },
+    {
+        "Floor Code": "P3",
+        "Room Code": "P3103A",
+        "Description": "Office Svc - Other",
+        "Department Name": "Acad Aff Army ROTC"
+    },
+    {
+        "Floor Code": "P3",
+        "Room Code": "P3103B",
+        "Description": "Office Svc - Other",
+        "Department Name": "Acad Aff Army ROTC"
+    },
+    {
+        "Floor Code": "P3",
+        "Room Code": "P3103Z",
+        "Description": "Office Svc - Other",
+        "Department Name": "Acad Aff Army ROTC"
+    },
+    {
+        "Floor Code": "P3",
+        "Room Code": "P3103ZA",
+        "Description": "Office Svc - Other",
+        "Department Name": "Acad Aff Army ROTC"
+    },
+    {
+        "Floor Code": "P3",
+        "Room Code": "P3107",
+        "Description": "Mechanical",
+        "Department Name": "Acad Aff Army ROTC"
+    },
+    {
+        "Floor Code": "P3",
+        "Room Code": "P3150",
+        "Description": "Parking",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "P3",
+        "Room Code": "P3197A",
+        "Description": "Elevator",
+        "Department Name": "A&F Parking Administration"
+    },
+    {
+        "Floor Code": "P3",
+        "Room Code": "P3197F",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "P3",
+        "Room Code": "P3197G",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "P3",
+        "Room Code": "P3198A",
+        "Description": "Stair",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "P3",
+        "Room Code": "P3198D",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "P3",
+        "Room Code": "P3198F",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "P3",
+        "Room Code": "P3199",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "P3",
+        "Room Code": "P3199V",
+        "Description": "Parking",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "P3",
+        "Room Code": "P3222",
+        "Description": "Main Communications Room",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "P3",
+        "Room Code": "P3250",
+        "Description": "Parking",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "P3",
+        "Room Code": "P3260",
+        "Description": "Media",
+        "Department Name": "A&F Parking Administration"
+    },
+    {
+        "Floor Code": "P3",
+        "Room Code": "P3268",
+        "Description": "Mechanical",
+        "Department Name": "Athletics"
+    },
+    {
+        "Floor Code": "P3",
+        "Room Code": "P3270",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "P3",
+        "Room Code": "P3272",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "P3",
+        "Room Code": "P3297K",
+        "Description": "Elevator",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "P3",
+        "Room Code": "P3297L",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "P3",
+        "Room Code": "P3298M",
+        "Description": "Stair",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "P3",
+        "Room Code": "P3298S",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "P3",
+        "Room Code": "P3299V",
+        "Description": "Parking",
+        "Department Name": "Hallways"
+    }
+]

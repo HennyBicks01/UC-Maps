@@ -1,0 +1,26 @@
+[
+    {
+        "Floor Code": "03M",
+        "Room Code": "3M200",
+        "Description": "Mechanical",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "03M",
+        "Room Code": "3M202",
+        "Description": "Mechanical",
+        "Department Name": "A&F Rec Center"
+    },
+    {
+        "Floor Code": "03M",
+        "Room Code": "3M204",
+        "Description": "Mechanical",
+        "Department Name": "A&F Rec Center"
+    },
+    {
+        "Floor Code": "03M",
+        "Room Code": "3M298A",
+        "Description": "Stair",
+        "Department Name": "A&F Rec Center"
+    }
+]

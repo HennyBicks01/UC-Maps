@@ -1,0 +1,386 @@
+[
+    {
+        "Floor Code": "03",
+        "Room Code": "300",
+        "Description": "Lounge",
+        "Department Name": "A&F Main Street - TUC"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "301",
+        "Description": "Retail",
+        "Department Name": "Outside Agency"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "302",
+        "Description": "Office",
+        "Department Name": "A&F Main Street - TUC"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "302A",
+        "Description": "Office Svc - Other",
+        "Department Name": "A&F Main Street - TUC"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "310",
+        "Description": "Study Room",
+        "Department Name": "CCPS College of Coop Ed/Prof Studies"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "310A",
+        "Description": "Office Svc - Other",
+        "Department Name": "CCPS College of Coop Ed/Prof Studies"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "310A.01",
+        "Description": "Modular",
+        "Department Name": "CCPS College of Coop Ed/Prof Studies"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "310A.02",
+        "Description": "Modular",
+        "Department Name": "CCPS College of Coop Ed/Prof Studies"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "310A.03",
+        "Description": "Modular",
+        "Department Name": "CCPS College of Coop Ed/Prof Studies"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "310A.04",
+        "Description": "Modular",
+        "Department Name": "CCPS College of Coop Ed/Prof Studies"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "310A.05",
+        "Description": "Modular",
+        "Department Name": "CCPS College of Coop Ed/Prof Studies"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "310A.06",
+        "Description": "Modular",
+        "Department Name": "CCPS College of Coop Ed/Prof Studies"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "310A.07",
+        "Description": "Modular",
+        "Department Name": "CCPS College of Coop Ed/Prof Studies"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "320",
+        "Description": "Office Svc - Other",
+        "Department Name": "A&F Main Street - TUC"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "330",
+        "Description": "Telecommunications Room",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "331",
+        "Description": "Restroom All Gender",
+        "Department Name": "A&F Main Street - TUC"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "331A",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "333",
+        "Description": "Restroom Male",
+        "Department Name": "A&F Main Street - TUC"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "335",
+        "Description": "Mechanical",
+        "Department Name": "A&F Main Street - TUC"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "337",
+        "Description": "Electrical",
+        "Department Name": "A&F Main Street - TUC"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "339",
+        "Description": "Custodial",
+        "Department Name": "A&F Main Street - TUC"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "340",
+        "Description": "Retail",
+        "Department Name": "WC Follett Bookstore"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "340A",
+        "Description": "Retail Svc",
+        "Department Name": "WC Follett Bookstore"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "341",
+        "Description": "Office Svc - Other",
+        "Department Name": "A&F Main Street - TUC"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "343",
+        "Description": "Restroom Female",
+        "Department Name": "A&F Main Street - TUC"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "345",
+        "Description": "Retail",
+        "Department Name": "WC Follett Bookstore"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "345A",
+        "Description": "Retail Svc",
+        "Department Name": "WC Follett Bookstore"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "361",
+        "Description": "Electrical",
+        "Department Name": "A&F Main Street - TUC"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "363",
+        "Description": "Telecommunications Room",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "364",
+        "Description": "Dining",
+        "Department Name": "Outside Agency"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "364A",
+        "Description": "Restroom All Gender",
+        "Department Name": "A&F Main Street - TUC"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "364B",
+        "Description": "Restroom All Gender",
+        "Department Name": "A&F Main Street - TUC"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "366",
+        "Description": "Dining Svc",
+        "Department Name": "Outside Agency"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "366A",
+        "Description": "Dining Svc",
+        "Department Name": "Outside Agency"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "369",
+        "Description": "Retail Svc",
+        "Department Name": "WC Follett Bookstore"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "372",
+        "Description": "Retail Svc",
+        "Department Name": "WC Follett Bookstore"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "372A",
+        "Description": "Office Svc - Other",
+        "Department Name": "WC Follett Bookstore"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "372AA",
+        "Description": "Office Svc - Other",
+        "Department Name": "WC Follett Bookstore"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "374",
+        "Description": "Retail Svc",
+        "Department Name": "WC Follett Bookstore"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "374.01",
+        "Description": "Modular",
+        "Department Name": "WC Follett Bookstore"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "374.02",
+        "Description": "Modular",
+        "Department Name": "WC Follett Bookstore"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "374.03",
+        "Description": "Modular",
+        "Department Name": "WC Follett Bookstore"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "374A",
+        "Description": "Office",
+        "Department Name": "WC Follett Bookstore"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "374B",
+        "Description": "Copy/Mail",
+        "Department Name": "WC Follett Bookstore"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "396N",
+        "Description": "Shaft Space",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "396S",
+        "Description": "Shaft Space",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "397A",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "397B",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "397C",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "397D",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "397E",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "398A",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "398B",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "398C",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "398D",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "398E",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "398G",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "398H",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "398I",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "398K",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "398L",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "398M",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "399N",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "399S",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    }
+]

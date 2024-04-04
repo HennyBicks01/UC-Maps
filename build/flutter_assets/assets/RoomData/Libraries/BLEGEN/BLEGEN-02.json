@@ -1,0 +1,218 @@
+[
+    {
+        "Floor Code": "02",
+        "Room Code": "200",
+        "Description": "Closed Stack",
+        "Department Name": "UCL Archives & Rare Books Library"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "200A",
+        "Description": "Office Svc - Other",
+        "Department Name": "UCL Archives & Rare Books Library"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "200B",
+        "Description": "Office Svc - Other",
+        "Department Name": "UCL Archives & Rare Books Library"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "201A",
+        "Description": "Custodial",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "202",
+        "Description": "Copy/Mail",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "202A",
+        "Description": "Office",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "203",
+        "Description": "Office Svc - Other",
+        "Department Name": "A&S Classics"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "203A",
+        "Description": "Office Svc - Other",
+        "Department Name": "A&S Classics"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "204",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "205",
+        "Description": "Office Svc - Other",
+        "Department Name": "A&S Classics"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "206",
+        "Description": "Restroom Female",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "207",
+        "Description": "Custodial",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "207A",
+        "Description": "Restroom All Gender",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "208",
+        "Description": "Restroom Male",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "210",
+        "Description": "Office",
+        "Department Name": "A&S Classics"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "211",
+        "Description": "Office",
+        "Department Name": "A&S Classics"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "212",
+        "Description": "Office",
+        "Department Name": "A&S Classics"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "213",
+        "Description": "Office Svc - Other",
+        "Department Name": "A&S Classics"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "214",
+        "Description": "Classroom",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "215",
+        "Description": "Office Svc - Other",
+        "Department Name": "A&S Classics"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "216",
+        "Description": "Classroom Svc",
+        "Department Name": "A&S Classics"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "217",
+        "Description": "Office Svc - Other",
+        "Department Name": "A&S Classics"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "218",
+        "Description": "Office Svc - Other",
+        "Department Name": "A&S Classics"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "219",
+        "Description": "Seminar",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "220",
+        "Description": "Office",
+        "Department Name": "A&S Classics"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "221",
+        "Description": "Office",
+        "Department Name": "A&S Classics"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "296",
+        "Description": "Shaft Space",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "297A",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "297B",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "298A",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "298B",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "298C",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "298D",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "298E",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "298F",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "299",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    }
+]

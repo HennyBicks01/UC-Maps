@@ -1,0 +1,350 @@
+[
+    {
+        "Floor Code": "02",
+        "Room Code": "201",
+        "Description": "Athletic Svc",
+        "Department Name": "Athletics Operations"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "204",
+        "Description": "Athletic Locker/Shower",
+        "Department Name": "Athletics Football"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "204A",
+        "Description": "Athletic Locker/Shower",
+        "Department Name": "Athletics Football"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "204B",
+        "Description": "Athletic Locker/Shower",
+        "Department Name": "Athletics Football"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "209",
+        "Description": "Athletic Svc",
+        "Department Name": "Athletics Football"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "211",
+        "Description": "Athletic Locker/Shower",
+        "Department Name": "Athletics Football"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "211A",
+        "Description": "Athletic Locker/Shower",
+        "Department Name": "Athletics Football"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "211B",
+        "Description": "Athletic Locker/Shower",
+        "Department Name": "Athletics Football"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "211C",
+        "Description": "Athletic Svc",
+        "Department Name": "Athletics Football"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "211D",
+        "Description": "Athletic Svc",
+        "Department Name": "Athletics Football"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "216",
+        "Description": "Athletic Svc",
+        "Department Name": "Athletics Equipment Management"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "216A",
+        "Description": "Athletic Svc",
+        "Department Name": "Athletics Equipment Management"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "216B",
+        "Description": "Athletic Svc",
+        "Department Name": "Athletics Equipment Management"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "216C",
+        "Description": "Athletic Svc",
+        "Department Name": "Athletics Equipment Management"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "216D",
+        "Description": "Office",
+        "Department Name": "Athletics Equipment Management"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "216F",
+        "Description": "Private Restroom",
+        "Department Name": "Athletics Equipment Management"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "216G",
+        "Description": "Athletic Svc",
+        "Department Name": "Athletics Equipment Management"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "216GA",
+        "Description": "Athletic Svc",
+        "Department Name": "Athletics Equipment Management"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "220",
+        "Description": "Athletic Svc",
+        "Department Name": "Athletics Football"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "222",
+        "Description": "Custodial",
+        "Department Name": "Athletics Operations"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "223",
+        "Description": "Electrical",
+        "Department Name": "Athletics Operations"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "225",
+        "Description": "Athletic Svc",
+        "Department Name": "Athletics"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "228",
+        "Description": "Athletic Locker/Shower",
+        "Department Name": "Athletics"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "228A",
+        "Description": "Athletic Locker/Shower",
+        "Department Name": "Athletics"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "228B",
+        "Description": "Athletic Locker/Shower",
+        "Department Name": "Athletics"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "230",
+        "Description": "Athletic Locker/Shower",
+        "Department Name": "Athletics"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "230A",
+        "Description": "Athletic Locker/Shower",
+        "Department Name": "Athletics"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "230B",
+        "Description": "Athletic Locker/Shower",
+        "Department Name": "Athletics"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "231",
+        "Description": "Athletic Locker/Shower",
+        "Department Name": "Athletics"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "231A",
+        "Description": "Athletic Locker/Shower",
+        "Department Name": "Athletics"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "231B",
+        "Description": "Athletic Locker/Shower",
+        "Department Name": "Athletics"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "238",
+        "Description": "Athletic Locker/Shower",
+        "Department Name": "Athletics"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "238A",
+        "Description": "Athletic Locker/Shower",
+        "Department Name": "Athletics"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "238B",
+        "Description": "Athletic Locker/Shower",
+        "Department Name": "Athletics"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "239",
+        "Description": "Athletic Locker/Shower",
+        "Department Name": "Athletics"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "239A",
+        "Description": "Athletic Locker/Shower",
+        "Department Name": "Athletics"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "239B",
+        "Description": "Athletic Locker/Shower",
+        "Department Name": "Athletics"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "246",
+        "Description": "Athletic Locker/Shower",
+        "Department Name": "Athletics"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "246A",
+        "Description": "Athletic Locker/Shower",
+        "Department Name": "Athletics"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "246B",
+        "Description": "Athletic Locker/Shower",
+        "Department Name": "Athletics"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "251",
+        "Description": "Athletic Locker/Shower",
+        "Department Name": "Athletics Football"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "251A",
+        "Description": "Athletic Locker/Shower",
+        "Department Name": "Athletics Football"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "251B",
+        "Description": "Athletic Locker/Shower",
+        "Department Name": "Athletics Football"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "251C",
+        "Description": "Athletic Locker/Shower",
+        "Department Name": "Athletics Football"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "251D",
+        "Description": "Athletic Svc",
+        "Department Name": "Athletics Football"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "254",
+        "Description": "Athletic Locker/Shower",
+        "Department Name": "Athletics Football"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "254A",
+        "Description": "Athletic Locker/Shower",
+        "Department Name": "Athletics Football"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "254B",
+        "Description": "Athletic Locker/Shower",
+        "Department Name": "Athletics Football"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "254C",
+        "Description": "Athletic Svc",
+        "Department Name": "Athletics Football"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "258",
+        "Description": "Office",
+        "Department Name": "Athletics Equipment Management"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "259",
+        "Description": "Office",
+        "Department Name": "Athletics"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "260",
+        "Description": "Electrical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "297A",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "298B",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "298C",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "298D",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "298E",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "299",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "Floor Code": "05",
+        "Room Code": "501",
+        "Description": "Parking",
+        "Department Name": "A&F Parking Administration"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "597",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "598A",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "598B",
+        "Description": "Elevator",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "599",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    }
+]

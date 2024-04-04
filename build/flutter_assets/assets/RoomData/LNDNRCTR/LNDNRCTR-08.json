@@ -1,0 +1,476 @@
+[
+    {
+        "Floor Code": "08",
+        "Room Code": "850",
+        "Description": "Media",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "850A",
+        "Description": "Mechanical",
+        "Department Name": "Athletics"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "850B",
+        "Description": "Electrical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "850C",
+        "Description": "Telecommunications Room",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "851",
+        "Description": "Electrical",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "852",
+        "Description": "Internal Office Circ",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "852B",
+        "Description": "Office",
+        "Department Name": "Faculty Club"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "852C",
+        "Description": "Internal Office Circ",
+        "Department Name": "Faculty Club"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "852D",
+        "Description": "Office Svc - Other",
+        "Department Name": "Faculty Club"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "853",
+        "Description": "Custodial",
+        "Department Name": "Faculty Club"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "855",
+        "Description": "Electrical",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "856",
+        "Description": "Conference",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "856A",
+        "Description": "Conf Svc",
+        "Department Name": "Athletics Media Services"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "857",
+        "Description": "Restroom Male",
+        "Department Name": "Athletics Media Services"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "859",
+        "Description": "Restroom Female",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "860",
+        "Description": "Reception/Waiting",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "860A",
+        "Description": "Office",
+        "Department Name": "Athletics Media Services"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "860B",
+        "Description": "Office",
+        "Department Name": "Athletics Media Services"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "860C",
+        "Description": "Office Svc - Other",
+        "Department Name": "Athletics Media Services"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "860D",
+        "Description": "Office Svc - Other",
+        "Department Name": "Athletics Media Services"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "860D.01",
+        "Description": "Modular",
+        "Department Name": "Athletics Media Services"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "860D.02",
+        "Description": "Modular",
+        "Department Name": "Athletics Media Services"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "860D.03",
+        "Description": "Modular",
+        "Department Name": "Athletics Media Services"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "860D.04",
+        "Description": "Modular",
+        "Department Name": "Athletics Media Services"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "860D.05",
+        "Description": "Modular",
+        "Department Name": "Athletics Media Services"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "863",
+        "Description": "Office Svc - Other",
+        "Department Name": "Athletics Media Services"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "863.01",
+        "Description": "Modular",
+        "Department Name": "Athletics Compliance"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "863.02",
+        "Description": "Modular",
+        "Department Name": "Athletics Compliance"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "863A",
+        "Description": "Lounge",
+        "Department Name": "Athletics Compliance"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "863B",
+        "Description": "Office",
+        "Department Name": "Athletics Compliance"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "863C",
+        "Description": "Office",
+        "Department Name": "Athletics Compliance"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "863D",
+        "Description": "Office",
+        "Department Name": "Athletics Compliance"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "864",
+        "Description": "Office Svc - Other",
+        "Department Name": "Athletics Compliance"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "864.01",
+        "Description": "Modular",
+        "Department Name": "Athletics Marketing & Promotions"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "864.02",
+        "Description": "Modular",
+        "Department Name": "Athletics Marketing & Promotions"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "864.03",
+        "Description": "Modular",
+        "Department Name": "Athletics Marketing & Promotions"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "865",
+        "Description": "Office",
+        "Department Name": "Athletics Marketing & Promotions"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "867",
+        "Description": "Restroom Female",
+        "Department Name": "Athletics Dance Team"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "869",
+        "Description": "Restroom Male",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "870",
+        "Description": "Reception/Waiting",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "870.01",
+        "Description": "Modular",
+        "Department Name": "Athletics"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "870.02",
+        "Description": "Modular",
+        "Department Name": "Athletics"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "870A",
+        "Description": "Office",
+        "Department Name": "Athletics"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "870B",
+        "Description": "Office",
+        "Department Name": "Athletics"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "870C",
+        "Description": "Conference",
+        "Department Name": "Athletics"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "870D",
+        "Description": "Office",
+        "Department Name": "Athletics"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "870E",
+        "Description": "Office Svc - Other",
+        "Department Name": "Athletics"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "874",
+        "Description": "Office",
+        "Department Name": "Athletics"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "874.01",
+        "Description": "Modular",
+        "Department Name": "Athletics Business Office"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "874.02",
+        "Description": "Modular",
+        "Department Name": "Athletics Business Office"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "874.03",
+        "Description": "Modular",
+        "Department Name": "Athletics Business Office"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "874.04",
+        "Description": "Modular",
+        "Department Name": "Athletics Business Office"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "874A",
+        "Description": "Office",
+        "Department Name": "Athletics Business Office"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "874B",
+        "Description": "Office",
+        "Department Name": "Athletics Business Office"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "874C",
+        "Description": "Office",
+        "Department Name": "Athletics Business Office"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "874D",
+        "Description": "Office",
+        "Department Name": "Athletics Business Office"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "875",
+        "Description": "Break Room",
+        "Department Name": "Athletics Business Office"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "878",
+        "Description": "Office Svc - Other",
+        "Department Name": "Athletics Compliance"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "878A",
+        "Description": "Office",
+        "Department Name": "Athletics Business Office"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "878B",
+        "Description": "Office",
+        "Department Name": "Athletics Business Office"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "878C",
+        "Description": "Office",
+        "Department Name": "Athletics Business Office"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "880",
+        "Description": "Reception/Waiting",
+        "Department Name": "Athletics"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "880.01",
+        "Description": "Modular",
+        "Department Name": "Athletics"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "880A",
+        "Description": "File/Supply",
+        "Department Name": "Athletics"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "880B",
+        "Description": "File/Supply",
+        "Department Name": "Athletics"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "880C",
+        "Description": "Conference",
+        "Department Name": "Athletics"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "880D",
+        "Description": "Private Restroom",
+        "Department Name": "Athletics"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "880E",
+        "Description": "Office Svc - Other",
+        "Department Name": "Athletics"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "884",
+        "Description": "Office",
+        "Department Name": "Athletics"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "896",
+        "Description": "Shaft Space",
+        "Department Name": "Athletics"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "897H",
+        "Description": "Service Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "897J",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "897K",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "898S",
+        "Description": "Stair",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "898T",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "898U",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "898V",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "898W",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "899",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    }
+]

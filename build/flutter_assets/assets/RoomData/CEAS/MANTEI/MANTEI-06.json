@@ -1,0 +1,428 @@
+[
+    {
+        "Floor Code": "06",
+        "Room Code": "601",
+        "Description": "Reception/Waiting",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "601.01",
+        "Description": "Modular",
+        "Department Name": "CEAS - Chemical & Env Eng"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "601.02",
+        "Description": "Modular",
+        "Department Name": "CEAS - Chemical & Env Eng"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "601B",
+        "Description": "Office",
+        "Department Name": "CEAS - Chemical & Env Eng"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "601D",
+        "Description": "Office",
+        "Department Name": "CEAS - Chemical & Env Eng"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "601E",
+        "Description": "Office",
+        "Department Name": "CEAS - Chemical & Env Eng"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "601F",
+        "Description": "Office",
+        "Department Name": "CEAS - Chemical & Env Eng"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "601H",
+        "Description": "Office",
+        "Department Name": "CEAS - Chemical & Env Eng"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "601J",
+        "Description": "Office",
+        "Department Name": "CEAS - Chemical & Env Eng"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "601L",
+        "Description": "Office",
+        "Department Name": "CEAS - Chemical & Env Eng"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "601N",
+        "Description": "Office",
+        "Department Name": "CEAS - Chemical & Env Eng"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "602",
+        "Description": "Break Room",
+        "Department Name": "CEAS - Chemical & Env Eng"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "602A",
+        "Description": "Office Svc - Other",
+        "Department Name": "CEAS - Chemical & Env Eng"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "602B",
+        "Description": "Office Svc - Other",
+        "Department Name": "CEAS - Chemical & Env Eng"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "603",
+        "Description": "Office Svc - Other",
+        "Department Name": "CEAS - Chemical & Env Eng"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "605",
+        "Description": "Lounge",
+        "Department Name": "CEAS - Chemical & Env Eng"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "607",
+        "Description": "Design Study Lab (Unsch)",
+        "Department Name": "CEAS - Chemical & Env Eng"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "608",
+        "Description": "Custodial",
+        "Department Name": "CEAS - Chemical & Env Eng"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "609",
+        "Description": "Shop",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "610",
+        "Description": "Restroom Male",
+        "Department Name": "CEAS - Chemical & Env Eng"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "616",
+        "Description": "Office Svc - Other",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "616.01",
+        "Description": "Modular",
+        "Department Name": "CEAS - College Computing"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "616.02",
+        "Description": "Modular",
+        "Department Name": "CEAS - College Computing"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "617",
+        "Description": "Computer Study Lab (Unsch)",
+        "Department Name": "CEAS - College Computing"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "628",
+        "Description": "Office",
+        "Department Name": "CEAS - College Computing"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "631",
+        "Description": "Telecommunications Room",
+        "Department Name": "CEAS - College Computing"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "633",
+        "Description": "Mechanical",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "635",
+        "Description": "Other Lab Svc Instr",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "636",
+        "Description": "Office",
+        "Department Name": "CEAS - College of Eng & Appl Science"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "636A",
+        "Description": "Office",
+        "Department Name": "CEAS - College Computing"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "637",
+        "Description": "Data Lab",
+        "Department Name": "CEAS - College Computing"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "639",
+        "Description": "Wet Lab",
+        "Department Name": "CEAS - Mech Eng and Materials Eng"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "640",
+        "Description": "Office",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "641",
+        "Description": "Wet Lab",
+        "Department Name": "CEAS - Mech Eng and Materials Eng"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "642",
+        "Description": "Office",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "643",
+        "Description": "Mechanical",
+        "Department Name": "CEAS - Mech Eng and Materials Eng"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "645",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "646",
+        "Description": "Office",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "647",
+        "Description": "Wet Lab",
+        "Department Name": "CEAS - Mech Eng and Materials Eng"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "650",
+        "Description": "Office",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "653",
+        "Description": "Wet Lab",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "655",
+        "Description": "Telecommunications Room",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "657",
+        "Description": "Mechanical",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "658",
+        "Description": "Office",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "659",
+        "Description": "Wet Lab",
+        "Department Name": "CEAS - Civil & Arch Eng & Const Mgmt"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "660",
+        "Description": "Office",
+        "Department Name": "CEAS - Chemical & Env Eng"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "661",
+        "Description": "Wet Lab",
+        "Department Name": "CEAS - Electrical and Computer Engineeri"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "665",
+        "Description": "Custodial",
+        "Department Name": "CEAS - Chemical & Env Eng"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "669",
+        "Description": "Wet Lab",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "670",
+        "Description": "Office",
+        "Department Name": "CEAS - Chemical & Env Eng"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "671",
+        "Description": "Wet Lab",
+        "Department Name": "CEAS - Chemical & Env Eng"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "675",
+        "Description": "Wet Lab",
+        "Department Name": "CEAS - Chemical & Env Eng"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "678",
+        "Description": "Office",
+        "Department Name": "CEAS - Chemical & Env Eng"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "679",
+        "Description": "Special Research Lab",
+        "Department Name": "CEAS - Chemical & Env Eng"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "680",
+        "Description": "Office",
+        "Department Name": "CEAS - Chemical & Env Eng"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "684",
+        "Description": "Office",
+        "Department Name": "CEAS - Chemical & Env Eng"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "685",
+        "Description": "Wet Lab",
+        "Department Name": "CEAS - Chemical & Env Eng"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "687",
+        "Description": "Wet Lab",
+        "Department Name": "CEAS - Chemical & Env Eng"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "690",
+        "Description": "Restroom Female",
+        "Department Name": "CEAS - Chemical & Env Eng"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "691",
+        "Description": "Wet Lab",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "692",
+        "Description": "Custodial",
+        "Department Name": "CEAS - Chemical & Env Eng"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "693",
+        "Description": "Wet Lab",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "695",
+        "Description": "Bridge",
+        "Department Name": "CEAS - Chemical & Env Eng"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "696",
+        "Description": "Shaft Space",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "697A",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "697B",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "697C",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "698A",
+        "Description": "Stair",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "698B",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "698C",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "699",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    }
+]

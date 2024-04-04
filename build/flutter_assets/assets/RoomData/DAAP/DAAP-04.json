@@ -1,0 +1,134 @@
+[
+    {
+        "Floor Code": "04",
+        "Room Code": "4240",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4250",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4260",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4270",
+        "Description": "Office",
+        "Department Name": "DAAP School of Art"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4274",
+        "Description": "Office Svc - Other",
+        "Department Name": "DAAP Design Architecture Art & Planning"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4280",
+        "Description": "Internal Office Circ",
+        "Department Name": "DAAP School of Art"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4280A",
+        "Description": "Office",
+        "Department Name": "DAAP School of Art"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4280B",
+        "Description": "Office",
+        "Department Name": "DAAP School of Art"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4280C",
+        "Description": "Office",
+        "Department Name": "DAAP School of Art"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4280D",
+        "Description": "Office",
+        "Department Name": "DAAP School of Art"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4280E",
+        "Description": "Office",
+        "Department Name": "DAAP School of Art"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4280F",
+        "Description": "Office",
+        "Department Name": "DAAP School of Art"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4297",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4298B",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4299",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4425B",
+        "Description": "Lab Circ Instr",
+        "Department Name": "DAAP Design Architecture Art & Planning"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4425C",
+        "Description": "Other Lab Svc Instr",
+        "Department Name": "DAAP Design Architecture Art & Planning"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4425D",
+        "Description": "Office",
+        "Department Name": "DAAP Design Architecture Art & Planning"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4425E",
+        "Description": "Computer Study Lab (Unsch)",
+        "Department Name": "DAAP Design Architecture Art & Planning"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4500",
+        "Description": "Other Lab Svc Instr",
+        "Department Name": "DAAP School of Art"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4500A",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4500B",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    }
+]

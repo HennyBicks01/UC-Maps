@@ -1,0 +1,158 @@
+[
+    {
+        "Floor Code": "02",
+        "Room Code": "200",
+        "Description": "Restroom Female",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "210",
+        "Description": "Office Svc - Other",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "210.01",
+        "Description": "Office",
+        "Department Name": "Graduate College"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "210.02",
+        "Description": "Office",
+        "Department Name": "Graduate College"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "210A",
+        "Description": "Office",
+        "Department Name": "Exec VP for Academic Affairs & Provost"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "210B",
+        "Description": "Office",
+        "Department Name": "Graduate College"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "210C",
+        "Description": "Office",
+        "Department Name": "Exec VP for Academic Affairs & Provost"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "220",
+        "Description": "Conference",
+        "Department Name": "Exec VP for Academic Affairs & Provost"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "220A",
+        "Description": "Conf Svc",
+        "Department Name": "Exec VP for Academic Affairs & Provost"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "230",
+        "Description": "Office Svc - Other",
+        "Department Name": "Exec VP for Academic Affairs & Provost"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "230A",
+        "Description": "Break Room",
+        "Department Name": "Graduate College"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "230AA",
+        "Description": "Custodial",
+        "Department Name": "Exec VP for Academic Affairs & Provost"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "230B",
+        "Description": "Office",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "230C",
+        "Description": "Office",
+        "Department Name": "Exec VP for Academic Affairs & Provost"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "240",
+        "Description": "Office Svc - Other",
+        "Department Name": "Graduate College"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "240.01",
+        "Description": "Modular",
+        "Department Name": "OGC Office of General Counsel"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "240A",
+        "Description": "Office",
+        "Department Name": "OGC Office of General Counsel"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "240B",
+        "Description": "Office",
+        "Department Name": "OGC Office of General Counsel"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "240C",
+        "Description": "Office",
+        "Department Name": "OGC Office of General Counsel"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "250",
+        "Description": "Restroom Male",
+        "Department Name": "OGC Office of General Counsel"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "296",
+        "Description": "Shaft Space",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "297A",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "298A",
+        "Description": "Stair",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "298B",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "299",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "299X",
+        "Description": "Exterior Circulation",
+        "Department Name": "Hallways"
+    }
+]

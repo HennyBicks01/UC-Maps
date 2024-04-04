@@ -1,0 +1,44 @@
+[
+    {
+        "Floor Code": "04",
+        "Room Code": "4210",
+        "Description": "Parking",
+        "Department Name": "A&F Parking Administration"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4296",
+        "Description": "Shaft Space",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4297F",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4297G",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4298D",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4298G",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4999V",
+        "Description": "Parking",
+        "Department Name": "A&F Parking Administration"
+    }
+]

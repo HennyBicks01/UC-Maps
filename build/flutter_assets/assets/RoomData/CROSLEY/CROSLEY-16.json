@@ -1,0 +1,146 @@
+[
+    {
+        "Floor Code": "16",
+        "Room Code": "1600",
+        "Description": "Inactive",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "16",
+        "Room Code": "1601",
+        "Description": "Exhibition Svc",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "16",
+        "Room Code": "1601A",
+        "Description": "Office",
+        "Department Name": "A&S Biological Sciences"
+    },
+    {
+        "Floor Code": "16",
+        "Room Code": "1602",
+        "Description": "Wet Lab",
+        "Department Name": "A&S Biological Sciences"
+    },
+    {
+        "Floor Code": "16",
+        "Room Code": "1603",
+        "Description": "Inactive",
+        "Department Name": "A&S Biological Sciences"
+    },
+    {
+        "Floor Code": "16",
+        "Room Code": "1603A",
+        "Description": "Inactive",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "16",
+        "Room Code": "1603B",
+        "Description": "Inactive",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "16",
+        "Room Code": "1603C",
+        "Description": "Inactive",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "16",
+        "Room Code": "1604",
+        "Description": "Restroom Male",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "16",
+        "Room Code": "1605",
+        "Description": "Inactive",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "16",
+        "Room Code": "1605A",
+        "Description": "Inactive",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "16",
+        "Room Code": "1605B",
+        "Description": "Inactive",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "16",
+        "Room Code": "1605C",
+        "Description": "Inactive",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "16",
+        "Room Code": "1605D",
+        "Description": "Inactive",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "16",
+        "Room Code": "1606",
+        "Description": "Conference",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "16",
+        "Room Code": "1607",
+        "Description": "Mechanical",
+        "Department Name": "A&S Sociology"
+    },
+    {
+        "Floor Code": "16",
+        "Room Code": "1696",
+        "Description": "Shaft Space",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "16",
+        "Room Code": "1697A",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "16",
+        "Room Code": "1697B",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "16",
+        "Room Code": "1697C",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "16",
+        "Room Code": "1697D",
+        "Description": "Dumbwaiter",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "16",
+        "Room Code": "1698A",
+        "Description": "Stair",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "16",
+        "Room Code": "1698B",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "16",
+        "Room Code": "1699",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    }
+]

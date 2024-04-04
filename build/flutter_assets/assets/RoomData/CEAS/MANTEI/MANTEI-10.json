@@ -1,0 +1,26 @@
+[
+    {
+        "Floor Code": "10",
+        "Room Code": "1000",
+        "Description": "Mechanical",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "10",
+        "Room Code": "1001",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "10",
+        "Room Code": "1002",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "10",
+        "Room Code": "1003",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    }
+]

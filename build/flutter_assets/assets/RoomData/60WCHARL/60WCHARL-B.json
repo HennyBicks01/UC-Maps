@@ -1,0 +1,152 @@
+[
+    {
+        "Floor Code": "B",
+        "Room Code": "B50",
+        "Description": "Loading",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B51",
+        "Description": "Loading",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B52",
+        "Description": "Restroom Male",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B53",
+        "Description": "Inactive",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B54",
+        "Description": "Restroom Female",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B55",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B56",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B56A",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B56B",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B57",
+        "Description": "Office Svc - Other",
+        "Department Name": "A&F Planning/Design/Construction"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B57F",
+        "Description": "Inactive",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B57G",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B57I",
+        "Description": "Electrical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B57M",
+        "Description": "Main Communications Room",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B57MA",
+        "Description": "Telecommunications Room",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B57MZ",
+        "Description": "Telecommunications Room",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B58",
+        "Description": "Inactive",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B60",
+        "Description": "Main Communications Room",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B95",
+        "Description": "Tunnel",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B97A",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B97B",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B98A",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B98B",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B98F",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B99",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    }
+]

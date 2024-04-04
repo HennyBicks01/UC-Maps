@@ -1,0 +1,590 @@
+[
+    {
+        "Floor Code": "05",
+        "Room Code": "5102",
+        "Description": "Restroom Female",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5103",
+        "Description": "Lactation Room",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5105",
+        "Description": "Custodial",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5106",
+        "Description": "Restroom Male",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5109",
+        "Description": "Mechanical",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5110",
+        "Description": "Internal Office Circ",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5110A",
+        "Description": "Data Lab",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5110A.01",
+        "Description": "Modular",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5110A.02",
+        "Description": "Modular",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5110A.03",
+        "Description": "Modular",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5110A.04",
+        "Description": "Modular",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5110B",
+        "Description": "Instrument Lab",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5110C",
+        "Description": "Instrument Lab",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5110D",
+        "Description": "Data Lab",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5110E",
+        "Description": "Office",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5119",
+        "Description": "File/Supply",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5120",
+        "Description": "Internal Office Circ",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5120.01",
+        "Description": "Modular",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5120A",
+        "Description": "Office",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5120B",
+        "Description": "Inactive",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5120C",
+        "Description": "Office",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5120D",
+        "Description": "Office",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5120E",
+        "Description": "Office",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5120F",
+        "Description": "Office",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5120G",
+        "Description": "Office",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5120H",
+        "Description": "Office",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5120I",
+        "Description": "Office",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5121",
+        "Description": "Data Lab",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5130",
+        "Description": "Internal Office Circ",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5130.02",
+        "Description": "File/Supply",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5130.04",
+        "Description": "Modular",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5130.06",
+        "Description": "Modular",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5130.07",
+        "Description": "Modular",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5130.08",
+        "Description": "Modular",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5130.09",
+        "Description": "Modular",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5130A",
+        "Description": "Office",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5130B",
+        "Description": "Office",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5130C",
+        "Description": "Office",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5130D",
+        "Description": "Office",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5130E",
+        "Description": "Office",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5130F",
+        "Description": "Office",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5130G",
+        "Description": "Office",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5130H",
+        "Description": "Office",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5130I",
+        "Description": "Office",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5140",
+        "Description": "Internal Office Circ",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5140.01",
+        "Description": "Modular",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5140A",
+        "Description": "Office",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5140B",
+        "Description": "Office",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5140C",
+        "Description": "Office",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5140D",
+        "Description": "Lab Circ Rsch",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5140D.01",
+        "Description": "Data Lab",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5140D.02",
+        "Description": "Data Lab",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5140DA",
+        "Description": "Data Lab",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5140DB",
+        "Description": "Data Lab",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5140G",
+        "Description": "Break Room",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5140H",
+        "Description": "Data Lab",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5140J",
+        "Description": "Instrument Lab",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5140JA",
+        "Description": "Instrument Lab",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5140JB",
+        "Description": "Instrument Lab",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5140K",
+        "Description": "Data Lab",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5140M",
+        "Description": "Instrument Lab",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5140N",
+        "Description": "Instrument Lab",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5140P",
+        "Description": "Data Lab",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5145",
+        "Description": "Lab Circ Rsch",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5145.01",
+        "Description": "Data Lab",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5145.02",
+        "Description": "Data Lab",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5145.03",
+        "Description": "Data Lab",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5145.04",
+        "Description": "Data Lab",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5145A",
+        "Description": "Data Lab",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5145B",
+        "Description": "Data Lab",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5145C",
+        "Description": "Data Lab",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5145D",
+        "Description": "Data Lab",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5150A",
+        "Description": "Workroom",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5150B",
+        "Description": "Internal Office Circ",
+        "Department Name": "EI Equity, Inclusion & Community Impact"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5150B.01",
+        "Description": "Modular",
+        "Department Name": "EI Equity, Inclusion & Community Impact"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5150B.02",
+        "Description": "Modular",
+        "Department Name": "EI Equity, Inclusion & Community Impact"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5150B.03",
+        "Description": "Modular",
+        "Department Name": "EI Equity, Inclusion & Community Impact"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5150B.04",
+        "Description": "Modular",
+        "Department Name": "EI Equity, Inclusion & Community Impact"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5150C",
+        "Description": "Office",
+        "Department Name": "EI Equity, Inclusion & Community Impact"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5150D",
+        "Description": "Office",
+        "Department Name": "EI Equity, Inclusion & Community Impact"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5150E",
+        "Description": "Office",
+        "Department Name": "EI Equity, Inclusion & Community Impact"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5150F",
+        "Description": "Office",
+        "Department Name": "EI Equity, Inclusion & Community Impact"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5150G",
+        "Description": "Conference",
+        "Department Name": "EI Equity, Inclusion & Community Impact"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5150H",
+        "Description": "Office",
+        "Department Name": "EI Equity, Inclusion & Community Impact"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5150Z",
+        "Description": "Internal Office Circ",
+        "Department Name": "EI Equity, Inclusion & Community Impact"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5150Z.01",
+        "Description": "Modular",
+        "Department Name": "Exec VP for Academic Affairs & Provost"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5160",
+        "Description": "Conference",
+        "Department Name": "Exec VP for Academic Affairs & Provost"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5160Z",
+        "Description": "Internal Office Circ",
+        "Department Name": "International Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5196",
+        "Description": "Shaft Space",
+        "Department Name": "International Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5197A",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5197B",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5197C",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5197D",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5197E",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5198B",
+        "Description": "Stair",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5198C",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5199",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "T503",
+        "Description": "Telecommunications Room",
+        "Department Name": "Hallways"
+    }
+]

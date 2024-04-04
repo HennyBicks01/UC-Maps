@@ -1,0 +1,320 @@
+[
+    {
+        "Floor Code": "05",
+        "Room Code": "500",
+        "Description": "Office Svc - Other",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "500A",
+        "Description": "Office",
+        "Department Name": "A&S Geology"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "500B",
+        "Description": "Office",
+        "Department Name": "A&S Geology"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "500C",
+        "Description": "Office",
+        "Department Name": "A&S Geology"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "500D",
+        "Description": "Office",
+        "Department Name": "A&S Geology"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "500E",
+        "Description": "Office Svc - Other",
+        "Department Name": "A&S Geology"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "500F",
+        "Description": "Office Svc - Other",
+        "Department Name": "A&S Geology"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "501",
+        "Description": "Office Svc - Other",
+        "Department Name": "A&S Geology"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "502",
+        "Description": "Office",
+        "Department Name": "A&S Geology"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "503",
+        "Description": "Office",
+        "Department Name": "A&S Geology"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "504",
+        "Description": "Office",
+        "Department Name": "A&S Geology"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "505",
+        "Description": "Office",
+        "Department Name": "A&S Geology"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "506",
+        "Description": "Office",
+        "Department Name": "A&S Geology"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "507",
+        "Description": "Office",
+        "Department Name": "A&S Geology"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "508",
+        "Description": "Office",
+        "Department Name": "A&S Geology"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "509",
+        "Description": "Office",
+        "Department Name": "A&S Geology"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "510",
+        "Description": "Office",
+        "Department Name": "A&S Geology"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "511",
+        "Description": "Instrument Lab",
+        "Department Name": "A&S Geology"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "512",
+        "Description": "Mechanical",
+        "Department Name": "A&S Geology"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "513",
+        "Description": "Other Study Lab (Unsch)",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "513A",
+        "Description": "Classroom Svc",
+        "Department Name": "A&S Geology"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "514",
+        "Description": "Wet Lab",
+        "Department Name": "A&S Geology"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "515",
+        "Description": "Other Lab Svc Rsch",
+        "Department Name": "A&S Geology"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "515A",
+        "Description": "Other Lab Svc Rsch",
+        "Department Name": "A&S Geology"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "516",
+        "Description": "Equipment",
+        "Department Name": "A&S Geology"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "517",
+        "Description": "Wet Lab",
+        "Department Name": "A&S Geology"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "517A",
+        "Description": "Wet Lab",
+        "Department Name": "A&S Geology"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "518",
+        "Description": "Instrument Lab",
+        "Department Name": "A&S Geology"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "519",
+        "Description": "Wet Lab",
+        "Department Name": "A&S Geology"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "520",
+        "Description": "Other Lab Svc Rsch",
+        "Department Name": "A&S Geology"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "520A",
+        "Description": "Mechanical",
+        "Department Name": "A&S Geology"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "521",
+        "Description": "Classroom",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "523",
+        "Description": "Other Lab Svc Instr",
+        "Department Name": "A&S Geology"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "524",
+        "Description": "Instrument Lab",
+        "Department Name": "A&S Geology"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "524A",
+        "Description": "Other Lab Svc Rsch",
+        "Department Name": "A&S Geology"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "524B",
+        "Description": "Instrument Lab",
+        "Department Name": "A&S Geology"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "524C",
+        "Description": "Other Lab Svc Rsch",
+        "Department Name": "A&S Geology"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "524D",
+        "Description": "Prep Room Rsch",
+        "Department Name": "A&S Geology"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "526",
+        "Description": "Other Study Lab (Unsch)",
+        "Department Name": "A&S Geology"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "526A",
+        "Description": "Mechanical",
+        "Department Name": "A&S Geology"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "527",
+        "Description": "Classroom",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "527A",
+        "Description": "Other Lab Svc Instr",
+        "Department Name": "A&S Geology"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "527B",
+        "Description": "Telecommunications Room",
+        "Department Name": "A&S Geology"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "581",
+        "Description": "Restroom Female",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "582",
+        "Description": "Restroom Male",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "583",
+        "Description": "Custodial",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "596",
+        "Description": "Shaft Space",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "597A",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "597B",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "598A",
+        "Description": "Stair",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "598C",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "598D",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "599",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    }
+]

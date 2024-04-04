@@ -1,0 +1,182 @@
+[
+    {
+        "Floor Code": "01",
+        "Room Code": "100",
+        "Description": "Athletic",
+        "Department Name": "Athletics Baseball"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "100A",
+        "Description": "Athletic Svc",
+        "Department Name": "Athletics Baseball"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "101A",
+        "Description": "Electrical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "110",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "120",
+        "Description": "Athletic Locker/Shower",
+        "Department Name": "Athletics Baseball"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "120A",
+        "Description": "Athletic Svc",
+        "Department Name": "Athletics Baseball"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "120B",
+        "Description": "Athletic Svc",
+        "Department Name": "Athletics Baseball"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "120BA",
+        "Description": "Athletic Svc",
+        "Department Name": "Athletics Baseball"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "130",
+        "Description": "Athletic Svc",
+        "Department Name": "Athletics Baseball"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "134",
+        "Description": "Athletic Svc",
+        "Department Name": "Athletics Baseball"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "135A",
+        "Description": "Private Restroom",
+        "Department Name": "Athletics Baseball"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "136",
+        "Description": "Custodial",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "140",
+        "Description": "Athletic Svc",
+        "Department Name": "Athletics Sports Medicine"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "144",
+        "Description": "Athletic Locker/Shower",
+        "Department Name": "Athletics Baseball"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "144A",
+        "Description": "Athletic Locker/Shower",
+        "Department Name": "Athletics Baseball"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "150",
+        "Description": "Telecommunications Room",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "154",
+        "Description": "Athletic Svc",
+        "Department Name": "Athletics Equipment Management"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "158",
+        "Description": "Athletic Svc",
+        "Department Name": "Athletics Baseball"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "161",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "165",
+        "Description": "Restroom All Gender",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "167",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "170",
+        "Description": "Athletic Svc",
+        "Department Name": "Athletics Baseball"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "170A",
+        "Description": "Athletic Locker/Shower",
+        "Department Name": "Athletics Baseball"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "174",
+        "Description": "Athletic Locker/Shower",
+        "Department Name": "Athletics Baseball"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "175A",
+        "Description": "Private Restroom",
+        "Department Name": "Athletics Baseball"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "181",
+        "Description": "Athletic Svc",
+        "Department Name": "Athletics Baseball"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "197",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "198A",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "199",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "199X",
+        "Description": "Exterior Circulation",
+        "Department Name": "Hallways"
+    }
+]

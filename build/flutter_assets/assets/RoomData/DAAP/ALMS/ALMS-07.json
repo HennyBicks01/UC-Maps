@@ -1,0 +1,50 @@
+[
+    {
+        "Floor Code": "07",
+        "Room Code": "7100A",
+        "Description": "Design Instr Lab",
+        "Department Name": "DAAP School of Arch & Interior Design"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7100B",
+        "Description": "Design Instr Lab",
+        "Department Name": "DAAP School of Arch & Interior Design"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7100C",
+        "Description": "Design Instr Lab",
+        "Department Name": "DAAP School of Arch & Interior Design"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7100D",
+        "Description": "Design Study Lab (Unsch)",
+        "Department Name": "DAAP School of Arch & Interior Design"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7100E",
+        "Description": "Office",
+        "Department Name": "DAAP School of Arch & Interior Design"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7196",
+        "Description": "Shaft Space",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7198A",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "7198B",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    }
+]

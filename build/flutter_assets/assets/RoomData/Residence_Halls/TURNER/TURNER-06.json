@@ -1,0 +1,98 @@
+[
+    {
+        "Floor Code": "06",
+        "Room Code": "600",
+        "Description": "Mechanical",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "630",
+        "Description": "Telecommunications Room",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "651",
+        "Description": "Residential Service",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "651A",
+        "Description": "Electrical",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "651B",
+        "Description": "Custodial",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "654",
+        "Description": "Suite Multiple Occupancy Bedroom",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "655",
+        "Description": "Suite Multiple Occupancy Bedroom",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "660",
+        "Description": "Suite Multiple Occupancy Bedroom",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "661",
+        "Description": "Suite Multiple Occupancy Bedroom",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "664",
+        "Description": "Suite Multiple Occupancy Bedroom",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "665",
+        "Description": "Suite Multiple Occupancy Bedroom",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "670",
+        "Description": "Suite Multiple Occupancy Bedroom",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "697B",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "698C",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "698D",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "06",
+        "Room Code": "699S",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    }
+]

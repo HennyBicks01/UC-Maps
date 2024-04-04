@@ -1,0 +1,26 @@
+[
+    {
+        "Floor Code": "03M",
+        "Room Code": "3M00",
+        "Description": "Mechanical",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "03M",
+        "Room Code": "3M97D",
+        "Description": "Elevator",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "03M",
+        "Room Code": "3M98D",
+        "Description": "Stair",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "03M",
+        "Room Code": "3M98H",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    }
+]

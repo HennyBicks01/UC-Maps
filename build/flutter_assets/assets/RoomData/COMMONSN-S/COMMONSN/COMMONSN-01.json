@@ -1,0 +1,302 @@
+[
+    {
+        "Floor Code": "01",
+        "Room Code": "N05",
+        "Description": "Break Room",
+        "Department Name": "SA Accessibility Resources - Clifton Cam"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "N10",
+        "Description": "Office Svc - Other",
+        "Department Name": "SA Accessibility Resources - Clifton Cam"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "N10A",
+        "Description": "Office",
+        "Department Name": "SA Accessibility Resources - Clifton Cam"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "N10B",
+        "Description": "Conference",
+        "Department Name": "SA Accessibility Resources - Clifton Cam"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "N10C",
+        "Description": "Office",
+        "Department Name": "SA Accessibility Resources - Clifton Cam"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "N10D",
+        "Description": "Conference",
+        "Department Name": "SA Accessibility Resources - Clifton Cam"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "N10E",
+        "Description": "Internal Office Circ",
+        "Department Name": "SA Accessibility Resources - Clifton Cam"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "N10E.01",
+        "Description": "Modular",
+        "Department Name": "SA Accessibility Resources - Clifton Cam"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "N10E.02",
+        "Description": "Modular",
+        "Department Name": "SA Accessibility Resources - Clifton Cam"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "N10E.03",
+        "Description": "Modular",
+        "Department Name": "SA Accessibility Resources - Clifton Cam"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "N10E.04",
+        "Description": "Modular",
+        "Department Name": "SA Accessibility Resources - Clifton Cam"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "N10E.05",
+        "Description": "Modular",
+        "Department Name": "SA Accessibility Resources - Clifton Cam"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "N10F",
+        "Description": "Office",
+        "Department Name": "SA Accessibility Resources - Clifton Cam"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "N10G",
+        "Description": "Office",
+        "Department Name": "SA Accessibility Resources - Clifton Cam"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "N10H",
+        "Description": "Office",
+        "Department Name": "SA Accessibility Resources - Clifton Cam"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "N10J",
+        "Description": "Office",
+        "Department Name": "SA Accessibility Resources - Clifton Cam"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "N10K",
+        "Description": "Clinic Svc",
+        "Department Name": "SA Accessibility Resources - Clifton Cam"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "N10M",
+        "Description": "Media",
+        "Department Name": "SA Accessibility Resources - Clifton Cam"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "N20",
+        "Description": "Office Svc - Other",
+        "Department Name": "SA Accessibility Resources - Clifton Cam"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "N20A",
+        "Description": "Internal Office Circ",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "N20A.01",
+        "Description": "Modular",
+        "Department Name": "SA Accessibility Resources - Clifton Cam"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "N20A.02",
+        "Description": "Modular",
+        "Department Name": "SA Accessibility Resources - Clifton Cam"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "N20A.03",
+        "Description": "Modular",
+        "Department Name": "SA Accessibility Resources - Clifton Cam"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "N20A.04",
+        "Description": "Modular",
+        "Department Name": "SA Accessibility Resources - Clifton Cam"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "N20A.05",
+        "Description": "Modular",
+        "Department Name": "SA Accessibility Resources - Clifton Cam"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "N20A.06",
+        "Description": "Modular",
+        "Department Name": "SA Accessibility Resources - Clifton Cam"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "N20B",
+        "Description": "Clinic Svc",
+        "Department Name": "SA Accessibility Resources - Clifton Cam"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "N20C",
+        "Description": "Clinic",
+        "Department Name": "SA Accessibility Resources - Clifton Cam"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "N20D",
+        "Description": "Clinic",
+        "Department Name": "SA Accessibility Resources - Clifton Cam"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "N20E",
+        "Description": "Clinic",
+        "Department Name": "SA Accessibility Resources - Clifton Cam"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "N20F",
+        "Description": "Clinic",
+        "Department Name": "SA Accessibility Resources - Clifton Cam"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "N20G",
+        "Description": "Clinic",
+        "Department Name": "SA Accessibility Resources - Clifton Cam"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "N20H",
+        "Description": "Clinic",
+        "Department Name": "SA Accessibility Resources - Clifton Cam"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "N20J",
+        "Description": "Clinic",
+        "Department Name": "SA Accessibility Resources - Clifton Cam"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "N20K",
+        "Description": "Clinic",
+        "Department Name": "SA Accessibility Resources - Clifton Cam"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "N20M",
+        "Description": "Clinic",
+        "Department Name": "SA Accessibility Resources - Clifton Cam"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "N20N",
+        "Description": "Clinic",
+        "Department Name": "SA Accessibility Resources - Clifton Cam"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "N20P",
+        "Description": "Clinic",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "N20Q",
+        "Description": "Clinic",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "N20R",
+        "Description": "Clinic Svc",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "N20S",
+        "Description": "Restroom All Gender",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "N31",
+        "Description": "Restroom Female",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "N33",
+        "Description": "Custodial",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "N35",
+        "Description": "Clinic Svc",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "N37",
+        "Description": "Office",
+        "Department Name": "SA Accessibility Resources - Clifton Cam"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "N39",
+        "Description": "Telecommunications Room",
+        "Department Name": "SA Accessibility Resources - Clifton Cam"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "N41",
+        "Description": "Restroom Male",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "N99",
+        "Description": "Corridor",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "N99E",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "N99W",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    }
+]

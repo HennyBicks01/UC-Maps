@@ -1,0 +1,32 @@
+[
+    {
+        "Floor Code": "B3",
+        "Room Code": "B31",
+        "Description": "Mechanical",
+        "Department Name": "A&F University Conferencing"
+    },
+    {
+        "Floor Code": "B3",
+        "Room Code": "B32",
+        "Description": "Mechanical",
+        "Department Name": "A&F University Conferencing"
+    },
+    {
+        "Floor Code": "B3",
+        "Room Code": "B33",
+        "Description": "Mechanical",
+        "Department Name": "A&F University Conferencing"
+    },
+    {
+        "Floor Code": "B3",
+        "Room Code": "B34",
+        "Description": "Mechanical",
+        "Department Name": "A&F University Conferencing"
+    },
+    {
+        "Floor Code": "B3",
+        "Room Code": "B35",
+        "Description": "Electrical",
+        "Department Name": "A&F University Conferencing"
+    }
+]

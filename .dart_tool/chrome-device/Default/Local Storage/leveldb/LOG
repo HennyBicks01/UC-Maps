@@ -1,0 +1,11 @@
+2024/04/03-17:54:13.066 5218 Creating DB C:\Users\benhi\AppData\Local\Temp\flutter_tools.ab43bc1e\flutter_tools_chrome_device.e01d219d\Default\Local Storage\leveldb since it was missing.
+2024/04/03-17:54:13.078 5218 Reusing MANIFEST C:\Users\benhi\AppData\Local\Temp\flutter_tools.ab43bc1e\flutter_tools_chrome_device.e01d219d\Default\Local Storage\leveldb/MANIFEST-000001
+2024/04/03-23:19:46.285 1228 Level-0 table #5: started
+2024/04/03-23:19:46.290 1228 Level-0 table #5: 60074 bytes OK
+2024/04/03-23:19:46.291 1228 Delete type=0 #3
+2024/04/03-23:38:40.354 1228 Level-0 table #7: started
+2024/04/03-23:38:40.358 1228 Level-0 table #7: 46656 bytes OK
+2024/04/03-23:38:40.360 1228 Delete type=0 #4
+2024/04/03-23:55:01.686 1228 Level-0 table #9: started
+2024/04/03-23:55:01.692 1228 Level-0 table #9: 63128 bytes OK
+2024/04/03-23:55:01.693 1228 Delete type=0 #6

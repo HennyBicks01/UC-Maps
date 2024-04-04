@@ -1,0 +1,200 @@
+[
+    {
+        "Floor Code": "01",
+        "Room Code": "S10",
+        "Description": "Internal Office Circ",
+        "Department Name": "Athletics"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "S10A",
+        "Description": "Internal Office Circ",
+        "Department Name": "Athletics"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "S10B",
+        "Description": "Office",
+        "Department Name": "Athletics"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "S11",
+        "Description": "Office",
+        "Department Name": "SA Commencement"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "S13",
+        "Description": "Office",
+        "Department Name": "SA VP Student Affairs"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "S15",
+        "Description": "Restroom All Gender",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "S17",
+        "Description": "Inactive",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "S20",
+        "Description": "Internal Office Circ",
+        "Department Name": "SA VP Student Affairs"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "S20A",
+        "Description": "Office",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "S20B",
+        "Description": "Office",
+        "Department Name": "SA VP Student Affairs"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "S20C",
+        "Description": "Office",
+        "Department Name": "SA VP Student Affairs"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "S20D",
+        "Description": "Office",
+        "Department Name": "SA VP Student Affairs"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "S20E",
+        "Description": "Office",
+        "Department Name": "SA Accessibility Resources - Clifton Cam"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "S20F",
+        "Description": "Office",
+        "Department Name": "SA Accessibility Resources - Clifton Cam"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "S20G",
+        "Description": "Office",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "S20H",
+        "Description": "Office",
+        "Department Name": "SA Accessibility Resources - Clifton Cam"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "S20J",
+        "Description": "Office",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "S30",
+        "Description": "Internal Office Circ",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "S30A",
+        "Description": "Conference",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "S30B",
+        "Description": "Office",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "S30C",
+        "Description": "Office",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "S30D",
+        "Description": "Office Svc - Other",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "S30E",
+        "Description": "Inactive",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "S30F",
+        "Description": "Custodial",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "S30FA",
+        "Description": "Telecommunications Room",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "S30G",
+        "Description": "Restroom Female",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "S30H",
+        "Description": "Office",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "S30J",
+        "Description": "Restroom Male",
+        "Department Name": "SA VP Student Affairs"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "S99",
+        "Description": "Corridor",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "S99.01",
+        "Description": "Modular",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "S99.02",
+        "Description": "Reception/Waiting",
+        "Department Name": "Athletics"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "S99.03",
+        "Description": "Modular",
+        "Department Name": "Athletics"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "S99W",
+        "Description": "Corridor",
+        "Department Name": "Athletics"
+    }
+]

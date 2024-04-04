@@ -1,0 +1,278 @@
+[
+    {
+        "Floor Code": "05",
+        "Room Code": "5300",
+        "Description": "Suite Single Occupancy Bedroom",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5301",
+        "Description": "Suite Single Occupancy Bedroom",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5302",
+        "Description": "Suite Single Occupancy Bedroom",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5303",
+        "Description": "Telecommunications Room",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5304",
+        "Description": "Suite Single Occupancy Bedroom",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5305",
+        "Description": "Suite Single Occupancy Bedroom",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5306",
+        "Description": "Study Room",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5306A",
+        "Description": "Custodial",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5306B",
+        "Description": "Electrical",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5307",
+        "Description": "Suite Single Occupancy Bedroom",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5308",
+        "Description": "Suite Single Occupancy Bedroom",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5309",
+        "Description": "Suite Single Occupancy Bedroom",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5310",
+        "Description": "Suite Single Occupancy Bedroom",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5311",
+        "Description": "Suite Single Occupancy Bedroom",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5312",
+        "Description": "Suite Single Occupancy Bedroom",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5315",
+        "Description": "Suite Single Occupancy Bedroom",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5316",
+        "Description": "Suite Single Occupancy Bedroom",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5319",
+        "Description": "Suite Single Occupancy Bedroom",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5320",
+        "Description": "Suite Single Occupancy Bedroom",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5323",
+        "Description": "Suite Single Occupancy Bedroom",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5324",
+        "Description": "Suite Single Occupancy Bedroom",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5327",
+        "Description": "Suite Single Occupancy Bedroom",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5328",
+        "Description": "Suite Single Occupancy Bedroom",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5331",
+        "Description": "Suite Single Occupancy Bedroom",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5332",
+        "Description": "Suite Single Occupancy Bedroom",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5335",
+        "Description": "Suite Single Occupancy Bedroom",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5336",
+        "Description": "Suite Single Occupancy Bedroom",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5337",
+        "Description": "Electrical",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5338",
+        "Description": "Telecommunications Room",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5339",
+        "Description": "Suite Single Occupancy Bedroom",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5340",
+        "Description": "Suite Single Occupancy Bedroom",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5343",
+        "Description": "Suite Single Occupancy Bedroom",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5344",
+        "Description": "Suite Single Occupancy Bedroom",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5347",
+        "Description": "Suite Single Occupancy Bedroom",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5348",
+        "Description": "Suite Single Occupancy Bedroom",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5351",
+        "Description": "Suite Single Occupancy Bedroom",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5352",
+        "Description": "Suite Single Occupancy Bedroom",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5355",
+        "Description": "Study Room",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5356",
+        "Description": "Restroom All Gender",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5358",
+        "Description": "Residential Service",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5358A",
+        "Description": "Residential Service",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5397A",
+        "Description": "Elevator",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5397B",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5398A",
+        "Description": "Stair",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5398B",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5399",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    }
+]

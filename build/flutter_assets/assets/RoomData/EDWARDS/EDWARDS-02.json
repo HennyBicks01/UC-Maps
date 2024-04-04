@@ -1,0 +1,1022 @@
+[
+    {
+        "Floor Code": "02",
+        "Room Code": "2102",
+        "Description": "Restroom Female",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2105",
+        "Description": "Custodial",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2106",
+        "Description": "Restroom Male",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2109",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2110",
+        "Description": "Internal Office Circ",
+        "Department Name": "CECH Innovations & Community Partnership"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2110A",
+        "Description": "Office",
+        "Department Name": "CECH Innovations & Community Partnership"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2110B",
+        "Description": "Office",
+        "Department Name": "CECH Innovations & Community Partnership"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2110C",
+        "Description": "Office",
+        "Department Name": "CECH Curriculum & Instruction"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2110D",
+        "Description": "Office",
+        "Department Name": "CECH Curriculum & Instruction"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2110E",
+        "Description": "Office",
+        "Department Name": "CECH Curriculum & Instruction"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2110F",
+        "Description": "Office",
+        "Department Name": "CECH Curriculum & Instruction"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2110G",
+        "Description": "Conference",
+        "Department Name": "CECH Curriculum & Instruction"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2110H",
+        "Description": "Office",
+        "Department Name": "CECH Curriculum & Instruction"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2110J",
+        "Description": "Internal Office Circ",
+        "Department Name": "CECH Curriculum & Instruction"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2111",
+        "Description": "Office",
+        "Department Name": "CECH Innovations & Community Partnership"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2111A",
+        "Description": "Internal Office Circ",
+        "Department Name": "CECH IT Support"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2111B",
+        "Description": "Office",
+        "Department Name": "CECH IT Support"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2111BA",
+        "Description": "Computer/Telecommunication",
+        "Department Name": "CECH IT Support"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2112",
+        "Description": "Office",
+        "Department Name": "CECH Innovations & Community Partnership"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2113",
+        "Description": "Office Svc - Other",
+        "Department Name": "CECH Innovations & Community Partnership"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2113A",
+        "Description": "Office",
+        "Department Name": "CECH Innovations & Community Partnership"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2113B",
+        "Description": "Office Svc - Other",
+        "Department Name": "CECH Innovations & Community Partnership"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2115",
+        "Description": "Computer Study Lab (Unsch)",
+        "Department Name": "CECH Facility & Research Support"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2115A",
+        "Description": "Other Lab Svc Instr",
+        "Department Name": "CECH Facility & Research Support"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2120",
+        "Description": "Internal Office Circ",
+        "Department Name": "PS Office of Public Safety"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2120A",
+        "Description": "Office Svc - Other",
+        "Department Name": "PS Public Safety Emer/Fire Safety & Pro"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2120B",
+        "Description": "File/Supply",
+        "Department Name": "PS Public Safety Support Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2120C",
+        "Description": "File/Supply",
+        "Department Name": "PS Public Safety Emer/Fire Safety & Pro"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2120D",
+        "Description": "Office Svc - Other",
+        "Department Name": "PS Office of Public Safety"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2120E",
+        "Description": "File/Supply",
+        "Department Name": "PS Public Safety Tech & Emergency Serv"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2120F",
+        "Description": "Office Svc - Other",
+        "Department Name": "PS Public Safety Tech Serv/Access Cntrl"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2120FA",
+        "Description": "Office",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2120Z",
+        "Description": "Internal Office Circ",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2124",
+        "Description": "Private Restroom",
+        "Department Name": "PS Public Safety Emer/Fire Safety & Pro"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2125",
+        "Description": "Classroom",
+        "Department Name": "CECH Curriculum & Instruction"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2126",
+        "Description": "Private Restroom",
+        "Department Name": "CECH Facility & Research Support"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2127",
+        "Description": "Other Study Lab (Unsch)",
+        "Department Name": "CECH Curriculum & Instruction"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2128",
+        "Description": "Other Instr Lab",
+        "Department Name": "CECH Office of Innovative Tech & Learnin"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2128A",
+        "Description": "Private Restroom",
+        "Department Name": "CECH Office of the Dean"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2128B",
+        "Description": "Other Lab Svc Instr",
+        "Department Name": "CECH Arlitt Center"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2129",
+        "Description": "Other Study Lab (Unsch)",
+        "Department Name": "CECH Arlitt Center"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2130A",
+        "Description": "Other Study Lab (Unsch)",
+        "Department Name": "CECH Arlitt Center"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2130A.01",
+        "Description": "Modular",
+        "Department Name": "CECH Arlitt Center"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2130B",
+        "Description": "Private Restroom",
+        "Department Name": "CECH Arlitt Center"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2130C",
+        "Description": "Office",
+        "Department Name": "CECH Arlitt Center"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2130D",
+        "Description": "Office",
+        "Department Name": "CECH Arlitt Center"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2130E",
+        "Description": "Office",
+        "Department Name": "CECH Arlitt Center"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2130F",
+        "Description": "Office",
+        "Department Name": "CECH Arlitt Center"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2130G",
+        "Description": "Office",
+        "Department Name": "CECH Arlitt Center"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2130H",
+        "Description": "Office",
+        "Department Name": "CECH Arlitt Center"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2130J",
+        "Description": "Office",
+        "Department Name": "CECH Arlitt Center"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2130K",
+        "Description": "Office",
+        "Department Name": "CECH Arlitt Center"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2130L",
+        "Description": "Office",
+        "Department Name": "CECH Arlitt Center"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2130M",
+        "Description": "Other Lab Svc Instr",
+        "Department Name": "CECH Arlitt Center"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2130N",
+        "Description": "Office",
+        "Department Name": "CECH Arlitt Center"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2130P",
+        "Description": "Office",
+        "Department Name": "CECH Arlitt Center"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2130Q",
+        "Description": "Office",
+        "Department Name": "CECH Arlitt Center"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2130R",
+        "Description": "Office",
+        "Department Name": "CECH Arlitt Center"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2130S",
+        "Description": "Office",
+        "Department Name": "CECH Arlitt Center"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2130T",
+        "Description": "Office Svc - Other",
+        "Department Name": "CECH Arlitt Center"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2130TA",
+        "Description": "File/Supply",
+        "Department Name": "CECH Arlitt Center"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2130U",
+        "Description": "Office",
+        "Department Name": "CECH Arlitt Center"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2130V",
+        "Description": "Office",
+        "Department Name": "CECH Arlitt Center"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2130W",
+        "Description": "Office",
+        "Department Name": "CECH Arlitt Center"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2130X",
+        "Description": "Office",
+        "Department Name": "CECH Arlitt Center"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2144",
+        "Description": "Office",
+        "Department Name": "CECH Arlitt Center"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2146",
+        "Description": "File/Supply",
+        "Department Name": "CECH Curriculum & Instruction"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2148",
+        "Description": "Conference",
+        "Department Name": "CECH Curriculum & Instruction"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2150",
+        "Description": "Internal Office Circ",
+        "Department Name": "CECH Curriculum & Instruction"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2150A",
+        "Description": "Workroom",
+        "Department Name": "CECH Curriculum & Instruction"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2150B",
+        "Description": "Office",
+        "Department Name": "CECH Curriculum & Instruction"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2150C",
+        "Description": "Office",
+        "Department Name": "CECH Education"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2150D",
+        "Description": "Office",
+        "Department Name": "CECH Curriculum & Instruction"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2150E",
+        "Description": "Office",
+        "Department Name": "CECH Education"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2150F",
+        "Description": "Office",
+        "Department Name": "CECH Curriculum & Instruction"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2150G",
+        "Description": "Office",
+        "Department Name": "CECH Curriculum & Instruction"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2150H",
+        "Description": "Office",
+        "Department Name": "CECH Curriculum & Instruction"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2150J",
+        "Description": "Office",
+        "Department Name": "CECH Curriculum & Instruction"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2150K",
+        "Description": "Office Svc - Other",
+        "Department Name": "CECH Curriculum & Instruction"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2150L",
+        "Description": "Office",
+        "Department Name": "CECH Arlitt Center"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2150M",
+        "Description": "Office",
+        "Department Name": "CECH Curriculum & Instruction"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2150N",
+        "Description": "Office",
+        "Department Name": "CECH Curriculum & Instruction"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2150P",
+        "Description": "Office",
+        "Department Name": "CECH Arlitt Center"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2150Q",
+        "Description": "Office",
+        "Department Name": "CECH Curriculum & Instruction"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2150R",
+        "Description": "Office Svc - Other",
+        "Department Name": "CECH Curriculum & Instruction"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2150S",
+        "Description": "Workroom",
+        "Department Name": "CECH Arlitt Center"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2150T",
+        "Description": "Office",
+        "Department Name": "CECH Curriculum & Instruction"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2150U",
+        "Description": "Office",
+        "Department Name": "CECH Curriculum & Instruction"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2150V",
+        "Description": "Office",
+        "Department Name": "CECH Curriculum & Instruction"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2150W",
+        "Description": "Office",
+        "Department Name": "CECH Curriculum & Instruction"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2150X",
+        "Description": "Office",
+        "Department Name": "CECH Curriculum & Instruction"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2150Y",
+        "Description": "Classroom",
+        "Department Name": "CECH Curriculum & Instruction"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2196",
+        "Description": "Shaft Space",
+        "Department Name": "CECH Arlitt Center"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2197A",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2197B",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2197C",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2197D",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2197E",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2198A",
+        "Description": "Stair",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2198B",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2198C",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2199",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2310.01",
+        "Description": "Modular",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2310.02",
+        "Description": "Modular",
+        "Department Name": "PS Office of Public Safety"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2310.03",
+        "Description": "Modular",
+        "Department Name": "PS Office of Public Safety"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2310.04",
+        "Description": "Modular",
+        "Department Name": "PS Office of Public Safety"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2310A",
+        "Description": "Office",
+        "Department Name": "PS Office of Public Safety"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2310B",
+        "Description": "Office",
+        "Department Name": "PS UC Police Investigations & Crime Pre"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2310C",
+        "Description": "Office",
+        "Department Name": "PS Public Safety Tech & Emergency Serv"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2310D",
+        "Description": "Break Room",
+        "Department Name": "PS Police Division Chief of Staff"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2310G",
+        "Description": "Office",
+        "Department Name": "PS Office of Public Safety"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2310H",
+        "Description": "Office",
+        "Department Name": "PS Public Safety Tech & Emergency Serv"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2310J",
+        "Description": "Office",
+        "Department Name": "PS Public Safety Emergency Management"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2310K",
+        "Description": "Office",
+        "Department Name": "PS Police Division Chief of Staff"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2310M",
+        "Description": "Office Svc - Other",
+        "Department Name": "PS Police Division Chief of Staff"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2310N",
+        "Description": "Office",
+        "Department Name": "PS Office of Public Safety"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2310P",
+        "Description": "Office",
+        "Department Name": "PS Police Division Chief of Staff"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2310Q",
+        "Description": "Office",
+        "Department Name": "PS Police Division Chief of Staff"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2310R",
+        "Description": "Office",
+        "Department Name": "PS Police Division Chief of Staff"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2310S",
+        "Description": "Office",
+        "Department Name": "PS Police Division Chief of Staff"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2310T",
+        "Description": "Office",
+        "Department Name": "PS Public Safety Tech & Emergency Serv"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2310U",
+        "Description": "Office",
+        "Department Name": "PS Office of Public Safety"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2310V",
+        "Description": "Office",
+        "Department Name": "PS Public Safety Emergency Management"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2310W",
+        "Description": "Office",
+        "Department Name": "PS Office of Public Safety"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2310Z",
+        "Description": "Internal Office Circ",
+        "Department Name": "PS Office of Public Safety"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2312",
+        "Description": "Conference",
+        "Department Name": "PS Office of Public Safety"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2314",
+        "Description": "Mechanical",
+        "Department Name": "PS Office of Public Safety"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2316",
+        "Description": "Restroom Female",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2318",
+        "Description": "Restroom Male",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2319",
+        "Description": "Custodial",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2322",
+        "Description": "Office",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2323",
+        "Description": "Office Svc - Other",
+        "Department Name": "PS Public Safety Field Operations"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2323A",
+        "Description": "Office Svc - Other",
+        "Department Name": "PS Public Safety Field Operations"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2323B",
+        "Description": "Office Svc - Other",
+        "Department Name": "PS Public Safety Field Operations"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2324",
+        "Description": "Copy/Mail",
+        "Department Name": "PS Public Safety Field Operations"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2325",
+        "Description": "Break Room",
+        "Department Name": "PS Public Safety Asst Chief of Police"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2325A",
+        "Description": "Break Room",
+        "Department Name": "PS Office of Public Safety"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2326",
+        "Description": "Office",
+        "Department Name": "PS Office of Public Safety"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2327",
+        "Description": "Restroom Female",
+        "Department Name": "PS Office of Public Safety"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2328",
+        "Description": "Office",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2329",
+        "Description": "Restroom Male",
+        "Department Name": "PS Public Safety Field Operations"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2330",
+        "Description": "Office",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2331",
+        "Description": "Office Svc - Other",
+        "Department Name": "PS Public Safety Support Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2332",
+        "Description": "Office",
+        "Department Name": "PS Office of Public Safety"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2334",
+        "Description": "Office",
+        "Department Name": "PS Public Safety Support Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2335",
+        "Description": "Locker",
+        "Department Name": "PS UC Police Investigations & Crime Pre"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2336",
+        "Description": "Office",
+        "Department Name": "PS Office of Public Safety"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2337",
+        "Description": "Office Svc - Other",
+        "Department Name": "PS Special Events & Prof Standards"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2337A",
+        "Description": "Office Svc - Other",
+        "Department Name": "PS Public Safety Support Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2337B",
+        "Description": "Office Svc - Other",
+        "Department Name": "PS Office of Public Safety"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2337BA",
+        "Description": "Office Svc - Other",
+        "Department Name": "PS Public Safety Support Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2338",
+        "Description": "Office",
+        "Department Name": "PS Public Safety Support Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2340",
+        "Description": "Office",
+        "Department Name": "PS Public Safety Field Operations"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2341",
+        "Description": "Office Svc - Other",
+        "Department Name": "PS UC Police Investigations & Crime Pre"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2342",
+        "Description": "Office",
+        "Department Name": "PS Public Safety Support Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2342A",
+        "Description": "Office Svc - Other",
+        "Department Name": "PS UC Police Investigations & Crime Pre"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2343",
+        "Description": "Conference",
+        "Department Name": "PS Office of Public Safety"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2344",
+        "Description": "Office",
+        "Department Name": "PS Office of Public Safety"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2346",
+        "Description": "Office",
+        "Department Name": "PS Special Events & Prof Standards"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2348",
+        "Description": "Office",
+        "Department Name": "PS Office of Public Safety"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2350",
+        "Description": "Office",
+        "Department Name": "PS Office of Public Safety"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2351",
+        "Description": "Office Svc - Other",
+        "Department Name": "PS Office of Public Safety"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2352",
+        "Description": "Office",
+        "Department Name": "PS Public Safety Support Services"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2396",
+        "Description": "Shaft Space",
+        "Department Name": "PS Public Safety Officer Training"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2396D",
+        "Description": "Telecommunications Room",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2398E",
+        "Description": "Stair",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2399S",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "2399W",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "L208",
+        "Description": "Mechanical",
+        "Department Name": "PS Office of Public Safety"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "T203",
+        "Description": "Mechanical",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    }
+]

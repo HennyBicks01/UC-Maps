@@ -1,0 +1,176 @@
+[
+    {
+        "Floor Code": "01",
+        "Room Code": "100",
+        "Description": "Dining Svc",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "100Z",
+        "Description": "Corridor",
+        "Department Name": "Aramark"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "101",
+        "Description": "Dining",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "101A",
+        "Description": "Dining Svc",
+        "Department Name": "Aramark"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "101B",
+        "Description": "Restroom Male",
+        "Department Name": "Aramark"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "101C",
+        "Description": "Restroom All Gender",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "101D",
+        "Description": "Restroom Female",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "101DA",
+        "Description": "Mechanical",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "101E",
+        "Description": "Electrical",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "101F",
+        "Description": "Dining Svc",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "101G",
+        "Description": "Dining Svc",
+        "Department Name": "Aramark"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "101H",
+        "Description": "Dining Svc",
+        "Department Name": "Aramark"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "101K",
+        "Description": "Dining Svc",
+        "Department Name": "Aramark"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "101M",
+        "Description": "Dining Svc",
+        "Department Name": "Aramark"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "101N",
+        "Description": "Dining Svc",
+        "Department Name": "Aramark"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "101P",
+        "Description": "Dining Svc",
+        "Department Name": "Aramark"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "101PA",
+        "Description": "Electrical",
+        "Department Name": "Aramark"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "101S",
+        "Description": "Dining Svc",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "101T",
+        "Description": "Dining Svc",
+        "Department Name": "Aramark"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "101ZE",
+        "Description": "Corridor",
+        "Department Name": "Aramark"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "101ZN",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "101ZW",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "110",
+        "Description": "Dining",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "110A",
+        "Description": "Dining Svc",
+        "Department Name": "Aramark"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "110B",
+        "Description": "Dining Svc",
+        "Department Name": "Aramark"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "196",
+        "Description": "Shaft Space",
+        "Department Name": "Aramark"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "197B",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "198A",
+        "Description": "Stair",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "198B",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    }
+]

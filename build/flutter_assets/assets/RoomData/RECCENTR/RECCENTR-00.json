@@ -1,0 +1,488 @@
+[
+    {
+        "Floor Code": "00",
+        "Room Code": "0110",
+        "Description": "Athletic Svc",
+        "Department Name": "Athletics Football"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0110A",
+        "Description": "Electrical",
+        "Department Name": "Athletics"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0110B",
+        "Description": "Athletic Locker/Shower",
+        "Department Name": "Athletics Football"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0110C",
+        "Description": "Athletic Svc",
+        "Department Name": "Athletics Football"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0111",
+        "Description": "Athletic Svc",
+        "Department Name": "Athletics Sports Medicine"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0111A",
+        "Description": "Private Restroom",
+        "Department Name": "Athletics Football"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0112",
+        "Description": "Athletic Locker/Shower",
+        "Department Name": "Athletics Football"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0112A",
+        "Description": "Athletic Locker/Shower",
+        "Department Name": "Athletics Football"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0112AA",
+        "Description": "Private Restroom",
+        "Department Name": "Athletics Football"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0114",
+        "Description": "Mechanical",
+        "Department Name": "A&F Rec Center"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0115",
+        "Description": "Office",
+        "Department Name": "A&F Campus Services"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0116",
+        "Description": "Mechanical",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0118",
+        "Description": "Mechanical",
+        "Department Name": "A&F Campus Services"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0119",
+        "Description": "Corridor",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0119A",
+        "Description": "Custodial",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0119B",
+        "Description": "Custodial",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0119C",
+        "Description": "Dining Svc",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0119D",
+        "Description": "Dining Svc",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0119E",
+        "Description": "Building Communications Room",
+        "Department Name": "Aramark"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0119F",
+        "Description": "Dining Svc",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0119G",
+        "Description": "Building Communications Room",
+        "Department Name": "Aramark"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0119GA",
+        "Description": "Mechanical",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0119H",
+        "Description": "Dining Svc",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0119I",
+        "Description": "Office Svc - Other",
+        "Department Name": "Aramark"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0119J",
+        "Description": "Dining Svc",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0119K",
+        "Description": "Locker",
+        "Department Name": "Aramark"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0119L",
+        "Description": "Locker",
+        "Department Name": "Aramark"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0120",
+        "Description": "Loading",
+        "Department Name": "Aramark"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0197A",
+        "Description": "Elevator",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0198A",
+        "Description": "Stair",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0199",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0199A",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0217",
+        "Description": "Office",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0219",
+        "Description": "Mechanical",
+        "Department Name": "A&F Rec Center"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0220",
+        "Description": "Recreation",
+        "Department Name": "A&F Rec Center"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0220A",
+        "Description": "Recreation Svc",
+        "Department Name": "A&F Rec Center"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0220B",
+        "Description": "Central Storage",
+        "Department Name": "A&F Rec Center"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0220C",
+        "Description": "Recreation Svc",
+        "Department Name": "A&F Rec Center"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0220D",
+        "Description": "Recreation Svc",
+        "Department Name": "A&F Rec Center"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0220DA",
+        "Description": "Mechanical",
+        "Department Name": "A&F Rec Center"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0220E",
+        "Description": "Telecommunications Room",
+        "Department Name": "A&F Rec Center"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0220F",
+        "Description": "Electrical",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0221",
+        "Description": "Athletic Locker/Shower",
+        "Department Name": "A&F Rec Center"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0221A",
+        "Description": "Athletic Locker/Shower",
+        "Department Name": "A&F Rec Center"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0222",
+        "Description": "Corridor",
+        "Department Name": "Athletics Swimming & Diving - Men & Wome"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0222A",
+        "Description": "Restroom All Gender",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0222B",
+        "Description": "Restroom All Gender",
+        "Department Name": "A&F Rec Center"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0222C",
+        "Description": "Restroom All Gender",
+        "Department Name": "A&F Rec Center"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0222D",
+        "Description": "Restroom All Gender",
+        "Department Name": "A&F Rec Center"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0223",
+        "Description": "Athletic Locker/Shower",
+        "Department Name": "A&F Rec Center"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0223E",
+        "Description": "Athletic Locker/Shower",
+        "Department Name": "A&F Rec Center"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0224",
+        "Description": "Recreation",
+        "Department Name": "Athletics Swimming & Diving - Men & Wome"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0224A",
+        "Description": "Recreation Svc",
+        "Department Name": "A&F Rec Center"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0230",
+        "Description": "Recreation",
+        "Department Name": "A&F Rec Center"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0230A",
+        "Description": "Recreation Svc",
+        "Department Name": "A&F Rec Center"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0230B",
+        "Description": "Recreation Svc",
+        "Department Name": "A&F Rec Center"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0230C",
+        "Description": "Recreation Svc",
+        "Department Name": "A&F Rec Center"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0230D",
+        "Description": "Mechanical",
+        "Department Name": "A&F Rec Center"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0230DA",
+        "Description": "Mechanical",
+        "Department Name": "A&F Rec Center"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0230E",
+        "Description": "Office",
+        "Department Name": "A&F Rec Center"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0230F",
+        "Description": "Recreation",
+        "Department Name": "A&F Rec Center"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0230G",
+        "Description": "Recreation Svc",
+        "Department Name": "A&F Rec Center"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0240",
+        "Description": "Recreation",
+        "Department Name": "A&F Rec Center"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0240I",
+        "Description": "Recreation Svc",
+        "Department Name": "Athletics Swimming & Diving - Men & Wome"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0240K",
+        "Description": "Recreation Svc",
+        "Department Name": "A&F Rec Center"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0241",
+        "Description": "Recreation Svc",
+        "Department Name": "A&F Rec Center"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0296",
+        "Description": "Shaft Space",
+        "Department Name": "Athletics Swimming & Diving - Men & Wome"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0297B",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0298B",
+        "Description": "Stair",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0298E",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0298F",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0299",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0510",
+        "Description": "Mechanical",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0520",
+        "Description": "Mechanical",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0550",
+        "Description": "Shaft Space",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0595B",
+        "Description": "Tunnel",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0595C",
+        "Description": "Tunnel",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0597A",
+        "Description": "Elevator",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0598A",
+        "Description": "Stair",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0598B",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "00",
+        "Room Code": "0599X",
+        "Description": "Exterior Circulation",
+        "Department Name": "Hallways"
+    }
+]
