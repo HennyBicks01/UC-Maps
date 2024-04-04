@@ -3,10 +3,13 @@ import 'dart:convert';
 import 'dart:html';
 import 'dart:math';
 
+import 'package:dio/dio.dart';
 import 'package:find_flush/png.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_map/flutter_map.dart';
+import 'package:flutter_map_cancellable_tile_provider/flutter_map_cancellable_tile_provider.dart';
+import 'package:flutter_map_polywidget/flutter_map_polywidget.dart';
 import 'package:latlong2/latlong.dart';
 import 'package:geolocator/geolocator.dart';
 import 'building.dart';
@@ -58,19 +61,27 @@ class _MyHomePageState extends State<MyHomePage> {
   Set<int> processedImagesIndices = {};
   List<LatLng> currentImageCorners = [];
   List<Point> currentScreenCorners = [];
-  ImageProvider imageProvider = AssetImage('');
-  Map<String, List<LatLng>> imageCorners = {};
+  List<PolyWidget> polyWidgets = [];
+  ImageProvider imageProvider = const AssetImage('');
+  Map<String, ImageData> imageCorners = {};
   String imageName = "";
-
-
-
-
+  double currentCameraRotation = 0;
+  double boxSize = 0.0;
+  final dio = Dio();
 
   @override
   void initState() {
     super.initState();
     _determinePosition();
     searchController.addListener(_filterBuildings);
+
+    WidgetsBinding.instance.addPostFrameCallback((_) {
+      final Size screenSize = MediaQuery.of(context).size;
+      final double minDimension = min(screenSize.width, screenSize.height);
+      setState(() {
+        boxSize = minDimension * 0.95; // Set to 95% of the minimum dimension
+      });
+    });
   }
 
   @override
@@ -339,8 +350,6 @@ class _MyHomePageState extends State<MyHomePage> {
         ),
       );
     }).toList();
-
-
     return rooms;
   }
 
@@ -382,15 +391,24 @@ class _MyHomePageState extends State<MyHomePage> {
     if (imagePaths.isNotEmpty) {
       String folderName = extractFolderName(imagePaths[currentIndex]);
       Map<String, dynamic> jsonStructure = {
-        "floors": [],
+        "images": {},
       };
+
       imageCorners.forEach((key, value) {
-        jsonStructure[key] = value.map((e) => [e.latitude, e.longitude]).toList();
+        // Now includes corners, image path, and camera rotation
+        jsonStructure["images"][key] = {
+          "corners": value.corners.map((e) => [e.latitude, e.longitude]).toList(),
+          //"imagePath": value.imagePath,
+          "cameraRotation": value.cameraRotation, // Include camera rotation
+        };
       });
+
       String jsonString = jsonEncode(jsonStructure);
       triggerDownload(jsonString, "$folderName.json");
     }
   }
+
+
 
   void triggerDownload(String data, String fileName) {
     final text = data;
@@ -435,7 +453,7 @@ class _MyHomePageState extends State<MyHomePage> {
     // Convert LatLng to screen coordinates at the given zoom level
     Point centerScreen = mapController.camera.project(centerGeo, zoom);
 
-    double overlaySizeInPixels = 900; // Overlay size in pixels directly, assuming 900px as a base size
+    double overlaySizeInPixels =  boxSize; // Overlay size in pixels directly, assuming 900px as a base size
     double aspectRatio = selectedImageSize.width / selectedImageSize.height;
     double overlayWidthPixels, overlayHeightPixels;
 
@@ -491,38 +509,63 @@ class _MyHomePageState extends State<MyHomePage> {
     return Point<double>(finalX, finalY);
   }
 
+  // This function creates PolyWidgets for all processed images
+  List<PolyWidget> createPolyWidgetsForProcessedImages() {
+    List<PolyWidget> widgets = [];
+    imageCorners.forEach((imageName, imageData) {
+      if (imageData.corners.length >= 3) {
+        // Use imageData.imagePath for each PolyWidget
+        widgets.add(PolyWidget.threePoints(
+          pointA: imageData.corners[0],
+          pointB: imageData.corners[1],
+          approxPointC: imageData.corners[2],
+          noRotation: true,
+          child: Opacity(
+            opacity: 0.3,
+            child: Image.asset(imageData.imagePath), // Use the specific image path
+          ),
+        ));
+      }
+    });
+    return widgets;
+  }
+
   void setImageAsProcessed() {
     setState(() {
       if (imagePaths.isNotEmpty) {
         processedImagesIndices.add(currentIndex);
         String imagePath = imagePaths[currentIndex];
-        String imageName = imagePath.split('/').last.split('.')[0]; // More precise split for extension
-        imageCorners[imageName] = List<LatLng>.from(currentImageCorners); // Ensure a copy is made if necessary
+        String imageName = imagePath.split('/').last.split('.')[0];
+        currentCameraRotation = mapController.camera.rotation;
+        // Update to store both corners and imagePath
+        imageCorners[imageName] = ImageData(
+          List<LatLng>.from(currentImageCorners),
+          imagePath,
+          currentCameraRotation, // This needs to be defined or obtained elsewhere
+        );
 
-        // Debugging output
+
+        // Rebuild the polyWidgets list with the updated structure
+        polyWidgets = createPolyWidgetsForProcessedImages();
+
         print('Processing image: $imageName with corners: $currentImageCorners');
 
         skipFloor();
       }
     });
 
-    // Check if all floors have been processed after state update
     if (processedImagesIndices.length >= imagePaths.length) {
       print('All images processed. Saving corners...');
       saveAndDownloadCorners();
     }
   }
 
-
   void skipFloor() {
     setState(() {
       int nextIndex = currentIndex + 1;
       while (processedImagesIndices.contains(nextIndex) && nextIndex < imagePaths.length) {
         nextIndex++;
-      }
-      // Loop back to the start if we've reached the end
-      currentIndex = nextIndex < imagePaths.length ? nextIndex : 0;
-      // Debugging output
+      }currentIndex = nextIndex < imagePaths.length ? nextIndex : 0;
       print('Skipping to floor: ${currentIndex + 1}, image path: ${imagePaths[currentIndex]}');
       // Prepare for processing the next image
       _selectImageForOverlay(imagePaths[currentIndex]);
@@ -558,7 +601,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 for (var polyData in getPolygons()) {
                   if (isPointInPolygon(point, polyData.polygon.points)) {
                     String buildingName = polyData.name;
-                    var operationMode = 1;
+                    var operationMode = 2;
                     if (operationMode == 1) {
                       // PART 1 ***************************************
                       Navigator.of(context).push(MaterialPageRoute(
@@ -588,10 +631,12 @@ class _MyHomePageState extends State<MyHomePage> {
               },
             ),
             children: [
+
               TileLayer(
-                urlTemplate : 'http://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}.png',
-                subdomains : const ['a','b','c','d','e'],// Enable retina mode based on device density
+                urlTemplate: 'https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}.png',
+                subdomains: const ['a', 'b', 'c', 'd', 'e'],  // Enable retina mode based on device density
                 userAgentPackageName: 'com.example.app',
+                tileProvider: CancellableNetworkTileProvider(),
               ),
               MarkerLayer(markers: markers),
               Opacity(
@@ -604,6 +649,9 @@ class _MyHomePageState extends State<MyHomePage> {
               ),
               PolygonLayer(
                 polygons: createPolygonsForMap() + filteredPolygons.map((roomData) => roomData.polygon).toList(),
+              ),
+              PolyWidgetLayer(
+                polyWidgets: polyWidgets, // Dynamically create PolyWidgets for processed images
               ),
               MarkerLayer(
                  //getPolygons(),
@@ -623,8 +671,8 @@ class _MyHomePageState extends State<MyHomePage> {
                       opacity: 0.6,
                       child: Image.asset(
                         selectedImagePath!,
-                        width: 900.0, // Adjust as needed
-                        height: 900.0, // Adjust as needed
+                        width: boxSize, // Adjust as needed
+                        height: boxSize, // Adjust as needed
                       ),
                     ),
                   ),
@@ -808,6 +856,17 @@ class MapOverlayWidget extends StatelessWidget {
     );
   }
 }
+
+class ImageData {
+  List<LatLng> corners;
+  String imagePath;
+  double cameraRotation; // Assuming rotation is a double
+
+  ImageData(this.corners, this.imagePath, this.cameraRotation);
+}
+
+
+// Your map would then be:
 
 
 

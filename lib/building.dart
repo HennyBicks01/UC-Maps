@@ -82,7 +82,8 @@ List<PolygonData> getPolygons() {
         name: 'Test',
         polygon: Polygon(
           points: const
-          [LatLng(39.13027695589673, -84.51897520988597), LatLng(39.13024303980454, -84.51849542727126), LatLng(39.129994209235804, -84.51852465948997), LatLng(39.130028125447815, -84.51900444210467)],
+          [LatLng(39.130269954417265, -84.51897999145478), LatLng(39.13023686417645, -84.51849807227374), LatLng(39.130002614661244, -84.51852480240734), LatLng(39.1300357050121, -84.51900672158838)],
+
           color: const Color.fromRGBO(224, 1, 34, .1),
           borderColor: const Color.fromRGBO(184, 1, 28, .40),
           borderStrokeWidth: 2.0,
