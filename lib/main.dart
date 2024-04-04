@@ -66,6 +66,7 @@ class _MyHomePageState extends State<MyHomePage> {
   Map<String, ImageData> imageCorners = {};
   String imageName = "";
   double currentCameraRotation = 0;
+  late LatLng currentCentroid;
   double boxSize = 0.0;
   final dio = Dio();
 
@@ -398,7 +399,7 @@ class _MyHomePageState extends State<MyHomePage> {
         // Now includes corners, image path, and camera rotation
         jsonStructure["images"][key] = {
           "corners": value.corners.map((e) => [e.latitude, e.longitude]).toList(),
-          //"imagePath": value.imagePath,
+          "centroid": value.centroid,
           "cameraRotation": value.cameraRotation, // Include camera rotation
         };
       });
@@ -537,11 +538,13 @@ class _MyHomePageState extends State<MyHomePage> {
         String imagePath = imagePaths[currentIndex];
         String imageName = imagePath.split('/').last.split('.')[0];
         currentCameraRotation = mapController.camera.rotation;
+        currentCentroid = mapController.camera.center;
         // Update to store both corners and imagePath
         imageCorners[imageName] = ImageData(
           List<LatLng>.from(currentImageCorners),
           imagePath,
-          currentCameraRotation, // This needs to be defined or obtained elsewhere
+          currentCameraRotation,
+          currentCentroid,// This needs to be defined or obtained elsewhere
         );
 
 
@@ -861,8 +864,8 @@ class ImageData {
   List<LatLng> corners;
   String imagePath;
   double cameraRotation; // Assuming rotation is a double
-
-  ImageData(this.corners, this.imagePath, this.cameraRotation);
+  LatLng centroid;
+  ImageData(this.corners, this.imagePath, this.cameraRotation, this.centroid);
 }
 
 
