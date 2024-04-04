@@ -1,0 +1,74 @@
+[
+    {
+        "Floor Code": "B",
+        "Room Code": "B01",
+        "Description": "Mechanical",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B01A",
+        "Description": "Mechanical",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B02",
+        "Description": "Shaft Space",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B04",
+        "Description": "Mechanical",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B04A",
+        "Description": "Mechanical",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B05",
+        "Description": "Mechanical",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B08",
+        "Description": "Restroom Male",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B97A",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B97B",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B98A",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B98B",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "B",
+        "Room Code": "B99",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    }
+]

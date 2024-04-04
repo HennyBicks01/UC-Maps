@@ -1,0 +1,284 @@
+[
+    {
+        "Floor Code": "05",
+        "Room Code": "502",
+        "Description": "Restroom Male",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "505",
+        "Description": "Performance Study Lab (Unsch)",
+        "Department Name": "CCM Performance Studies"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "507",
+        "Description": "Performance Study Lab (Unsch)",
+        "Department Name": "CCM Performance Studies"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "511",
+        "Description": "Performance Study Lab (Unsch)",
+        "Department Name": "CCM Performance Studies"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "513",
+        "Description": "Other Lab Svc Instr",
+        "Department Name": "CCM Performance Studies"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "515",
+        "Description": "Performance Study Lab (Unsch)",
+        "Department Name": "CCM Performance Studies"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "516",
+        "Description": "Restroom Female",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "518",
+        "Description": "Custodial",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "519",
+        "Description": "Performance Study Lab (Unsch)",
+        "Department Name": "CCM Performance Studies"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "520",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "521",
+        "Description": "Performance Study Lab (Unsch)",
+        "Department Name": "CCM Performance Studies"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "524",
+        "Description": "Performance Study Lab (Unsch)",
+        "Department Name": "CCM Performance Studies"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "525",
+        "Description": "Performance Study Lab (Unsch)",
+        "Department Name": "CCM Performance Studies"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "526",
+        "Description": "Performance Study Lab (Unsch)",
+        "Department Name": "CCM Performance Studies"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "527",
+        "Description": "Performance Study Lab (Unsch)",
+        "Department Name": "CCM Performance Studies"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "528",
+        "Description": "Performance Study Lab (Unsch)",
+        "Department Name": "CCM Performance Studies"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "531",
+        "Description": "Performance Study Lab (Unsch)",
+        "Department Name": "CCM Performance Studies"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "532",
+        "Description": "Performance Study Lab (Unsch)",
+        "Department Name": "CCM Performance Studies"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "533",
+        "Description": "Performance Study Lab (Unsch)",
+        "Department Name": "CCM Performance Studies"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "537",
+        "Description": "Performance Study Lab (Unsch)",
+        "Department Name": "CCM Performance Studies"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "538",
+        "Description": "Performance Study Lab (Unsch)",
+        "Department Name": "CCM Performance Studies"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "540",
+        "Description": "Other Lab Svc Instr",
+        "Department Name": "CCM Performance Studies"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "541",
+        "Description": "Other Lab Svc Instr",
+        "Department Name": "CCM Performance Studies"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "542",
+        "Description": "Performance Study Lab (Unsch)",
+        "Department Name": "CCM Performance Studies"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "543",
+        "Description": "Performance Study Lab (Unsch)",
+        "Department Name": "CCM Performance Studies"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "545",
+        "Description": "Performance Study Lab (Unsch)",
+        "Department Name": "CCM Performance Studies"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "546",
+        "Description": "Performance Study Lab (Unsch)",
+        "Department Name": "CCM Performance Studies"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "549",
+        "Description": "Other Lab Svc Instr",
+        "Department Name": "CCM Performance Studies"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "562",
+        "Description": "Performance Study Lab (Unsch)",
+        "Department Name": "CCM Performance Studies"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "566",
+        "Description": "Performance Study Lab (Unsch)",
+        "Department Name": "CCM Performance Studies"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "567",
+        "Description": "Performance Study Lab (Unsch)",
+        "Department Name": "CCM Performance Studies"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "568",
+        "Description": "Performance Study Lab (Unsch)",
+        "Department Name": "CCM Performance Studies"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "570",
+        "Description": "Performance Study Lab (Unsch)",
+        "Department Name": "CCM Performance Studies"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "571",
+        "Description": "Performance Study Lab (Unsch)",
+        "Department Name": "CCM Performance Studies"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "572",
+        "Description": "Performance Study Lab (Unsch)",
+        "Department Name": "CCM Performance Studies"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "573",
+        "Description": "Performance Study Lab (Unsch)",
+        "Department Name": "CCM Performance Studies"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "574",
+        "Description": "Performance Study Lab (Unsch)",
+        "Department Name": "CCM Performance Studies"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "575",
+        "Description": "Performance Study Lab (Unsch)",
+        "Department Name": "CCM Performance Studies"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "576",
+        "Description": "Performance Study Lab (Unsch)",
+        "Department Name": "CCM Performance Studies"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "577",
+        "Description": "Performance Study Lab (Unsch)",
+        "Department Name": "CCM Performance Studies"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "578",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "596",
+        "Description": "Shaft Space",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "597A",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "597B",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "598A",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "598B",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "599",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    }
+]

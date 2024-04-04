@@ -1,0 +1,266 @@
+[
+    {
+        "Floor Code": "03",
+        "Room Code": "300",
+        "Description": "Office Svc - Other",
+        "Department Name": "CEAS - Aerospace Eng & Eng Mechanics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "300A",
+        "Description": "Special Research Lab",
+        "Department Name": "CEAS - Aerospace Eng & Eng Mechanics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "300B",
+        "Description": "Special Research Lab",
+        "Department Name": "CEAS - Aerospace Eng & Eng Mechanics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "300C",
+        "Description": "Special Research Lab",
+        "Department Name": "CEAS - Aerospace Eng & Eng Mechanics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "300D",
+        "Description": "Other Lab Svc Instr",
+        "Department Name": "CEAS - Aerospace Eng & Eng Mechanics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "300E",
+        "Description": "Special Research Lab",
+        "Department Name": "CEAS - Aerospace Eng & Eng Mechanics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "300F",
+        "Description": "Special Research Lab",
+        "Department Name": "CEAS - Aerospace Eng & Eng Mechanics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "300L",
+        "Description": "Design Study Lab (Unsch)",
+        "Department Name": "CEAS - Aerospace Eng & Eng Mechanics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "301",
+        "Description": "Office",
+        "Department Name": "CEAS - Aerospace Eng & Eng Mechanics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "302",
+        "Description": "Office",
+        "Department Name": "CEAS - Aerospace Eng & Eng Mechanics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "303",
+        "Description": "Office",
+        "Department Name": "CEAS - Aerospace Eng & Eng Mechanics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "304",
+        "Description": "Office",
+        "Department Name": "CEAS - Aerospace Eng & Eng Mechanics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "305",
+        "Description": "Instrument Lab",
+        "Department Name": "CEAS - Aerospace Eng & Eng Mechanics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "306",
+        "Description": "Instrument Lab",
+        "Department Name": "CEAS - Aerospace Eng & Eng Mechanics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "307",
+        "Description": "Office",
+        "Department Name": "CEAS - Aerospace Eng & Eng Mechanics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "308",
+        "Description": "Office",
+        "Department Name": "CEAS - Aerospace Eng & Eng Mechanics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "309",
+        "Description": "Office",
+        "Department Name": "CEAS - Aerospace Eng & Eng Mechanics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "310",
+        "Description": "Office",
+        "Department Name": "CEAS - Aerospace Eng & Eng Mechanics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "311",
+        "Description": "Shop",
+        "Department Name": "CEAS - Aerospace Eng & Eng Mechanics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "311A",
+        "Description": "Special Rsch Lab Svc",
+        "Department Name": "CEAS - Aerospace Eng & Eng Mechanics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "311B",
+        "Description": "Special Rsch Lab Svc",
+        "Department Name": "CEAS - Aerospace Eng & Eng Mechanics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "314",
+        "Description": "Custodial",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "315",
+        "Description": "Private Restroom",
+        "Department Name": "CEAS - Aerospace Eng & Eng Mechanics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "316",
+        "Description": "Office",
+        "Department Name": "CEAS - Aerospace Eng & Eng Mechanics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "316A",
+        "Description": "Telecommunications Room",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "317",
+        "Description": "Office",
+        "Department Name": "CEAS - Aerospace Eng & Eng Mechanics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "318",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "345",
+        "Description": "Utility Tunnel",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "346",
+        "Description": "Shaft Space",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "347B",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "347C",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "348A",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "348B",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "348C",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "349",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "350",
+        "Description": "Other Lab Svc Rsch",
+        "Department Name": "CEAS - College of Eng & Appl Science"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "352",
+        "Description": "Other Lab Svc Rsch",
+        "Department Name": "CEAS - College of Eng & Appl Science"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "355",
+        "Description": "Loading",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "356",
+        "Description": "Loading",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "356A",
+        "Description": "Containment Facility",
+        "Department Name": "CEAS - Aerospace Eng & Eng Mechanics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "360",
+        "Description": "Special Rsch Lab Svc",
+        "Department Name": "CEAS - Aerospace Eng & Eng Mechanics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "360A",
+        "Description": "Special Rsch Lab Svc",
+        "Department Name": "CEAS - Aerospace Eng & Eng Mechanics"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "380",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "396",
+        "Description": "Shaft Space",
+        "Department Name": "Shaft Spaces"
+    }
+]

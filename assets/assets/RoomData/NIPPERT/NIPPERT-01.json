@@ -1,0 +1,290 @@
+[
+    {
+        "Floor Code": "01",
+        "Room Code": "144",
+        "Description": "Retail",
+        "Department Name": "A&F University Conferencing"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "145",
+        "Description": "Lobby",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "145A",
+        "Description": "Electrical",
+        "Department Name": "A&F University Conferencing"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "146",
+        "Description": "Athletic Svc",
+        "Department Name": "A&F University Conferencing"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "146A",
+        "Description": "Restroom All Gender",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "149A",
+        "Description": "Telecommunications Room",
+        "Department Name": "A&F University Conferencing"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "150",
+        "Description": "Retail",
+        "Department Name": "A&F University Conferencing"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "150A",
+        "Description": "Office",
+        "Department Name": "A&F University Conferencing"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "150B",
+        "Description": "Retail Svc",
+        "Department Name": "A&F University Conferencing"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "150C",
+        "Description": "Retail Svc",
+        "Department Name": "A&F University Conferencing"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "150Z",
+        "Description": "Lobby",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "152",
+        "Description": "Athletic Svc",
+        "Department Name": "A&F University Conferencing"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "153",
+        "Description": "Mechanical",
+        "Department Name": "A&F University Conferencing"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "155",
+        "Description": "Retail",
+        "Department Name": "A&F University Conferencing"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "155A",
+        "Description": "Retail Svc",
+        "Department Name": "A&F University Conferencing"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "156",
+        "Description": "Restroom Male",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "157",
+        "Description": "Restroom Female",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "158",
+        "Description": "Custodial",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "159",
+        "Description": "Restroom All Gender",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "178",
+        "Description": "Restroom Male",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "179",
+        "Description": "Retail",
+        "Department Name": "A&F University Conferencing"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "179A",
+        "Description": "Lobby",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "180",
+        "Description": "Restroom All Gender",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "181",
+        "Description": "Custodial",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "183",
+        "Description": "Restroom Female",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "183A",
+        "Description": "Electrical",
+        "Department Name": "A&F University Conferencing"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "183B",
+        "Description": "Telecommunications Room",
+        "Department Name": "A&F University Conferencing"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "184",
+        "Description": "Retail Svc",
+        "Department Name": "A&F University Conferencing"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "185",
+        "Description": "Retail",
+        "Department Name": "A&F University Conferencing"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "186",
+        "Description": "Restroom Female",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "188",
+        "Description": "Retail",
+        "Department Name": "A&F University Conferencing"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "189",
+        "Description": "Athletic Svc",
+        "Department Name": "A&F University Conferencing"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "190",
+        "Description": "Custodial",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "191",
+        "Description": "Restroom Female",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "192",
+        "Description": "Restroom Male",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "196",
+        "Description": "Shaft Space",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "197F",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "197H",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "197I",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "197J",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "197M",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "198N",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "198Q",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "198R",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "198T",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "199J",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "199K",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "199L",
+        "Description": "Lobby",
+        "Department Name": "Hallways"
+    }
+]

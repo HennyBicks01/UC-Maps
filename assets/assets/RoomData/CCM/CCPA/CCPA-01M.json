@@ -1,0 +1,32 @@
+[
+    {
+        "Floor Code": "01M",
+        "Room Code": "1885",
+        "Description": "Office Svc - Other",
+        "Department Name": "CCM College Conservatory of Music"
+    },
+    {
+        "Floor Code": "01M",
+        "Room Code": "1896",
+        "Description": "Shaft Space",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "01M",
+        "Room Code": "1897",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "01M",
+        "Room Code": "1898",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01M",
+        "Room Code": "1M899",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    }
+]

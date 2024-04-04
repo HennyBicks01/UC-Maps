@@ -1,0 +1,32 @@
+[
+    {
+        "Floor Code": "09",
+        "Room Code": "920",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "09",
+        "Room Code": "920A",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "09",
+        "Room Code": "920B",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "09",
+        "Room Code": "920C",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "09",
+        "Room Code": "998B",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    }
+]

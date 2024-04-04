@@ -1,0 +1,422 @@
+[
+    {
+        "Floor Code": "01",
+        "Room Code": "100",
+        "Description": "Lobby",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "100B",
+        "Description": "Office Svc - Other",
+        "Department Name": "CCPS College of Coop Ed/Prof Studies"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "100C",
+        "Description": "Office Svc - Other",
+        "Department Name": "CCPS College of Coop Ed/Prof Studies"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "100D",
+        "Description": "Office Svc - Other",
+        "Department Name": "CCPS College of Coop Ed/Prof Studies"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "100E",
+        "Description": "Office Svc - Other",
+        "Department Name": "CCPS College of Coop Ed/Prof Studies"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "100F",
+        "Description": "Office Svc - Other",
+        "Department Name": "CCPS College of Coop Ed/Prof Studies"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "100G",
+        "Description": "Office Svc - Other",
+        "Department Name": "CCPS College of Coop Ed/Prof Studies"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "101",
+        "Description": "Office Svc - Other",
+        "Department Name": "CCPS College of Coop Ed/Prof Studies"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "102",
+        "Description": "Office",
+        "Department Name": "CCPS College of Coop Ed/Prof Studies"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "104",
+        "Description": "Telecommunications Room",
+        "Department Name": "CCPS College of Coop Ed/Prof Studies"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "105",
+        "Description": "Restroom Female",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "107",
+        "Description": "Restroom Male",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "120",
+        "Description": "Office Svc - Other",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "120.01",
+        "Description": "Modular",
+        "Department Name": "CCPS College of Coop Ed/Prof Studies"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "120.02",
+        "Description": "Modular",
+        "Department Name": "CCPS College of Coop Ed/Prof Studies"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "120.03",
+        "Description": "Modular",
+        "Department Name": "CCPS College of Coop Ed/Prof Studies"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "120.05",
+        "Description": "Modular",
+        "Department Name": "CCPS College of Coop Ed/Prof Studies"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "120.06",
+        "Description": "Modular",
+        "Department Name": "CCPS College of Coop Ed/Prof Studies"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "120.11",
+        "Description": "Modular",
+        "Department Name": "CCPS College of Coop Ed/Prof Studies"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "120.12",
+        "Description": "Copy/Mail",
+        "Department Name": "CCPS College of Coop Ed/Prof Studies"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "120.15",
+        "Description": "Modular",
+        "Department Name": "CCPS College of Coop Ed/Prof Studies"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "120.16",
+        "Description": "Modular",
+        "Department Name": "CCPS College of Coop Ed/Prof Studies"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "120.17",
+        "Description": "Modular",
+        "Department Name": "CCPS College of Coop Ed/Prof Studies"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "120.18",
+        "Description": "Modular",
+        "Department Name": "CCPS College of Coop Ed/Prof Studies"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "120A",
+        "Description": "Conference",
+        "Department Name": "CCPS College of Coop Ed/Prof Studies"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "120B",
+        "Description": "Office",
+        "Department Name": "CCPS College of Coop Ed/Prof Studies"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "120C",
+        "Description": "Conference",
+        "Department Name": "CCPS College of Coop Ed/Prof Studies"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "120CA",
+        "Description": "Conf Svc",
+        "Department Name": "CCPS College of Coop Ed/Prof Studies"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "130",
+        "Description": "Internal Office Circ",
+        "Department Name": "CCPS College of Coop Ed/Prof Studies"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "130.01",
+        "Description": "Modular",
+        "Department Name": "CCPS College of Coop Ed/Prof Studies"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "130.02",
+        "Description": "Modular",
+        "Department Name": "CCPS College of Coop Ed/Prof Studies"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "130.03",
+        "Description": "Modular",
+        "Department Name": "CCPS College of Coop Ed/Prof Studies"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "130.04",
+        "Description": "Modular",
+        "Department Name": "CCPS College of Coop Ed/Prof Studies"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "130.05",
+        "Description": "Modular",
+        "Department Name": "CCPS College of Coop Ed/Prof Studies"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "130.06",
+        "Description": "Modular",
+        "Department Name": "CCPS College of Coop Ed/Prof Studies"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "130.07",
+        "Description": "Modular",
+        "Department Name": "CCPS College of Coop Ed/Prof Studies"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "130.08",
+        "Description": "Modular",
+        "Department Name": "CCPS College of Coop Ed/Prof Studies"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "130.09",
+        "Description": "Modular",
+        "Department Name": "CCPS College of Coop Ed/Prof Studies"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "130.10",
+        "Description": "Modular",
+        "Department Name": "CCPS College of Coop Ed/Prof Studies"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "130A",
+        "Description": "Office",
+        "Department Name": "CCPS College of Coop Ed/Prof Studies"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "140",
+        "Description": "Office Svc - Other",
+        "Department Name": "CCPS College of Coop Ed/Prof Studies"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "140.01",
+        "Description": "Modular",
+        "Department Name": "CCPS College of Coop Ed/Prof Studies"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "140.02",
+        "Description": "Modular",
+        "Department Name": "CCPS College of Coop Ed/Prof Studies"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "140.03",
+        "Description": "Modular",
+        "Department Name": "CCPS College of Coop Ed/Prof Studies"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "140A",
+        "Description": "Electrical",
+        "Department Name": "CCPS College of Coop Ed/Prof Studies"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "145A",
+        "Description": "Office",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "145B",
+        "Description": "Office",
+        "Department Name": "CCPS College of Coop Ed/Prof Studies"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "145C",
+        "Description": "Office",
+        "Department Name": "CCPS College of Coop Ed/Prof Studies"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "145Z",
+        "Description": "Internal Office Circ",
+        "Department Name": "CCPS College of Coop Ed/Prof Studies"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "150A",
+        "Description": "Office",
+        "Department Name": "CCPS College of Coop Ed/Prof Studies"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "150B",
+        "Description": "Office",
+        "Department Name": "CCPS College of Coop Ed/Prof Studies"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "150C",
+        "Description": "Office",
+        "Department Name": "CCPS College of Coop Ed/Prof Studies"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "150D",
+        "Description": "Office",
+        "Department Name": "CCPS College of Coop Ed/Prof Studies"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "150E",
+        "Description": "Office",
+        "Department Name": "CCPS College of Coop Ed/Prof Studies"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "150F",
+        "Description": "Office",
+        "Department Name": "CCPS College of Coop Ed/Prof Studies"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "150G",
+        "Description": "Office",
+        "Department Name": "CCPS College of Coop Ed/Prof Studies"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "150H",
+        "Description": "Lactation Room",
+        "Department Name": "CCPS College of Coop Ed/Prof Studies"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "150J",
+        "Description": "Break Room",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "150K",
+        "Description": "Office",
+        "Department Name": "CCPS College of Coop Ed/Prof Studies"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "150M",
+        "Description": "Office",
+        "Department Name": "CCPS College of Coop Ed/Prof Studies"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "150Z",
+        "Description": "Internal Office Circ",
+        "Department Name": "CCPS College of Coop Ed/Prof Studies"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "154",
+        "Description": "Custodial",
+        "Department Name": "CCPS College of Coop Ed/Prof Studies"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "196",
+        "Description": "Shaft Space",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "197A",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "197B",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "197C",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "198A",
+        "Description": "Stair",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "198B",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "198D",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "199C",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    }
+]

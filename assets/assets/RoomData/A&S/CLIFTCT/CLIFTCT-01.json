@@ -1,0 +1,338 @@
+[
+    {
+        "Floor Code": "01",
+        "Room Code": "1107",
+        "Description": "Electrical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1109",
+        "Description": "Group Study",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1110",
+        "Description": "TEAL",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1111",
+        "Description": "Classroom Svc",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1120",
+        "Description": "Classroom",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1125",
+        "Description": "Group Study",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1130",
+        "Description": "Classroom",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1135",
+        "Description": "Group Study",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1140",
+        "Description": "TEAL",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1163",
+        "Description": "Group Study",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1164",
+        "Description": "Telecommunications Room",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1165",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1166",
+        "Description": "Collaboration",
+        "Department Name": "A&S College of Arts and Sciences"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1170",
+        "Description": "Auditorium",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1170A",
+        "Description": "Classroom Svc",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1170ZA",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1170ZB",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1175",
+        "Description": "Central Storage",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1196",
+        "Description": "Shaft Space",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1198A",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1199E",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1200",
+        "Description": "Active Learning Classroom",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1205",
+        "Description": "Group Study",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1210",
+        "Description": "TEAL",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1230A",
+        "Description": "Special Research Lab",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1230AA",
+        "Description": "Special Rsch Lab Svc",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1230B",
+        "Description": "Special Research Lab",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1230BA",
+        "Description": "Special Rsch Lab Svc",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1230C",
+        "Description": "Conference",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1230Z",
+        "Description": "Reception/Waiting",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1240",
+        "Description": "Computer Instr Lab",
+        "Department Name": "A&S School of Communication, Film&Media"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1240A",
+        "Description": "Other Lab Svc Instr",
+        "Department Name": "A&S School of Communication, Film&Media"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1260",
+        "Description": "Loading",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1261",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1262",
+        "Description": "Custodial",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1263",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1264",
+        "Description": "Electrical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1265",
+        "Description": "Electrical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1266",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1267",
+        "Description": "Central Storage",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1280",
+        "Description": "Other Lab Svc Instr",
+        "Department Name": "A&S School of Communication, Film&Media"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1281",
+        "Description": "Restroom Female",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1282",
+        "Description": "Restroom All Gender",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1283",
+        "Description": "Restroom Male",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1284",
+        "Description": "Custodial",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1296",
+        "Description": "Shaft Space",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1297A",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1297B",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1297C",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1298B",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1298C",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1298E",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1299E",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1299N",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1299W",
+        "Description": "Collaboration",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "1299Z",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    }
+]

@@ -1,0 +1,176 @@
+[
+    {
+        "Floor Code": "01",
+        "Room Code": "100",
+        "Description": "Restroom Female",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "110",
+        "Description": "Office Svc - Other",
+        "Department Name": "Graduate College"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "110.01",
+        "Description": "Office",
+        "Department Name": "Graduate College"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "110.02",
+        "Description": "Office",
+        "Department Name": "Graduate College"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "110.03",
+        "Description": "Office",
+        "Department Name": "Graduate College"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "110.04",
+        "Description": "Office",
+        "Department Name": "Graduate College"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "110.05",
+        "Description": "Office",
+        "Department Name": "Graduate College"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "110.06",
+        "Description": "Office",
+        "Department Name": "Graduate College"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "110.07",
+        "Description": "Office",
+        "Department Name": "Graduate College"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "110A",
+        "Description": "Office",
+        "Department Name": "Graduate College"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "110B",
+        "Description": "Office",
+        "Department Name": "Graduate College"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "110C",
+        "Description": "Office",
+        "Department Name": "Graduate College"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "110D",
+        "Description": "Office",
+        "Department Name": "Graduate College"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "120",
+        "Description": "Break Room",
+        "Department Name": "Exec VP for Academic Affairs & Provost"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "120A",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "130",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "130A",
+        "Description": "Telecommunications Room",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "140",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "141",
+        "Description": "File/Supply",
+        "Department Name": "Exec VP for Academic Affairs & Provost"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "142",
+        "Description": "Electrical",
+        "Department Name": "Graduate College"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "143",
+        "Description": "Conference",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "150",
+        "Description": "Restroom Male",
+        "Department Name": "Graduate College"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "160",
+        "Description": "Copy/Mail",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "160A",
+        "Description": "File/Supply",
+        "Department Name": "Exec VP for Academic Affairs & Provost"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "196",
+        "Description": "Shaft Space",
+        "Department Name": "Graduate College"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "197A",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "198A",
+        "Description": "Stair",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "198B",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "199",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    }
+]

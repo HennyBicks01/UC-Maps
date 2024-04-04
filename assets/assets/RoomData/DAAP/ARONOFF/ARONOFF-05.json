@@ -1,0 +1,488 @@
+[
+    {
+        "Floor Code": "05",
+        "Room Code": "5275",
+        "Description": "Exhibition",
+        "Department Name": "DAAP Design Architecture Art & Planning"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5400",
+        "Description": "Assembly",
+        "Department Name": "DAAP Galleries"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5401",
+        "Description": "Classroom",
+        "Department Name": "DAAP Design Architecture Art & Planning"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5401A",
+        "Description": "Classroom Svc",
+        "Department Name": "DAAP Design Architecture Art & Planning"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5401B",
+        "Description": "Classroom Svc",
+        "Department Name": "DAAP Design Architecture Art & Planning"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5401C",
+        "Description": "Classroom Svc",
+        "Department Name": "DAAP Design Architecture Art & Planning"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5403",
+        "Description": "Office Svc - Other",
+        "Department Name": "DAAP Design Architecture Art & Planning"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5405",
+        "Description": "Classroom",
+        "Department Name": "DAAP Design Architecture Art & Planning"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5407",
+        "Description": "Conference",
+        "Department Name": "DAAP Design Architecture Art & Planning"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5410",
+        "Description": "Restroom Female",
+        "Department Name": "DAAP Design Architecture Art & Planning"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5411",
+        "Description": "Restroom Male",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5412",
+        "Description": "Telecommunications Room",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5412A",
+        "Description": "Custodial",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5414",
+        "Description": "Custodial",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5415",
+        "Description": "Office Svc - Other",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5420",
+        "Description": "Office",
+        "Department Name": "DAAP Design Architecture Art & Planning"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5430",
+        "Description": "Conference",
+        "Department Name": "DAAP Design Architecture Art & Planning"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5440",
+        "Description": "Office",
+        "Department Name": "DAAP Design Architecture Art & Planning"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5450",
+        "Description": "Office",
+        "Department Name": "DAAP Design Architecture Art & Planning"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5460",
+        "Description": "Conference",
+        "Department Name": "DAAP Design Architecture Art & Planning"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5460A",
+        "Description": "Office",
+        "Department Name": "DAAP Design Architecture Art & Planning"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5460B",
+        "Description": "Office",
+        "Department Name": "DAAP Design Architecture Art & Planning"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5460C",
+        "Description": "Office",
+        "Department Name": "DAAP Design Architecture Art & Planning"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5470",
+        "Description": "Reception/Waiting",
+        "Department Name": "DAAP Design Architecture Art & Planning"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5470.01",
+        "Description": "Modular",
+        "Department Name": "DAAP Design Architecture Art & Planning"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5470.02",
+        "Description": "Modular",
+        "Department Name": "DAAP Design Architecture Art & Planning"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5470.03",
+        "Description": "Modular",
+        "Department Name": "DAAP Design Architecture Art & Planning"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5470.08",
+        "Description": "Modular",
+        "Department Name": "DAAP Design Architecture Art & Planning"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5470.09",
+        "Description": "Modular",
+        "Department Name": "DAAP Design Architecture Art & Planning"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5470A",
+        "Description": "Office",
+        "Department Name": "DAAP Design Architecture Art & Planning"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5470B",
+        "Description": "Office",
+        "Department Name": "DAAP Design Architecture Art & Planning"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5470C",
+        "Description": "Office",
+        "Department Name": "DAAP Design Architecture Art & Planning"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5470D",
+        "Description": "Office",
+        "Department Name": "DAAP Design Architecture Art & Planning"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5470E",
+        "Description": "Office",
+        "Department Name": "DAAP Design Architecture Art & Planning"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5470F",
+        "Description": "Office",
+        "Department Name": "DAAP Design Architecture Art & Planning"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5470G",
+        "Description": "Office",
+        "Department Name": "DAAP Design Architecture Art & Planning"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5470H",
+        "Description": "Office",
+        "Department Name": "DAAP Design Architecture Art & Planning"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5470J",
+        "Description": "Office",
+        "Department Name": "DAAP Design Architecture Art & Planning"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5470K",
+        "Description": "Office Svc - Other",
+        "Department Name": "DAAP Design Architecture Art & Planning"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5470L",
+        "Description": "Copy/Mail",
+        "Department Name": "DAAP Design Architecture Art & Planning"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5470M",
+        "Description": "Office",
+        "Department Name": "DAAP Design Architecture Art & Planning"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5470MA",
+        "Description": "Copy/Mail",
+        "Department Name": "DAAP Design Architecture Art & Planning"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5470N",
+        "Description": "Office",
+        "Department Name": "DAAP Design Architecture Art & Planning"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5470NA",
+        "Description": "Office Svc - Other",
+        "Department Name": "DAAP Design Architecture Art & Planning"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5470P",
+        "Description": "Office",
+        "Department Name": "DAAP Design Architecture Art & Planning"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5470R",
+        "Description": "Conference",
+        "Department Name": "DAAP Design Architecture Art & Planning"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5470T",
+        "Description": "Internal Office Circ",
+        "Department Name": "DAAP Design Architecture Art & Planning"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5470W",
+        "Description": "Private Restroom",
+        "Department Name": "DAAP Design Architecture Art & Planning"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5470Z",
+        "Description": "Internal Office Circ",
+        "Department Name": "DAAP Design Architecture Art & Planning"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5474",
+        "Description": "Restroom Male",
+        "Department Name": "DAAP Design Architecture Art & Planning"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5476",
+        "Description": "Restroom Female",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5480",
+        "Description": "Open Stack, Study & Reading",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5480A",
+        "Description": "Study Room",
+        "Department Name": "UCL DAAP Library"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5480B",
+        "Description": "Conference",
+        "Department Name": "UCL DAAP Library"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5480C",
+        "Description": "Telecommunications Room",
+        "Department Name": "UCL DAAP Library"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5480D",
+        "Description": "Open Stack, Study & Reading",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5480E",
+        "Description": "Open Stack, Study & Reading",
+        "Department Name": "UCL DAAP Library"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5480F",
+        "Description": "Open Stack, Study & Reading",
+        "Department Name": "UCL DAAP Library"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5480G",
+        "Description": "Mechanical",
+        "Department Name": "UCL DAAP Library"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5480H",
+        "Description": "Circulation & Reserve",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5480J",
+        "Description": "Closed Stack",
+        "Department Name": "UCL DAAP Library"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5480K",
+        "Description": "Office",
+        "Department Name": "UCL DAAP Library"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5480L",
+        "Description": "Media",
+        "Department Name": "UCL DAAP Library"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5480M",
+        "Description": "Workroom",
+        "Department Name": "UCL DAAP Library"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5480P",
+        "Description": "Processing",
+        "Department Name": "UCL DAAP Library"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5496",
+        "Description": "Shaft Space",
+        "Department Name": "UCL DAAP Library"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5497A",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5497F",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5498A",
+        "Description": "Stair",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5498B",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5498C",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5498F",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5498G",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5498H",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5499",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5499A",
+        "Description": "Classroom Svc",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5499B",
+        "Description": "Classroom Svc",
+        "Department Name": "DAAP Design Architecture Art & Planning"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5499C",
+        "Description": "Classroom Svc",
+        "Department Name": "DAAP Design Architecture Art & Planning"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5499D",
+        "Description": "Classroom Svc",
+        "Department Name": "DAAP Design Architecture Art & Planning"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5499E",
+        "Description": "Classroom Svc",
+        "Department Name": "DAAP Design Architecture Art & Planning"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "5499F",
+        "Description": "Classroom Svc",
+        "Department Name": "DAAP Design Architecture Art & Planning"
+    }
+]

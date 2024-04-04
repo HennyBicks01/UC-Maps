@@ -1,0 +1,26 @@
+[
+    {
+        "Floor Code": "05",
+        "Room Code": "500",
+        "Description": "Other Lab Svc Instr",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "501",
+        "Description": "Other Study Lab (Unsch)",
+        "Department Name": "A&S Physics"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "502",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "598A",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    }
+]

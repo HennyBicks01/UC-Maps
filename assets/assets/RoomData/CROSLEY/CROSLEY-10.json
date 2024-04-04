@@ -1,0 +1,200 @@
+[
+    {
+        "Floor Code": "10",
+        "Room Code": "1000",
+        "Description": "Office",
+        "Department Name": "A&S Sociology"
+    },
+    {
+        "Floor Code": "10",
+        "Room Code": "1001",
+        "Description": "Office",
+        "Department Name": "A&S Sociology"
+    },
+    {
+        "Floor Code": "10",
+        "Room Code": "1002",
+        "Description": "Office",
+        "Department Name": "A&S Sociology"
+    },
+    {
+        "Floor Code": "10",
+        "Room Code": "1003",
+        "Description": "Office",
+        "Department Name": "A&S Sociology"
+    },
+    {
+        "Floor Code": "10",
+        "Room Code": "1004",
+        "Description": "Office",
+        "Department Name": "A&S Sociology"
+    },
+    {
+        "Floor Code": "10",
+        "Room Code": "1005",
+        "Description": "Office",
+        "Department Name": "A&S Sociology"
+    },
+    {
+        "Floor Code": "10",
+        "Room Code": "1006",
+        "Description": "Office",
+        "Department Name": "A&S Sociology"
+    },
+    {
+        "Floor Code": "10",
+        "Room Code": "1007",
+        "Description": "Office",
+        "Department Name": "A&S Sociology"
+    },
+    {
+        "Floor Code": "10",
+        "Room Code": "1008",
+        "Description": "Office",
+        "Department Name": "A&S Sociology"
+    },
+    {
+        "Floor Code": "10",
+        "Room Code": "1009",
+        "Description": "Office",
+        "Department Name": "A&S Sociology"
+    },
+    {
+        "Floor Code": "10",
+        "Room Code": "1010",
+        "Description": "Office",
+        "Department Name": "A&S Sociology"
+    },
+    {
+        "Floor Code": "10",
+        "Room Code": "1011",
+        "Description": "Office",
+        "Department Name": "A&S Sociology"
+    },
+    {
+        "Floor Code": "10",
+        "Room Code": "1012",
+        "Description": "Restroom Male",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "10",
+        "Room Code": "1013",
+        "Description": "Office",
+        "Department Name": "A&S Sociology"
+    },
+    {
+        "Floor Code": "10",
+        "Room Code": "1014",
+        "Description": "Office",
+        "Department Name": "A&S Sociology"
+    },
+    {
+        "Floor Code": "10",
+        "Room Code": "1015",
+        "Description": "Office",
+        "Department Name": "A&S Sociology"
+    },
+    {
+        "Floor Code": "10",
+        "Room Code": "1016",
+        "Description": "Computer Study Lab (Unsch)",
+        "Department Name": "A&S Sociology"
+    },
+    {
+        "Floor Code": "10",
+        "Room Code": "1017",
+        "Description": "Office",
+        "Department Name": "A&S Sociology"
+    },
+    {
+        "Floor Code": "10",
+        "Room Code": "1018",
+        "Description": "Office",
+        "Department Name": "A&S Sociology"
+    },
+    {
+        "Floor Code": "10",
+        "Room Code": "1019",
+        "Description": "Office Svc - Other",
+        "Department Name": "A&S Sociology"
+    },
+    {
+        "Floor Code": "10",
+        "Room Code": "1020",
+        "Description": "Office Svc - Other",
+        "Department Name": "A&S Sociology"
+    },
+    {
+        "Floor Code": "10",
+        "Room Code": "1021",
+        "Description": "Office",
+        "Department Name": "A&S Sociology"
+    },
+    {
+        "Floor Code": "10",
+        "Room Code": "1022",
+        "Description": "Office",
+        "Department Name": "A&S Sociology"
+    },
+    {
+        "Floor Code": "10",
+        "Room Code": "1023",
+        "Description": "Office",
+        "Department Name": "A&S Sociology"
+    },
+    {
+        "Floor Code": "10",
+        "Room Code": "1024",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "10",
+        "Room Code": "1096",
+        "Description": "Shaft Space",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "10",
+        "Room Code": "1097A",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "10",
+        "Room Code": "1097B",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "10",
+        "Room Code": "1097C",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "10",
+        "Room Code": "1097D",
+        "Description": "Dumbwaiter",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "10",
+        "Room Code": "1098A",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "10",
+        "Room Code": "1098B",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "10",
+        "Room Code": "1099",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    }
+]

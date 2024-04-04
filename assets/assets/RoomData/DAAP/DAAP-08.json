@@ -1,0 +1,152 @@
+[
+    {
+        "Floor Code": "08",
+        "Room Code": "8220",
+        "Description": "Study Room",
+        "Department Name": "DAAP School of Arch & Interior Design"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "8224",
+        "Description": "Restroom Male",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "8240",
+        "Description": "Custodial",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "8242",
+        "Description": "Restroom Female",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "8244",
+        "Description": "Telecommunications Room",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "8260",
+        "Description": "Design Study Lab (Unsch)",
+        "Department Name": "DAAP School of Arch & Interior Design"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "8265A",
+        "Description": "Design Study Lab (Unsch)",
+        "Department Name": "DAAP School of Arch & Interior Design"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "8265B",
+        "Description": "Design Study Lab (Unsch)",
+        "Department Name": "DAAP School of Arch & Interior Design"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "8265C",
+        "Description": "Design Study Lab (Unsch)",
+        "Department Name": "DAAP School of Arch & Interior Design"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "8265D",
+        "Description": "Design Study Lab (Unsch)",
+        "Department Name": "DAAP School of Arch & Interior Design"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "8265E",
+        "Description": "Design Study Lab (Unsch)",
+        "Department Name": "DAAP School of Arch & Interior Design"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "8265F",
+        "Description": "Design Study Lab (Unsch)",
+        "Department Name": "DAAP School of Arch & Interior Design"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "8265G",
+        "Description": "Design Study Lab (Unsch)",
+        "Department Name": "DAAP School of Arch & Interior Design"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "8265H",
+        "Description": "Design Study Lab (Unsch)",
+        "Department Name": "DAAP School of Arch & Interior Design"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "8270",
+        "Description": "Design Instr Lab",
+        "Department Name": "DAAP School of Arch & Interior Design"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "8280",
+        "Description": "Internal Office Circ",
+        "Department Name": "DAAP School of Arch & Interior Design"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "8280A",
+        "Description": "Office",
+        "Department Name": "DAAP School of Arch & Interior Design"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "8280B",
+        "Description": "Office",
+        "Department Name": "DAAP School of Arch & Interior Design"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "8280C",
+        "Description": "Office",
+        "Department Name": "DAAP School of Arch & Interior Design"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "8280D",
+        "Description": "Office",
+        "Department Name": "DAAP School of Arch & Interior Design"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "8280E",
+        "Description": "Office Svc - Other",
+        "Department Name": "DAAP School of Arch & Interior Design"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "8280F",
+        "Description": "Office",
+        "Department Name": "DAAP School of Arch & Interior Design"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "8297",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "8298B",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "08",
+        "Room Code": "8299",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    }
+]

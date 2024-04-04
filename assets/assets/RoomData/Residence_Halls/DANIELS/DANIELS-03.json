@@ -1,0 +1,212 @@
+[
+    {
+        "Floor Code": "03",
+        "Room Code": "300",
+        "Description": "Mechanical",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "301",
+        "Description": "Bedroom Large Multiple Occupancy",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "302",
+        "Description": "Bedroom Large Multiple Occupancy",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "303",
+        "Description": "Bedroom Multiple Occupancy",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "304",
+        "Description": "Bedroom Large Multiple Occupancy",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "305",
+        "Description": "Bedroom Large Multiple Occupancy",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "306",
+        "Description": "Mechanical",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "307",
+        "Description": "Custodial",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "308",
+        "Description": "Bedroom Single Occupancy",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "309",
+        "Description": "Residential Service",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "310",
+        "Description": "Bedroom Large Multiple Occupancy",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "311",
+        "Description": "Bedroom Multiple Occupancy",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "312",
+        "Description": "Bedroom Large Multiple Occupancy",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "313",
+        "Description": "Bedroom Large Multiple Occupancy",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "314",
+        "Description": "Residential Lavatory",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "315",
+        "Description": "Kitchen",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "316",
+        "Description": "Bedroom Large Multiple Occupancy",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "317",
+        "Description": "Bedroom Large Multiple Occupancy",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "318",
+        "Description": "Bedroom Multiple Occupancy",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "319",
+        "Description": "Bedroom Large Multiple Occupancy",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "320",
+        "Description": "Bedroom Large Multiple Occupancy",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "321",
+        "Description": "Custodial",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "322",
+        "Description": "Bedroom Large Multiple Occupancy",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "323",
+        "Description": "Bedroom Multiple Occupancy",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "324",
+        "Description": "Bedroom Multiple Occupancy",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "325",
+        "Description": "Bedroom Large Multiple Occupancy",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "326",
+        "Description": "Bedroom Large Multiple Occupancy",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "327",
+        "Description": "Residential Lavatory",
+        "Department Name": "A&F Food Services"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "397A",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "397B",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "397C",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "397D",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "398A",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "398B",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "03",
+        "Room Code": "399",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    }
+]

@@ -1,0 +1,536 @@
+[
+    {
+        "Floor Code": "04",
+        "Room Code": "400",
+        "Description": "Office Svc - Other",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "400.01",
+        "Description": "Modular",
+        "Department Name": "EM Admissions"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "400.02",
+        "Description": "Modular",
+        "Department Name": "EM Admissions"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "400.03",
+        "Description": "Modular",
+        "Department Name": "EM Admissions"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "400.04",
+        "Description": "Modular",
+        "Department Name": "EM Admissions"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "400.06",
+        "Description": "Modular",
+        "Department Name": "EM Admissions"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "400.07",
+        "Description": "Modular",
+        "Department Name": "EM Admissions"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "400.08",
+        "Description": "Modular",
+        "Department Name": "EM Admissions"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "400.09",
+        "Description": "Modular",
+        "Department Name": "EM Admissions"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "404",
+        "Description": "Telecommunications Room",
+        "Department Name": "EM Admissions"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "405",
+        "Description": "Restroom Female",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "407",
+        "Description": "Restroom Male",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "410",
+        "Description": "Office Svc - Other",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "410.01",
+        "Description": "Modular",
+        "Department Name": "EM Admissions"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "410.02",
+        "Description": "Modular",
+        "Department Name": "EM Admissions"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "410.04",
+        "Description": "Modular",
+        "Department Name": "EM Admissions"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "410.05",
+        "Description": "Modular",
+        "Department Name": "EM Admissions"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "410.07",
+        "Description": "Modular",
+        "Department Name": "EM Admissions"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "410.08",
+        "Description": "Modular",
+        "Department Name": "EM Admissions"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "410.10",
+        "Description": "Modular",
+        "Department Name": "EM Admissions"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "410.11",
+        "Description": "Modular",
+        "Department Name": "EM Student Financial Aid"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "410.12",
+        "Description": "Modular",
+        "Department Name": "EM Student Financial Aid"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "410.14",
+        "Description": "Modular",
+        "Department Name": "EM Student Financial Aid"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "410.15",
+        "Description": "Modular",
+        "Department Name": "EM Student Financial Aid"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "410.16",
+        "Description": "Modular",
+        "Department Name": "EM Student Financial Aid"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "410.20",
+        "Description": "Modular",
+        "Department Name": "EM Student Financial Aid"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "410.21",
+        "Description": "Modular",
+        "Department Name": "EM Student Financial Aid"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "410A",
+        "Description": "Conference",
+        "Department Name": "EM Student Financial Aid"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "412",
+        "Description": "Electrical",
+        "Department Name": "EM Admissions"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "413",
+        "Description": "Break Room",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "414",
+        "Description": "Workroom",
+        "Department Name": "EM Student Financial Aid"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "415",
+        "Description": "Modular",
+        "Department Name": "EM International Admissions"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "415.01",
+        "Description": "Modular",
+        "Department Name": "EM IT"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "415.02",
+        "Description": "Modular",
+        "Department Name": "EM IT"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "415.03",
+        "Description": "Modular",
+        "Department Name": "EM IT"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "415.04",
+        "Description": "Modular",
+        "Department Name": "EM IT"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "420",
+        "Description": "Office Svc - Other",
+        "Department Name": "EM IT"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "420.01",
+        "Description": "Modular",
+        "Department Name": "Exec VP for Academic Affairs & Provost"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "420.02",
+        "Description": "Modular",
+        "Department Name": "Exec VP for Academic Affairs & Provost"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "420.03",
+        "Description": "Modular",
+        "Department Name": "Exec VP for Academic Affairs & Provost"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "420.04",
+        "Description": "Modular",
+        "Department Name": "Exec VP for Academic Affairs & Provost"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "420.06",
+        "Description": "Modular",
+        "Department Name": "Exec VP for Academic Affairs & Provost"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "420.07",
+        "Description": "Modular",
+        "Department Name": "Exec VP for Academic Affairs & Provost"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "424",
+        "Description": "File/Supply",
+        "Department Name": "Exec VP for Academic Affairs & Provost"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "430",
+        "Description": "Office Svc - Other",
+        "Department Name": "EM International Admissions"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "430.01",
+        "Description": "Modular",
+        "Department Name": "EM International Admissions"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "430.02",
+        "Description": "Modular",
+        "Department Name": "EM Advising & Academic Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "430.03",
+        "Description": "Modular",
+        "Department Name": "EM Advising & Academic Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "430.04",
+        "Description": "Modular",
+        "Department Name": "EM Advising & Academic Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "430.05",
+        "Description": "Modular",
+        "Department Name": "EM Advising & Academic Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "430.06",
+        "Description": "Modular",
+        "Department Name": "EM Advising & Academic Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "430.10",
+        "Description": "Modular",
+        "Department Name": "EM Advising & Academic Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "430.11",
+        "Description": "Modular",
+        "Department Name": "EM International Admissions"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "430.12",
+        "Description": "Modular",
+        "Department Name": "EM International Admissions"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "430.13",
+        "Description": "Modular",
+        "Department Name": "EM International Admissions"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "430.14",
+        "Description": "Modular",
+        "Department Name": "EM International Admissions"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "430.15",
+        "Description": "Modular",
+        "Department Name": "EM International Admissions"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "430.17",
+        "Description": "Modular",
+        "Department Name": "EM International Admissions"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "430.18",
+        "Description": "Modular",
+        "Department Name": "EM International Admissions"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "430.19",
+        "Description": "Modular",
+        "Department Name": "EM International Admissions"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "440",
+        "Description": "Office Svc - Other",
+        "Department Name": "EM International Admissions"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "440.01",
+        "Description": "Modular",
+        "Department Name": "EM International Admissions"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "440.02",
+        "Description": "Modular",
+        "Department Name": "EM International Admissions"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "440.03",
+        "Description": "Modular",
+        "Department Name": "EM International Admissions"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "440.05",
+        "Description": "Office",
+        "Department Name": "EM International Admissions"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "440.06",
+        "Description": "Office",
+        "Department Name": "EM International Admissions"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "440.07",
+        "Description": "Modular",
+        "Department Name": "EM International Admissions"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "440.09",
+        "Description": "Modular",
+        "Department Name": "EM International Admissions"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "440.10",
+        "Description": "Modular",
+        "Department Name": "EM International Admissions"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "440.12",
+        "Description": "Reception/Waiting",
+        "Department Name": "EM International Admissions"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "440A",
+        "Description": "Conference",
+        "Department Name": "EM International Admissions"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "440B",
+        "Description": "Office Svc - Other",
+        "Department Name": "EM International Admissions"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "443",
+        "Description": "Office",
+        "Department Name": "EM International Admissions"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "445",
+        "Description": "Conference",
+        "Department Name": "EM International Admissions"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "450",
+        "Description": "Internal Office Circ",
+        "Department Name": "EM International Admissions"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "450.01",
+        "Description": "Modular",
+        "Department Name": "EM Admissions"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "450.02",
+        "Description": "Modular",
+        "Department Name": "EM Admissions"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "450.03",
+        "Description": "Modular",
+        "Department Name": "EM Admissions"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "450.04",
+        "Description": "Modular",
+        "Department Name": "EM Admissions"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "450.05",
+        "Description": "Modular",
+        "Department Name": "EM Admissions"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "450A",
+        "Description": "Office",
+        "Department Name": "EM Admissions"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "450B",
+        "Description": "Custodial",
+        "Department Name": "EM Admissions"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "496",
+        "Description": "Shaft Space",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "497A",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "497B",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "497C",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "498A",
+        "Description": "Stair",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "498B",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "499",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    }
+]

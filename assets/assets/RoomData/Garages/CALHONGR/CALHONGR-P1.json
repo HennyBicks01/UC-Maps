@@ -1,0 +1,380 @@
+[
+    {
+        "Floor Code": "P1",
+        "Room Code": "P1100A",
+        "Description": "Office Svc - Other",
+        "Department Name": "Acad Aff Air Force ROTC"
+    },
+    {
+        "Floor Code": "P1",
+        "Room Code": "P1100B",
+        "Description": "Seminar",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "P1",
+        "Room Code": "P1100C",
+        "Description": "Conference",
+        "Department Name": "Acad Aff Army ROTC"
+    },
+    {
+        "Floor Code": "P1",
+        "Room Code": "P1100D",
+        "Description": "Classroom",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "P1",
+        "Room Code": "P1100E",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "P1",
+        "Room Code": "P1100F",
+        "Description": "Classroom",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "P1",
+        "Room Code": "P1100G",
+        "Description": "Computer Study Lab (Unsch)",
+        "Department Name": "Acad Aff Army ROTC"
+    },
+    {
+        "Floor Code": "P1",
+        "Room Code": "P1100H",
+        "Description": "Office Svc - Other",
+        "Department Name": "Acad Aff Air Force ROTC"
+    },
+    {
+        "Floor Code": "P1",
+        "Room Code": "P1100J",
+        "Description": "Lounge",
+        "Department Name": "Acad Aff Air Force ROTC"
+    },
+    {
+        "Floor Code": "P1",
+        "Room Code": "P1100JA",
+        "Description": "Office Svc - Other",
+        "Department Name": "Acad Aff Air Force ROTC"
+    },
+    {
+        "Floor Code": "P1",
+        "Room Code": "P1100K",
+        "Description": "Computer Study Lab (Unsch)",
+        "Department Name": "Acad Aff Air Force ROTC"
+    },
+    {
+        "Floor Code": "P1",
+        "Room Code": "P1100M",
+        "Description": "Office Svc - Other",
+        "Department Name": "Acad Aff Air Force ROTC"
+    },
+    {
+        "Floor Code": "P1",
+        "Room Code": "P1100MA",
+        "Description": "Office",
+        "Department Name": "Acad Aff Air Force ROTC"
+    },
+    {
+        "Floor Code": "P1",
+        "Room Code": "P1100MB",
+        "Description": "Office",
+        "Department Name": "Acad Aff Air Force ROTC"
+    },
+    {
+        "Floor Code": "P1",
+        "Room Code": "P1100MC",
+        "Description": "Office",
+        "Department Name": "Acad Aff Air Force ROTC"
+    },
+    {
+        "Floor Code": "P1",
+        "Room Code": "P1100MD",
+        "Description": "Office",
+        "Department Name": "Acad Aff Air Force ROTC"
+    },
+    {
+        "Floor Code": "P1",
+        "Room Code": "P1100N",
+        "Description": "Office Svc - Other",
+        "Department Name": "Acad Aff Air Force ROTC"
+    },
+    {
+        "Floor Code": "P1",
+        "Room Code": "P1100NA",
+        "Description": "Office",
+        "Department Name": "Acad Aff Air Force ROTC"
+    },
+    {
+        "Floor Code": "P1",
+        "Room Code": "P1100P",
+        "Description": "Office Svc - Other",
+        "Department Name": "Acad Aff Air Force ROTC"
+    },
+    {
+        "Floor Code": "P1",
+        "Room Code": "P1100P.1",
+        "Description": "Modular",
+        "Department Name": "Acad Aff Army ROTC"
+    },
+    {
+        "Floor Code": "P1",
+        "Room Code": "P1100P.2",
+        "Description": "Modular",
+        "Department Name": "Acad Aff Army ROTC"
+    },
+    {
+        "Floor Code": "P1",
+        "Room Code": "P1100P.3",
+        "Description": "Modular",
+        "Department Name": "Acad Aff Army ROTC"
+    },
+    {
+        "Floor Code": "P1",
+        "Room Code": "P1100P.4",
+        "Description": "Modular",
+        "Department Name": "Acad Aff Army ROTC"
+    },
+    {
+        "Floor Code": "P1",
+        "Room Code": "P1100P.5",
+        "Description": "Modular",
+        "Department Name": "Acad Aff Army ROTC"
+    },
+    {
+        "Floor Code": "P1",
+        "Room Code": "P1100P.6",
+        "Description": "Modular",
+        "Department Name": "Acad Aff Army ROTC"
+    },
+    {
+        "Floor Code": "P1",
+        "Room Code": "P1100PA",
+        "Description": "Office",
+        "Department Name": "Acad Aff Army ROTC"
+    },
+    {
+        "Floor Code": "P1",
+        "Room Code": "P1100PB",
+        "Description": "Office",
+        "Department Name": "Acad Aff Army ROTC"
+    },
+    {
+        "Floor Code": "P1",
+        "Room Code": "P1100PC",
+        "Description": "Office",
+        "Department Name": "Acad Aff Army ROTC"
+    },
+    {
+        "Floor Code": "P1",
+        "Room Code": "P1100PD",
+        "Description": "Office",
+        "Department Name": "Acad Aff Army ROTC"
+    },
+    {
+        "Floor Code": "P1",
+        "Room Code": "P1100PE",
+        "Description": "Office",
+        "Department Name": "Acad Aff Army ROTC"
+    },
+    {
+        "Floor Code": "P1",
+        "Room Code": "P1100PF",
+        "Description": "Office",
+        "Department Name": "Acad Aff Army ROTC"
+    },
+    {
+        "Floor Code": "P1",
+        "Room Code": "P1100Q",
+        "Description": "Restroom Male",
+        "Department Name": "Acad Aff Army ROTC"
+    },
+    {
+        "Floor Code": "P1",
+        "Room Code": "P1100R",
+        "Description": "Custodial",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "P1",
+        "Room Code": "P1100S",
+        "Description": "Restroom Female",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "P1",
+        "Room Code": "P1100V",
+        "Description": "Break Room",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "P1",
+        "Room Code": "P1100VA",
+        "Description": "Office Svc - Other",
+        "Department Name": "Acad Aff Air Force ROTC"
+    },
+    {
+        "Floor Code": "P1",
+        "Room Code": "P1114",
+        "Description": "Mechanical",
+        "Department Name": "Acad Aff Air Force ROTC"
+    },
+    {
+        "Floor Code": "P1",
+        "Room Code": "P1116",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "P1",
+        "Room Code": "P1118",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "P1",
+        "Room Code": "P1119",
+        "Description": "Electrical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "P1",
+        "Room Code": "P1150",
+        "Description": "Parking",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "P1",
+        "Room Code": "P1197A",
+        "Description": "Elevator",
+        "Department Name": "A&F Parking Administration"
+    },
+    {
+        "Floor Code": "P1",
+        "Room Code": "P1197F",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "P1",
+        "Room Code": "P1197G",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "P1",
+        "Room Code": "P1198A",
+        "Description": "Stair",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "P1",
+        "Room Code": "P1198C",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "P1",
+        "Room Code": "P1198D",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "P1",
+        "Room Code": "P1198F",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "P1",
+        "Room Code": "P1199",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "P1",
+        "Room Code": "P1199V",
+        "Description": "Parking",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "P1",
+        "Room Code": "P1222",
+        "Description": "Telecommunications Room",
+        "Department Name": "A&F Parking Administration"
+    },
+    {
+        "Floor Code": "P1",
+        "Room Code": "P1225",
+        "Description": "Electrical",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "P1",
+        "Room Code": "P1227",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "P1",
+        "Room Code": "P1250",
+        "Description": "Parking",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "P1",
+        "Room Code": "P1255",
+        "Description": "Electrical",
+        "Department Name": "A&F Parking Administration"
+    },
+    {
+        "Floor Code": "P1",
+        "Room Code": "P1285",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "P1",
+        "Room Code": "P1297K",
+        "Description": "Elevator",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "P1",
+        "Room Code": "P1297L",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "P1",
+        "Room Code": "P1297M",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "P1",
+        "Room Code": "P1297N",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "P1",
+        "Room Code": "P1298M",
+        "Description": "Stair",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "P1",
+        "Room Code": "P1298R",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "P1",
+        "Room Code": "P1299V",
+        "Description": "Parking",
+        "Department Name": "Hallways"
+    }
+]

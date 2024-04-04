@@ -1,0 +1,680 @@
+[
+    {
+        "Floor Code": "01",
+        "Room Code": "101",
+        "Description": "Internal Office Circ",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "101A",
+        "Description": "Office",
+        "Department Name": "A&S English"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "101B",
+        "Description": "Office",
+        "Department Name": "A&S English"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "101C",
+        "Description": "Office",
+        "Department Name": "A&S English"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "101D",
+        "Description": "Office Svc - Other",
+        "Department Name": "A&S English"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "110",
+        "Description": "Internal Office Circ",
+        "Department Name": "A&S English"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "110A",
+        "Description": "Office",
+        "Department Name": "A&S English"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "110B",
+        "Description": "Office",
+        "Department Name": "A&S English"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "110C",
+        "Description": "Office",
+        "Department Name": "A&S English"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "110D",
+        "Description": "Office",
+        "Department Name": "A&S English"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "110E",
+        "Description": "Office",
+        "Department Name": "A&S English"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "110F",
+        "Description": "Office",
+        "Department Name": "A&S English"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "110G",
+        "Description": "Office",
+        "Department Name": "A&S English"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "110H",
+        "Description": "Office",
+        "Department Name": "A&S English"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "110J",
+        "Description": "Office",
+        "Department Name": "A&S English"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "110K",
+        "Description": "Office",
+        "Department Name": "A&S English"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "110M",
+        "Description": "Office",
+        "Department Name": "A&S English"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "110N",
+        "Description": "Office",
+        "Department Name": "A&S English"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "110P",
+        "Description": "Office",
+        "Department Name": "A&S English"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "110Q",
+        "Description": "Office",
+        "Department Name": "A&S English"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "110R",
+        "Description": "Office",
+        "Department Name": "A&S English"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "110S",
+        "Description": "Office",
+        "Department Name": "A&S English"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "112",
+        "Description": "Custodial",
+        "Department Name": "A&S English"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "114",
+        "Description": "Internal Office Circ",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "114.01",
+        "Description": "Modular",
+        "Department Name": "A&S College of Arts and Sciences"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "114.02",
+        "Description": "Modular",
+        "Department Name": "A&S College of Arts and Sciences"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "114A",
+        "Description": "Office",
+        "Department Name": "A&S College of Arts and Sciences"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "114B",
+        "Description": "Office",
+        "Department Name": "A&S College of Arts and Sciences"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "114C",
+        "Description": "Office",
+        "Department Name": "A&S College of Arts and Sciences"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "114D",
+        "Description": "Office",
+        "Department Name": "A&S College of Arts and Sciences"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "115",
+        "Description": "Office",
+        "Department Name": "A&S College of Arts and Sciences"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "115A",
+        "Description": "Office",
+        "Department Name": "A&S College of Arts and Sciences"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "116",
+        "Description": "Lounge",
+        "Department Name": "A&S College of Arts and Sciences"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "116A",
+        "Description": "Lounge Svc",
+        "Department Name": "A&S College of Arts and Sciences"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "119",
+        "Description": "Office Svc - Other",
+        "Department Name": "A&S College of Arts and Sciences"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "119A",
+        "Description": "Office Svc - Other",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "119B",
+        "Description": "Office",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "119C",
+        "Description": "Office",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "120",
+        "Description": "Office Svc - Other",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "120A",
+        "Description": "Office",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "120B",
+        "Description": "Office",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "120C",
+        "Description": "Office",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "120CA",
+        "Description": "Office",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "121",
+        "Description": "Instrument Lab",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "121A",
+        "Description": "Office",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "122",
+        "Description": "Custodial",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "123",
+        "Description": "Restroom Female",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "124",
+        "Description": "Classroom Svc",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "127",
+        "Description": "Auditorium",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "128",
+        "Description": "Classroom Svc",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "129",
+        "Description": "Conf Svc",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "130",
+        "Description": "Conference",
+        "Department Name": "A&S College of Arts and Sciences"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "131",
+        "Description": "Restroom Male",
+        "Department Name": "A&S College of Arts and Sciences"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "137",
+        "Description": "Office Svc - Other",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "137.01",
+        "Description": "Modular",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "137A",
+        "Description": "Office",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "137B",
+        "Description": "Office Svc - Other",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "137C",
+        "Description": "Office Svc - Other",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "137D",
+        "Description": "Office",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "137DA",
+        "Description": "Private Restroom",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "137DB",
+        "Description": "Office Svc - Other",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "140",
+        "Description": "Office Svc - Other",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "140A",
+        "Description": "Office Svc - Other",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "140B",
+        "Description": "Office",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "143",
+        "Description": "Office",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "144",
+        "Description": "Office Svc - Other",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "144.01",
+        "Description": "Office Svc - Other",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "144.02",
+        "Description": "Office Svc - Other",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "144A",
+        "Description": "Office",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "144B",
+        "Description": "Office",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "144C",
+        "Description": "Office",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "145",
+        "Description": "Office Svc - Other",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "145A",
+        "Description": "Office",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "145B",
+        "Description": "Office",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "146",
+        "Description": "Office Svc - Other",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "146B",
+        "Description": "Office",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "146C",
+        "Description": "Office",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "146D",
+        "Description": "Private Restroom",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "146E",
+        "Description": "Office Svc - Other",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "147",
+        "Description": "Internal Office Circ",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "147.01",
+        "Description": "Modular",
+        "Department Name": "A&S College of Arts and Sciences"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "147.02",
+        "Description": "Modular",
+        "Department Name": "A&S College of Arts and Sciences"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "147.03",
+        "Description": "Modular",
+        "Department Name": "A&S College of Arts and Sciences"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "147.04",
+        "Description": "Modular",
+        "Department Name": "A&S College of Arts and Sciences"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "147A",
+        "Description": "Office Svc - Other",
+        "Department Name": "A&S College of Arts and Sciences"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "147B",
+        "Description": "Office",
+        "Department Name": "A&S College of Arts and Sciences"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "149",
+        "Description": "Office Svc - Other",
+        "Department Name": "A&S College of Arts and Sciences"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "149.01",
+        "Description": "Modular",
+        "Department Name": "A&S College of Arts and Sciences"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "149.02",
+        "Description": "Modular",
+        "Department Name": "A&S College of Arts and Sciences"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "149A",
+        "Description": "Office",
+        "Department Name": "A&S College of Arts and Sciences"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "149B",
+        "Description": "Office",
+        "Department Name": "A&S College of Arts and Sciences"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "149C",
+        "Description": "Office",
+        "Department Name": "A&S College of Arts and Sciences"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "149D",
+        "Description": "Office",
+        "Department Name": "A&S College of Arts and Sciences"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "150",
+        "Description": "Office",
+        "Department Name": "A&S College of Arts and Sciences"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "151",
+        "Description": "Conference",
+        "Department Name": "A&S College of Arts and Sciences"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "151A",
+        "Description": "Office",
+        "Department Name": "A&S College of Arts and Sciences"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "151Z",
+        "Description": "Internal Office Circ",
+        "Department Name": "A&S College of Arts and Sciences"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "155",
+        "Description": "Reception/Waiting",
+        "Department Name": "A&S College of Arts and Sciences"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "155A",
+        "Description": "Office",
+        "Department Name": "A&S College of Arts and Sciences"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "155B",
+        "Description": "Office",
+        "Department Name": "A&S College of Arts and Sciences"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "155BA",
+        "Description": "Private Restroom",
+        "Department Name": "A&S College of Arts and Sciences"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "155BB",
+        "Description": "Office Svc - Other",
+        "Department Name": "A&S College of Arts and Sciences"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "196",
+        "Description": "Shaft Space",
+        "Department Name": "A&S College of Arts and Sciences"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "197A",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "197B",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "198A",
+        "Description": "Stair",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "198B",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "198C",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "198D",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "198E",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "198F",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "199",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "01",
+        "Room Code": "199X",
+        "Description": "Exterior Circulation",
+        "Department Name": "Hallways"
+    }
+]

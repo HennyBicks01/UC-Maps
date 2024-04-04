@@ -1,0 +1,56 @@
+[
+    {
+        "Floor Code": "04",
+        "Room Code": "401",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "403",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "404",
+        "Description": "Other Lab Svc Instr",
+        "Department Name": "CCM College Conservatory of Music"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "424",
+        "Description": "Other Lab Svc Instr",
+        "Department Name": "CCM College Conservatory of Music"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "496",
+        "Description": "Shaft Space",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "497",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "498E",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "498F",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "499",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    }
+]

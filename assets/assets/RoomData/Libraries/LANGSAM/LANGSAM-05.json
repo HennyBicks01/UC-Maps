@@ -1,0 +1,542 @@
+[
+    {
+        "Floor Code": "05",
+        "Room Code": "500A",
+        "Description": "Mechanical",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "501",
+        "Description": "Open Stack, Study & Reading",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "501B",
+        "Description": "Electrical",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "501C",
+        "Description": "Telecommunications Room",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "502",
+        "Description": "Study Room",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "503",
+        "Description": "Study Room",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "504",
+        "Description": "Study Room",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "505",
+        "Description": "Study Room",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "510",
+        "Description": "Study Room",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "511",
+        "Description": "Study Room",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "512",
+        "Description": "Study Room",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "513",
+        "Description": "Study Room",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "514",
+        "Description": "Study Room",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "515",
+        "Description": "Study Room",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "516",
+        "Description": "Study Room",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "517",
+        "Description": "Study Room",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "518",
+        "Description": "Study Room",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "519",
+        "Description": "Study Room",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "520",
+        "Description": "Study Room",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "521",
+        "Description": "Study Room",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "530",
+        "Description": "Library Svc",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "540",
+        "Description": "Office Svc - Other",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "540A",
+        "Description": "Conference",
+        "Department Name": "Faculty Enrichment Center"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "540B",
+        "Description": "Conference",
+        "Department Name": "Faculty Enrichment Center"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "540C",
+        "Description": "Conference",
+        "Department Name": "Faculty Enrichment Center"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "540D",
+        "Description": "Conference",
+        "Department Name": "Faculty Enrichment Center"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "540E",
+        "Description": "Office Svc - Other",
+        "Department Name": "Faculty Enrichment Center"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "540EA",
+        "Description": "Media",
+        "Department Name": "Faculty Enrichment Center"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "540F",
+        "Description": "Training",
+        "Department Name": "Faculty Enrichment Center"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "540G",
+        "Description": "Training",
+        "Department Name": "Faculty Enrichment Center"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "540H",
+        "Description": "Conf Svc",
+        "Department Name": "Faculty Enrichment Center"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "545",
+        "Description": "Office Svc - Other",
+        "Department Name": "Faculty Enrichment Center"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "545A",
+        "Description": "Mechanical",
+        "Department Name": "Faculty Enrichment Center"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "545B",
+        "Description": "Conference",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "545C",
+        "Description": "Conference",
+        "Department Name": "Faculty Enrichment Center"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "545D",
+        "Description": "Office",
+        "Department Name": "Faculty Enrichment Center"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "545E",
+        "Description": "Office",
+        "Department Name": "Faculty Enrichment Center"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "545F",
+        "Description": "Office",
+        "Department Name": "Faculty Enrichment Center"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "545G",
+        "Description": "Office",
+        "Department Name": "Faculty Enrichment Center"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "545H",
+        "Description": "Office Svc - Other",
+        "Department Name": "Faculty Enrichment Center"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "545J",
+        "Description": "Office Svc - Other",
+        "Department Name": "Faculty Enrichment Center"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "545K",
+        "Description": "Office Svc - Other",
+        "Department Name": "Faculty Enrichment Center"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "545M",
+        "Description": "Office Svc - Other",
+        "Department Name": "Faculty Enrichment Center"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "545N",
+        "Description": "Conference",
+        "Department Name": "Faculty Enrichment Center"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "545P",
+        "Description": "Conference",
+        "Department Name": "Faculty Enrichment Center"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "545Q",
+        "Description": "Office Svc - Other",
+        "Department Name": "Faculty Enrichment Center"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "545R",
+        "Description": "Break Room",
+        "Department Name": "Faculty Enrichment Center"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "545S",
+        "Description": "Reception/Waiting",
+        "Department Name": "Faculty Enrichment Center"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "545T",
+        "Description": "Restroom Female",
+        "Department Name": "Faculty Enrichment Center"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "545U",
+        "Description": "Office Svc - Other",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "549",
+        "Description": "Telecommunications Room",
+        "Department Name": "Faculty Enrichment Center"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "549A",
+        "Description": "Telecommunications Room",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "550",
+        "Description": "Open Stack, Study & Reading",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "552",
+        "Description": "Mechanical",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "553",
+        "Description": "Restroom Male",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "554",
+        "Description": "Custodial",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "555",
+        "Description": "Restroom Male",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "556",
+        "Description": "Restroom Female",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "557",
+        "Description": "Library Svc",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "557A",
+        "Description": "Electrical",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "557B",
+        "Description": "Telecommunications Room",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "557C",
+        "Description": "Library Svc",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "559",
+        "Description": "Study Room",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "560",
+        "Description": "Open Stack, Study & Reading",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "561",
+        "Description": "Study Room",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "562",
+        "Description": "Study Room",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "563",
+        "Description": "Study Room",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "564",
+        "Description": "Study Room",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "565",
+        "Description": "Study Room",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "566",
+        "Description": "Study Room",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "567",
+        "Description": "Study Room",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "568",
+        "Description": "Study Room",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "569",
+        "Description": "Study Room",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "570",
+        "Description": "Study Room",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "571",
+        "Description": "Conference",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "595",
+        "Description": "Bridge",
+        "Department Name": "UCL University Of Cincinnati Libraries"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "596",
+        "Description": "Shaft Space",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "597A",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "597B",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "597C",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "597D",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "597E",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "598B",
+        "Description": "Stair",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "598C",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "598D",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "598F",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "598G",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "598H",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "598J",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "05",
+        "Room Code": "599",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    }
+]

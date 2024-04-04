@@ -1,0 +1,1100 @@
+[
+    {
+        "Floor Code": "04",
+        "Room Code": "4101",
+        "Description": "Break Room",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4102",
+        "Description": "Conference",
+        "Department Name": "A&S College of Arts and Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4105",
+        "Description": "Language Study Lab (Unsch)",
+        "Department Name": "A&S Romance & Arabic Languages & Literat"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4105A",
+        "Description": "Reception/Waiting",
+        "Department Name": "A&S Language Resource Center"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4105B",
+        "Description": "Office Svc - Other",
+        "Department Name": "A&S School of Communication, Film&Media"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4105C",
+        "Description": "Conference",
+        "Department Name": "A&S Language Resource Center"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4105D",
+        "Description": "Conference",
+        "Department Name": "A&S Language Resource Center"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4106",
+        "Description": "Custodial",
+        "Department Name": "A&S Language Resource Center"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4107",
+        "Description": "Electrical",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4108",
+        "Description": "Data Lab Svc",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4110",
+        "Description": "Conference",
+        "Department Name": "A&S School of Communication, Film&Media"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4110Z",
+        "Description": "Lab Circ Rsch",
+        "Department Name": "A&S School of Communication, Film&Media"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4114",
+        "Description": "Data Lab",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4116",
+        "Description": "Data Lab",
+        "Department Name": "A&S School of Communication, Film&Media"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4118",
+        "Description": "Data Lab",
+        "Department Name": "A&S School of Communication, Film&Media"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4120",
+        "Description": "Data Lab",
+        "Department Name": "A&S School of Communication, Film&Media"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4122",
+        "Description": "Data Lab",
+        "Department Name": "A&S School of Communication, Film&Media"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4124",
+        "Description": "Conference",
+        "Department Name": "A&S School of Communication, Film&Media"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4125",
+        "Description": "Reception/Waiting",
+        "Department Name": "A&S School of Communication, Film&Media"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4131",
+        "Description": "Data Lab",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4131Z",
+        "Description": "Lab Circ Rsch",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4135",
+        "Description": "Conference",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4136",
+        "Description": "Conference",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4137",
+        "Description": "Internal Office Circ",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4137.01",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4137.02",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4137.03",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4137.04",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4137A",
+        "Description": "Data Lab",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4138",
+        "Description": "Internal Office Circ",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4138.01",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4138.02",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4138.03",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4138.04",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4138A",
+        "Description": "Data Lab",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4139",
+        "Description": "Internal Office Circ",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4139.01",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4139.02",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4139.03",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4139.04",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4139A",
+        "Description": "Data Lab",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4140",
+        "Description": "Internal Office Circ",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4140.01",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4140.02",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4140.03",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4140.04",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4140A",
+        "Description": "Data Lab",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4141",
+        "Description": "Data Lab",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4141A",
+        "Description": "Data Lab",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4142",
+        "Description": "Data Lab",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4142A",
+        "Description": "Data Lab",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4143",
+        "Description": "Data Lab",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4143A",
+        "Description": "Data Lab",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4144",
+        "Description": "Data Lab",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4145",
+        "Description": "Data Lab",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4146",
+        "Description": "Workroom",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4147",
+        "Description": "Data Lab",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4148",
+        "Description": "Conference",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4149",
+        "Description": "Internal Office Circ",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4149.01",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4149.02",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4149.03",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4149.04",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4150",
+        "Description": "Internal Office Circ",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4150.01",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4150.02",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4150.03",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4150.04",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4151",
+        "Description": "Internal Office Circ",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4151.01",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4151.02",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4151.03",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4151.04",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4152",
+        "Description": "Internal Office Circ",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4152.01",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4152.02",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4152.03",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4152.04",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4153",
+        "Description": "Internal Office Circ",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4153.01",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4153.02",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4153.03",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4153.04",
+        "Description": "Modular",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4154",
+        "Description": "Data Lab",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4155",
+        "Description": "Data Lab Svc",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4156",
+        "Description": "Lactation Room",
+        "Department Name": "A&S Psychology"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4160",
+        "Description": "Restroom All Gender",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4161",
+        "Description": "Restroom Female",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4163",
+        "Description": "Restroom Male",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4164",
+        "Description": "Telecommunications Room",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4165",
+        "Description": "Mechanical",
+        "Department Name": "DTS Enterprise Infrastructure Tech Serv"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4196",
+        "Description": "Shaft Space",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4198A",
+        "Description": "Stair",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4199E",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4201",
+        "Description": "Group Study",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4205",
+        "Description": "Group Study",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4207",
+        "Description": "Custodial",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4210",
+        "Description": "Office",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4211",
+        "Description": "Office",
+        "Department Name": "A&S German Studies"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4212",
+        "Description": "Office",
+        "Department Name": "A&S German Studies"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4213",
+        "Description": "Office",
+        "Department Name": "A&S German Studies"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4214",
+        "Description": "Office",
+        "Department Name": "A&S German Studies"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4215",
+        "Description": "Office",
+        "Department Name": "A&S German Studies"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4216",
+        "Description": "Office",
+        "Department Name": "A&S German Studies"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4222",
+        "Description": "Telecommunications Room",
+        "Department Name": "A&S German Studies"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4223",
+        "Description": "Restroom Male",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4224",
+        "Description": "Restroom Female",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4230",
+        "Description": "Office",
+        "Department Name": "A&F Building Services"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4230A",
+        "Description": "Internal Office Circ",
+        "Department Name": "A&S School of Communication, Film&Media"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4230A.01",
+        "Description": "Modular",
+        "Department Name": "A&S German Studies"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4230A.02",
+        "Description": "Modular",
+        "Department Name": "A&S German Studies"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4230A.03",
+        "Description": "Modular",
+        "Department Name": "A&S German Studies"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4231",
+        "Description": "Office",
+        "Department Name": "A&S German Studies"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4231A",
+        "Description": "Internal Office Circ",
+        "Department Name": "A&S School of Communication, Film&Media"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4231A.01",
+        "Description": "Modular",
+        "Department Name": "A&S German Studies"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4231A.02",
+        "Description": "Modular",
+        "Department Name": "A&S German Studies"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4232",
+        "Description": "Office",
+        "Department Name": "A&S German Studies"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4232A",
+        "Description": "Office Svc - Other",
+        "Department Name": "A&S School of Communication, Film&Media"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4233",
+        "Description": "Office",
+        "Department Name": "A&S German Studies"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4233A",
+        "Description": "Internal Office Circ",
+        "Department Name": "A&S School of Communication, Film&Media"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4233A.01",
+        "Description": "Modular",
+        "Department Name": "A&S School of Communication, Film&Media"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4233A.02",
+        "Description": "Modular",
+        "Department Name": "A&S School of Communication, Film&Media"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4234",
+        "Description": "Office",
+        "Department Name": "A&S School of Communication, Film&Media"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4234A",
+        "Description": "Workroom",
+        "Department Name": "A&S School of Communication, Film&Media"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4235",
+        "Description": "Office",
+        "Department Name": "A&S German Studies"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4236",
+        "Description": "Office",
+        "Department Name": "A&S School of Communication, Film&Media"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4236A",
+        "Description": "Office Svc - Other",
+        "Department Name": "A&S School of Communication, Film&Media"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4237",
+        "Description": "Office",
+        "Department Name": "A&S School of Communication, Film&Media"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4238",
+        "Description": "Office",
+        "Department Name": "A&S School of Communication, Film&Media"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4238A",
+        "Description": "Conference",
+        "Department Name": "A&S School of Communication, Film&Media"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4239",
+        "Description": "Office",
+        "Department Name": "A&S School of Communication, Film&Media"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4239A",
+        "Description": "Internal Office Circ",
+        "Department Name": "A&S School of Communication, Film&Media"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4239A.01",
+        "Description": "Modular",
+        "Department Name": "A&S School of Communication, Film&Media"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4239A.02",
+        "Description": "Modular",
+        "Department Name": "A&S School of Communication, Film&Media"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4240",
+        "Description": "Office",
+        "Department Name": "A&S School of Communication, Film&Media"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4240A",
+        "Description": "Internal Office Circ",
+        "Department Name": "A&S School of Communication, Film&Media"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4240A.01",
+        "Description": "Modular",
+        "Department Name": "A&S School of Communication, Film&Media"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4240A.02",
+        "Description": "Modular",
+        "Department Name": "A&S School of Communication, Film&Media"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4241",
+        "Description": "Office",
+        "Department Name": "A&S School of Communication, Film&Media"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4241A",
+        "Description": "Office",
+        "Department Name": "A&S School of Communication, Film&Media"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4242",
+        "Description": "Office",
+        "Department Name": "A&S School of Communication, Film&Media"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4242A",
+        "Description": "Internal Office Circ",
+        "Department Name": "A&S School of Communication, Film&Media"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4242A.01",
+        "Description": "Modular",
+        "Department Name": "A&S School of Communication, Film&Media"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4242A.02",
+        "Description": "Modular",
+        "Department Name": "A&S School of Communication, Film&Media"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4242A.03",
+        "Description": "Modular",
+        "Department Name": "A&S School of Communication, Film&Media"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4250",
+        "Description": "Office",
+        "Department Name": "A&S School of Communication, Film&Media"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4251",
+        "Description": "Office",
+        "Department Name": "A&S German Studies"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4252",
+        "Description": "Office",
+        "Department Name": "A&S German Studies"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4253",
+        "Description": "Office",
+        "Department Name": "A&S German Studies"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4254",
+        "Description": "Office",
+        "Department Name": "A&S German Studies"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4255",
+        "Description": "Office",
+        "Department Name": "A&S German Studies"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4256",
+        "Description": "Office",
+        "Department Name": "Administrative Reserve"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4257",
+        "Description": "Conference",
+        "Department Name": "A&S School of Communication, Film&Media"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4258",
+        "Description": "Office",
+        "Department Name": "A&S German Studies"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4259",
+        "Description": "Office",
+        "Department Name": "A&S School of Communication, Film&Media"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4260",
+        "Description": "Office",
+        "Department Name": "A&S School of Communication, Film&Media"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4261",
+        "Description": "Office",
+        "Department Name": "A&S School of Communication, Film&Media"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4262",
+        "Description": "Office",
+        "Department Name": "A&S School of Communication, Film&Media"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4263",
+        "Description": "Office",
+        "Department Name": "A&S School of Communication, Film&Media"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4264",
+        "Description": "Office",
+        "Department Name": "A&S School of Communication, Film&Media"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4265",
+        "Description": "Office",
+        "Department Name": "A&S School of Communication, Film&Media"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4266",
+        "Description": "Office",
+        "Department Name": "A&S School of Communication, Film&Media"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4267",
+        "Description": "Office",
+        "Department Name": "A&S School of Communication, Film&Media"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4268",
+        "Description": "Office",
+        "Department Name": "A&S School of Communication, Film&Media"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4269",
+        "Description": "Office",
+        "Department Name": "A&S School of Communication, Film&Media"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4270",
+        "Description": "Office",
+        "Department Name": "A&S School of Communication, Film&Media"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4271",
+        "Description": "Office",
+        "Department Name": "A&S School of Communication, Film&Media"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4272",
+        "Description": "Office",
+        "Department Name": "A&S School of Communication, Film&Media"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4273",
+        "Description": "Office",
+        "Department Name": "A&S School of Communication, Film&Media"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4275",
+        "Description": "Classroom Svc",
+        "Department Name": "A&S School of Communication, Film&Media"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4277",
+        "Description": "Electrical",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4280",
+        "Description": "Active Learning Classroom",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4285",
+        "Description": "Conference",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4290",
+        "Description": "TEAL",
+        "Department Name": "A&S College of Arts and Sciences"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4296",
+        "Description": "Shaft Space",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4297A",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4297B",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4297C",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4298D",
+        "Description": "Stair",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4298E",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4299E",
+        "Description": "Internal Office Circ",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4299N",
+        "Description": "Collaboration",
+        "Department Name": "A&S German Studies"
+    },
+    {
+        "Floor Code": "04",
+        "Room Code": "4299S",
+        "Description": "Collaboration",
+        "Department Name": "A&S College of Arts and Sciences"
+    }
+]

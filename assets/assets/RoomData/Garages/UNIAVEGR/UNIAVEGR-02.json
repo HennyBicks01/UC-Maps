@@ -1,0 +1,62 @@
+[
+    {
+        "Floor Code": "02",
+        "Room Code": "200",
+        "Description": "Parking",
+        "Department Name": "A&F Parking Administration"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "201",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "202",
+        "Description": "Mechanical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "204",
+        "Description": "Parking",
+        "Department Name": "A&F Parking Field Operations - West 3"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "297A",
+        "Description": "Under Construction",
+        "Department Name": "West Campus Construction"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "297B",
+        "Description": "Elevator",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "298A",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "298B",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "299V",
+        "Description": "Parking",
+        "Department Name": "A&F Parking Administration"
+    },
+    {
+        "Floor Code": "02",
+        "Room Code": "299VX",
+        "Description": "Parking",
+        "Department Name": "A&F Parking Administration"
+    }
+]

@@ -1,0 +1,248 @@
+[
+    {
+        "Floor Code": "07",
+        "Room Code": "741",
+        "Description": "Classroom",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "742",
+        "Description": "Electrical",
+        "Department Name": "A&F Maintenance & Operations"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "743",
+        "Description": "Conference",
+        "Department Name": "CEAS - Aerospace Eng & Eng Mechanics"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "744",
+        "Description": "Instrument Lab",
+        "Department Name": "CEAS - Aerospace Eng & Eng Mechanics"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "745",
+        "Description": "Reception/Waiting",
+        "Department Name": "CEAS - Aerospace Eng & Eng Mechanics"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "745A",
+        "Description": "Office",
+        "Department Name": "CEAS - Aerospace Eng & Eng Mechanics"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "745B",
+        "Description": "Office",
+        "Department Name": "CEAS - Aerospace Eng & Eng Mechanics"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "745C",
+        "Description": "Office",
+        "Department Name": "CEAS - Aerospace Eng & Eng Mechanics"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "745D",
+        "Description": "Conference",
+        "Department Name": "CEAS - Aerospace Eng & Eng Mechanics"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "745E",
+        "Description": "Office",
+        "Department Name": "CEAS - Aerospace Eng & Eng Mechanics"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "745F",
+        "Description": "Break Room",
+        "Department Name": "CEAS - Aerospace Eng & Eng Mechanics"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "745FA",
+        "Description": "Office",
+        "Department Name": "CEAS - Aerospace Eng & Eng Mechanics"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "746",
+        "Description": "Data Lab",
+        "Department Name": "CEAS - Aerospace Eng & Eng Mechanics"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "747",
+        "Description": "Office",
+        "Department Name": "CEAS - Civil & Arch Eng & Const Mgmt"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "748",
+        "Description": "Conference",
+        "Department Name": "DTS Electronic Classroom Support"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "749",
+        "Description": "Classroom",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "750",
+        "Description": "Seminar",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "755",
+        "Description": "Classroom",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "755A",
+        "Description": "Classroom Svc",
+        "Department Name": "CEAS - College of Eng & Appl Science"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "755B",
+        "Description": "Classroom Svc",
+        "Department Name": "CEAS - College of Eng & Appl Science"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "756",
+        "Description": "Office",
+        "Department Name": "CEAS - College of Eng & Appl Science"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "757",
+        "Description": "Classroom",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "758",
+        "Description": "Office",
+        "Department Name": "CEAS - College of Eng & Appl Science"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "760",
+        "Description": "Seminar",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "764",
+        "Description": "Classroom",
+        "Department Name": "EM Registrar"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "765",
+        "Description": "Reception/Waiting",
+        "Department Name": "CEAS - Civil & Arch Eng & Const Mgmt"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "765A",
+        "Description": "Office",
+        "Department Name": "CEAS - Civil & Arch Eng & Const Mgmt"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "765B",
+        "Description": "Office",
+        "Department Name": "CEAS - Civil & Arch Eng & Const Mgmt"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "765BA",
+        "Description": "Office",
+        "Department Name": "CEAS - Civil & Arch Eng & Const Mgmt"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "765C",
+        "Description": "Office",
+        "Department Name": "CEAS - Civil & Arch Eng & Const Mgmt"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "765D",
+        "Description": "Office",
+        "Department Name": "CEAS - Civil & Arch Eng & Const Mgmt"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "765E",
+        "Description": "Office",
+        "Department Name": "CEAS - Civil & Arch Eng & Const Mgmt"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "765F",
+        "Description": "Office",
+        "Department Name": "CEAS - Civil & Arch Eng & Const Mgmt"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "765G",
+        "Description": "Office",
+        "Department Name": "CEAS - Civil & Arch Eng & Const Mgmt"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "765H",
+        "Description": "Workroom",
+        "Department Name": "CEAS - Civil & Arch Eng & Const Mgmt"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "765I",
+        "Description": "Conference",
+        "Department Name": "CEAS - Civil & Arch Eng & Const Mgmt"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "765J",
+        "Description": "Break Room",
+        "Department Name": "CEAS - Civil & Arch Eng & Const Mgmt"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "765K",
+        "Description": "Copy/Mail",
+        "Department Name": "CEAS - Civil & Arch Eng & Const Mgmt"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "796",
+        "Description": "Shaft Space",
+        "Department Name": "Shaft Spaces"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "798F",
+        "Description": "Stair",
+        "Department Name": "Hallways"
+    },
+    {
+        "Floor Code": "07",
+        "Room Code": "799",
+        "Description": "Corridor",
+        "Department Name": "Hallways"
+    }
+]
