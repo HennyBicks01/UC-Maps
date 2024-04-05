@@ -482,8 +482,8 @@ class _MyHomePageState extends State<MyHomePage> {
         mapController.camera.unproject(cornerScreen, zoom)).toList(); // Assuming unproject does the inverse of project
 
     // Use rotatedCornersGeo for further processing or output
-    var Latlnprint = currentImageCorners.map((latLng) => 'LatLng(${latLng.latitude}, ${latLng.longitude})').join(', ');
-    print('[$Latlnprint],');
+    //var Latlnprint = currentImageCorners.map((latLng) => 'LatLng(${latLng.latitude}, ${latLng.longitude})').join(', ');
+    //print('[$Latlnprint],');
   }
 
   void getPolygonPositions(String jsonindex, List<LatLng>corners) async {
@@ -537,7 +537,6 @@ class _MyHomePageState extends State<MyHomePage> {
       return [corner.latitude, corner.longitude];
     }).toList();
 
-    print(cornerPositions);
     // Additional polygon with corners
     Map<String, dynamic> cornersEntry = {
       "polygon": cornerPositions,
@@ -608,7 +607,7 @@ class _MyHomePageState extends State<MyHomePage> {
           approxPointC: imageData.corners[2],
           noRotation: true,
           child: Opacity(
-            opacity: 0.45,
+            opacity: 0.2,
             child: Image.asset(imageData.imagePath), // Use the specific image path
           ),
         ));
@@ -644,7 +643,7 @@ class _MyHomePageState extends State<MyHomePage> {
       showDialog(
         context: context,
         builder: (BuildContext context) {
-          return AlertDialog(
+          return const AlertDialog(
             title: Text("Processing Complete"),
             content: Text("All images have been processed."),
             actions: <Widget>[
@@ -663,7 +662,7 @@ class _MyHomePageState extends State<MyHomePage> {
       while (processedImagesIndices.contains(nextIndex) && nextIndex < imagePaths.length) {
         nextIndex++;
       }currentIndex = nextIndex < imagePaths.length ? nextIndex : 0;
-      print('Skipping to floor: ${currentIndex + 1}, image path: ${imagePaths[currentIndex]}');
+      //print('Skipping to floor: ${currentIndex + 1}, image path: ${imagePaths[currentIndex]}');
       // Prepare for processing the next image
       _selectImageForOverlay(imagePaths[currentIndex]);
     });
@@ -790,8 +789,8 @@ class _MyHomePageState extends State<MyHomePage> {
                         getPolygonPositions(jsonPaths[currentIndex], currentImageCorners),
                         setImageAsProcessed(),
                       },
-                      child: const Icon(Icons.check),
                       backgroundColor: Colors.green[700],
+                      child: const Icon(Icons.check),
                     ),
                   ),
                 if (selectedImagePath != null)
@@ -800,8 +799,8 @@ class _MyHomePageState extends State<MyHomePage> {
                     bottom: 80.0, // Adjust the position so it doesn't overlap with the other button
                     child: FloatingActionButton(
                       onPressed: () => skipFloor(),
-                      child: const Icon(Icons.skip_next),
-                      backgroundColor: Colors.blue[700], // Different color for distinction
+                      backgroundColor: Colors.blue[700],
+                      child: const Icon(Icons.skip_next), // Different color for distinction
                     ),
                   ),
               ]),
