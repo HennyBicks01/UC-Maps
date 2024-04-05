@@ -78,18 +78,6 @@ List<PolygonData> getPolygons() {
           isFilled: true,
       )
   ),
-   PolygonData(
-        name: 'Test',
-        polygon: Polygon(
-          points: const
-          [LatLng(39.1309885494483, -84.51801965650606), LatLng(39.13063497474441, -84.51715083897552), LatLng(39.12983611208885, -84.51769112732322), LatLng(39.13018969080344, -84.51855994485375)],
-
-          color: const Color.fromRGBO(224, 1, 34, .1),
-          borderColor: const Color.fromRGBO(184, 1, 28, .40),
-          borderStrokeWidth: 2.0,
-          isFilled: true,
-        )
-    ),
     PolygonData(
       name: 'A&S Hall',
       polygon: Polygon(

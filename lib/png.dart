@@ -147,6 +147,10 @@ Map<String, List<String>> buildingImagePaths = {
     'Blueprints/CROSLEY/CROSLEY-16.png',
   ],
   'DAAP': [
+    'Blueprints/DAAP/ARONOFF/ARONOFF-03.png',
+    'Blueprints/DAAP/ARONOFF/ARONOFF-04.png',
+    'Blueprints/DAAP/ARONOFF/ARONOFF-05.png',
+    'Blueprints/DAAP/ARONOFF/ARONOFF-06.png',
     'Blueprints/DAAP/DAAP-05.png',
     'Blueprints/DAAP/DAAP-06.png',
     'Blueprints/DAAP/DAAP-07.png',
@@ -157,12 +161,6 @@ Map<String, List<String>> buildingImagePaths = {
     'Blueprints/DAAP/ALMS/ALMS-06.png',
     'Blueprints/DAAP/ALMS/ALMS-07.png',
     'Blueprints/DAAP/ALMS/ALMS-08.png',
-  ],
-  'ARONOFF': [
-    'Blueprints/DAAP/ARONOFF/ARONOFF-03.png',
-    'Blueprints/DAAP/ARONOFF/ARONOFF-04.png',
-    'Blueprints/DAAP/ARONOFF/ARONOFF-05.png',
-    'Blueprints/DAAP/ARONOFF/ARONOFF-06.png',
   ],
   'DAAPSTAN': [
     'Blueprints/DAAP/DAAPSTAN/DAAPSTAN-01.png',

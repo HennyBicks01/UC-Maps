@@ -14,6 +14,7 @@ import 'package:latlong2/latlong.dart';
 import 'package:geolocator/geolocator.dart';
 import 'building.dart';
 import 'geo.dart';
+import 'json.dart';
 import 'part1.dart';
 import 'part2.dart';
 
@@ -58,6 +59,7 @@ class _MyHomePageState extends State<MyHomePage> {
   List<LatLng> cornerPositions = [];
   int currentIndex = 0;
   List<String> imagePaths = [];
+  List<String> jsonPaths = [];
   Set<int> processedImagesIndices = {};
   List<LatLng> currentImageCorners = [];
   List<Point> currentScreenCorners = [];
@@ -344,8 +346,8 @@ class _MyHomePageState extends State<MyHomePage> {
         name: "", //item['roomInfo']['Description'].toString(),
         polygon: Polygon(
           points: points,
-          color: const Color.fromRGBO(224, 1, 34, .3), // Example colors, adjust as needed
-          borderColor: const Color.fromRGBO(184, 1, 28, .3), // Example colors, adjust as needed
+          color: const Color.fromRGBO(224, 1, 34, .4), // Example colors, adjust as needed
+          borderColor: const Color.fromRGBO(184, 1, 28, .4), // Example colors, adjust as needed
           borderStrokeWidth: 2.0,
           isFilled: true,
         ),
@@ -392,15 +394,12 @@ class _MyHomePageState extends State<MyHomePage> {
     if (imagePaths.isNotEmpty) {
       String folderName = extractFolderName(imagePaths[currentIndex]);
       Map<String, dynamic> jsonStructure = {
-        "images": {},
       };
 
       imageCorners.forEach((key, value) {
         // Now includes corners, image path, and camera rotation
         jsonStructure["images"][key] = {
           "corners": value.corners.map((e) => [e.latitude, e.longitude]).toList(),
-          "centroid": value.centroid,
-          "cameraRotation": value.cameraRotation, // Include camera rotation
         };
       });
 
@@ -454,7 +453,7 @@ class _MyHomePageState extends State<MyHomePage> {
     // Convert LatLng to screen coordinates at the given zoom level
     Point centerScreen = mapController.camera.project(centerGeo, zoom);
 
-    double overlaySizeInPixels =  boxSize; // Overlay size in pixels directly, assuming 900px as a base size
+    double overlaySizeInPixels =  boxSize;
     double aspectRatio = selectedImageSize.width / selectedImageSize.height;
     double overlayWidthPixels, overlayHeightPixels;
 
@@ -478,7 +477,6 @@ class _MyHomePageState extends State<MyHomePage> {
     currentScreenCorners = unrotatedCornersScreen.map((cornerScreen) =>
         rotatePoint2D(centerScreen, cornerScreen, 360-rotationDegrees)).toList();
 
-
     // Convert back to geographic coordinates
     currentImageCorners = currentScreenCorners.map((cornerScreen) =>
         mapController.camera.unproject(cornerScreen, zoom)).toList(); // Assuming unproject does the inverse of project
@@ -488,6 +486,75 @@ class _MyHomePageState extends State<MyHomePage> {
     print('[$Latlnprint],');
   }
 
+  void getPolygonPositions() async {
+    final rotationDegrees = mapController.camera.rotation;
+    final LatLng centerGeo = mapController.camera.center; // Geographic center
+    final zoom = mapController.camera.zoom;
+
+    Point centerScreen = mapController.camera.project(centerGeo, zoom);
+
+    double overlaySizeInPixels = boxSize;
+    double aspectRatio = selectedImageSize.width / selectedImageSize.height;
+    double overlayWidthPixels, overlayHeightPixels;
+
+    if (aspectRatio >= 1) {
+      overlayWidthPixels = overlaySizeInPixels;
+      overlayHeightPixels = overlaySizeInPixels / aspectRatio;
+    } else {
+      overlayHeightPixels = overlaySizeInPixels;
+      overlayWidthPixels = overlaySizeInPixels * aspectRatio;
+    }
+
+    // Load JSON data for the current building and floor
+    String jsonContent = await rootBundle.loadString(jsonPaths[currentIndex]); // Assuming jsonPaths is already defined and accessible
+    List<dynamic> polygonsData = json.decode(jsonContent);
+
+    List<Map<String, dynamic>> newPolygonsData = polygonsData.map<Map<String, dynamic>>((polygonData) {
+      List<List<double>> newPolygon = polygonData['polygon'].map<List<double>>((point) {
+        Point pixelPoint = Point(point[0].toDouble(), point[1].toDouble());
+
+        // Convert pixel coordinates to screen space
+        Point<double> pointInScreenSpace = Point(
+            centerScreen.x - (overlayWidthPixels / 2) + (pixelPoint.x * (overlayWidthPixels / selectedImageSize.width)),
+            centerScreen.y - (overlayHeightPixels / 2) + (pixelPoint.y * (overlayHeightPixels / selectedImageSize.height))
+        );
+
+        // Optionally rotate the point
+        Point<double> rotatedPointInScreenSpace = rotatePoint2D(centerScreen, pointInScreenSpace, 360 - rotationDegrees);
+
+        // Convert back to geographic coordinates
+        LatLng geoPoint = mapController.camera.unproject(rotatedPointInScreenSpace, zoom);
+        return [geoPoint.latitude, geoPoint.longitude];
+      }).toList();
+
+      return {
+        "polygon": newPolygon,
+        "roomInfo": polygonData['roomInfo'],
+      };
+    }).toList();
+    // Encode the new polygons data into a JSON string
+    String newJsonContent = jsonEncode(newPolygonsData);
+
+    // Determine the filename based on the current JSON path
+    String fileName = jsonPaths[currentIndex - 1].split('/').last; // Extracts the last part of the path, assuming it's the filename
+    if (!fileName.endsWith('.json')) {
+      fileName += '.json'; // Ensure the file has a .json extension
+    }
+
+    // Download the new JSON with the derived filename
+    downloadJson(newJsonContent, fileName);
+  }
+
+  void downloadJson(String data, String fileName) {
+    // Encode the data
+    final bytes = utf8.encode(data);
+    final blob = Blob([bytes], 'application/json');
+    final url = Url.createObjectUrlFromBlob(blob);
+    AnchorElement(href: url)
+      ..setAttribute("download", fileName)
+      ..click();
+    Url.revokeObjectUrl(url);
+  }
 
   // Rotates a Point around another Point (the pivot) by a specified number of degrees.
   Point<double> rotatePoint2D(Point<num> pivot, Point<num> point, double rotationDegrees) {
@@ -522,7 +589,7 @@ class _MyHomePageState extends State<MyHomePage> {
           approxPointC: imageData.corners[2],
           noRotation: true,
           child: Opacity(
-            opacity: 0.3,
+            opacity: 0.45,
             child: Image.asset(imageData.imagePath), // Use the specific image path
           ),
         ));
@@ -613,6 +680,7 @@ class _MyHomePageState extends State<MyHomePage> {
                     } else if (operationMode == 2) {
                       // PART 2 *************************************
                       imagePaths = getbuildingImagePathFilePaths(buildingName);
+                      jsonPaths = getbuildingJsonPathFilePaths(buildingName);
                       selectedBuildingName = buildingName;
                       if (imagePaths.isNotEmpty) {
                         _selectImageForOverlay(imagePaths[currentIndex]);
@@ -692,6 +760,7 @@ class _MyHomePageState extends State<MyHomePage> {
                     child: FloatingActionButton(
                       onPressed: () => {
                         getCornerMarkerPositions(),
+                        getPolygonPositions(),
                         setImageAsProcessed(),
                       },
                       child: const Icon(Icons.check),
@@ -746,7 +815,7 @@ class _MyHomePageState extends State<MyHomePage> {
           Positioned(
             top: MediaQuery.of(context).padding.top + 10,
             left: 60,
-            right: 60,
+            right: MediaQuery.of(context).size.width * .85,
             child: Material(
               borderRadius: BorderRadius.circular(30), // Set borderRadius here
               elevation: 2, // Optional: adds a slight shadow
@@ -867,13 +936,3 @@ class ImageData {
   LatLng centroid;
   ImageData(this.corners, this.imagePath, this.cameraRotation, this.centroid);
 }
-
-
-// Your map would then be:
-
-
-
-
-
-
-

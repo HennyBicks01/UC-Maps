@@ -147,6 +147,10 @@ Map<String, List<String>> buildingJsonPaths = {
     'BlueprintMaps/CROSLEY/CROSLEY-16.json',
   ],
   'DAAP': [
+    'BlueprintMaps/DAAP/ARONOFF/ARONOFF-03.json',
+    'BlueprintMaps/DAAP/ARONOFF/ARONOFF-04.json',
+    'BlueprintMaps/DAAP/ARONOFF/ARONOFF-05.json',
+    'BlueprintMaps/DAAP/ARONOFF/ARONOFF-06.json',
     'BlueprintMaps/DAAP/DAAP-05.json',
     'BlueprintMaps/DAAP/DAAP-06.json',
     'BlueprintMaps/DAAP/DAAP-07.json',
@@ -157,12 +161,6 @@ Map<String, List<String>> buildingJsonPaths = {
     'BlueprintMaps/DAAP/ALMS/ALMS-06.json',
     'BlueprintMaps/DAAP/ALMS/ALMS-07.json',
     'BlueprintMaps/DAAP/ALMS/ALMS-08.json',
-  ],
-  'ARONOFF': [
-    'BlueprintMaps/DAAP/ARONOFF/ARONOFF-03.json',
-    'BlueprintMaps/DAAP/ARONOFF/ARONOFF-04.json',
-    'BlueprintMaps/DAAP/ARONOFF/ARONOFF-05.json',
-    'BlueprintMaps/DAAP/ARONOFF/ARONOFF-06.json',
   ],
   'DAAPSTAN': [
     'BlueprintMaps/DAAP/DAAPSTAN/DAAPSTAN-01.json',
