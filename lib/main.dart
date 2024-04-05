@@ -486,7 +486,7 @@ class _MyHomePageState extends State<MyHomePage> {
     print('[$Latlnprint],');
   }
 
-  void getPolygonPositions() async {
+  void getPolygonPositions(String jsonindex, List<LatLng>corners) async {
     final rotationDegrees = mapController.camera.rotation;
     final LatLng centerGeo = mapController.camera.center; // Geographic center
     final zoom = mapController.camera.zoom;
@@ -506,7 +506,7 @@ class _MyHomePageState extends State<MyHomePage> {
     }
 
     // Load JSON data for the current building and floor
-    String jsonContent = await rootBundle.loadString(jsonPaths[currentIndex]); // Assuming jsonPaths is already defined and accessible
+    String jsonContent = await rootBundle.loadString(jsonindex); // Assuming jsonPaths is already defined and accessible
     List<dynamic> polygonsData = json.decode(jsonContent);
 
     List<Map<String, dynamic>> newPolygonsData = polygonsData.map<Map<String, dynamic>>((polygonData) {
@@ -532,15 +532,34 @@ class _MyHomePageState extends State<MyHomePage> {
         "roomInfo": polygonData['roomInfo'],
       };
     }).toList();
+
+    List<List<double>> cornerPositions = corners.map((LatLng corner) {
+      return [corner.latitude, corner.longitude];
+    }).toList();
+
+    print(cornerPositions);
+    // Additional polygon with corners
+    Map<String, dynamic> cornersEntry = {
+      "polygon": cornerPositions,
+      "roomInfo": {
+        "Floor Code": "00", // Assuming this is a special case, so setting a default value
+        "Room Code": "PICTURE",
+        "Description": "Corners Reference",
+        "Department Name": "Special" // Placeholder, adjust as needed
+      }
+    };
+
+    // Append this corners entry to your list of polygon data
+    newPolygonsData.add(cornersEntry);
+
     // Encode the new polygons data into a JSON string
     String newJsonContent = jsonEncode(newPolygonsData);
 
     // Determine the filename based on the current JSON path
-    String fileName = jsonPaths[currentIndex - 1].split('/').last; // Extracts the last part of the path, assuming it's the filename
+    String fileName = jsonindex.split('/').last; // Extracts the last part of the path, assuming it's the filename
     if (!fileName.endsWith('.json')) {
       fileName += '.json'; // Ensure the file has a .json extension
     }
-
     // Download the new JSON with the derived filename
     downloadJson(newJsonContent, fileName);
   }
@@ -602,33 +621,29 @@ class _MyHomePageState extends State<MyHomePage> {
     setState(() {
       if (imagePaths.isNotEmpty) {
         processedImagesIndices.add(currentIndex);
-        String imagePath = imagePaths[currentIndex];
-        String imageName = imagePath.split('/').last.split('.')[0];
-        currentCameraRotation = mapController.camera.rotation;
-        currentCentroid = mapController.camera.center;
-        // Update to store both corners and imagePath
-        imageCorners[imageName] = ImageData(
-          List<LatLng>.from(currentImageCorners),
-          imagePath,
-          currentCameraRotation,
-          currentCentroid,// This needs to be defined or obtained elsewhere
-        );
-
-
-        // Rebuild the polyWidgets list with the updated structure
         polyWidgets = createPolyWidgetsForProcessedImages();
-
-        print('Processing image: $imageName with corners: $currentImageCorners');
-
         skipFloor();
       }
     });
-
+    // Check if all images have been processed
     if (processedImagesIndices.length >= imagePaths.length) {
-      print('All images processed. Saving corners...');
-      saveAndDownloadCorners();
+      // All images processed, perform an action
+      // For example, show a dialog
+      showDialog(
+        context: context,
+        builder: (BuildContext context) {
+          return AlertDialog(
+            title: Text("Processing Complete"),
+            content: Text("All images have been processed."),
+            actions: <Widget>[
+              Text("Please Refresh!")
+            ],
+          );
+        },
+      );
     }
   }
+
 
   void skipFloor() {
     setState(() {
@@ -760,7 +775,7 @@ class _MyHomePageState extends State<MyHomePage> {
                     child: FloatingActionButton(
                       onPressed: () => {
                         getCornerMarkerPositions(),
-                        getPolygonPositions(),
+                        getPolygonPositions(jsonPaths[currentIndex], currentImageCorners),
                         setImageAsProcessed(),
                       },
                       child: const Icon(Icons.check),
