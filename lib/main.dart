@@ -621,6 +621,18 @@ class _MyHomePageState extends State<MyHomePage> {
     setState(() {
       if (imagePaths.isNotEmpty) {
         processedImagesIndices.add(currentIndex);
+        String imagePath = imagePaths[currentIndex];
+        String imageName = imagePath.split('/').last.split('.')[0];
+        currentCameraRotation = mapController.camera.rotation;
+        currentCentroid = mapController.camera.center;
+        // Update to store both corners and imagePath
+        imageCorners[imageName] = ImageData(
+          List<LatLng>.from(currentImageCorners),
+          imagePath,
+          currentCameraRotation,
+          currentCentroid,// This needs to be defined or obtained elsewhere
+        );
+
         polyWidgets = createPolyWidgetsForProcessedImages();
         skipFloor();
       }
