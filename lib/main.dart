@@ -4,6 +4,7 @@ import 'dart:html';
 import 'dart:math';
 
 import 'package:dio/dio.dart';
+import 'package:find_flush/part2new.dart';
 import 'package:find_flush/png.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
@@ -28,7 +29,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flush Finder',
+      title: 'UC Maps',
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
@@ -71,6 +72,8 @@ class _MyHomePageState extends State<MyHomePage> {
   late LatLng currentCentroid;
   double boxSize = 0.0;
   final dio = Dio();
+  bool isGeoDataWidgetVisible = false;
+
 
   @override
   void initState() {
@@ -237,7 +240,6 @@ class _MyHomePageState extends State<MyHomePage> {
     if(zoom <= 15){
       return [];
     }
-
     double minDistance = calculateMinDistanceBasedOnZoom(zoom);
     // Sort polygons by area, largest to smallest
     polygons.sort((a, b) => calculatePolygonArea(b.polygon.points).compareTo(calculatePolygonArea(a.polygon.points)));
@@ -273,8 +275,6 @@ class _MyHomePageState extends State<MyHomePage> {
     }
     return markers;
   }
-
-
 
   void _selectPolygon(PolygonData polygonData) {
     // Example action: Navigate to a detail page for the polygon
@@ -324,57 +324,76 @@ class _MyHomePageState extends State<MyHomePage> {
     }
   }
 
+  // Assuming this function gets the necessary data to create a PolyWidget for the image overlay
+  Future<List<PolyWidget>> createPolyWidgetsFromImageData(List<String> assetPaths) async {
+    List<PolyWidget> polyWidgets = [];
+
+    if (assetPaths.isEmpty) {
+      return polyWidgets; // Return an empty list if no paths are provided
+    }
+
+    // Load and decode the JSON data for the last assetPath, assuming it contains your image overlay data
+    final String jsonStr = await rootBundle.loadString(assetPaths.last);
+    final dynamic jsonData = json.decode(jsonStr);
+
+    // Assuming jsonData contains the necessary points and imagePath for the image overlay
+    List<LatLng> points = (jsonData['polygon'] as List).map<LatLng>((point) {
+      double lat = (point[0] is int) ? (point[0] as int).toDouble() : point[0];
+      double lng = (point[1] is int) ? (point[1] as int).toDouble() : point[1];
+      return LatLng(lat, lng);
+    }).toList();
+
+    // Example of creating a PolyWidget, adjust according to your actual data structure
+    PolyWidget polyWidget = PolyWidget.threePoints(
+      pointA: points[0], // Adjust these points as per your structure
+      pointB: points[1],
+      approxPointC: points[2],
+      noRotation: true,
+      child: Opacity(
+        opacity: 0.2,
+        child: Image.asset('your_image_path_here'), // Replace with your actual image path
+      ),
+    );
+
+    polyWidgets.add(polyWidget);
+
+    return polyWidgets;
+  }
+
+
   Future<List<PolygonData>> loadRoomDataFromJson(List<String> assetPaths) async {
     if (assetPaths.isEmpty) {
       return []; // Return an empty list if no paths are provided
     }
-
-    // For now, use only the first path in the list
+    // Load and decode the JSON data
     final String jsonStr = await rootBundle.loadString(assetPaths.first);
     final List<dynamic> jsonData = json.decode(jsonStr);
 
-    List<PolygonData> rooms = jsonData.map<PolygonData>((item) {
+    List<PolygonData> rooms = []; // This will hold both PolygonData and the PolyWidget or its data
+
+    for (int i = 0; i < jsonData.length; i++) {
+      final item = jsonData[i];
       List<LatLng> points = (item['polygon'] as List).map<LatLng>((point) {
-        // Ensure latitude and longitude are treated as doubles
         double lat = (point[0] is int) ? (point[0] as int).toDouble() : point[0];
         double lng = (point[1] is int) ? (point[1] as int).toDouble() : point[1];
         return LatLng(lat, lng);
       }).toList();
 
-      // The rest of your RoomData construction logic
-      return PolygonData(
-        name: "", //item['roomInfo']['Description'].toString(),
-        polygon: Polygon(
-          points: points,
-          color: const Color.fromRGBO(224, 1, 34, .4), // Example colors, adjust as needed
-          borderColor: const Color.fromRGBO(184, 1, 28, .4), // Example colors, adjust as needed
-          borderStrokeWidth: 2.0,
-          isFilled: true,
-        ),
-      );
-    }).toList();
+      if (i < jsonData.length - 1) {
+        // For all but the last polygon, create PolygonData objects
+        rooms.add(PolygonData(
+          name: "", // Assuming you have a mechanism to set names
+          polygon: Polygon(
+            points: points,
+            color: const Color.fromRGBO(224, 1, 34, .4),
+            borderColor: const Color.fromRGBO(184, 1, 28, .4),
+            borderStrokeWidth: 2.0,
+            isFilled: true,
+          ),
+        ));
+      }
+    }
     return rooms;
-  }
-
-  // Approximate distance between two points in meters
-  double distance(LatLng start, LatLng end) {
-    var earthRadius = 6371000; // meters
-    var dLat = (end.latitude - start.latitude) * pi / 180.0;
-    var dLon = (end.longitude - start.longitude) * pi / 180.0;
-
-    var a = sin(dLat/2) * sin(dLat/2) +
-        cos(start.latitude * pi / 180.0) * cos(end.latitude * pi / 180.0) *
-            sin(dLon/2) * sin(dLon/2);
-    var c = 2 * atan2(sqrt(a), sqrt(1-a));
-    var d = earthRadius * c;
-
-    return d; // Distance in meters
-  }
-
-  String extractFolderName(String path) {
-    var parts = path.split('/'); // Split the path into parts
-    // Assuming the second last part is the folder name
-    return parts.length > 1 ? parts[parts.length - 2] : "";
   }
 
   List<int> extractFloorNumbers(List<String> filePaths) {
@@ -389,285 +408,6 @@ class _MyHomePageState extends State<MyHomePage> {
     floorNumbers.sort();
     return floorNumbers;
   }
-
-  void saveAndDownloadCorners() {
-    if (imagePaths.isNotEmpty) {
-      String folderName = extractFolderName(imagePaths[currentIndex]);
-      Map<String, dynamic> jsonStructure = {
-      };
-
-      imageCorners.forEach((key, value) {
-        // Now includes corners, image path, and camera rotation
-        jsonStructure["images"][key] = {
-          "corners": value.corners.map((e) => [e.latitude, e.longitude]).toList(),
-        };
-      });
-
-      String jsonString = jsonEncode(jsonStructure);
-      triggerDownload(jsonString, "$folderName.json");
-    }
-  }
-
-
-
-  void triggerDownload(String data, String fileName) {
-    final text = data;
-    final bytes = utf8.encode(text);
-    final blob = Blob([bytes], 'application/json');
-    final url = Url.createObjectUrlFromBlob(blob);
-    AnchorElement(href: url)
-      ..setAttribute("download", fileName)
-      ..click();
-    Url.revokeObjectUrl(url);
-  }
-
-
-  Future<void> _selectImageForOverlay(String imagePath) async {
-    imageProvider = AssetImage(imagePath);
-    final ImageStream stream = imageProvider.resolve(ImageConfiguration.empty);
-    final Completer<Size> completer = Completer<Size>();
-    ImageStreamListener? listener;
-    listener = ImageStreamListener((ImageInfo info, bool _) {
-      final Size imageSize = Size(info.image.width.toDouble(), info.image.height.toDouble());
-      completer.complete(imageSize);
-      stream.removeListener(listener!);
-    });
-    stream.addListener(listener);
-    final Size imageSize = await completer.future;
-
-    setState(() {
-      selectedImagePath = imagePath;
-      // Assuming you've defined `selectedImageSize` in your state to store the image size
-      selectedImageSize = imageSize;
-    });
-
-    // Optionally, call a function to update overlay or print coordinates here
-    getCornerMarkerPositions(); // This function now needs to be adapted to accept `imageSize` as a parameter
-  }
-
-  void getCornerMarkerPositions() {
-    final rotationDegrees = mapController.camera.rotation;
-    final LatLng centerGeo = mapController.camera.center; // Geographic center
-    final zoom = mapController.camera.zoom;
-
-    // Convert LatLng to screen coordinates at the given zoom level
-    Point centerScreen = mapController.camera.project(centerGeo, zoom);
-
-    double overlaySizeInPixels =  boxSize;
-    double aspectRatio = selectedImageSize.width / selectedImageSize.height;
-    double overlayWidthPixels, overlayHeightPixels;
-
-    if (aspectRatio >= 1) {
-      overlayWidthPixels = overlaySizeInPixels;
-      overlayHeightPixels = overlaySizeInPixels / aspectRatio;
-    } else {
-      overlayHeightPixels = overlaySizeInPixels;
-      overlayWidthPixels = overlaySizeInPixels * aspectRatio;
-    }
-
-    // Calculate corner points in screen space
-    Point topLeftScreen = Point(centerScreen.x - overlayWidthPixels / 2, centerScreen.y - overlayHeightPixels / 2);
-    Point topRightScreen = Point(centerScreen.x + overlayWidthPixels / 2, centerScreen.y - overlayHeightPixels / 2);
-    Point bottomLeftScreen = Point(centerScreen.x - overlayWidthPixels / 2, centerScreen.y + overlayHeightPixels / 2);
-    Point bottomRightScreen = Point(centerScreen.x + overlayWidthPixels / 2, centerScreen.y + overlayHeightPixels / 2);
-
-    List<Point> unrotatedCornersScreen = [topLeftScreen, topRightScreen, bottomRightScreen, bottomLeftScreen];
-
-    // Rotate screen points around the center by rotationDegrees
-    currentScreenCorners = unrotatedCornersScreen.map((cornerScreen) =>
-        rotatePoint2D(centerScreen, cornerScreen, 360-rotationDegrees)).toList();
-
-    // Convert back to geographic coordinates
-    currentImageCorners = currentScreenCorners.map((cornerScreen) =>
-        mapController.camera.unproject(cornerScreen, zoom)).toList(); // Assuming unproject does the inverse of project
-
-    // Use rotatedCornersGeo for further processing or output
-    //var Latlnprint = currentImageCorners.map((latLng) => 'LatLng(${latLng.latitude}, ${latLng.longitude})').join(', ');
-    //print('[$Latlnprint],');
-  }
-
-  void getPolygonPositions(String jsonindex, List<LatLng>corners) async {
-    final rotationDegrees = mapController.camera.rotation;
-    final LatLng centerGeo = mapController.camera.center; // Geographic center
-    final zoom = mapController.camera.zoom;
-
-    Point centerScreen = mapController.camera.project(centerGeo, zoom);
-
-    double overlaySizeInPixels = boxSize;
-    double aspectRatio = selectedImageSize.width / selectedImageSize.height;
-    double overlayWidthPixels, overlayHeightPixels;
-
-    if (aspectRatio >= 1) {
-      overlayWidthPixels = overlaySizeInPixels;
-      overlayHeightPixels = overlaySizeInPixels / aspectRatio;
-    } else {
-      overlayHeightPixels = overlaySizeInPixels;
-      overlayWidthPixels = overlaySizeInPixels * aspectRatio;
-    }
-
-    // Load JSON data for the current building and floor
-    String jsonContent = await rootBundle.loadString(jsonindex); // Assuming jsonPaths is already defined and accessible
-    List<dynamic> polygonsData = json.decode(jsonContent);
-
-    List<Map<String, dynamic>> newPolygonsData = polygonsData.map<Map<String, dynamic>>((polygonData) {
-      List<List<double>> newPolygon = polygonData['polygon'].map<List<double>>((point) {
-        Point pixelPoint = Point(point[0].toDouble(), point[1].toDouble());
-
-        // Convert pixel coordinates to screen space
-        Point<double> pointInScreenSpace = Point(
-            centerScreen.x - (overlayWidthPixels / 2) + (pixelPoint.x * (overlayWidthPixels / selectedImageSize.width)),
-            centerScreen.y - (overlayHeightPixels / 2) + (pixelPoint.y * (overlayHeightPixels / selectedImageSize.height))
-        );
-
-        // Optionally rotate the point
-        Point<double> rotatedPointInScreenSpace = rotatePoint2D(centerScreen, pointInScreenSpace, 360 - rotationDegrees);
-
-        // Convert back to geographic coordinates
-        LatLng geoPoint = mapController.camera.unproject(rotatedPointInScreenSpace, zoom);
-        return [geoPoint.latitude, geoPoint.longitude];
-      }).toList();
-
-      return {
-        "polygon": newPolygon,
-        "roomInfo": polygonData['roomInfo'],
-      };
-    }).toList();
-
-    List<List<double>> cornerPositions = corners.map((LatLng corner) {
-      return [corner.latitude, corner.longitude];
-    }).toList();
-
-    // Additional polygon with corners
-    Map<String, dynamic> cornersEntry = {
-      "polygon": cornerPositions,
-      "roomInfo": {
-        "Floor Code": "00", // Assuming this is a special case, so setting a default value
-        "Room Code": "PICTURE",
-        "Description": "Corners Reference",
-        "Department Name": "Special" // Placeholder, adjust as needed
-      }
-    };
-
-    // Append this corners entry to your list of polygon data
-    newPolygonsData.add(cornersEntry);
-
-    // Encode the new polygons data into a JSON string
-    String newJsonContent = jsonEncode(newPolygonsData);
-
-    // Determine the filename based on the current JSON path
-    String fileName = jsonindex.split('/').last; // Extracts the last part of the path, assuming it's the filename
-    if (!fileName.endsWith('.json')) {
-      fileName += '.json'; // Ensure the file has a .json extension
-    }
-    // Download the new JSON with the derived filename
-    downloadJson(newJsonContent, fileName);
-  }
-
-  void downloadJson(String data, String fileName) {
-    // Encode the data
-    final bytes = utf8.encode(data);
-    final blob = Blob([bytes], 'application/json');
-    final url = Url.createObjectUrlFromBlob(blob);
-    AnchorElement(href: url)
-      ..setAttribute("download", fileName)
-      ..click();
-    Url.revokeObjectUrl(url);
-  }
-
-  // Rotates a Point around another Point (the pivot) by a specified number of degrees.
-  Point<double> rotatePoint2D(Point<num> pivot, Point<num> point, double rotationDegrees) {
-    double rotationRadians = rotationDegrees * pi / 180;
-    double cosTheta = cos(rotationRadians);
-    double sinTheta = sin(rotationRadians);
-
-    // Translate point back to origin (pivot becomes the origin):
-    num x = point.x - pivot.x;
-    num y = point.y - pivot.y;
-
-    // Rotate point
-    double newX = x * cosTheta - y * sinTheta;
-    double newY = x * sinTheta + y * cosTheta;
-
-    // Translate point back:
-    double finalX = newX + pivot.x;
-    double finalY = newY + pivot.y;
-
-    return Point<double>(finalX, finalY);
-  }
-
-  // This function creates PolyWidgets for all processed images
-  List<PolyWidget> createPolyWidgetsForProcessedImages() {
-    List<PolyWidget> widgets = [];
-    imageCorners.forEach((imageName, imageData) {
-      if (imageData.corners.length >= 3) {
-        // Use imageData.imagePath for each PolyWidget
-        widgets.add(PolyWidget.threePoints(
-          pointA: imageData.corners[0],
-          pointB: imageData.corners[1],
-          approxPointC: imageData.corners[2],
-          noRotation: true,
-          child: Opacity(
-            opacity: 0.2,
-            child: Image.asset(imageData.imagePath), // Use the specific image path
-          ),
-        ));
-      }
-    });
-    return widgets;
-  }
-
-  void setImageAsProcessed() {
-    setState(() {
-      if (imagePaths.isNotEmpty) {
-        processedImagesIndices.add(currentIndex);
-        String imagePath = imagePaths[currentIndex];
-        String imageName = imagePath.split('/').last.split('.')[0];
-        currentCameraRotation = mapController.camera.rotation;
-        currentCentroid = mapController.camera.center;
-        // Update to store both corners and imagePath
-        imageCorners[imageName] = ImageData(
-          List<LatLng>.from(currentImageCorners),
-          imagePath,
-          currentCameraRotation,
-          currentCentroid,// This needs to be defined or obtained elsewhere
-        );
-
-        polyWidgets = createPolyWidgetsForProcessedImages();
-        skipFloor();
-      }
-    });
-    // Check if all images have been processed
-    if (processedImagesIndices.length >= imagePaths.length) {
-      // All images processed, perform an action
-      // For example, show a dialog
-      showDialog(
-        context: context,
-        builder: (BuildContext context) {
-          return const AlertDialog(
-            title: Text("Processing Complete"),
-            content: Text("All images have been processed."),
-            actions: <Widget>[
-              Text("Please Refresh!")
-            ],
-          );
-        },
-      );
-    }
-  }
-
-
-  void skipFloor() {
-    setState(() {
-      int nextIndex = currentIndex + 1;
-      while (processedImagesIndices.contains(nextIndex) && nextIndex < imagePaths.length) {
-        nextIndex++;
-      }currentIndex = nextIndex < imagePaths.length ? nextIndex : 0;
-      //print('Skipping to floor: ${currentIndex + 1}, image path: ${imagePaths[currentIndex]}');
-      // Prepare for processing the next image
-      _selectImageForOverlay(imagePaths[currentIndex]);
-    });
-  }
-
 
   @override
   Widget build(BuildContext context) {
@@ -697,20 +437,20 @@ class _MyHomePageState extends State<MyHomePage> {
                 for (var polyData in getPolygons()) {
                   if (isPointInPolygon(point, polyData.polygon.points)) {
                     String buildingName = polyData.name;
-                    var operationMode = 2;
+                    var operationMode = 3;
                     if (operationMode == 1) {
                       // PART 1 ***************************************
                       Navigator.of(context).push(MaterialPageRoute(
-                        builder: (context) => Blueprint(buildingName: buildingName),
+                        builder: (context) => Blueprint(
+                            buildingName: buildingName
+                        ),
                       ));
                     } else if (operationMode == 2) {
                       // PART 2 *************************************
-                      imagePaths = getbuildingImagePathFilePaths(buildingName);
-                      jsonPaths = getbuildingJsonPathFilePaths(buildingName);
-                      selectedBuildingName = buildingName;
-                      if (imagePaths.isNotEmpty) {
-                        _selectImageForOverlay(imagePaths[currentIndex]);
-                      }
+                      setState(() {
+                        selectedBuildingName = buildingName;
+                        isGeoDataWidgetVisible = !isGeoDataWidgetVisible;
+                      });
                     } else if (operationMode == 3) {
                       // PART 3 ************************************
                       List<String> jsonPaths = getbuildingGeoPathFilePaths(buildingName);
@@ -758,52 +498,19 @@ class _MyHomePageState extends State<MyHomePage> {
               ),
             ],
           ),
-          TranslucentPointer(
-            translucent: true,
-            child: Stack(
-              children: [
-                if (selectedImagePath != null)
-                  Center(
-                    child: Opacity(
-                      opacity: 0.6,
-                      child: Image.asset(
-                        selectedImagePath!,
-                        width: boxSize, // Adjust as needed
-                        height: boxSize, // Adjust as needed
-                      ),
+          Stack(
+            children: [
+              if (isGeoDataWidgetVisible)
+                  TranslucentPointer(
+                    translucent: true,
+                    child: GeoDataWidget(
+                      mapController: mapController,
+                      buildingName: selectedBuildingName!,
+                      polyWidgets: polyWidgets,
                     ),
                   ),
               ],
-            ),
           ),
-
-              Stack(children:[
-                // Positioned widget to place the FloatingActionButton in the bottom right corner
-                if (selectedImagePath != null)
-                  Positioned(
-                    right: 16.0, // Adjust the padding as needed
-                    bottom: 16.0, // Adjust the padding as needed
-                    child: FloatingActionButton(
-                      onPressed: () => {
-                        getCornerMarkerPositions(),
-                        getPolygonPositions(jsonPaths[currentIndex], currentImageCorners),
-                        setImageAsProcessed(),
-                      },
-                      backgroundColor: Colors.green[700],
-                      child: const Icon(Icons.check),
-                    ),
-                  ),
-                if (selectedImagePath != null)
-                  Positioned(
-                    right: 16.0,
-                    bottom: 80.0, // Adjust the position so it doesn't overlap with the other button
-                    child: FloatingActionButton(
-                      onPressed: () => skipFloor(),
-                      backgroundColor: Colors.blue[700],
-                      child: const Icon(Icons.skip_next), // Different color for distinction
-                    ),
-                  ),
-              ]),
 
           if (selectedBuildingJsonPaths != null) // Only render buttons if a building is selected
             Positioned(
@@ -915,50 +622,4 @@ class _MyHomePageState extends State<MyHomePage> {
 
 }
 
-class MapOverlayWidget extends StatelessWidget {
-  final MapController mapController;
-  final List<LatLng> points; // Points you want to draw or show on the map
-  final Widget Function(LatLng point) itemBuilder; // Builder for items you want to show
 
-  const MapOverlayWidget({
-    Key? key,
-    required this.mapController,
-    required this.points,
-    required this.itemBuilder,
-  }) : super(key: key);
-
-  @override
-  Widget build(BuildContext context) {
-    return Positioned.fill(
-      child: LayoutBuilder(
-        builder: (context, constraints) {
-          return Stack(
-            children: points.map((point) {
-              var pos = mapController.camera.project(point);
-              var scaledPos = Point(pos.x * mapController.camera.zoom, pos.y * mapController.camera.zoom);
-              var bounds = mapController.camera.getPixelWorldBounds(mapController.camera.zoom);
-              if (bounds == null) {
-                return Container(); // Or some fallback widget
-              }
-              var topLeft = bounds.topLeft;
-              var finalPos = Point(scaledPos.x - topLeft.x, scaledPos.y - topLeft.y);
-              return Positioned(
-                left: finalPos.x.toDouble(),
-                top: finalPos.y.toDouble(),
-                child: itemBuilder(point),
-              );
-            }).toList(),
-          );
-        },
-      ),
-    );
-  }
-}
-
-class ImageData {
-  List<LatLng> corners;
-  String imagePath;
-  double cameraRotation; // Assuming rotation is a double
-  LatLng centroid;
-  ImageData(this.corners, this.imagePath, this.cameraRotation, this.centroid);
-}
