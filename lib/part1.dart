@@ -1,7 +1,7 @@
 import 'dart:async';
 import 'dart:convert';
 import 'dart:ui';
-import 'dart:html';
+//import 'dart:html';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart' show rootBundle;
 import 'json.dart';
@@ -408,13 +408,13 @@ class BlueprintState extends State<Blueprint> with WidgetsBindingObserver {
     _overlayEntry = null;
   }
 
-  Future<void> _downloadFile(List<PolygonRoomData> jsonData, String fileName) async {
+ /* Future<void> _downloadFile(List<PolygonRoomData> jsonData, String fileName) async {
     final String jsonString = jsonEncode(jsonData);
     final String uri = Uri.encodeComponent(jsonString);
     AnchorElement(href: 'data:application/json;charset=utf-8,$uri')
       ..setAttribute("download", fileName)
       ..click();
-  }
+  } */
 
   void _navigateAndDisplayImage(BuildContext context, String imagePath) async {
     // Dynamically load the JSON for the selected blueprint
@@ -443,10 +443,10 @@ class BlueprintState extends State<Blueprint> with WidgetsBindingObserver {
               style: const TextStyle(color: Colors.white),
             ),
             actions: <Widget>[
-              IconButton(
+              /*IconButton(
                 icon: Icon(Icons.download),
                 onPressed: () => _downloadFile(polygons, fileNameWithoutExtension ),
-              ),
+              ), */
             ],
           ),
           body: Row( // Use Row to layout the InteractiveViewer and the new Card side by side

@@ -4,15 +4,24 @@ import 'package:latlong2/latlong.dart';
 
 class PolygonData {
   final String name;
+  final String description;
+  final String departmentName;
+  final List<String> aliases;
   final Polygon polygon;
 
-  PolygonData({required this.name, required this.polygon});
+  PolygonData({required this.name, required this.description, required this.departmentName, required this.aliases, required this.polygon});
+
 }
+
+
 
 List<PolygonData> getPolygons() {
   return [
     PolygonData(
       name: '60 West Charleston',
+      description: "",
+      departmentName: "",
+      aliases: [],
       polygon: Polygon(
           points: const [
         LatLng(39.13091274630673,-84.51293171894017),
@@ -53,6 +62,9 @@ List<PolygonData> getPolygons() {
   ),
     PolygonData(
       name: 'Armory Fieldhouse',
+        description: "",
+        departmentName: "",
+        aliases: [],
       polygon: Polygon(
           points: const [
         LatLng(39.1322302425678,-84.51432265765709),
@@ -80,6 +92,9 @@ List<PolygonData> getPolygons() {
   ),
     PolygonData(
       name: 'A&S Hall',
+        description: "",
+        departmentName: "",
+        aliases: [],
       polygon: Polygon(
           points: const [
         LatLng(39.13161624547657,-84.51928029042207),
@@ -120,6 +135,9 @@ List<PolygonData> getPolygons() {
   ),
     PolygonData(
       name: 'Baldwin Hall',
+        description: "",
+        departmentName: "",
+        aliases: [],
       polygon: Polygon(
           points: const [
         LatLng(39.13275046050912,-84.51681399599701),
@@ -143,6 +161,9 @@ List<PolygonData> getPolygons() {
   ),
     PolygonData(
       name: 'Blegen Library',
+        description: "",
+        departmentName: "",
+        aliases: [],
       polygon: Polygon(
           points: const [
         LatLng(39.12983847518737,-84.51947394321415),
@@ -162,6 +183,9 @@ List<PolygonData> getPolygons() {
   ),
     PolygonData(
       name: 'Braunstein Hall',
+        description: "",
+        departmentName: "",
+        aliases: [],
       polygon: Polygon(
           points: const [
         LatLng(39.13284822764713,-84.5191598678263),
@@ -191,6 +215,9 @@ List<PolygonData> getPolygons() {
   ),
     PolygonData(
       name: 'Calhoun Garage',
+        description: "",
+        departmentName: "",
+        aliases: [],
       polygon: Polygon(
           points: const [
         LatLng(39.12852292361931,-84.516558449486),
@@ -210,6 +237,9 @@ List<PolygonData> getPolygons() {
   ),
     PolygonData(
       name: 'Calhoun Hall',
+        description: "",
+        departmentName: "",
+        aliases: [],
       polygon: Polygon(
           points: const [
         LatLng(39.12873856228592,-84.51732992490473),
@@ -245,6 +275,9 @@ List<PolygonData> getPolygons() {
   ),
     PolygonData(
       name: 'Campus Green Garage',
+        description: "",
+        departmentName: "",
+        aliases: [],
       polygon: Polygon(
           points: const [
         LatLng(39.135479396761596,-84.51475331206795),
@@ -266,6 +299,9 @@ List<PolygonData> getPolygons() {
   ),
     PolygonData(
       name: 'College of Law Building',
+        description: "",
+        departmentName: "",
+        aliases: [],
       polygon: Polygon(
           points: const [
         LatLng(39.13520514122305,-84.51338284360502),
@@ -300,6 +336,9 @@ List<PolygonData> getPolygons() {
   ),
     PolygonData(
       name: 'College of Law Building',
+        description: "",
+        departmentName: "",
+        aliases: [],
       polygon: Polygon(
           points: const [
         LatLng(39.134451585812755,-84.51399756982859),
@@ -321,6 +360,9 @@ List<PolygonData> getPolygons() {
   ),
     PolygonData(
       name: 'Campus Recreation Center',
+        description: "",
+        departmentName: "",
+        aliases: [],
       polygon: Polygon(
           points: const [
         LatLng(39.131846816558465,-84.51646860664492),
@@ -375,6 +417,9 @@ List<PolygonData> getPolygons() {
   ),
     PolygonData(
       name: 'Lindner Hall',
+        description: "",
+        departmentName: "",
+        aliases: [],
       polygon: Polygon(
           points: const [
         LatLng(39.13346867709499,-84.51439972459072),
@@ -398,6 +443,9 @@ List<PolygonData> getPolygons() {
   ),
     PolygonData(
       name: 'Clifton Court Hall',
+        description: "",
+        departmentName: "",
+        aliases: [],
       polygon: Polygon(
           points: const [
         LatLng(39.13288933355549,-84.52013827250242),
@@ -417,6 +465,9 @@ List<PolygonData> getPolygons() {
   ),
     PolygonData(
       name: 'Corbett Center',
+        description: "",
+        departmentName: "",
+        aliases: [],
       polygon: Polygon(
           points: const [
         LatLng(39.12929251718894,-84.5189247901941),
@@ -484,6 +535,9 @@ List<PolygonData> getPolygons() {
   ),
     PolygonData(
       name: 'Corry Garage',
+        description: "",
+        departmentName: "",
+        aliases: [],
       polygon: Polygon(
           points: const [
         LatLng(39.12917623373241,-84.51354779507541),
@@ -499,6 +553,9 @@ List<PolygonData> getPolygons() {
   ),
     PolygonData(
       name: 'Crosley Tower',
+        description: "",
+        departmentName: "",
+        aliases: [],
       polygon: Polygon(
           points: const [
         LatLng(39.13437345327792,-84.51676690207447),
@@ -522,6 +579,9 @@ List<PolygonData> getPolygons() {
   ),
     PolygonData(
       name: 'Alms Building',
+        description: "",
+        departmentName: "",
+        aliases: [],
       polygon: Polygon(
           points: const [
         LatLng(39.13401760263462,-84.51965956699071),
@@ -539,6 +599,9 @@ List<PolygonData> getPolygons() {
   ),
     PolygonData(
       name: 'DAAP',
+        description: "",
+        departmentName: "",
+        aliases: [],
       polygon: Polygon(
           points: const [
         LatLng(39.133869079431214,-84.51947363828738),
@@ -608,6 +671,9 @@ List<PolygonData> getPolygons() {
   ),
     PolygonData(
       name: 'Wolfsen Center',
+        description: "",
+        departmentName: "",
+        aliases: [],
       polygon: Polygon(
           points: const [
         LatLng(39.13398970563489,-84.51840455532266),
@@ -633,6 +699,9 @@ List<PolygonData> getPolygons() {
   ),
     PolygonData(
       name: 'Dabney Hall',
+        description: "",
+        departmentName: "",
+        aliases: [],
       polygon: Polygon(
           points: const [
         LatLng(39.132114568944154,-84.51332677812313),
@@ -666,6 +735,9 @@ List<PolygonData> getPolygons() {
   ),
     PolygonData(
       name: 'Daniels Hall',
+        description: "",
+        departmentName: "",
+        aliases: [],
       polygon: Polygon(
           points: const [
         LatLng(39.13125169349226,-84.5119064745996),
@@ -689,6 +761,9 @@ List<PolygonData> getPolygons() {
   ),
     PolygonData(
       name: 'Dieterle Center',
+        description: "",
+        departmentName: "",
+        aliases: [],
       polygon: Polygon(
           points: const [
         LatLng(39.13046821163584,-84.51697517316988),
@@ -708,6 +783,9 @@ List<PolygonData> getPolygons() {
   ),
     PolygonData(
       name: 'Dyer Hall',
+        description: "",
+        departmentName: "",
+        aliases: [],
       polygon: Polygon(
           points: const [
         LatLng(39.130668386708635,-84.51869456076253),
@@ -727,6 +805,9 @@ List<PolygonData> getPolygons() {
   ),
     PolygonData(
       name: 'Edwards Center',
+        description: "",
+        departmentName: "",
+        aliases: [],
       polygon: Polygon(
           points: const [
         LatLng(39.12881903717106,-84.5125182688925),
@@ -748,6 +829,9 @@ List<PolygonData> getPolygons() {
   ),
     PolygonData(
       name: 'Fifth Third Arena',
+        description: "",
+        departmentName: "",
+        aliases: [],
       polygon: Polygon(
           points: const [
         LatLng(39.13150863435269,-84.51473601611792),
@@ -782,6 +866,9 @@ List<PolygonData> getPolygons() {
   ),
     PolygonData(
       name: 'French Hall',
+        description: "",
+        departmentName: "",
+        aliases: [],
       polygon: Polygon(
           points: const [
         LatLng(39.13215234483805,-84.51334715977356),
@@ -820,6 +907,9 @@ List<PolygonData> getPolygons() {
   ),
     PolygonData(
       name: 'Geology Physics Building',
+        description: "",
+        departmentName: "",
+        aliases: [],
       polygon: Polygon(
           points: const [
         LatLng(39.13317329320563,-84.51873161371404),
@@ -845,6 +935,9 @@ List<PolygonData> getPolygons() {
   ),
     PolygonData(
       name: 'Langsam Library',
+        description: "",
+        departmentName: "",
+        aliases: [],
       polygon: Polygon(
           points: const [
         LatLng(39.13386956675921,-84.51616636725834),
@@ -895,6 +988,9 @@ List<PolygonData> getPolygons() {
   ),
     PolygonData(
       name: 'Lindner Athletics',
+        description: "",
+        departmentName: "",
+        aliases: [],
       polygon: Polygon(
           points: const [
         LatLng(39.13073370740338,-84.51508192857408),
@@ -943,6 +1039,9 @@ List<PolygonData> getPolygons() {
   ),
     PolygonData(
       name: 'Mantei Center',
+        description: "",
+        departmentName: "",
+        aliases: [],
       polygon: Polygon(
           points: const [
         LatLng(39.13291016365548,-84.51578967925379),
@@ -988,6 +1087,9 @@ List<PolygonData> getPolygons() {
   ),
     PolygonData(
       name: 'Margo Schott Stadium',
+        description: "",
+        departmentName: "",
+        aliases: [],
       polygon: Polygon(
           points: const [
         LatLng(39.12976431905219,-84.51414455651462),
@@ -1049,6 +1151,9 @@ List<PolygonData> getPolygons() {
   ),
     PolygonData(
       name: 'Marketpointe',
+        description: "",
+        departmentName: "",
+        aliases: [],
       polygon: Polygon(
           points: const [
         LatLng(39.12892099904064,-84.51748329709474),
@@ -1072,6 +1177,9 @@ List<PolygonData> getPolygons() {
   ),
     PolygonData(
       name: 'Mary Emery Hall',
+        description: "",
+        departmentName: "",
+        aliases: [],
       polygon: Polygon(
           points: const [
         LatLng(39.13000285935254,-84.51836573998945),
@@ -1118,6 +1226,9 @@ List<PolygonData> getPolygons() {
   ),
     PolygonData(
       name: 'Memorial Hall',
+        description: "",
+        departmentName: "",
+        aliases: [],
       polygon: Polygon(
           points: const [
         LatLng(39.12934731839415,-84.51752734600237),
@@ -1157,6 +1268,9 @@ List<PolygonData> getPolygons() {
   ),
     PolygonData(
       name: 'Morgens Hall',
+        description: "",
+        departmentName: "",
+        aliases: [],
       polygon: Polygon(
           points: const [
         LatLng(39.1351962537434,-84.51207106405519),
@@ -1196,6 +1310,9 @@ List<PolygonData> getPolygons() {
   ),
     PolygonData(
       name: 'Nippert Stadium',
+        description: "",
+        departmentName: "",
+        aliases: [],
       polygon: Polygon(
           points: const [
         LatLng(39.13195406894473,-84.51649161565058),
@@ -1258,6 +1375,9 @@ List<PolygonData> getPolygons() {
   ),
     PolygonData(
       name: 'North Commons',
+        description: "",
+        departmentName: "",
+        aliases: [],
       polygon: Polygon(
           points: const [
         LatLng(39.13171950487098,-84.5125409279921),
@@ -1273,6 +1393,9 @@ List<PolygonData> getPolygons() {
   ),
     PolygonData(
       name: 'Old Chem',
+        description: "",
+        departmentName: "",
+        aliases: [],
       polygon: Polygon(
           points: const [
         LatLng(39.13345013477673,-84.51774771728567),
@@ -1309,6 +1432,9 @@ List<PolygonData> getPolygons() {
   ),
     PolygonData(
       name: 'On the Green',
+        description: "",
+        departmentName: "",
+        aliases: [],
       polygon: Polygon(
           points: const [
         LatLng(39.133961083618665,-84.51232790844472),
@@ -1333,6 +1459,9 @@ List<PolygonData> getPolygons() {
   ),
     PolygonData(
       name: 'Rhodes Hall',
+        description: "",
+        departmentName: "",
+        aliases: [],
       polygon: Polygon(
           points: const [
         LatLng(39.13250161600953,-84.51648717604093),
@@ -1356,6 +1485,9 @@ List<PolygonData> getPolygons() {
   ),
     PolygonData(
       name: 'Rieveschl Hall',
+        description: "",
+        departmentName: "",
+        aliases: [],
       polygon: Polygon(
           points: const [
         LatLng(39.134042496262644,-84.51762854047851),
@@ -1375,6 +1507,9 @@ List<PolygonData> getPolygons() {
   ),
     PolygonData(
       name: 'Schneider Hall',
+        description: "",
+        departmentName: "",
+        aliases: [],
       polygon: Polygon(
           points: const [
         LatLng(39.132000745967375,-84.51248494424318),
@@ -1410,6 +1545,9 @@ List<PolygonData> getPolygons() {
   ),
     PolygonData(
       name: 'Scioto Hall',
+        description: "",
+        departmentName: "",
+        aliases: [],
       polygon: Polygon(
           points: const [
         LatLng(39.134539890830865,-84.51208564042051),
@@ -1449,6 +1587,9 @@ List<PolygonData> getPolygons() {
   ),
     PolygonData(
       name: 'Sidall',
+        description: "",
+        departmentName: "",
+        aliases: [],
       polygon: Polygon(
           points: const [
         LatLng(39.12919430617035,-84.51777496962517),
@@ -1480,6 +1621,9 @@ List<PolygonData> getPolygons() {
   ),
     PolygonData(
       name: 'South Commons',
+        description: "",
+        departmentName: "",
+        aliases: [],
       polygon: Polygon(
           points: const [
         LatLng(39.131451580115204,-84.51244566530414),
@@ -1495,6 +1639,9 @@ List<PolygonData> getPolygons() {
   ),
     PolygonData(
       name: 'Steger Hall',
+        description: "",
+        departmentName: "",
+        aliases: [],
       polygon: Polygon(
           points: const [
         LatLng(39.132224736012745,-84.51747180163488),
@@ -1548,6 +1695,9 @@ List<PolygonData> getPolygons() {
   ),
     PolygonData(
       name: 'Swift Hall',
+        description: "",
+        departmentName: "",
+        aliases: [],
       polygon: Polygon(
           points: const [
         LatLng(39.13249281468515,-84.51778659214203),
@@ -1571,6 +1721,9 @@ List<PolygonData> getPolygons() {
   ),
     PolygonData(
       name: 'Taft Hall',
+        description: "",
+        departmentName: "",
+        aliases: [],
       polygon: Polygon(
           points: const [
         LatLng(39.12933049465821,-84.52032266860262),
@@ -1608,6 +1761,9 @@ List<PolygonData> getPolygons() {
   ),
     PolygonData(
       name: 'Teachers Hall',
+        description: "",
+        departmentName: "",
+        aliases: [],
       polygon: Polygon(
           points: const [
         LatLng(39.13029422920451,-84.51975096681323),
@@ -1656,6 +1812,9 @@ List<PolygonData> getPolygons() {
   ),
     PolygonData(
       name: 'TUC',
+        description: "",
+        departmentName: "",
+        aliases: [],
       polygon: Polygon(
           points: const [
         LatLng(39.13109478047851,-84.51791886941172),
@@ -1715,6 +1874,9 @@ List<PolygonData> getPolygons() {
   ),
     PolygonData(
       name: 'Turner Hall',
+        description: "",
+        departmentName: "",
+        aliases: [],
       polygon: Polygon(
           points: const [
         LatLng(39.13257542709428,-84.51190127370629),
@@ -1748,6 +1910,9 @@ List<PolygonData> getPolygons() {
   ),
     PolygonData(
       name: 'University Ave Garage',
+        description: "",
+        departmentName: "",
+        aliases: [],
       polygon: Polygon(
           points: const [
         LatLng(39.135211171150814,-84.5115760786381),
@@ -1771,6 +1936,9 @@ List<PolygonData> getPolygons() {
   ),
     PolygonData(
       name: 'University Pavilion',
+        description: "",
+        departmentName: "",
+        aliases: [],
       polygon: Polygon(
           points: const [
         LatLng(39.13082951609892,-84.51886613026211),
@@ -1786,6 +1954,9 @@ List<PolygonData> getPolygons() {
   ),
     PolygonData(
       name: 'Van Wormer Hall',
+        description: "",
+        departmentName: "",
+        aliases: [],
       polygon: Polygon(
           points: const [
         LatLng(39.13069948694938,-84.51941018624792),
@@ -1805,6 +1976,9 @@ List<PolygonData> getPolygons() {
   ),
     PolygonData(
       name: 'Varsity Village Garage',
+        description: "",
+        departmentName: "",
+        aliases: [],
       polygon: Polygon(
           points: const [
         LatLng(39.13026267397654,-84.51590830904053),
@@ -1830,7 +2004,10 @@ List<PolygonData> getPolygons() {
       )
   ),
     PolygonData(
-      name: '',
+      name: 'WoodSide Garage',
+        description: "",
+        departmentName: "",
+        aliases: [],
       polygon: Polygon(
           points: const [
         LatLng(39.135050019810784,-84.51593500839768),
@@ -1846,6 +2023,10 @@ List<PolygonData> getPolygons() {
   ),
     PolygonData(
       name: 'WoodSide Garage',
+
+        description: "",
+        departmentName: "",
+        aliases: [],
       polygon: Polygon(
           points: const [
         LatLng(39.135017752195765,-84.51542817041167),
@@ -1863,6 +2044,9 @@ List<PolygonData> getPolygons() {
   ),
     PolygonData(
       name: 'Zimmer Hall',
+        description: "",
+        departmentName: "",
+        aliases: [],
       polygon: Polygon(
           points: const [
         LatLng(39.133432195306376,-84.51737579479),

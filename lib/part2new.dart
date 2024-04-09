@@ -1,6 +1,6 @@
 import 'dart:async';
 import 'dart:convert';
-import 'dart:html';
+// import 'dart:html';
 import 'dart:math';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
@@ -140,7 +140,7 @@ class _GeoDataWidgetState extends State<GeoDataWidget> {
 
 
 
-  void triggerDownload(String data, String fileName) {
+  /* void triggerDownload(String data, String fileName) {
     final text = data;
     final bytes = utf8.encode(text);
     final blob = Blob([bytes], 'application/json');
@@ -149,7 +149,7 @@ class _GeoDataWidgetState extends State<GeoDataWidget> {
       ..setAttribute("download", fileName)
       ..click();
     Url.revokeObjectUrl(url);
-  }
+  } */
 
   Future<void> _selectImageForOverlay(String imagePath) async {
     imageProvider = AssetImage(imagePath);
@@ -282,10 +282,10 @@ class _GeoDataWidgetState extends State<GeoDataWidget> {
       fileName += '.json'; // Ensure the file has a .json extension
     }
     // Download the new JSON with the derived filename
-    downloadJson(newJsonContent, fileName);
+    // downloadJson(newJsonContent, fileName);
   }
 
-  void downloadJson(String data, String fileName) {
+  /* void downloadJson(String data, String fileName) {
     // Encode the data
     final bytes = utf8.encode(data);
     final blob = Blob([bytes], 'application/json');
@@ -294,7 +294,7 @@ class _GeoDataWidgetState extends State<GeoDataWidget> {
       ..setAttribute("download", fileName)
       ..click();
     Url.revokeObjectUrl(url);
-  }
+  } */
 
   // Rotates a Point around another Point (the pivot) by a specified number of degrees.
   Point<double> rotatePoint2D(Point<num> pivot, Point<num> point, double rotationDegrees) {
