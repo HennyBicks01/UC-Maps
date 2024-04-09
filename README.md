@@ -1,6 +1,6 @@
 # UC Maps
 
-##Features and Functionality:
+## Features and Functionality:
 
 **Application Structure:** Our app is built using Flutter, a popular framework for developing cross-platform mobile applications. It utilizes various Dart libraries and packages for mapping, geolocation, HTTP requests, and UI components.
 
