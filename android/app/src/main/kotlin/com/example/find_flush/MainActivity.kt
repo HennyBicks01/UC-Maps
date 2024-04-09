@@ -1,4 +1,4 @@
-package com.example.find_flush
+package com.example.UCMaps
 
 import io.flutter.embedding.android.FlutterActivity
 
